@@ -1,0 +1,22 @@
+{
+  "name": "GoldenLions",
+  "version": "0.0.1",
+  "homepage": "https://github.com/GoldenLions/GoldenLions",
+  "authors": [
+    "Golden Lion"
+  ],
+  "description": "GitHub Scout",
+  "keywords": [
+    "github",
+    "scout",
+    "statistics"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
