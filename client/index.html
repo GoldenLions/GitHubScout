@@ -1,9 +1,17 @@
-<html ng-app='app'>
+<!DOCTYPE html>
+<html ng-app="github-scout">
   <head>
-  <title>Github Scout</title>
+    <meta charset="utf-8" />
+    <title>Github Scout</title>
+    <link rel="stylesheet" type="text/css" href="styles/main.css">
   </head>
-  <body ng-controller='AppController'>
-  	<form ng-submit='submitUsername(search)'>
+  <body>
+  	<div>
+  		<a ui-sref="home">Home</a>
+  	</div>
+
+    <div ng-controller='SearchController'>
+      <form ng-submit='submitUsername(search)'>
       <input type='submit' placeholder='search for a user' >
       <input type ='text' ng-model='search.username'>
     </form>
@@ -12,10 +20,24 @@
       <input type ='text' value = 'enter language'/>
     </form>
     {{stats}}
-  	<script src = "./users/users.js"></script>
+    <script src = "./users/users.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script src="lib/angular/angular.js"></script>
+    <script src="lib/angular-route/angular-route.js"></script>
+    </div>
+
+    <div ui-view></div>
+
+
+    <footer>
+    	<p>Built in 2014 at Hack Reactor</p>
+    	<p>Built by <a href="">Charles Wang</a>, <a href="">Mike Lamm</a>, <a href="">Wai-Yin Kwan</a>, <a href="">Kelly Walker</a>, and <a href="">Ben Rowles</a>.</p>
+    </footer>
+
   	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-  	<script src="lib/angular/angular.js"></script>
-  	<script src="lib/angular-route/angular-route.js"></script>
+  	<script src="node_modules/angular/lib/angular.js"></script>
+  	<script src="node_modules/angular-ui-router/release/angular-ui-router.js"></script>
+  	<script src = "users.js"></script>
   </body>
  </html>
 

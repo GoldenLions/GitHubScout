@@ -3,5 +3,5 @@
 @import 'layout';
 
 // Import controller specific SASS files
-@import 'users/users';
-@import 'language/language'
+@import '../users/users';
+@import '../language/language'

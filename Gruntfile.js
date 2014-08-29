@@ -79,8 +79,8 @@ module.exports = function(grunt) {
         tasks: ['concat', 'uglify']
       },
       css: {
-        files: '',
-        tasks: ['cssmin']
+        files: 'client/**/*.scss',
+        tasks: ['sass']
       }
     }
 
@@ -114,6 +114,9 @@ module.exports = function(grunt) {
     grunt.task.run([ 'watch' ]);
   });
 
+  grunt.registerTask('default', [
+    'watch'
+  ])
 
   grunt.registerTask('test', [
     'jshint',

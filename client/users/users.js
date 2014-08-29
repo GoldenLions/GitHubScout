@@ -1,5 +1,5 @@
 angular.module('app', ['ngRoute'])
-.controller('AppController', ['$scope','$http', function($scope,$http) {
+.controller('UserController', ['$scope','$http', function($scope,$http) {
 	$scope.search = {'username': ''};
 	$scope.stats = [];
 	$scope.submitUsername = function(data) {
@@ -22,13 +22,13 @@ d3.json("data.json",function(data){
 		              .attr('transform','translate(150,-30)')
 
 		canvas.append('text')
-		        .attr("x", (width / 2))             
+		        .attr("x", (width / 2))
 		        .attr("y", 150)
-		        .attr("text-anchor", "middle")  
-		        .style("font-size", "30px") 
-		        .style("text-decoration", "underline")  
+		        .attr("text-anchor", "middle")
+		        .style("font-size", "30px")
+		        .style("text-decoration", "underline")
 		        .text("Users Commit Data");
-	
+
 
 	           canvas.selectAll('rect')
 	              .data(data)
@@ -64,7 +64,7 @@ d3.json("data.json",function(data){
 	         canvas.append('g')
                 .attr('transform','translate(0,' + height + ')')
 	            .call(xAxis)
-	           
-	             
+
+
 })
 */
