@@ -164,6 +164,10 @@ If you follow all of these guidelines and make good changes, you should have
 no problem getting your changes merged in.
 
 
+### Documentation
+- At the beginning of each file, include a comment that provides an overview of what the file accomplishes.
+- Before each function, include a comment that provides detail of what the function does and its inputs and outputs.
+
 <!-- Links -->
 [style guide]: https://github.com/hackreactor-labs/style-guide
 [n-queens]: https://github.com/hackreactor-labs/n-queens
