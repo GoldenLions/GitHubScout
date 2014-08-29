@@ -65,6 +65,14 @@ module.exports = function(grunt) {
       }
     },
 
+    sass: {
+      dist: {
+        files: {
+          'client/main.css' : 'client/main.scss'
+        }
+      }
+    },
+
     watch: {
       scripts: {
         files: [''],
@@ -83,10 +91,11 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-contrib-concat');
   grunt.loadNpmTasks('grunt-contrib-cssmin');
+  grunt.loadNpmTasks('grunt-contrib-sass');
   grunt.loadNpmTasks('grunt-mocha-test');
   grunt.loadNpmTasks('grunt-shell');
   grunt.loadNpmTasks('grunt-nodemon');
-    
+
 
   ////////////////////////////////////////////////////
   // Main grunt tasks
@@ -114,7 +123,8 @@ module.exports = function(grunt) {
   grunt.registerTask('build', [
     'concat',
     'uglify',
-    'cssmin'
+    'cssmin',
+    'sass'
   ]);
 
   grunt.registerTask('upload', function(n) {
@@ -130,5 +140,4 @@ module.exports = function(grunt) {
     'build',
     'upload'
   ]);
-
 };

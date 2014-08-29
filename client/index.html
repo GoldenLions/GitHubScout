@@ -1,9 +1,6 @@
 <html ng-app='app'>
   <head>
-  <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-  <script src="./lib/angular/angular.js"></script>
-  <script src="./lib/angular-route/angular-route.js"></script>
-  <title></title>
+  <title>Github Scout</title>
   </head>
   <body ng-controller='AppController'>
   	<form ng-submit='submitUsername(search)'>
@@ -16,6 +13,9 @@
     </form>
     {{stats}}
   	<script src = "./users/users.js"></script>
+  	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  	<script src="lib/angular/angular.js"></script>
+  	<script src="lib/angular-route/angular-route.js"></script>
   </body>
  </html>
 
