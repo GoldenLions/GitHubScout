@@ -10,6 +10,7 @@ github.authenticate(config);
 
 var handler = {};
 
+
 handler.getUserCommitCountsByDate = function(req,res) {
   var username = req.body.username;
   github.repos.getFromUser({user: username},function(err,result) {

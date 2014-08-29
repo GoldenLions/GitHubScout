@@ -12,6 +12,7 @@ app.use(express.static(__dirname+'/client/'))
 
 // TO DO: routes, API setup
 
+
 // app.get('/',function(req,res) {
 //   console.log('GET /');
 // });
