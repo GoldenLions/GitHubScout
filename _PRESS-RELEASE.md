@@ -17,35 +17,35 @@ Once the project moves into development, the press release can be used as a touc
  -->
 
 ## Heading ##
+<<<<<<< HEAD
   > TripMap
 
 ## Sub-Heading ##
   > TripMap is for savvy vacationers who want to easily organize their trip planning.
+=======
+  Github Scout
+
+## Sub-Heading ##
+  Reddit insight for Github
+>>>>>>> def98f93032d23ea0e17cb2c4526da82e0ed6202
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
-  Imagine you are about to head out on vacation. Before you leave, you are doing research about your destination. You find some blogs that have great recommendations of restaurants and activities. Wouldn't it be nice to store all of these on one map? Now you can! On top of that, you can see other people's past TripMaps to get inspiration.
+  What do you want to know about github? Find it at our site! We have poured over Github and brought together a group of fascinating statistics and data for you to peruse.
 
 ## Problem ##
-  > Describe the problem your product solves.
-  It is hard to make an individualized map and access on the go.
+  It is hard to see the big picture of Github trends at a glance.
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
-  You can easily make a map in our web interface or our mobile interface, and view that map on the web or on mobile.
+  We have gathered a ton of Github data and displayed it in a clear format.
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
-  "You'll never vacation the same again." - Mike Lam, CEO
+  "You'll never see Github the same again." - Mike Lam, CEO
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
-  Simply go to tripmap.com and create an account. Enter what city (or cities) you are going to, and start adding places! Or explore existing user's maps for inspiration.
+  Go to githubscout.com and start your search!
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
-  "My vacations have never been easier. Now I can do all my planning ahead of time and relax when I'm on my vacation." - Regina Phalange
+  "What's nerdier than being on Github? Looking at stats of Github!" - Regina Phalange
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
-  Head to tripmap.com to make your custom map today!
+  Head to githubscout.com and start your search!
