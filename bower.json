@@ -22,5 +22,7 @@
   "dependencies": {
     "angular": "~1.2.23",
     "angular-route": "~1.2.23"
+    "leaflet": "~0.7.3",
+    "mapbox.js": "~2.0.1"
   }
 }
