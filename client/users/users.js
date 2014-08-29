@@ -1,3 +1,17 @@
+angular.module('app', ['ngRoute'])
+.controller('AppController', ['$scope','$http', function($scope,$http) {
+	$scope.search = {'username': ''};
+	$scope.stats = [];
+	$scope.submitUsername = function(data) {
+		$http({'method': 'POST', 'url': '/api/user/commitcounts', 'data': data})
+		.then(function(res) {
+			$scope.stats = res.data.results;
+		});
+	};
+}]);
+
+/*
+
 d3.json("data.json",function(data){
 		var width = 1000;
 	    var height =480;
@@ -53,3 +67,4 @@ d3.json("data.json",function(data){
 	           
 	             
 })
+*/
