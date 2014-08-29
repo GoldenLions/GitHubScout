@@ -2,6 +2,10 @@
   <form ng-submit='submitUsername(search)'>
     <!-- <input type='submit' value='search users' > -->
     <input name='search' class='search' placeholder='search for a user' ng-model='search.username'>
+  <h1>User View</h1>
+  <form method='POST' action='/'>
+    <input type='submit' value='search users' />
+    <input type ='text' value='enter user'/>
   </form>
   {{stats}}
 </div>
