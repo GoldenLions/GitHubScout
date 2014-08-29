@@ -18,8 +18,8 @@ handler.getUserCommitCountsByDate = function(req,res) {
     var counts = {};
     var commits = [];
     for (var i = 0; i < numRepos; i++) {  
-      (function (i) { 
-        github.repos.getCommits({user:username,repo:result[i].name,author:username,per_page:100},function(err,result) {
+      (function (repoNum) { 
+        github.repos.getCommits({user:username,repo:result[repoNum].name,author:username,per_page:100},function(err,result) {
           numCommits = result.length;
           var date;
           for (var j = 0; j < numCommits; j++) {
@@ -27,7 +27,7 @@ handler.getUserCommitCountsByDate = function(req,res) {
             counts[date] = counts[date] || 0;
             counts[date]++;
           }
-          if (i === (numRepos-2)) {
+          if (repoNum === (numRepos-2)) {
             var commit;
             for (var key in counts) {
               commit = {};
@@ -36,8 +36,8 @@ handler.getUserCommitCountsByDate = function(req,res) {
               commits.push(commit);
             }
             commits = commits.sort(function(a,b){ return a.date > b.date ? 1 : -1});
-            // res.json({results: commits});
-            console.log(commits)
+            res.json({results: commits});
+            // console.log(commits)
           }
         }); 
       })(i)
@@ -67,8 +67,8 @@ handler.getUserCommitsByDateAndLanguage = function(req,res) {
             processed++;
             if (processed === numRepos) {
               commits = commits.sort(function(a,b){ return a.date > b.date ? 1 : -1});
-              // res.json({results: commits});
-              console.log(commits)
+              res.json({results: commits});
+              // console.log(commits)
             }
           }); 
         });
@@ -76,5 +76,9 @@ handler.getUserCommitsByDateAndLanguage = function(req,res) {
     }
   });
 };
+
+// github.events.getFromUser({user:'browles'},function(err,result) {
+//   console.log(result);
+// });
 
 module.exports = handler;
