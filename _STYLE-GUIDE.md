@@ -194,6 +194,7 @@ When writing any block of code that is logically subordinate to the line immedia
 * Be aware that comments come at some cost. They make a file longer and can drift out of sync with the code they annotate.
 * Comment on what code is attempting to do, not how it will achieve it.
 * A good comment is often less effective than a good variable name.
+* All comments are preceded with a double slash.
 
 
 ### Padding & additional whitespace

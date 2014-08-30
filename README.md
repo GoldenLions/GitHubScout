@@ -54,3 +54,22 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 ## Ideas
 - Graph how many engineers write in which languages overtime
+1. Search for languages
+	a. Number of commits
+	b. Number of repos
+	c. Number of users
+	d. Number of stars for repos
+2. Timeline
+	a. Users over time
+	b. Commits by language over time
+	c. Repos by language over time
+3. User leader boards, sorted by language
+4. User specific search
+	a. Number of followers over time
+	b. Number of repos contributed to over time
+	c. Statistics per language
+	d. hireable
+5. Compare users against each other
+6. Look at users on a map
+7. Look at users by gender
+8. User info widget - open source
