@@ -7,8 +7,10 @@ var port = port = process.env.PORT || 8000;
 
 app.set('port', port);
 app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: true }))
-app.use(express.static(__dirname+'/client/'))
+app.use(bodyParser.urlencoded({
+  extended: true
+}));
+app.use(express.static(__dirname + '/client'));
 
 // TO DO: routes, API setup
 

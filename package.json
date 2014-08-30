@@ -34,6 +34,8 @@
   "devDependencies": {
     "angular": "^1.2.21",
     "angular-ui-router": "^0.2.10",
+    "body-parser": "^1.6.6",
+    "express": "^4.8.6",
     "grunt": "^0.4.5",
     "grunt-contrib-concat": "^0.3.0",
     "grunt-contrib-cssmin": "^0.9.0",

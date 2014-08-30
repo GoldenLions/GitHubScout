@@ -1,5 +1,6 @@
-var githubScout = angular.module('githubScout', [
-	'ui-router'
+angular.module('githubscout', [
+	'githubscout.user',
+	'ui.router'
 ])
 
 .config(function($stateProvider, $urlRouterProvider) {

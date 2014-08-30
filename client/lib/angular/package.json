@@ -1,0 +1,58 @@
+{
+  "name": "angular",
+  "version": "1.2.21",
+  "description": "AngularJS provided as a CommonJS module. Compiled with jsdom when running in Node. Useful for client-side apps built with Browserify and for testing AngularJS code in Node without depending on a browser.",
+  "main": "index.js",
+  "browser": "index-browserify.js",
+  "scripts": {
+    "test": "tape test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/bclinkinbeard/angular.git"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "commonjs",
+    "require",
+    "testing"
+  ],
+  "author": {
+    "name": "Ben Clinkinbeard",
+    "email": "ben.clinkinbeard@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "~0.8.8"
+  },
+  "devDependencies": {
+    "tape": "~2.1.0",
+    "request": "~2.30.0"
+  },
+  "gitHead": "e34520476c1a2061d25e0ba5b2f11a0ad5182d08",
+  "bugs": {
+    "url": "https://github.com/bclinkinbeard/angular/issues"
+  },
+  "homepage": "https://github.com/bclinkinbeard/angular",
+  "_id": "angular@1.2.21",
+  "_shasum": "23bd6fc2aa84e0989cc4893d3b1360d659cab8cd",
+  "_from": "angular@",
+  "_npmVersion": "2.0.0-alpha-5",
+  "_npmUser": {
+    "name": "bclinkinbeard",
+    "email": "ben.clinkinbeard@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "bclinkinbeard",
+      "email": "ben.clinkinbeard@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "23bd6fc2aa84e0989cc4893d3b1360d659cab8cd",
+    "tarball": "http://registry.npmjs.org/angular/-/angular-1.2.21.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/angular/-/angular-1.2.21.tgz"
+}

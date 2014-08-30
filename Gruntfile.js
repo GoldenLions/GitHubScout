@@ -79,7 +79,7 @@ module.exports = function(grunt) {
         tasks: ['concat', 'uglify']
       },
       css: {
-        files: 'client/**/*.scss',
+        files: '**/*.scss',
         tasks: ['sass']
       }
     }

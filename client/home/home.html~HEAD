@@ -1,8 +1,0 @@
-<div ng-controller="UserController">
-  <h1>User View</h1>
-  <form method='POST' action='/'>
-    <input type='submit' value='search users' />
-    <input type ='text' value='enter user'/>
-  </form>
-</div>
-
