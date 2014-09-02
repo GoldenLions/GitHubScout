@@ -1,5 +1,9 @@
 <div ng-controller="UserController">
   <h1>User View</h1>
-  {{user.rawDataCommitCount}}
-  {{user.rawDataCommitsByLanguage}}
+  <form ng-submit='submitUsername(search)'>
+    <!-- <input type='submit' value='search users' > -->
+    <input name='search' class='search' placeholder='search for a user' ng-model='search.username'>
+    {{userdata.data}}
+     <h1>GitHub User {{search.username}} Commits Over Time</h1>
+    <div linear-chart chart-data="salesData"></div>
 </div>
