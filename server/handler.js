@@ -14,7 +14,7 @@ var handler = {};
 //post requests to url: /api/user/commitcounts
 
 handler.getUserCommitCountsByDate = function(req,res) {
-  //grab username from post request
+  //grab username from request
   var username = req.body.username;
   //makes a github API call that results in an array of all
   //repos for a given user, and then invokes a callback on the result 
@@ -22,11 +22,13 @@ handler.getUserCommitCountsByDate = function(req,res) {
     //define number of repos
     var numRepos = result.length;
     var numCommits;
+    //define counts storage object & commits storage array
     var counts = {};
     var commits = [];
     //for every repo, do the following:
     for (var i = 0; i < numRepos; i++) {
-      //lock repoNum into closure scope using an immediately invoked function  
+      //lock repoNum into closure scope using immediately invoked function so that
+      //API calls within the for loop retain access to the correct repoNum 
       (function (repoNum) {
         //grab every commit in the given repo 
         github.repos.getCommits({user:username,repo:result[repoNum].name,author:username,per_page:100},function(err,result) {
