@@ -15,7 +15,7 @@ angular.module('githubscout', [
 			controller: 'HomeController'
 		})
 		.state('user', {
-			url: '/user',
+			url: '/user/{username}',
 			templateUrl: 'user/user.html',
 			controller: 'UserController'
 		})
