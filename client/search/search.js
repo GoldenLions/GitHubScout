@@ -1,17 +1,14 @@
-angular.module('githubscout.user', [])
+angular.module('githubscout.search', [])
 
-.controller('UserController', ['$scope','$http', function($scope,$http) {
-	$scope.search = {'username': ''};
-	$scope.stats = [];
-	$scope.submitUsername = function(data) {
-		$http({'method': 'POST', 'url': '/api/user/commitcounts', 'data': data})
-		.then(function(res) {
-			$scope.stats = res.data.results;
-		});
-	};
-}]);
-
-
+.controller('SearchController', ['$scope', function ($scope) {
+	$scope.name = 'apple'
+}])
+.directive('gsSearch', function() {
+	return {
+		restrict: 'A',
+		templateUrl: 'search/search.html'
+	}
+})
 
 
 
