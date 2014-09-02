@@ -22,19 +22,11 @@ app.use(express.static(__dirname + '/client'));
 app.post('/api/user/commitcounts',function(req,res) {
   console.log('POST /api/user/commitcounts');
   handler.getUserCommitCountsByDate(req,res);
-  /*responds with: 
-  	res.JSON({
-	  	results: [
-	  		{date: ___, count: ____},
-	  		{date: ___, count: ____},
-	  		{date: ___, count: ____}, etc...
-	  		]
-  	})*/
 });
 
 app.post('/api/user/commitsLanguage',function(req,res) {
   console.log('POST /api/user/commitsLanguage');
-  handler.getUserCommitsByDateAndLanguage(req,res);
+  handler.getUserCommitCountsByDateAndLanguage(req,res);
 });
 
 var server = app.listen(port, function() {
