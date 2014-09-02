@@ -92,8 +92,12 @@ angular.module('githubscout.user', ['ui.router'])
                   .delay(function(d, i) { return i * 100; })
                   .duration(500)
                   .attr('y',function(d){ return rawSvg.attr("height")-d.count*20})
+<<<<<<< HEAD
                   .attr('height',function(d,i){return d.count*20 })
 
+=======
+                  .attr('height',function(d,i){return d.count*20 })               
+>>>>>>> Adjusted axis for user graph
            }
 
            drawLineChart();
