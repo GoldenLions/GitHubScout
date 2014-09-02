@@ -1,8 +1,11 @@
 angular.module('githubscout.user', [])
 
-.controller('UserController', ['$scope','$http', 'User', function($scope, $http, User) {
-	$scope.userdata = {}
-	$scope.userdata.data = User.data
+.controller('UserController', ['$scope','$http', 'UserData', function($scope, $http, UserData) {
+	$scope.user = {}
+
+	// These are temporary, just to make sure we get the data, but we should do something more interesting with it in the future!
+	$scope.user.rawDataCommitCount = UserData.rawDataCommitCount;
+	$scope.user.rawDataCommitsByLanguage = UserData.rawDataCommitsByLanguage
 }]);
 
 
