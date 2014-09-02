@@ -18,3 +18,7 @@ angular.module('githubscout.services', [])
 		submitUsername : submitUsername
 	}
 })
+
+.factory('User', function() {
+	return {}
+})
