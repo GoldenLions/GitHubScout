@@ -1,8 +1,8 @@
 angular.module('githubscout.user', ['ui.router'])
 
-.controller('UserController', ['$scope','$http', 'User', function($scope, $http, User) {
+.controller('UserController', ['$scope','$http', 'UserData', function($scope, $http, UserData) {
 	$scope.userdata =[];
-	$scope.userdata.data = User.data
+	$scope.userdata.data = UserData.data
 }])
 
 .directive('linearChart', function($window){
@@ -52,9 +52,9 @@ angular.module('githubscout.user', ['ui.router'])
                    .scale(yScale)
                    .orient("left")
                    .ticks(5)
-          
+
            }
-         
+
          function drawLineChart() {
 
 
@@ -64,12 +64,12 @@ angular.module('githubscout.user', ['ui.router'])
                    .attr("class", "x axis")
                    .attr("transform", "translate(10,280)")
                    .call(xAxisGen)
-                   .selectAll("text")  
+                   .selectAll("text")
                                .style("text-anchor", "end")
                                .attr("dx", "-.8em")
                                .attr("dy", ".15em")
                                .attr("transform", function(d) {
-                                   return "rotate(-65)" 
+                                   return "rotate(-65)"
                                    });
 
 
@@ -93,7 +93,7 @@ angular.module('githubscout.user', ['ui.router'])
                   .duration(500)
                   .attr('y',function(d){ return rawSvg.attr("height")-d.count*20})
                   .attr('height',function(d,i){return d.count*20 })
-                 
+
            }
 
            drawLineChart();
