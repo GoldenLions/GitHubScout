@@ -1,6 +1,7 @@
 var Github = require('github');
 var config = require('./config.js');
 var bodyParser = require('body-parser');
+var fs = require('fs');
 
 var github = new Github({
   version: "3.0.0"
@@ -172,6 +173,18 @@ handler.getUserCommitsByDateAndLanguage = function(req,res) {
     }
   });
 };
+
+//currently this just serves up the contents of language_10_all.csv whenever
+//a POST request to '/language' is made
+handler.sendLanguageData = function(req,res){
+  fs.readFile('./client/CSVs/language_10_all.csv',function(err,data){
+    if(err) throw err;   
+    res.set({
+      'Content-Type': 'application/CSV'
+    });
+    res.send(data);
+  })
+}
 
 // github.events.getFromUser({user:'browles'},function(err,result) {
 //   console.log(result);
