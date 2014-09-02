@@ -10,17 +10,11 @@
   		<a ui-sref="home">Home</a>
   	</div>
 
-    <!-- <div ng-controller='SearchController'> -->
-      <form ng-submit='submitUsername(search)'>
-      <input type='submit' placeholder='search for a user' >
-      <input type ='text' ng-model='search.username'>
-    </form>
-    <form method='POST' action='/'>
-      <input type='submit' value='search languages' />
-      <input type ='text' value = 'enter language'/>
-    </form>
-    {{stats}}
-    <!-- </div> -->
+    <div ng-controller='SearchController'>
+      <h1>Search</h1>
+      <div gs-search></div>
+      <div>{{ input.username }}</div>
+    </div>
 
     <div ui-view></div>
 
@@ -30,12 +24,14 @@
     	<p>Built by <a href="">Charles Wang</a>, <a href="">Mike Lamm</a>, <a href="">Wai-Yin Kwan</a>, <a href="">Kelly Walker</a>, and <a href="">Ben Rowles</a>.</p>
     </footer>
 
-  	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+
   	<script src="lib/angular/lib/angular.js"></script>
   	<script src="lib/angular-ui-router/release/angular-ui-router.js"></script>
+    <script src="services/services.js"></script>
     <script src="home/home.js"></script>
     <script src="language/language.js"></script>
     <script src="user/user.js"></script>
+    <script src="search/search.js"></script>
   	<script src="client.js"></script>
   </body>
  </html>

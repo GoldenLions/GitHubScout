@@ -1,5 +1,9 @@
 angular.module('githubscout', [
 	'githubscout.user',
+	'githubscout.language',
+	'githubscout.search',
+	'githubscout.home',
+	'githubscout.services',
 	'ui.router'
 ])
 

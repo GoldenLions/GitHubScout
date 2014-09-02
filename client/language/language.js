@@ -1,5 +1,5 @@
 angular.module('githubscout.language', [])
 
-.controller('LanguageController', function($scope){
+.controller('LanguageController', ['$scope', function ($scope){
 
-})
+}])
