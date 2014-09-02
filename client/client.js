@@ -7,17 +7,17 @@ angular.module('githubscout', [
 	$stateProvider
 		.state('home', {
 			url: '/',
-			templateUrl: 'client/home/home.html',
+			templateUrl: 'home/home.html',
 			controller: 'HomeController'
 		})
 		.state('user', {
 			url: '/user',
-			templateUrl: 'client/user/user.html',
+			templateUrl: 'user/user.html',
 			controller: 'UserController'
 		})
 		.state('language', {
 			url: '/language',
-			templateUrl: 'client/language/language.html',
+			templateUrl: 'language/language.html',
 			controller: 'LanguageController'
 		});
 

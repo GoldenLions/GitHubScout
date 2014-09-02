@@ -10,7 +10,7 @@
   		<a ui-sref="home">Home</a>
   	</div>
 
-    <div ng-controller='SearchController'>
+    <!-- <div ng-controller='SearchController'> -->
       <form ng-submit='submitUsername(search)'>
       <input type='submit' placeholder='search for a user' >
       <input type ='text' ng-model='search.username'>
@@ -20,11 +20,7 @@
       <input type ='text' value = 'enter language'/>
     </form>
     {{stats}}
-    <script src = "./users/users.js"></script>
-    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-    <script src="lib/angular/angular.js"></script>
-    <script src="lib/angular-route/angular-route.js"></script>
-    </div>
+    <!-- </div> -->
 
     <div ui-view></div>
 
