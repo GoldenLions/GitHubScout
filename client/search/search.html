@@ -1,9 +1,8 @@
-Name: {{name}}
-<form ng-submit='submitUsername(search)'>
-  <input type='submit' placeholder='search for a user' >
-  <input type ='text' ng-model='search.username'>
+<form ng-submit='searchUser()'>
+  <input type ='text' ng-model='input.username'>
+  <input type='submit' value='search for a user' >
 </form>
 <form method='POST' action='/'>
-  <input type='submit' value='search languages' />
   <input type ='text' value = 'enter language'/>
+  <input type='submit' value='search languages' />
 </form>

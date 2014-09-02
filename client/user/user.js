@@ -7,6 +7,7 @@ angular.module('githubscout.user', [])
 		$http({'method': 'POST', 'url': '/api/user/commitcounts', 'data': data})
 		.then(function(res) {
 			$scope.stats = res.data.results;
+			// here route them to user page
 		});
 	};
 }]);

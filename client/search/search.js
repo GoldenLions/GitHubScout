@@ -1,7 +1,17 @@
 angular.module('githubscout.search', [])
 
-.controller('SearchController', ['$scope', function ($scope) {
-	$scope.name = 'apple'
+.controller('SearchController', ['$scope', 'Search', function ($scope, Search) {
+	$scope.input = {};
+	$scope.input.username = 'apple';
+	$scope.searchUser = function() {
+		console.log('submitted')
+		console.log(Search)
+		Search.submitUsername($scope.input.username)
+			.then(function(data) {
+				$state.go('user')
+			})
+	}
+
 }])
 .directive('gsSearch', function() {
 	return {
