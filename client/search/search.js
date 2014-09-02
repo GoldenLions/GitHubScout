@@ -1,12 +1,12 @@
 angular.module('githubscout.search', [])
 
-.controller('SearchController', ['$scope', 'Search', function ($scope, Search) {
+.controller('SearchController', ['$scope', '$state', 'Search', function ($scope, $state, Search) {
 	$scope.input = {};
-	$scope.input.username = 'apple';
+	$scope.input.username = 'kwalker3690';
 	$scope.searchUser = function() {
 		console.log('submitted')
 		console.log(Search)
-		Search.submitUsername($scope.input.username)
+		Search.submitUsername({username: $scope.input.username})
 			.then(function(data) {
 				$state.go('user')
 			})
