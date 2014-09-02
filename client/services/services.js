@@ -15,7 +15,7 @@ angular.module('githubscout.services', [])
 		});
 	};
 
-	// Takes an object with a key of username that has a corresponding string, which is a username of a user on github. Returns an array of result JSON objects in the form of {"date":"2013-05-14", "languages":{"JavaScript":156871,"CSS":8123}, "repo":"portfolio"}
+	// Takes an object with a key of username that has a corresponding string, which is a username of a user on github. Returns an array of result JSON objects in the form of {"date":"2013-05-14","languages":{"JavaScript":156871,"CSS":8123}, "repo":"portfolio"}
 	var getUserCommitsByLanguage = function(usernameObj) {
 		console.log(JSON.stringify(usernameObj))
 		return $http({
