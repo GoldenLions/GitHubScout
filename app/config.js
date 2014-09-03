@@ -16,7 +16,7 @@ var db = Bookshelf.initialize({
 db.knex.schema.hasTable('cities').then(function(exists) {
   if (exists) {
 
-      console.log('Created cities Table', table);
+      console.log('Created cities Table');
   }
 });
 
