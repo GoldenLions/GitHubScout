@@ -26,13 +26,7 @@ app.post('/api/user/commitcounts',function(req,res) {
 
 app.post('/api/user/commitsLanguage',function(req,res) {
   console.log('POST /api/user/commitsLanguage');
-  handler.getUserCommitCountsByDateAndLanguage(req,res);
-});
-
-//currently, this just serves up the contets of language_10_all.csv
-app.post('/language',function(req,res){
-	console.log('POST /language');
-	handler.sendLanguageData(req,res);
+  handler.getUserCommitsByDateAndLanguage(req,res);
 });
 
 var server = app.listen(port, function() {

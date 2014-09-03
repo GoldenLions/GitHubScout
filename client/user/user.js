@@ -1,8 +1,8 @@
 angular.module('githubscout.user', ['ui.router'])
 
-.controller('UserController', ['$scope','$http', 'UserData', function($scope, $http, UserData) {
+.controller('UserController', ['$scope','$http', 'User', function($scope, $http, User) {
 	$scope.userdata =[];
-	$scope.userdata.data = UserData.data
+	$scope.userdata.data = User.data
 }])
 
 .directive('linearChart', function($window){
@@ -12,7 +12,7 @@ angular.module('githubscout.user', ['ui.router'])
        link: function(scope, elem, attrs){
            var dataPlot=scope.userdata.data;
 
-          console.log("this is the scope",dataPlot)
+         // console.log("this is the scope",dataPlot)
            var padding = 20;
            var pathClass="path";
            var xScale, yScale, xAxisGen, yAxisGen
@@ -52,9 +52,9 @@ angular.module('githubscout.user', ['ui.router'])
                    .scale(yScale)
                    .orient("left")
                    .ticks(5)
-
+          
            }
-
+         
          function drawLineChart() {
 
 
@@ -64,12 +64,12 @@ angular.module('githubscout.user', ['ui.router'])
                    .attr("class", "x axis")
                    .attr("transform", "translate(10,280)")
                    .call(xAxisGen)
-                   .selectAll("text")
+                   .selectAll("text")  
                                .style("text-anchor", "end")
                                .attr("dx", "-.8em")
                                .attr("dy", ".15em")
                                .attr("transform", function(d) {
-                                   return "rotate(-65)"
+                                   return "rotate(-65)" 
                                    });
 
 
@@ -92,12 +92,7 @@ angular.module('githubscout.user', ['ui.router'])
                   .delay(function(d, i) { return i * 100; })
                   .duration(500)
                   .attr('y',function(d){ return rawSvg.attr("height")-d.count*20})
-<<<<<<< HEAD
-                  .attr('height',function(d,i){return d.count*20 })
-
-=======
                   .attr('height',function(d,i){return d.count*20 })               
->>>>>>> Adjusted axis for user graph
            }
 
            drawLineChart();
