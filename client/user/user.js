@@ -28,52 +28,52 @@ angular.module('githubscout.user', ['ui.router'])
 
            function setChartParameters(){
 
-               xScale = d3.scale.linear()
-                   .domain([0, dataPlot.length-1])
-                   .range([padding + 5, rawSvg.attr("width") - padding]);
+             xScale = d3.scale.linear()
+             .domain([0, dataPlot.length-1])
+             .range([padding + 5, rawSvg.attr("width") - padding]);
 
-               yScale = d3.scale.linear()
-                   .domain([0, d3.max(dataPlot, function (d) {
+             yScale = d3.scale.linear()
+             .domain([0, d3.max(dataPlot, function (d) {
 
-                       return (d.count*2.4);
-                   })])
-                   .range([rawSvg.attr("height") - padding, 0]);
+               return (d.count*2.4);
+             })])
+             .range([rawSvg.attr("height") - padding, 0]);
 
-               xAxisGen = d3.svg.axis()
-                   .scale(xScale)
-                   .tickFormat(function(d,i) { return dataPlot[d].date})
-                   .orient("bottom")
-                   .ticks(dataPlot.length - 1);
+             xAxisGen = d3.svg.axis()
+             .scale(xScale)
+             .tickFormat(function(d,i) { return dataPlot[d].date})
+             .orient("bottom")
+             .ticks(dataPlot.length - 1);
 
                    //console.log("xscale",xAxisGen)
 
 
-               yAxisGen = d3.svg.axis()
+                   yAxisGen = d3.svg.axis()
                    .scale(yScale)
                    .orient("left")
                    .ticks(5)
 
-           }
+                 }
 
-         function drawLineChart() {
+                 function drawLineChart() {
 
 
-               setChartParameters();
+                   setChartParameters();
 
-               svg.append("svg:g")
+                   svg.append("svg:g")
                    .attr("class", "x axis")
                    .attr("transform", "translate(10,280)")
                    .call(xAxisGen)
                    .selectAll("text")
-                               .style("text-anchor", "end")
-                               .attr("dx", "-.8em")
-                               .attr("dy", ".15em")
-                               .attr("transform", function(d) {
-                                   return "rotate(-65)"
-                                   });
+                   .style("text-anchor", "end")
+                   .attr("dx", "-.8em")
+                   .attr("dy", ".15em")
+                   .attr("transform", function(d) {
+                     return "rotate(-65)"
+                   });
 
 
-               svg.append("svg:g")
+                   svg.append("svg:g")
                    .attr("class", "y axis")
                    .attr("transform", "translate(40,-100)")
                    .call(yAxisGen);
