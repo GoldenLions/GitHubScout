@@ -1,18 +1,15 @@
 angular.module('githubscout.services', [])
 
-.factory('UserSearch', function ($http, $stateParams, $state, getUserCommits) {
-
+.factory('UserSearch', function ($http, $stateParams, $state, getUserCommits, getUserEvents) {
 	// Takes an object with a key of username that has a corresponding string, which is a username of a user on github. Returns an array of result JSON objects in the form of {date: 2013-03-13, count: 4}
 	var getUserCommitCount = getUserCommits
-
-
 	// Takes an object with a key of username that has a corresponding string, which is a username of a user on github. Returns an array of result JSON objects in the form of {"date":"2013-05-14","languages":{"JavaScript":156871,"CSS":8123}, "repo":"portfolio"}
 	var getUserCommitsByLanguage = getUserCommits
 
-
 	return {
 		getUserCommitCount : getUserCommitCount,
-		getUserCommitsByLanguage : getUserCommitsByLanguage
+		getUserCommitsByLanguage : getUserCommitsByLanguage,
+		getUserEvents: getUserEvents
 	}
 })
 
@@ -122,9 +119,10 @@ angular.module('githubscout.services', [])
 			payload: processPayload(event.payload,event.type),
 			date: event.created_at
 		}
+		return result;
 	};
 
-	var fetchAllEvents = function(name,storage,page) {
+	var fetchAllEvents = function(username,storage,page) {
 		var data = config.slice(0);
 		data.push('page='+page);
 		return $http({
@@ -136,7 +134,7 @@ angular.module('githubscout.services', [])
 				return processEvent(item);
 			}));
 			if (result.data.length === 30 && page < 10) {
-				return fetchAllEvents(name,storage,page+1)
+				return fetchAllEvents(username,storage,page+1)
 			} else {
 				return storage;
 			}
