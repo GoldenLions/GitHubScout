@@ -1,5 +1,4 @@
 var Bookshelf = require('bookshelf');
-var part = require('path');
 
 var db = Bookshelf.initialize({
   client: 'mysql',
@@ -9,14 +8,6 @@ var db = Bookshelf.initialize({
     password: '',
     database: 'githubscout',
     charset: 'utf8',
-  }
-});
-
-
-db.knex.schema.hasTable('cities').then(function(exists) {
-  if (exists) {
-
-      console.log('Created cities Table');
   }
 });
 

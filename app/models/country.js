@@ -5,4 +5,4 @@ var Country = db.Model.extend({
   hasTimestamps: false
 });
 
-moduel.exports = Country;
+module.exports = Country;
