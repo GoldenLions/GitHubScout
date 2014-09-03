@@ -1,11 +1,11 @@
 angular.module('githubscout.user', ['ui.router'])
 
 .controller('UserController', ['$scope','$http', 'UserData', function($scope, $http, UserData) {
-	$scope.userdata =[];
-	$scope.userdata.data = UserData.data
+  $scope.userdata =[];
+  $scope.userdata.data = UserData.rawDataCommitCount
 }])
 
-.directive('linearChart', function($window){
+.directive('usercommitChart', function($window){
    return{
       restrict:'EA',
       template:"<svg width='1200' height='400'></svg>",
@@ -100,4 +100,3 @@ angular.module('githubscout.user', ['ui.router'])
        }
    };
 });
-
