@@ -1,4 +1,16 @@
 <div ng-controller="UserController">
+<<<<<<< HEAD
   <h1>GitHub User {{search.input.username}} Commits Over Time</h1>
   <div usercommit-chart chart-data="UsercommitData"></div>
+=======
+  <h1>User View</h1>
+  <form ng-submit='submitUsername(search)'>
+    <!-- <input type='submit' value='search users' > -->
+    <input name='search' class='search' placeholder='search for a user' ng-model='search.username'>
+    ({{userdata.data}}
+     <h1>GitHub User {{search.username}} Commits Over Time</h1>
+    <div usercommit-chart chart-data="UsercommitData"></div>
+    <h1>GitHub User {{search.username}} Commits By Langauges</h1>
+     <div userlangauge-chart chart-data="UsercommitData"></div>
+>>>>>>> Made changes to scale of axes
 </div>
