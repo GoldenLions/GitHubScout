@@ -1,0 +1,42 @@
+.container {
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+.float-left {
+	float: left;
+}
+
+.float-right {
+	float: right;
+}
+
+.clear-after {
+	content: '';
+	display: table;
+	clear: both;
+}
+
+.one-half, .one-third, .one-fourth, .two-thirds, .three-fourths {
+	padding: 0 1%;
+}
+
+.one-half {
+	width: 50%;
+}
+
+.one-third {
+	width: 33.33%;
+}
+
+.two-thirds {
+	width: 66.67%;
+}
+
+.one-fourth {
+	width: 25%;
+}
+
+.three-fourths {
+	width: 75%;
+}
