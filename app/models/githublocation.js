@@ -5,4 +5,4 @@ var GithubLocation = db.Model.extend({
   hasTimestamps: false
 });
 
-moduel.exports = GithubLocation;
+module.exports = GithubLocation;

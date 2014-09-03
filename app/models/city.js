@@ -5,4 +5,4 @@ var City = db.Model.extend({
   hasTimestamps: false
 });
 
-moduel.exports = City;
+module.exports = City;

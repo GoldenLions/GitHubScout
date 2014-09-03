@@ -1,8 +1,8 @@
 var db = require('../config');
-var City = require('../models/githublocations');
+var GithubLocation = require('../models/githublocation');
 
 var GithubLocations = new db.Collection();
 
 GithubLocations.model = GithubLocation;
 
-module.exports = GithubLocation;
+module.exports = GithubLocations;
