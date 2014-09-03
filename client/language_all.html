@@ -70,7 +70,7 @@ var render = function(settings, chartData, numItems){
         .tickFormat(d3.format(',d'));
 
     // Creates the chart.
-    d3.select('#chart')
+    d3.select(settings.chartSelector)
         .datum(chartData)
         .style('height', numItems*2 + 'em')
         .call(chart)
