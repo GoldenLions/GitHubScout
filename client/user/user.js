@@ -2,22 +2,22 @@ angular.module('githubscout.user', ['ui.router'])
 
 .controller('UserController', ['$scope','$http', 'UserData', function($scope, $http, UserData) {
   $scope.userdata =[];
-  $scope.userdata.data = UserData.data
+  $scope.userdata.data = UserData.rawDataCommitCount
 }])
 
-.directive('linearChart', function($window){
- return{
-  restrict:'EA',
-  template:"<svg width='1200' height='400'></svg>",
-  link: function(scope, elem, attrs){
-   var dataPlot=scope.userdata.data;
+.directive('usercommitChart', function($window){
+   return{
+      restrict:'EA',
+      template:"<svg width='1200' height='400'></svg>",
+       link: function(scope, elem, attrs){
+           var dataPlot=scope.userdata.data;
 
-   console.log("this is the scope",dataPlot)
-   var padding = 20;
-   var pathClass="path";
-   var xScale, yScale, xAxisGen, yAxisGen
+          console.log("this is the scope",dataPlot)
+           var padding = 20;
+           var pathClass="path";
+           var xScale, yScale, xAxisGen, yAxisGen
 
-   var d3 = $window.d3;
+           var d3 = $window.d3;
            //console.log("window",$window)
 
            var rawSvg=elem.find('svg');
@@ -78,27 +78,25 @@ angular.module('githubscout.user', ['ui.router'])
                    .attr("transform", "translate(40,-100)")
                    .call(yAxisGen);
 
-                   svg.selectAll('bar')
-                   .data(dataPlot)
-                   .enter()
-                   .append('rect')
-                   .attr("x",function(d,i){return (0.94*i*rawSvg.attr("width"))/(dataPlot.length - 1)})
-                   .attr('y', 200)
-                   .attr('width',20)
-                   .attr('height',0)
-                   .attr("transform", "translate(40,-120)")
-                   .attr('fill','steelblue')
-                   .transition()
-                   .delay(function(d, i) { return i * 100; })
-                   .duration(500)
-                   .attr('y',function(d){ return rawSvg.attr("height")-d.count*20})
-                   .attr('height',function(d,i){return d.count*20 })
+               svg.selectAll('bar')
+                  .data(dataPlot)
+                  .enter()
+                  .append('rect')
+                  .attr("x",function(d,i){return (0.94*i*rawSvg.attr("width"))/(dataPlot.length - 1)})
+                  .attr('y', 200)
+                  .attr('width',20)
+                  .attr('height',0)
+                  .attr("transform", "translate(40,-120)")
+                  .attr('fill','steelblue')
+                  .transition()
+                  .delay(function(d, i) { return i * 100; })
+                  .duration(500)
+                  .attr('y',function(d){ return rawSvg.attr("height")-d.count*20})
+                  .attr('height',function(d,i){return d.count*20 })
 
-                 }
+           }
 
-                 drawLineChart();
-               }
-             };
-           });
-
-
+           drawLineChart();
+       }
+   };
+});
