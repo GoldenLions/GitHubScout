@@ -20,8 +20,6 @@ angular.module('githubscout.services', [])
 	return {}
 })
 
-
-
 .factory('getUserCommits', function($http) {
 	var config = [
 		'?client_id=bf7e0962f270bf033f78',
@@ -38,15 +36,15 @@ angular.module('githubscout.services', [])
 			'method': 'GET',
 			'url': repo.commits_url+data.join('&')
 		})
-		.then(function(res) {
-			console.log(res)
-			_.each(res.data,function(item) {
+		.then(function(result) {
+			_.each(result.data,function(item) {
 				storage.push({
 					'repo':repo.full_name,
 					'date':item.commit.committer.date.slice(0,10)
 				})
 			});
-			if (res.data.length === 100 && page < 3) {
+			console.log(result.data.length)
+			if (result.data.length === 100 && page < 6) {
 				return iterativeGetRepoCommits(repo,author,storage,page+1);
 			} else {
 				return storage;
@@ -62,12 +60,10 @@ angular.module('githubscout.services', [])
 			'method': 'GET',
 			'url': repo.languages_url+config.join('&')
 		})
-		.then(function(res) {
-			console.log(res)
-			languages = res.data;
+		.then(function(result) {
+			languages = result.data;
 			return iterativeGetRepoCommits(repo,author,[],1)
 			.then(function(result) {
-				console.log(result)
 				storage = storage.concat(_.map(result, function(commit) {
 					commit.languages = languages;
 					return commit;
@@ -82,23 +78,21 @@ angular.module('githubscout.services', [])
 	};
 
 	var getUserCommits = function(obj) {
-		var author = obj.username;
-		console.log(author)
+		var username = obj.username;
 		return $http({
 			'method': 'GET',
-			'url': 'https://api.github.com/users/'+author+'/repos'+config.join('&')+'&per_page=1000'
+			'url': 'https://api.github.com/users/'+username+'/repos'+config.join('&')+'&per_page=1000'
 		})
-		.then(function(res) {
-			var data = res.data;
-			var repoData = _.map(data,function(repo) {
+		.then(function(result) {
+			var repoData = _.map(result.data,function(repo) {
 				return {
-					'full_name':repo.full_name,
-					'languages_url':repo.languages_url,
-					'commits_url':repo.commits_url.slice(0,repo.commits_url.length-6)
+					'full_name': repo.full_name,
+					'languages_url': repo.languages_url,
+					'commits_url': repo.commits_url.slice(0,repo.commits_url.length-6)
 				}
 			});
 
-			return iterativeGetRepoStats(repoData,author,[])
+			return iterativeGetRepoStats(repoData,username,[])
 			.then(function(result) {
 				return result.sort(function(a,b) {
 					return a.date > b.date ? -1 : 1;
@@ -108,6 +102,53 @@ angular.module('githubscout.services', [])
 	}
 
 	return getUserCommits;
+})
+
+.factory('getUserEvents', function($http) {
+	var config = [
+		'?client_id=bf7e0962f270bf033f78',
+		'client_secret=37101e5bd7a17da01dfd4cb4f2889b8371b14388'
+	];
+
+	var processPayload = function(payload,type) {
+		return payload;
+	};
+
+	var processEvent = function(event) {
+		var result = {
+			type: event.type,
+			actor: event.actor.login,
+			repo: event.repo.name,
+			payload: processPayload(event.payload,event.type),
+			date: event.created_at
+		}
+	};
+
+	var fetchAllEvents = function(name,storage,page) {
+		var data = config.slice(0);
+		data.push('page='+page);
+		return $http({
+			'method':'GET',
+			'url':'https://api.github.com/users/'+username+'/events'+data.join('&')
+		})
+		.then(function(result) {
+			storage = storage.concat(_.map(result.data, function(item) {
+				return processEvent(item);
+			}));
+			if (result.data.length === 30 && page < 10) {
+				return fetchAllEvents(name,storage,page+1)
+			} else {
+				return storage;
+			}
+		})
+	};
+
+	var getUserEvents = function(obj) {
+		var username = obj.username;
+		return fetchAllEvents(username,[],1)
+	};
+
+	return getUserEvents;
 })
 
 
