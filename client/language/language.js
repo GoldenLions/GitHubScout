@@ -1,7 +1,9 @@
-angular.module('githubscout.language', ['nvd3ChartDirectives', 'ui.router'])
+angular.module('githubscout.language', ['nvd3ChartDirectives',
+ 'ui.router'
+ ])
 
-  //Since it can take a while for D3 to processs csv files, we use 
-  // $q to return a promise. 
+  //Since it can take a while for D3 to processs csv files, we use
+  // $q to return a promise.
   .factory('Repos', ['$q', 'ChartsUtil', function($q, ChartsUtil){
     var url = './CSVs/repo_activity_by_month.csv';
 
@@ -21,7 +23,9 @@ angular.module('githubscout.language', ['nvd3ChartDirectives', 'ui.router'])
   }])
 
 
-  .controller('LanguageController', ['$scope', 'Repos', 'ChartsUtil', function($scope, Repos, ChartsUtil){
+  .controller('LanguageController', ['$scope', 'Repos', 'ChartsUtil', 'LanguageData', function($scope, Repos, ChartsUtil, LanguageData){
+
+  	$scope.data = {}
 
     Repos.then(function(chartData){
       $scope.commits = chartData;
@@ -40,7 +44,7 @@ angular.module('githubscout.language', ['nvd3ChartDirectives', 'ui.router'])
     });
 
 
-    // Formats the JavaScript date object for the x axis labels 
+    // Formats the JavaScript date object for the x axis labels
     $scope.xAxisTickFormat = function(){
         return function(d){
             return d3.time.format('%x')(new Date(d));  //uncomment for date format
@@ -51,7 +55,6 @@ angular.module('githubscout.language', ['nvd3ChartDirectives', 'ui.router'])
     var colorArray = ['#ffa500', '#c80032', '#0000ff', '#6464ff'];
     $scope.colorFunction = function(){
         return function(d, i){
-          console.log(i)
             return colorArray[i];
         }
     }
@@ -60,4 +63,3 @@ angular.module('githubscout.language', ['nvd3ChartDirectives', 'ui.router'])
 
 
 
-  

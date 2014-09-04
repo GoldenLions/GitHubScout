@@ -21,7 +21,7 @@ angular.module('githubscout', [
 			controller: 'UserController'
 		})
 		.state('language', {
-			url: '/language',
+			url: '/language/{language}',
 			templateUrl: 'language/language.html',
 			controller: 'LanguageController'
 		});
