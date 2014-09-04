@@ -1,3 +1,73 @@
+<h1>Language View</h1>
+
 <div ng-controller="LanguageController">
-	<h1>Language View</h1>
+
+    <nvd3-line-chart
+            data="commits"
+            id="commits"
+            width="600"
+            height="400"
+            showXAxis="true"
+            showYAxis="true"
+            tooltips="true"
+            interactive="true"
+            showlegend = "true"
+            margin="{left:150,top:50,bottom:0,right:50}"
+            xAxisTickFormat="xAxisTickFormat()"
+            color="colorFunction()"
+            >
+         <svg></svg>
+    </nvd3-line-chart>
+
+    <nvd3-line-chart
+            data="creates"
+            id="creates"
+            width="600"
+            height="400"
+            showXAxis="true"
+            showYAxis="true"
+            tooltips="true"
+            interactive="true"
+            showlegend = "true"
+            margin="{left:150,top:50,bottom:0,right:50}"
+            xAxisTickFormat="xAxisTickFormat()"
+            color="colorFunction()"
+            >
+         <svg></svg>
+    </nvd3-line-chart>
+
+    <nvd3-line-chart
+            data="public_repos"
+            id="public_repos"
+            width="600"
+            height="400"
+            showXAxis="true"
+            showYAxis="true"
+            tooltips="true"
+            interactive="true"
+            showlegend = "true"
+            margin="{left:150,top:50,bottom:0,right:50}"
+            xAxisTickFormat="xAxisTickFormat()"
+            color="colorFunction()"
+            >
+        <svg></svg>
+    </nvd3-line-chart>
+
+    <nvd3-line-chart
+            data="pushes"
+            id="pushes"
+            width="600"
+            height="400"
+            showXAxis="true"
+            showYAxis="true"
+            tooltips="true"
+            interactive="true"
+            showlegend = "true"
+            margin="{left:150,top:50,bottom:0,right:50}"
+            xAxisTickFormat="xAxisTickFormat()"
+            color="colorFunction()"
+            >
+        <svg></svg>
+    </nvd3-line-chart>
+
 </div>
