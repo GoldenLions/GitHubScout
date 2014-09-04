@@ -152,16 +152,19 @@ angular.module('githubscout.services', [])
 
 .factory('ChartsUtil', function(){
 
+  // The input data file has information about all the languages.
+  // processLanguageData() filters the data file and  creates a 
+  // separate data set for each language that is listed in settings.
   var processLanguageData = function(settings, data){
     console.log('processLanguageData');
     console.log(settings)
 
-    var chartData = [];
-    var values = [];
+    var chartData = [], values;
 
+    // create one data set for each language
     for (var i=0; i < settings.languages.length; i++){
+      values = [];
       language = settings.languages[i];
-      console.log(language)
 
       // select the data for one language
       var filtered = data
@@ -174,7 +177,12 @@ angular.module('githubscout.services', [])
         .forEach(function(d){
           values.push([new Date(d.month), +d[settings.y]])
         });
+<<<<<<< HEAD
 
+=======
+      
+      // Each data set has a key and values.
+>>>>>>> (fix) Fix the line that was connecting multiple datasets on language charts
       chartData.push({
         key: language,
         values: values
@@ -186,6 +194,7 @@ angular.module('githubscout.services', [])
   return {
     processLanguageData: processLanguageData
   };
+<<<<<<< HEAD
 })
 
 //Since it can take a while for D3 to processs csv files, we use
@@ -223,4 +232,12 @@ angular.module('githubscout.services', [])
     currentLanguages: []
   };
 })
+=======
+
+
+
+
+
+});
+>>>>>>> (fix) Fix the line that was connecting multiple datasets on language charts
 
