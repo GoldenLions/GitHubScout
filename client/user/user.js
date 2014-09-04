@@ -1,6 +1,6 @@
 var userapp = angular.module('githubscout.user', ['ui.router'])
 
-userapp.controller('UserController', ['$scope','$http', 'UserData', 'getUserCommits',function($scope, $http, UserData) {
+userapp.controller('UserController', ['$scope', 'UserData', 'getUserCommits', function($scope, UserData) {
   $scope.userdata =[];
   $scope.userdata.data = UserData.rawDataCommitsByLanguage
 
@@ -48,7 +48,7 @@ userapp.controller('UserController', ['$scope','$http', 'UserData', 'getUserComm
 
   $scope.userDateandCommits = getdateandCommits().reverse()
   $scope.userCommitsperLanguage = getUserCommitsperLanganguage()
-  
+
 
 }])
 
@@ -56,9 +56,9 @@ userapp.controller('UserController', ['$scope','$http', 'UserData', 'getUserComm
 userapp.directive('usercommitChart', function($window){
    return{
       restrict:'EA',
-      template:"<svg width='1200' height='600'></svg>",
+      template:"<svg width='960' height='600'></svg>",
        link: function(scope, elem, attrs){
-      
+
            var dataPlot=scope.userDateandCommits
            console.log("herrrre",dataPlot)
 
@@ -154,7 +154,7 @@ userapp.directive('userlangaugeChart', function($window){
       restrict:'EA',
       template:"<svg width='1200' height='600'></svg>",
        link: function(scope, elem, attrs){
-      
+
            var dataPlot=scope.userCommitsperLanguage
            console.log("herrrre",dataPlot)
 
