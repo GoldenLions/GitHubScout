@@ -3,6 +3,7 @@ var cheerio = require('cheerio');
 var Batch = require('batch');
 var _ = require('lodash');
 var fs = require('fs');
+var languages = require('./languages.js')
 
 
 // Utility functions.
@@ -42,7 +43,7 @@ var utils = {
   },
   // progressback that uses cheerio to parse the response body, which in this case is just HTML.
   // Pulls various figures out of the HTML.
-  scrapeStats: function(html) {
+  scrapeProfileStats: function(html) {
     var $ = cheerio.load(html);
     return {
       full_name: $('[itemprop=name]').text(),
@@ -95,15 +96,15 @@ var updateLoginsJSON = function(callback) {
 
 // Updates top-user-stats.json to reflect the current stats of the top 1000 users found 
 // found previously.
-var updateStatsJSON = function(callback) {
+var updateProfileStatsJSON = function(callback) {
   // The profile urls corresponding to the 1000 usernames found previously.
   var profileURLS = _.map(JSON.parse(fs.readFileSync('top-user-logins.json')), function(username) {
     return 'https://github.com/'+username;
   });
   // Scrapes statistics from the profile URLs, writes the stats to a .json.
-  utils.batchGet(profileURLS, utils.scrapeStats, function(results) {
+  utils.batchGet(profileURLS, utils.scrapeProfileStats, function(results) {
     fs.writeFileSync('top-user-stats.json',JSON.stringify(results,null,2));
-    console.log('updateStatsJSON finished.');
+    console.log('updateProfileStatsJSON finished.');
     if (callback) callback();
   });
 };
