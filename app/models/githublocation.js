@@ -1,7 +1,7 @@
 var db = require('../config');
 
 var GithubLocation = db.Model.extend({
-  tableName: 'github_map',
+  tableName: 'github_locations',
   hasTimestamps: false
 });
 
