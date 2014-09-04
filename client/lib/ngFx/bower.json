@@ -1,0 +1,46 @@
+{
+  "name": "ngAnimations.js",
+  "version": "1.0.4",
+  "homepage": "https://hendrixer.github.io",
+  "authors": [
+    "Hendrixer"
+  ],
+  "description": "A conversion of animate.css into angular ngAnimate javaScript.",
+  "main": "dist/ngFx.js",
+  "keywords": [
+    "angular",
+    "ngAnimate",
+    "animate",
+    "animations"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".*",
+    "node_modules",
+    "bower_components",
+    "src",
+    "README.md",
+    "features",
+    "demoApp",
+    "index.html",
+    "animationList.txt",
+    "easingList.txt",
+    "Gulpfile.js",
+    "bower.json",
+    ".gitignore",
+    "package.json",
+    "coverage",
+    "karma.conf.js",
+    "specs"
+  ],
+  "dependencies": {
+    "angular": "*",
+    "angular-ui-router": "~0.2.10"
+  },
+  "devDependencies": {
+    "gsap": "~1.11.6",
+    "angular-animate": "~1.2.16",
+    "angular-mocks": "~1.2.16",
+    "angular-bootstrap": "~0.11.0"
+  }
+}
