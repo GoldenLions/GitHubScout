@@ -6,6 +6,7 @@ userapp.controller('UserController', ['$scope', 'UserData', 'getUserCommits', fu
 
   // getdateandCommits will return an array of object with object having the form {date:'2014-06-04', count:5}
   var getdateandCommits  = function(){
+    console.log('user, getdateandCommits')
     var result = []
     var commit = {};
    for(var i =0; i<$scope.userdata.data.length; i++){
@@ -27,6 +28,7 @@ userapp.controller('UserController', ['$scope', 'UserData', 'getUserCommits', fu
   }
   // getUserCommitsperLanganguage will return an array of object with object having the form {language:'JavaScript', count:10}
   var getUserCommitsperLanganguage = function(){
+    console.log('user, getUserCommitsperLanganguage')
       var result = []
       var commit ={}
       for(var i=0; i<$scope.userdata.data.length;i++){
@@ -59,10 +61,9 @@ userapp.directive('usercommitChart', function($window){
       template:"<svg width='960' height='600'></svg>",
        link: function(scope, elem, attrs){
 
+          console.log('user, usercommitChart')
            var dataPlot=scope.userDateandCommits
-           console.log("herrrre",dataPlot)
 
-          //console.log("this is the scope",dataPlot)
            var padding = 20;
            var pathClass="path";
            var xScale, yScale, xAxisGen, yAxisGen
@@ -155,8 +156,8 @@ userapp.directive('userlangaugeChart', function($window){
       template:"<svg width='1200' height='600'></svg>",
        link: function(scope, elem, attrs){
 
+          console.log('user, userlangaugeChart')
            var dataPlot=scope.userCommitsperLanguage
-           console.log("herrrre",dataPlot)
 
           //console.log("this is the scope",dataPlot)
            var padding = 20;
@@ -190,9 +191,6 @@ userapp.directive('userlangaugeChart', function($window){
              .tickFormat(function(d,i) { return dataPlot[d].language})
              .orient("bottom")
              .ticks(dataPlot.length - 1);
-
-                   //console.log("xscale",xAxisGen)
-
 
                    yAxisGen = d3.svg.axis()
                    .scale(yScale)
