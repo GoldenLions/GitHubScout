@@ -1,16 +1,16 @@
 <div class="search clear-after">
 	<div class="float-left">
-		<button class="button-left" ng-class="showUser ? 'selected' : ''" ng-click="showLanguage = false; showUser = true;">Search by User</button>
-		<button class="button-right" ng-class="showLanguage ? 'selected' : ''" ng-click="showLanguage = true; showUser = false">Search by Language</button>
+		<button class="button-left" ng-class="showUser ? '' : 'selected'" ng-click="showLanguage = false; showUser = false;">User Search</button>
+		<button class="button-right" ng-class="showLanguage ? 'selected' : ''" ng-click="showLanguage = true; showUser = true">Language Search</button>
 	</div>
 	<div class="float-right">
-		<form ng-submit='searchUser()' ng-show="showUser">
-		  <input type ='text' ng-model='input.username'>
-		  <input type='submit' value='search for a user' >
+		<form ng-submit='searchUser()' ng-hide="showUser" class='fx-fade-normal'>
+		  <input type ='text' ng-model='input.username' placeholder = 'Enter username'>
+		  <input type='submit' value='Search' >
 		</form>
-		<form method='POST' action='/' ng-show="showLanguage">
-		  <input type ='text' value = 'enter language'/>
-		  <input type='submit' value='search languages' />
+		<form method='POST' action='/' ng-show="showLanguage" class='fx-fade-normal'>
+		  <input type ='text' placeholder = 'Enter language'/>
+		  <input type='submit' value='Search' />
 		</form>
 	</div>
 </div>

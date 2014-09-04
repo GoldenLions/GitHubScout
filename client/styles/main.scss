@@ -2,10 +2,11 @@
 @import 'reset';
 
 // Import foundational SASS files
-@import 'colors';
 @import 'layout';
 
 // Import controller specific SASS files
+@import '../home/home';
+@import '../search/search';
 @import '../user/user';
 @import '../language/language';
 
@@ -16,6 +17,8 @@
 body {
 	font-family: 'Open Sans';
 	font-weight: 400;
+	background: #FFFFFF;
+	color: #C5C5C5;
 }
 
 .page-wrap {
@@ -28,48 +31,40 @@ body {
   display: block;
 }
 
+a {
+	color: #C5C5C5;
+
+	&:hover {
+		color: #FFF;
+	}
+}
+
 nav {
 	width: 100%;
 	height: 70px;
 	padding: 20px;
-	background: #212121;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	background: #2E2E2E;
 
-	.search {
-		button {
-			appearance: none;
-			-moz-appearance: none;
-			-webkit-appearance: none;
-			outline: none;
-			border: none;
-			background-color: #FFF;
-			float: left;
-			margin-left: 0;
-			margin-right: 0;
-			padding: 4px 10px;
-
-			&:hover {
-				cursor: pointer;
-			}
-
-			&.button-left {
-				border-radius: 10px 0 0 10px;
-			}
-
-			&.button-right {
-				border-radius: 0 10px 10px 0;
-			}
-
-			&.selected {
-				background-color: #C5C5C5;
-			}
-		}
+	a {
+		text-decoration: none;
 	}
 }
 
 footer {
 	width: 100%;
-	background: #212121;
 	padding: 20px 0;
+	font-size: 12px;
+	background: #DDDDDD;
+	color: #646464;
+
+	a {
+		color: #646464;
+		&:hover {
+			color: #8B8B8B;
+		}
+	}
 }
 
 footer, .page-wrap:after {

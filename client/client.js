@@ -4,7 +4,8 @@ angular.module('githubscout', [
 	'githubscout.search',
 	'githubscout.home',
 	'githubscout.services',
-	'ui.router'
+	'ui.router',
+	'ngFx'
 ])
 
 .config(function($stateProvider, $urlRouterProvider) {
