@@ -2,31 +2,9 @@ module.exports = function(grunt) {
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
 
-    concat: {
-      options: {
-        separator: ';'
-      },
-
-      dist: {
-        src: [''],
-        dest: ''
-      }
-    },
-
     uglify: {
       my_target: {
         files: {}
-      }
-    },
-
-    cssmin: {
-      options: {
-        keepSpecialComments: 0
-      },
-      dist: {
-        files: {
-          '':''
-        }
       }
     },
 
@@ -68,16 +46,12 @@ module.exports = function(grunt) {
     sass: {
       dist: {
         files: {
-          'client/main.css' : 'client/main.scss'
+          'client/styles/main.css' : 'client/styles/main.scss'
         }
       }
     },
 
     watch: {
-      scripts: {
-        files: [''],
-        tasks: ['concat', 'uglify']
-      },
       css: {
         files: '**/*.scss',
         tasks: ['sass']
@@ -89,7 +63,6 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-uglify');
   grunt.loadNpmTasks('grunt-contrib-jshint');
   grunt.loadNpmTasks('grunt-contrib-watch');
-  grunt.loadNpmTasks('grunt-contrib-concat');
   grunt.loadNpmTasks('grunt-contrib-cssmin');
   grunt.loadNpmTasks('grunt-contrib-sass');
   grunt.loadNpmTasks('grunt-mocha-test');
@@ -124,9 +97,7 @@ module.exports = function(grunt) {
   ]);
 
   grunt.registerTask('build', [
-    'concat',
     'uglify',
-    'cssmin',
     'sass'
   ]);
 
