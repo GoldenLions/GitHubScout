@@ -16,12 +16,12 @@ angular.module('githubscout', [
 			controller: 'HomeController'
 		})
 		.state('user', {
-			url: '/user/{username}',
+			url: '/user/:username',
 			templateUrl: 'user/user.html',
 			controller: 'UserController'
 		})
 		.state('language', {
-			url: '/language/{language}',
+			url: '/language/:language',
 			templateUrl: 'language/language.html',
 			controller: 'LanguageController'
 		});
