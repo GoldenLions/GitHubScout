@@ -2,7 +2,6 @@ angular.module('githubscout.search', [])
 
 .controller('SearchController', ['$scope', '$state', '$stateParams', 'UserSearch', 'UserData', function ($scope, $state, $stateParams, UserSearch, UserData) {
 	$scope.input = {};
-	$scope.input.username= 'kwalker3690'
 	// This function finds the data for a given username, which is stored at $scope.input.username. It stores the resulting data in the UserData service, then routes to the user state
 	$scope.searchUser = function () {
 		// First send a POST request to get the user's commit count data

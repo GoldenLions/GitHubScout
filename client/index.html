@@ -11,7 +11,7 @@
         <div class="container">
       		<a ui-sref="home" class="float-left">Github Scout</a>
 
-          <div ng-controller='SearchController' class="float-right">
+          <div ng-controller='SearchController' class="float-right one-half">
             <div gs-search></div>
           </div>
         </div>
@@ -33,12 +33,14 @@
 
   	<script src="lib/angular/lib/angular.js"></script>
   	<script src="lib/angular-ui-router/release/angular-ui-router.js"></script>
-    <script src = "lib/d3.js"></script>
+    <script src="lib/d3.js"></script>
+    <script src="lib/lodash.js"></script>
     <script src="services/services.js"></script>
     <script src="home/home.js"></script>
     <script src="language/language.js"></script>
     <script src="user/user.js"></script>
     <script src="search/search.js"></script>
+    <script src="lib/ngFx/dist/ngFx.min.js"></script>
   	<script src="client.js"></script>
   </body>
  </html>

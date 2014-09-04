@@ -1,3 +1,51 @@
-body {
-	color: red;
+.search {
+	button,  input[type=submit]{
+		background-color: #E5E5E5;
+		padding: 7px 10px;
+		font-family: 'Open Sans', sans-serif;
+		font-size: 13px;
+		box-shadow: inset 0 -1px 2px rgba(0, 0, 0, 0.18), inset 0 2px 2px rgba(255, 255, 255, 0.7);
+		border-radius: 5px;
+
+		&:hover {
+			background: #FAFAFA;
+			cursor: pointer;
+		}
+	}
+
+	button {
+		float: left;
+		margin-left: 0;
+		margin-right: 0;
+		min-width: 125px;
+
+		&.button-left {
+			border-radius: 5px 0 0 5px;
+		}
+
+		&.button-right {
+			border-radius: 0 5px 5px 0;
+		}
+
+		&.selected {
+			background-color: #6DB4D0;
+			box-shadow: inset 0 4px 5px rgba(0, 0, 0, 0.19);
+		}
+	}
+
+	input[type=text] {
+		background: #171717;
+		color: #FFF;
+		padding: 8px 7px;
+		font-size: 13px;
+		border: 1px solid #505050;
+		box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(228, 228, 228, 0.26);
+		border-radius: 4px;
+		float:left;
+
+		&:focus {
+			border-color: rgba(82,168,236,0.8);
+			box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(82,168,236,.6);
+		}
+	}
 }
