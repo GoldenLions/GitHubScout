@@ -25,7 +25,8 @@
     "leaflet": "~0.7.3",
     "mapbox.js": "~2.0.1",
     "nvd3": "https://github.com/novus/nvd3.git#~1.1.15-beta",
-    "d3": "~3.4.11"
+    "d3": "~3.4.11",
+    "angularjs-nvd3-directives": "~0.0.7"
   },
   "resolutions": {
     "d3": "~3.4.11"
