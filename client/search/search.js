@@ -19,24 +19,16 @@ angular.module('githubscout.search', [])
 		LanguageData.currentLanguages.push($scope.input.language);
 
 		var repoPromise = Repos.makeRepoPromise()
-    repoPromise.then(function(chartData){
-      LanguageData.commits = chartData;
-    });
+    repoPromise
+	    .then(function(chartData){
+	      LanguageData.commits = chartData;
+	      LanguageData.creates = chartData;
+	      LanguageData.public_repos = chartData;
+	      LanguageData.pushes = chartData;
+				$stateParams.language = $scope.input.language;
+				$state.go('language', $stateParams.language)
+	    });
 
-    repoPromise.then(function(chartData){
-      LanguageData.creates = chartData;
-    });
-
-    repoPromise.then(function(chartData){
-      LanguageData.public_repos = chartData;
-    });
-
-    repoPromise.then(function(chartData){
-      LanguageData.pushes = chartData;
-    });
-
-		$stateParams.language = $scope.input.language;
-		$state.go('language', $stateParams.language)
 	};
 
 }])
