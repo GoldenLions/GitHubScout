@@ -150,5 +150,40 @@ angular.module('githubscout.services', [])
   return getUserEvents;
 })
 
+.factory('ChartsUtil', function(){
 
+  var processLanguageData = function(settings, data){
+    console.log('processLanguageData');
+
+    var chartData = [];
+    var values = [];
+
+    for (var i=0; i < settings.languages.length; i++){
+      language = settings.languages[i];
+      console.log(language)
+
+      // select the data for one language
+      var filtered = data
+        .filter(function(d){
+           return d.repository_language ===language;
+        });
+
+      // Line charts require x and y values for every point.
+      filtered
+        .forEach(function(d){
+          values.push([new Date(d.month), +d[settings.y]])
+        });
+        
+      chartData.push({
+        key: language,
+        values: values
+      });
+    }
+    return chartData;
+  };
+
+  return {
+    processLanguageData: processLanguageData
+  };
+});
 
