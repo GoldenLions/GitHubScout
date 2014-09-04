@@ -17,6 +17,7 @@ angular.module('githubscout.services', [])
 	return {}
 })
 
+
 .factory('getUserCommits', function($http) {
 	var config = [
 		'?client_id=bf7e0962f270bf033f78',
@@ -28,7 +29,7 @@ angular.module('githubscout.services', [])
 		data.push('page='+page);
 		data.push('author='+author);
 		data.push('per_page=100')
-		console.log('CURRENT COMMITS',repo.commits_url, page)
+		//console.log('CURRENT COMMITS',repo.commits_url, page)
 		return $http({
 			'method': 'GET',
 			'url': repo.commits_url+data.join('&')
@@ -40,7 +41,7 @@ angular.module('githubscout.services', [])
 					'date':item.commit.committer.date.slice(0,10)
 				})
 			});
-			console.log(result.data.length)
+			//console.log(result.data.length)
 			if (result.data.length === 100 && page < 6) {
 				return iterativeGetRepoCommits(repo,author,storage,page+1);
 			} else {
@@ -51,7 +52,7 @@ angular.module('githubscout.services', [])
 
 	var iterativeGetRepoStats = function(remainingRepoData,author,storage) {
 		var repo = remainingRepoData.pop();
-		console.log("CURRENT REPO", repo.full_name)
+		//console.log("CURRENT REPO", repo.full_name)
 		var languages = {};
 		return $http({
 			'method': 'GET',
@@ -97,7 +98,7 @@ angular.module('githubscout.services', [])
 			})
 		});
 	}
-
+      //console.log("this is getUserCOmmmits", getUserCommits)
 	return getUserCommits;
 })
 
