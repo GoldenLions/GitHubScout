@@ -4,11 +4,11 @@ angular.module('githubscout.language', ['nvd3ChartDirectives',
 
   //Since it can take a while for D3 to processs csv files, we use
   // $q to return a promise.
-  .factory('Repos', ['$q', 'ChartsUtil', function($q, ChartsUtil){
+  .factory('Repos', ['$q', 'ChartsUtil', 'LanguageData', function($q, ChartsUtil, LanguageData){
     var url = './CSVs/repo_activity_by_month.csv';
 
     var settings = {
-      languages: ['JavaScript', 'Ruby', 'Scala', 'CSS'],
+      languages: LanguageData.currentLanguages,
       y: 'activity'
     };
 
