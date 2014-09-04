@@ -25,7 +25,17 @@ app.get('/hello', function(req, res){
 
 app.get('/api/locations', function(req, res){
   res.send('GET api/locations');
-  handler.fetchCountries();
+  //  handler.fetchCountries(function(item){
+  //       console.log('item', item)
+  //       handler.fetchGithubLocations(item);
+  // })
+
+ handler.fetchCountries()
+
+  // this works
+  // handler.fetchGithubLocations('Argentina');
+  
+ 
 });
 
 
@@ -37,3 +47,4 @@ app.post('/api/locations',function(req,res) {
 var server = app.listen(port, function() {
   return console.log("Listening on port " + server.address().port);
 });
+
