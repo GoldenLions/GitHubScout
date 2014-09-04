@@ -12,22 +12,20 @@ app.use(bodyParser.urlencoded({
 }));
 app.use(express.static(__dirname + '/client'));
 
-// TO DO: routes, API setup
 
+// .getUserCommitCountsByDate and .getUserCommitsByDateAndLanguage are deprecated.
+// This functionality has been moved to the client.
 
-// app.get('/',function(req,res) {
-//   console.log('GET /');
+// app.post('/api/user/commitcounts',function(req,res) {
+//   console.log('POST /api/user/commitcounts');
+//   handler.getUserCommitCountsByDate(req,res);
 // });
 
-app.post('/api/user/commitcounts',function(req,res) {
-  console.log('POST /api/user/commitcounts');
-  handler.getUserCommitCountsByDate(req,res);
-});
+// app.post('/api/user/commitsLanguage',function(req,res) {
+//   console.log('POST /api/user/commitsLanguage');
+//   handler.getUserCommitsByDateAndLanguage(req,res);
+// });
 
-app.post('/api/user/commitsLanguage',function(req,res) {
-  console.log('POST /api/user/commitsLanguage');
-  handler.getUserCommitsByDateAndLanguage(req,res);
-});
 
 //currently, this just serves up the contets of language_10_all.csv
 app.post('/language',function(req,res){
