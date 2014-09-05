@@ -1,20 +1,7 @@
-angular.module('githubscout.language', ['nvd3ChartDirectives', 'ui.router'])
+angular.module('githubscout.language', ['nvd3ChartDirectives',
+ 'ui.router'
+ ])
 
-// <<<<<<< HEAD
-
-
-//   .controller('LanguageController', ['$scope', 'ChartsUtil', 'LanguageData', 'Repos', '$location', '$state', '$stateParams', function($scope, ChartsUtil, LanguageData, Repos, $location, $state, $stateParams){
-
-//   	$scope.data = {}
-//   	$scope.data.currentLanguages = LanguageData.currentLanguages;
-//   	$scope.data.allLanguages = LanguageData.allLanguages;
-
-//   	console.log('LanguageController')
-//     $scope.commits = LanguageData.commits;
-//     $scope.creates = LanguageData.creates;
-//     $scope.public_repos = LanguageData.public_repos;
-//     $scope.pushes = LanguageData.pushes;
-// =======
   .controller('LanguageController', ['$scope', '$q', 'ChartsUtil', function($scope, $q, ChartsUtil){
     var settings = {};
 
@@ -57,23 +44,16 @@ angular.module('githubscout.language', ['nvd3ChartDirectives', 'ui.router'])
     ChartsUtil.readDataFile(settings).then(function(chartDataRepo){
       $scope.pushes = chartDataRepo;
     });
-// >>>>>>> (feat/languagePage) Refactor the code for the language charts. Move functions to services.js
 
-    // Formats the JavaScript date object for the x axis labels 
+
+    // Formats the JavaScript date object for the x axis labels
     $scope.xAxisTickFormat = function(){
         return function(d){
-            return d3.time.format('%x')(new Date(d));
+            return d3.time.format('%x')(new Date(d));  //uncomment for date format
         };
     };
 
-// <<<<<<< HEAD
-//     // Sets the color for the lines
-//     var colorArray = ['#ffa500', '#c80032', '#0000ff', '#6464ff'];
-//     $scope.colorFunction = function(){
-//         return function(d, i){
-//             return colorArray[i];
-//         }
-//     }
+
 
     $scope.addLanguage = function() {
     	LanguageData.currentLanguages.push($scope.data.nextLanguage);
@@ -94,10 +74,15 @@ angular.module('githubscout.language', ['nvd3ChartDirectives', 'ui.router'])
 
 	    }
 
-=======
->>>>>>> (feat/languagePage) Refactor the code for the language charts. Move functions to services.js
+
+    // Sets the color for the lines
+    var colorArray = ['#ffa500', '#c80032', '#0000ff', '#6464ff'];
+    $scope.colorFunction = function(){
+        return function(d, i){
+            return colorArray[i];
+        }
+    }
+
   }])
 
 
-
-  
