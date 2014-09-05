@@ -164,4 +164,8 @@ footer {
 footer, .page-wrap:after {
   height: 60px; }
 
+.usercontainer {
+  float: left;
+}
+
 /*# sourceMappingURL=main.css.map */
