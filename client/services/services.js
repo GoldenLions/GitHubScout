@@ -16,8 +16,61 @@ angular.module('githubscout.services', [])
 .factory('UserData', function() {
   return {}
 })
+ // getdateandCommits will return an array of object with 
+ //object having the form ['2014-04-01',5],['2014-06-02',8]] 
+.factory('UserDateandCommits',function(){
+	var getdateandCommits  = function(obj){
+    var result = []
+    var commit = {};
+    for(var i =0; i<obj.length; i++){
+     var repo = obj[i]
+      for(var key in repo){
+          if(key === "date"){
+             if(commit[repo[key]]){
+                commit[repo[key]]++;
+             }else{
+                commit[repo[key]]=1;
+             }
+          }
+      }
+    }
+    for(var key in commit){
+        result.push([key,commit[key]])
+    }
+    return result
+  }
 
+	return {
+		getdateandCommits: getdateandCommits
+	}
+})
 
+  // getUserCommitsperLanganguage will return an array of object with 
+  //object having the form {language:'JavaScript', count:10}
+.factory('UserLanguagesandCommits',function(){
+    var getUserCommitsperLanganguage = function(obj){
+      var result = []
+      var commit ={}
+      for(var i=0; i<obj.length;i++){
+        var repo = obj[i].languages;
+        for(var key in repo){
+             if(commit[key]){
+                commit[key]++
+             }else{
+               commit[key]=1
+             }
+         }
+      }
+      for(var key in commit){
+         result.push({language:key,count:commit[key]})
+      }
+      return result;
+  }
+  return {
+  	 getUserCommitsperLanganguage: getUserCommitsperLanganguage
+  }
+
+})
 .factory('getUserCommits', function($http) {
   var config = [
     '?client_id=bf7e0962f270bf033f78',
