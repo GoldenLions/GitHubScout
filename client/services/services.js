@@ -2,19 +2,19 @@ angular.module('githubscout.services', [])
 
 .factory('UserSearch', function ($http, $stateParams, $state, getUserCommits, getUserEvents) {
   // Takes an object with a key of username that has a corresponding string, which is a username of a user on github. Returns an array of result JSON objects in the form of {date: 2013-03-13, count: 4}
-  var getUserCommitCount = getUserCommits
+  var getUserCommitCount = getUserCommits;
   // Takes an object with a key of username that has a corresponding string, which is a username of a user on github. Returns an array of result JSON objects in the form of {"date":"2013-05-14","languages":{"JavaScript":156871,"CSS":8123}, "repo":"portfolio"}
-  var getUserCommitsByLanguage = getUserCommits
+  var getUserCommitsByLanguage = getUserCommits;
 
   return {
     getUserCommitCount : getUserCommitCount,
     getUserCommitsByLanguage : getUserCommitsByLanguage,
     getUserEvents: getUserEvents
-  }
+  };
 })
 
 .factory('UserData', function() {
-  return {}
+  return {};
 })
 
 
@@ -28,7 +28,7 @@ angular.module('githubscout.services', [])
     var data = config.slice(0);
     data.push('page='+page);
     data.push('author='+author);
-    data.push('per_page=100')
+    data.push('per_page=100');
     //console.log('CURRENT COMMITS',repo.commits_url, page)
     return $http({
       'method': 'GET',
@@ -39,7 +39,7 @@ angular.module('githubscout.services', [])
         storage.push({
           'repo':repo.full_name,
           'date':item.commit.committer.date.slice(0,10)
-        })
+        });
       });
       //console.log(result.data.length)
       if (result.data.length === 100 && page < 6) {
@@ -47,7 +47,7 @@ angular.module('githubscout.services', [])
       } else {
         return storage;
       }
-    })
+    });
   };
 
   var iterativeGetRepoStats = function(remainingRepoData,author,storage) {
@@ -71,8 +71,8 @@ angular.module('githubscout.services', [])
         } else {
           return storage;
         }
-      })
-    })
+      });
+    });
   };
 
   var getUserCommits = function(obj) {
@@ -87,17 +87,17 @@ angular.module('githubscout.services', [])
           'full_name': repo.full_name,
           'languages_url': repo.languages_url,
           'commits_url': repo.commits_url.slice(0,repo.commits_url.length-6)
-        }
+        };
       });
 
       return iterativeGetRepoStats(repoData,username,[])
       .then(function(result) {
         return result.sort(function(a,b) {
           return a.date > b.date ? -1 : 1;
-        })
-      })
+        });
+      });
     });
-  }
+  };
       //console.log("this is getUserCOmmmits", getUserCommits)
   return getUserCommits;
 })
@@ -119,7 +119,7 @@ angular.module('githubscout.services', [])
       repo: event.repo.name,
       payload: processPayload(event.payload,event.type),
       date: event.created_at
-    }
+    };
     return result;
   };
 
@@ -135,38 +135,51 @@ angular.module('githubscout.services', [])
         return processEvent(item);
       }));
       if (result.data.length === 30 && page < 10) {
-        return fetchAllEvents(username,storage,page+1)
+        return fetchAllEvents(username,storage,page+1);
       } else {
         return storage;
       }
-    })
+    });
   };
 
   var getUserEvents = function(obj) {
     var username = obj.username;
-    return fetchAllEvents(username,[],1)
+    return fetchAllEvents(username,[],1);
   };
 
   return getUserEvents;
 })
 
-.factory('ChartsUtil', function(){
+.factory('ChartsUtil', function($q){
 
-  // The input data file has information about all the languages.
-  // processLanguageData() filters the data file and  creates a 
+  // Use $q promises to read the data file and return the results. 
+  var readDataFile = function(settings){
+
+    var dataDefer = $q.defer();
+      // d3.csv reads the csv files and returns the data
+      d3.csv( settings.url, function(error, data){
+      // processLanguageData() converts the data into the correct format for the charts
+      dataDefer.resolve(processLanguageData(settings, data));
+    });
+    return dataDefer.promise;
+  };
+
+  // The input data has information about all the languages.
+  // processLanguageData() filters the data and  creates a 
   // separate data set for each language that is listed in settings.
   var processLanguageData = function(settings, data){
     console.log('processLanguageData');
     console.log(settings)
 
-    var chartData = [], values;
+    var chartData = [],
+        values;
 
-    // create one data set for each language
+    // Create one data set for each language in settings.
     for (var i=0; i < settings.languages.length; i++){
       values = [];
       language = settings.languages[i];
 
-      // select the data for one language
+      // Select the data for one language.
       var filtered = data
         .filter(function(d){
            return d.repository_language ===language;
@@ -175,14 +188,10 @@ angular.module('githubscout.services', [])
       // Line charts require x and y values for every point.
       filtered
         .forEach(function(d){
-          values.push([new Date(d.month), +d[settings.y]])
+          values.push([new Date(d.month), +d[settings.y]]);
         });
-<<<<<<< HEAD
-
-=======
       
-      // Each data set has a key and values.
->>>>>>> (fix) Fix the line that was connecting multiple datasets on language charts
+      // Create a data set. Data set has a key and values.
       chartData.push({
         key: language,
         values: values
@@ -192,9 +201,9 @@ angular.module('githubscout.services', [])
   };
 
   return {
-    processLanguageData: processLanguageData
+    processLanguageData: processLanguageData,
+    readDataFile: readDataFile
   };
-<<<<<<< HEAD
 })
 
 //Since it can take a while for D3 to processs csv files, we use
@@ -225,19 +234,11 @@ angular.module('githubscout.services', [])
 }])
 
 .factory('LanguageData', function() {
-  var allLanguages = ["ABAP", "AGS Script", "ANTLR", "APL", "ASP", "ATS", "ActionScript", "Ada", "Agda", "Alloy", "Apex", "AppleScript", "Arc", "Arduino", "AspectJ", "Assembly", "Augeas", "AutoHotkey", "AutoIt", "Awk", "BlitzBasic", "BlitzMax", "Bluespec", "Boo", "Brightscript", "Bro", "C", "C#", "C++", "CLIPS", "COBOL", "CSS", "Ceylon", "Chapel", "Cirru", "Clean", "Clojure", "CoffeeScript", "ColdFusion", "Common Lisp", "Component Pascal", "Coq", "Crystal", "Cuda", "D", "DCPU-16 ASM", "DCPU-16 Assembly", "DM", "DOT", "Dart", "Delphi", "Dogescript", "Dylan", "E", "Ecl", "Eiffel", "Elixir", "Elm", "Emacs Lisp", "EmberScript", "Erlang", "F#", "FLUX", "FORTRAN", "Factor", "Fancy", "Fantom", "Forth", "Frege", "GAMS", "GAP", "Game Maker Language", "Glyph", "Gnuplot", "Go", "Gosu", "Grace", "Grammatical Framework", "Groovy", "HaXe", "Harbour", "Haskell", "Haxe", "Hy", "IDL", "Idris", "Inform 7", "Io", "Ioke", "Isabelle", "J", "JSONiq", "Java", "JavaScript", "Julia", "KRL", "Kotlin", "LabVIEW", "Lasso", "LiveScript", "Logos", "Logtalk", "LookML", "Lua", "M", "Mathematica", "Matlab", "Max", "Max/MSP", "Mercury", "Mirah", "Modelica", "Monkey", "Moocode", "MoonScript", "Nemerle", "NetLogo", "Nimrod", "Nit", "Nix", "Nu", "OCaml", "Objective-C", "Objective-C++", "Objective-J", "Omgrofl", "Opa", "OpenEdge ABL", "OpenSCAD", "Ox", "Oxygene", "PAWN", "PHP", "Pan", "Parrot", "Pascal", "Perl", "Perl6", "PigLatin", "Pike", "PogoScript", "PowerShell", "Powershell", "Processing", "Prolog", "Propeller Spin", "Puppet", "Pure Data", "PureScript", "Python", "R", "REALbasic", "Racket", "Ragel in Ruby Host", "Rebol", "Red", "RobotFramework", "Rouge", "Ruby", "Rust", "SAS", "SQF", "SQL", "Scala", "Scheme", "Scilab", "Self", "Shell", "Shen", "Slash", "Smalltalk", "SourcePawn", "Squirrel", "Standard ML", "Stata", "SuperCollider", "Swift", "SystemVerilog", "TXL", "Tcl", "TeX", "Turing", "TypeScript", "UnrealScript", "VCL", "VHDL", "Vala", "Verilog", "VimL", "Visual Basic", "Volt", "XC", "XML", "XProc", "XQuery", "XSLT", "Xojo", "Xtend", "Zephir", "Zimpl", "eC", "nesC", "ooc", "wisp", "xBase", ]
+  var allLanguages = ["ABAP", "AGS Script", "ANTLR", "APL", "ASP", "ATS", "ActionScript", "Ada", "Agda", "Alloy", "Apex", "AppleScript", "Arc", "Arduino", "AspectJ", "Assembly", "Augeas", "AutoHotkey", "AutoIt", "Awk", "BlitzBasic", "BlitzMax", "Bluespec", "Boo", "Brightscript", "Bro", "C", "C#", "C++", "CLIPS", "COBOL", "CSS", "Ceylon", "Chapel", "Cirru", "Clean", "Clojure", "CoffeeScript", "ColdFusion", "Common Lisp", "Component Pascal", "Coq", "Crystal", "Cuda", "D", "DCPU-16 ASM", "DCPU-16 Assembly", "DM", "DOT", "Dart", "Delphi", "Dogescript", "Dylan", "E", "Ecl", "Eiffel", "Elixir", "Elm", "Emacs Lisp", "EmberScript", "Erlang", "F#", "FLUX", "FORTRAN", "Factor", "Fancy", "Fantom", "Forth", "Frege", "GAMS", "GAP", "Game Maker Language", "Glyph", "Gnuplot", "Go", "Gosu", "Grace", "Grammatical Framework", "Groovy", "HaXe", "Harbour", "Haskell", "Haxe", "Hy", "IDL", "Idris", "Inform 7", "Io", "Ioke", "Isabelle", "J", "JSONiq", "Java", "JavaScript", "Julia", "KRL", "Kotlin", "LabVIEW", "Lasso", "LiveScript", "Logos", "Logtalk", "LookML", "Lua", "M", "Mathematica", "Matlab", "Max", "Max/MSP", "Mercury", "Mirah", "Modelica", "Monkey", "Moocode", "MoonScript", "Nemerle", "NetLogo", "Nimrod", "Nit", "Nix", "Nu", "OCaml", "Objective-C", "Objective-C++", "Objective-J", "Omgrofl", "Opa", "OpenEdge ABL", "OpenSCAD", "Ox", "Oxygene", "PAWN", "PHP", "Pan", "Parrot", "Pascal", "Perl", "Perl6", "PigLatin", "Pike", "PogoScript", "PowerShell", "Powershell", "Processing", "Prolog", "Propeller Spin", "Puppet", "Pure Data", "PureScript", "Python", "R", "REALbasic", "Racket", "Ragel in Ruby Host", "Rebol", "Red", "RobotFramework", "Rouge", "Ruby", "Rust", "SAS", "SQF", "SQL", "Scala", "Scheme", "Scilab", "Self", "Shell", "Shen", "Slash", "Smalltalk", "SourcePawn", "Squirrel", "Standard ML", "Stata", "SuperCollider", "Swift", "SystemVerilog", "TXL", "Tcl", "TeX", "Turing", "TypeScript", "UnrealScript", "VCL", "VHDL", "Vala", "Verilog", "VimL", "Visual Basic", "Volt", "XC", "XML", "XProc", "XQuery", "XSLT", "Xojo", "Xtend", "Zephir", "Zimpl", "eC", "nesC", "ooc", "wisp", "xBase" ];
 
   return {
     allLanguages: allLanguages,
     currentLanguages: []
   };
 })
-=======
-
-
-
-
-
-});
->>>>>>> (fix) Fix the line that was connecting multiple datasets on language charts
 
