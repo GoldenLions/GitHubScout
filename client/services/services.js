@@ -277,6 +277,7 @@ angular.module('githubscout.services', [])
 
     deferred.resolve(chartData);
 
+    // return a promise
     return deferred.promise;
   };
 
@@ -285,6 +286,7 @@ angular.module('githubscout.services', [])
 
     console.log('fecthLanguageData');
 
+    // Create a promise object.
     var deferred = $q.defer();
 
     readDataFile(settings)
@@ -292,43 +294,61 @@ angular.module('githubscout.services', [])
         deferred.resolve( processLanguageData(settings, result) );
       });
 
+    // return a promise
+    return deferred.promise;
+  };
+
+
+  var processHorizontalBarData = function(settings, rawData){
+    console.log('processHorizontalBar', settings);
+    var chartData =[],
+      values =[];
+
+    var deferred = $q.defer();
+
+    rawData.forEach(function(d){
+      values.push([d.repository_language, +d.commits])
+    });
+
+    chartData =[{
+        key: settings.key,
+        values: values
+      }];
+
+    deferred.resolve(chartData);
     return deferred.promise;
 
   };
 
+  var fetchHorizontalBarData = function(settings){
+    // var deferred = $q.defer();
+
+    console.log('fetchHorizontalBar');
+
+    var deferred = $q.defer();
+
+    readDataFile(settings)
+      .then(function(result){
+        deferred.resolve( processHorizontalBarData(settings, result) );
+      });
+    return deferred.promise;
+  };
+
+
+
+
+
   return {
     processLanguageData: processLanguageData,
     readDataFile: readDataFile,
-    fetchLanguageData: fetchLanguageData
+    fetchLanguageData: fetchLanguageData,
+    fetchHorizontalBarData: fetchHorizontalBarData
   };
+
+
 })
 
-// //Since it can take a while for D3 to processs csv files, we use
-// // $q to return a promise.
-// .factory('Repos', ['$q', 'ChartsUtil', 'LanguageData', function($q, ChartsUtil, LanguageData){
-//   var makeRepoPromise = function() {
-//     var url = './CSVs/repo_activity_by_month.csv';
 
-//     var settings = {
-//       languages: LanguageData.currentLanguages,
-//       y: 'activity'
-//     };
-
-//     var dataDefer = $q.defer();
-//       // d3.csv reads the csv files and returns the data
-//       d3.csv( url, function(error, data){
-//       // processLanguageData() converts the data into the correct format for the charts
-//       console.log('d3 read')
-//       dataDefer.resolve(ChartsUtil.processLanguageData(settings, data));
-//     });
-
-//     return dataDefer.promise
-//   }
-
-//   return {
-//     makeRepoPromise: makeRepoPromise
-//   }
-// }])
 
 .factory('LanguageData', function() {
   var allLanguages = ["ABAP", "AGS Script", "ANTLR", "APL", "ASP", "ATS", "ActionScript", "Ada", "Agda", "Alloy", "Apex", "AppleScript", "Arc", "Arduino", "AspectJ", "Assembly", "Augeas", "AutoHotkey", "AutoIt", "Awk", "BlitzBasic", "BlitzMax", "Bluespec", "Boo", "Brightscript", "Bro", "C", "C#", "C++", "CLIPS", "COBOL", "CSS", "Ceylon", "Chapel", "Cirru", "Clean", "Clojure", "CoffeeScript", "ColdFusion", "Common Lisp", "Component Pascal", "Coq", "Crystal", "Cuda", "D", "DCPU-16 ASM", "DCPU-16 Assembly", "DM", "DOT", "Dart", "Delphi", "Dogescript", "Dylan", "E", "Ecl", "Eiffel", "Elixir", "Elm", "Emacs Lisp", "EmberScript", "Erlang", "F#", "FLUX", "FORTRAN", "Factor", "Fancy", "Fantom", "Forth", "Frege", "GAMS", "GAP", "Game Maker Language", "Glyph", "Gnuplot", "Go", "Gosu", "Grace", "Grammatical Framework", "Groovy", "HaXe", "Harbour", "Haskell", "Haxe", "Hy", "IDL", "Idris", "Inform 7", "Io", "Ioke", "Isabelle", "J", "JSONiq", "Java", "JavaScript", "Julia", "KRL", "Kotlin", "LabVIEW", "Lasso", "LiveScript", "Logos", "Logtalk", "LookML", "Lua", "M", "Mathematica", "Matlab", "Max", "Max/MSP", "Mercury", "Mirah", "Modelica", "Monkey", "Moocode", "MoonScript", "Nemerle", "NetLogo", "Nimrod", "Nit", "Nix", "Nu", "OCaml", "Objective-C", "Objective-C++", "Objective-J", "Omgrofl", "Opa", "OpenEdge ABL", "OpenSCAD", "Ox", "Oxygene", "PAWN", "PHP", "Pan", "Parrot", "Pascal", "Perl", "Perl6", "PigLatin", "Pike", "PogoScript", "PowerShell", "Powershell", "Processing", "Prolog", "Propeller Spin", "Puppet", "Pure Data", "PureScript", "Python", "R", "REALbasic", "Racket", "Ragel in Ruby Host", "Rebol", "Red", "RobotFramework", "Rouge", "Ruby", "Rust", "SAS", "SQF", "SQL", "Scala", "Scheme", "Scilab", "Self", "Shell", "Shen", "Slash", "Smalltalk", "SourcePawn", "Squirrel", "Standard ML", "Stata", "SuperCollider", "Swift", "SystemVerilog", "TXL", "Tcl", "TeX", "Turing", "TypeScript", "UnrealScript", "VCL", "VHDL", "Vala", "Verilog", "VimL", "Visual Basic", "Volt", "XC", "XML", "XProc", "XQuery", "XSLT", "Xojo", "Xtend", "Zephir", "Zimpl", "eC", "nesC", "ooc", "wisp", "xBase", ]
