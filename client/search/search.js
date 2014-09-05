@@ -1,13 +1,16 @@
 angular.module('githubscout.search', [])
 
 .controller('SearchController', ['$scope', '$state', '$stateParams', 'UserSearch',  'UserData', 'ChartsUtil', 'LanguageData', function ($scope, $state, $stateParams, UserSearch, UserData, ChartsUtil, LanguageData) {
+  $scope.loading = false;
   $scope.input = {};
   $scope.input.languageList = LanguageData.allLanguages
   // This function finds the data for a given username, which is stored at $scope.input.username. It stores the resulting data in the UserData service, then routes to the user state
   $scope.searchUser = function () {
     // First send a POST request to get the user's commit count data
+ 		$scope.loading = true;
     UserSearch.getUserCommitsByLanguage({username: $scope.input.username})
       .then(function (data) {
+  			$scope.loading = false;
         UserData.username = $scope.input.username;
         UserData.rawDataCommitsByLanguage = data;
         $stateParams.username = $scope.input.username;
@@ -17,17 +20,6 @@ angular.module('githubscout.search', [])
   $scope.searchLanguage = function() {
     LanguageData.currentLanguages = [];
     LanguageData.currentLanguages.push($scope.input.language);
-
-    // var repoPromise = Repos.makeRepoPromise()
-    // repoPromise
-    //   .then(function(chartData){
-    //     LanguageData.commits = chartData;
-    //     LanguageData.creates = chartData;
-    //     LanguageData.public_repos = chartData;
-    //     LanguageData.pushes = chartData;
-    //     $stateParams.language = $scope.input.language;
-    //     $state.go('language', $stateParams.language)
-    //   });
 
     var settings = {};
 
@@ -43,7 +35,7 @@ angular.module('githubscout.search', [])
       $stateParams.language = $scope.input.language;
       $state.go('language', $stateParams.language)
     });
-    
+
     settings = {
       languages: LanguageData.currentLanguages,
       y: 'creates',
