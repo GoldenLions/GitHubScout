@@ -24,12 +24,12 @@ angular.module('githubscout.home', ['nvd3ChartDirectives'])
       $scope.allLanguages  = chartData;
   });
 
+
   // // Formats the JavaScript date object for the x axis labels
   $scope.xAxisTickFormat = function(){
       return function(d){
           return d3.time.format('%x')(new Date(d));  //uncomment for date format
       };
   };
-
 
 }])

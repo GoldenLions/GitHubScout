@@ -381,7 +381,6 @@ angular.module('githubscout.services', [])
     return deferred.promise;
   };
 
-
   return {
     processLanguageData: processLanguageData,
     readDataFile: readDataFile,
