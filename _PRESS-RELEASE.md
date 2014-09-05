@@ -17,17 +17,10 @@ Once the project moves into development, the press release can be used as a touc
  -->
 
 ## Heading ##
-<<<<<<< HEAD
-  > TripMap
-
-## Sub-Heading ##
-  > TripMap is for savvy vacationers who want to easily organize their trip planning.
-=======
   Github Scout
 
 ## Sub-Heading ##
   Reddit insight for Github
->>>>>>> def98f93032d23ea0e17cb2c4526da82e0ed6202
 
 ## Summary ##
   What do you want to know about github? Find it at our site! We have poured over Github and brought together a group of fascinating statistics and data for you to peruse.
