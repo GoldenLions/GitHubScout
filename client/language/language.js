@@ -11,7 +11,9 @@ angular.module('githubscout.language', ['nvd3ChartDirectives',
 
     console.log('LanguageController')
     $scope.commits = LanguageData.commits;
+    console.log("commmmmmits", $scope.commits)
     $scope.creates = LanguageData.creates;
+
     $scope.public_repos = LanguageData.public_repos;
     $scope.pushes = LanguageData.pushes;
 

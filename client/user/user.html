@@ -1,9 +1,6 @@
 <div>
-
+ <button ng-click="compareUser()">Compare User </button>
   <h1>User View</h1>
-  <form ng-submit='submitUsername(search)'>
-   
- 
      <h1>GitHub User {{search.username}} Commits Over Time</h1>
     <nvd3-multi-bar-chart
                data="commitsbyDateData"
@@ -11,6 +8,7 @@
                height="400"
                showXAxis="true"
                showYAxis="true"
+               xAxisTickFormat="xAxisTickFormat()"
                rotateLabels="-45">
            <svg></svg>
        </nvd3-multi-bar-chart>
@@ -26,7 +24,22 @@
       height="500"
       showLabels="true"
       pieLabelsOutside="true"
-      showValues="true"
+      labelType="key"
+       >
+      <svg></svg>
+    </nvd3-pie-chart>
+
+
+<nvd3-pie-chart
+      data="commitsperLangugageData1"
+      id="exampleId2"
+      x="xFunction()"
+      y="yFunction()"
+      width="500"
+      height="500"
+      showLabels="true"
+      pieLabelsOutside="true"
+      labelType="key"
        >
       <svg></svg>
     </nvd3-pie-chart>
