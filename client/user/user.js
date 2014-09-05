@@ -5,7 +5,7 @@ userapp.controller('UserController', ['$scope', 'UserData', 'UserDateandCommits'
   $scope.username = UserData.username
   $scope.userdata.data = UserData.rawDataCommitsByLanguage
   $scope.newDiv=function(){
-             $scope.items= {stuff: 'GitHub User ' + UserData.username+ ' Commits By Langauges'}
+             $scope.items= {title: 'GitHub User ' + UserData.username+ ' Commits By Langauges'}
         }
 
 
@@ -40,7 +40,7 @@ userapp.controller('UserController', ['$scope', 'UserData', 'UserDateandCommits'
                             
                          ];
 
-
+  
     $scope.compareUser = function(){
        
 
@@ -63,14 +63,6 @@ userapp.controller('UserController', ['$scope', 'UserData', 'UserDateandCommits'
 
 
     }
-
-    // $scope.xAxisTickFormat = function(){
-    //     return function(d){
-    //       //console.log("datttttes",d)
-    //         return d3.time.format('%b')(new Date(d));  //uncomment for date format
-    //     };
-    // };
-
   //Function that allows nvd3 and d3 to access x values from the ‘data’. 
   $scope.xFunction = function() {
     return function(d) {
