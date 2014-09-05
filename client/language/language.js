@@ -3,12 +3,13 @@ angular.module('githubscout.language', ['nvd3ChartDirectives',
  ])
 
 
+  .controller('LanguageController', ['$scope', 'ChartsUtil', 'LanguageData', '$location', '$state', '$stateParams', function($scope, ChartsUtil, LanguageData, $location, $state, $stateParams){
 
-  .controller('LanguageController', ['$scope', 'ChartsUtil', 'LanguageData', '$stateParams', function($scope, ChartsUtil, LanguageData, $stateParams){
+    $scope.data = {};
+    $scope.data.currentLanguages = LanguageData.currentLanguages;
+    $scope.data.allLanguages = LanguageData.allLanguages;
 
-  	$scope.data = {}
-
-  	console.log('LanguageController')
+    console.log('LanguageController')
     $scope.commits = LanguageData.commits;
     $scope.creates = LanguageData.creates;
 
@@ -22,15 +23,71 @@ angular.module('githubscout.language', ['nvd3ChartDirectives',
         };
     };
 
-    // Sets the color for the lines
-    var colorArray = ['#ffa500', '#c80032', '#0000ff', '#6464ff'];
-    $scope.colorFunction = function(){
-        return function(d, i){
-            return colorArray[i];
-        }
-    }
+    $scope.addLanguage = function() {
+      var settings = {};
 
-  }])
+      LanguageData.currentLanguages.push($scope.data.nextLanguage);
 
+      settings = {
+        languages: LanguageData.currentLanguages,
+        y: 'activity',
+        url: './CSVs/repo_activity_by_month.csv'
+      };
 
+      ChartsUtil.readDataFile(settings)
+        .then(function(chartData){
+        LanguageData.commits = chartData;
+        $state.transitionTo($state.current, $scope.data.nextLanguage, {
+          location: true, reload: true, inherit: true, notify: true
+        });
+        console.log($stateParams);
+      });
+      
+      settings = {
+        languages: LanguageData.currentLanguages,
+        y: 'creates',
+        url: './CSVs/repo_creates_by_month.csv'
+      };
+
+      ChartsUtil.readDataFile(settings)
+        .then(function(chartData){
+          LanguageData.creates = chartData;
+          $state.transitionTo($state.current, $scope.data.nextLanguage, {
+            location: true, reload: true, inherit: true, notify: true
+          });
+          console.log($stateParams);
+        });
+
+      settings = {
+        languages: LanguageData.currentLanguages,
+        y: 'publics',
+        url: './CSVs/repos_made_public_by_month.csv'
+      };
+
+      ChartsUtil.readDataFile(settings)
+        .then(function(chartData){
+          LanguageData.public_repos = chartData;
+          $state.transitionTo($state.current, $scope.data.nextLanguage, {
+            location: true, reload: true, inherit: true, notify: true
+          });
+          console.log($stateParams);
+        });
+
+      settings = {
+        languages: LanguageData.currentLanguages,
+        y: 'pushes',
+        url: './CSVs/pushes_by_month.csv'
+      };
+
+      ChartsUtil.readDataFile(settings)
+        .then(function(chartData){
+          LanguageData.pushes = chartData;
+          $state.transitionTo($state.current, $scope.data.nextLanguage, {
+            location: true, reload: true, inherit: true, notify: true
+          });
+          console.log($stateParams);
+        });
+      };
+
+  }]);
 

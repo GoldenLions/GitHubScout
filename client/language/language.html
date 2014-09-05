@@ -1,4 +1,14 @@
 <h1>Language View</h1>
+  <ul>
+    <li ng-repeat="language in data.currentLanguages">{{language}}</li>
+  </ul>
+  <form ng-submit='addLanguage()' class='fx-fade-normal'>
+    <h2>Compare another language:</h2>
+    <select ng-model="data.nextLanguage" ng-options="language for language in data.allLanguages" placeholder='Enter language'>
+      <option value="">Choose a Language</option>
+    </select>
+    <input type='submit' value='Search' />
+  </form>
   <nvd3-line-chart
           data="commits"
           id="commits"
@@ -11,7 +21,6 @@
           showlegend = "true"
           margin="{left:150,top:50,bottom:0,right:50}"
           xAxisTickFormat="xAxisTickFormat()"
-          color="colorFunction()"
           >
        <svg></svg>
   </nvd3-line-chart>
@@ -28,7 +37,6 @@
           showlegend = "true"
           margin="{left:150,top:50,bottom:0,right:50}"
           xAxisTickFormat="xAxisTickFormat()"
-          color="colorFunction()"
           >
        <svg></svg>
   </nvd3-line-chart>
@@ -45,7 +53,6 @@
           showlegend = "true"
           margin="{left:150,top:50,bottom:0,right:50}"
           xAxisTickFormat="xAxisTickFormat()"
-          color="colorFunction()"
           >
       <svg></svg>
   </nvd3-line-chart>
@@ -62,7 +69,6 @@
           showlegend = "true"
           margin="{left:150,top:50,bottom:0,right:50}"
           xAxisTickFormat="xAxisTickFormat()"
-          color="colorFunction()"
           >
       <svg></svg>
   </nvd3-line-chart>
