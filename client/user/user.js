@@ -133,26 +133,32 @@ userapp.directive('usercommitChart', function($window){
 >>>>>>> PLayed around with nvd3
 
   $scope.getdateandCommits = function(){
-
-     return  UserDateandCommits.getdateandCommits($scope.userdata.data)
-      }
+    return  UserDateandCommits.getdateandCommits($scope.userdata.data)
+  }
 
   $scope.getUserCommitsperLanganguage = function(){
-
     return UserLanguagesandCommits.getUserCommitsperLanganguage($scope.userdata.data)
+  }
 
+<<<<<<< HEAD
      }
     $scope.nextone; 
     $scope.userDateandCommits=$scope.getdateandCommits().reverse()
     $scope.userDateandCommits1=$scope.getdateandCommits().reverse()
     $scope.commitsperLangugageData = $scope.getUserCommitsperLanganguage()
+=======
+  $scope.userDateandCommits=$scope.getdateandCommits().reverse()
+  $scope.userDateandCommits1=$scope.getdateandCommits().reverse()
+  $scope.commitsperLangugageData = $scope.getUserCommitsperLanganguage()
+>>>>>>> 8a34e2cbf9e449bc3ecafa2bc44bf887bb4485cb
 
 
-    console.log( "daaaaatataatata", $scope.userDateandCommits)
+  console.log( "daaaaatataatata", $scope.userDateandCommits)
 
 
 
    //Data for bar chart.
+<<<<<<< HEAD
   
    $scope.commitsbyDateData =
                         [
@@ -176,17 +182,47 @@ userapp.directive('usercommitChart', function($window){
                  { 
                     key: "User2",
                     values: [['2014/6',10],['2014/8',23],['2014/9',10]]
+=======
 
-                 }
-               
-            ]; 
+  $scope.commitsbyDateData =
+  [{
+    "key": "Series 1",
+    "values": $scope.userDateandCommits
+  }];
 
-      $scope.commitsperLangugageData1 = $scope.getUserCommitsperLanganguage()
 
+
+  $scope.compareUser = function(){
+    $scope.commitsbyDateData =
+    [{
+     key: "Series 1",
+     values: $scope.userDateandCommits
+    },
+    {
+      key: "Series 2",
+      values: $scope.userDateandCommits1
+    }];
+>>>>>>> 8a34e2cbf9e449bc3ecafa2bc44bf887bb4485cb
+
+  $scope.commitsperLangugageData1 = $scope.getUserCommitsperLanganguage()
+
+}
+
+<<<<<<< HEAD
 
 
     }
   //Function that allows nvd3 and d3 to access x values from the ‘data’. 
+=======
+$scope.xAxisTickFormat = function(){
+  return function(d){
+          //console.log("datttttes",d)
+            return d3.time.format('%x')(new Date(d));  //uncomment for date format
+          };
+        };
+
+  //Function that allows nvd3 and d3 to access x values from the ‘data’.
+>>>>>>> 8a34e2cbf9e449bc3ecafa2bc44bf887bb4485cb
   $scope.xFunction = function() {
     return function(d) {
       return d.language;
@@ -200,5 +236,5 @@ userapp.directive('usercommitChart', function($window){
   }
 }])
 
- 
+
 
