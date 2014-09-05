@@ -2,59 +2,71 @@ var userapp = angular.module('githubscout.user', ['ui.router','nvd3ChartDirectiv
 
 userapp.controller('UserController', ['$scope', 'UserData', 'UserDateandCommits','UserLanguagesandCommits',function($scope, UserData,UserDateandCommits,UserLanguagesandCommits) {
   $scope.userdata =[];
+  $scope.username = UserData.username
   $scope.userdata.data = UserData.rawDataCommitsByLanguage
+  $scope.newDiv=function(){
+             $scope.items= {title: 'GitHub User '+ UserData.username + ' Commits By Langauges'}
+        }
 
 
   $scope.getdateandCommits = function(){
-    return  UserDateandCommits.getdateandCommits($scope.userdata.data)
-  }
+
+     return  UserDateandCommits.getdateandCommits($scope.userdata.data)
+      }
 
   $scope.getUserCommitsperLanganguage = function(){
+
     return UserLanguagesandCommits.getUserCommitsperLanganguage($scope.userdata.data)
-  }
 
-  $scope.userDateandCommits=$scope.getdateandCommits().reverse()
-  $scope.userDateandCommits1=$scope.getdateandCommits().reverse()
-  $scope.commitsperLangugageData = $scope.getUserCommitsperLanganguage()
-
-
-  console.log( "daaaaatataatata", $scope.userDateandCommits)
-
-
+     }
+    $scope.nextone; 
+    $scope.userDateandCommits=$scope.getdateandCommits().reverse()
+    $scope.userDateandCommits1=$scope.getdateandCommits().reverse()
+    $scope.commitsperLangugageData = $scope.getUserCommitsperLanganguage()
 
    //Data for bar chart.
+  
+   $scope.commitsbyDateData =
+                        [
+                              {
+                                  "key": UserData.username,
+                                  "values": $scope.userDateandCommits
+                              }
+                            
+                         ];
 
-  $scope.commitsbyDateData =
-  [{
-    "key": "Series 1",
-    "values": $scope.userDateandCommits
-  }];
+
+    $scope.compareUser = function(){
+       
+
+        $scope.commitsbyDateData =
+               [
+                 {
+                     key: UserData.username,
+                     values: $scope.userDateandCommits
+                 },
+                 { 
+                    key: "User2",
+                    values: [['2014/6',10],['2014/8',23],['2014/9',10]]
+
+                 }
+               
+            ]; 
+
+      $scope.commitsperLangugageData1 = $scope.getUserCommitsperLanganguage()
 
 
 
-  $scope.compareUser = function(){
-    $scope.commitsbyDateData =
-    [{
-     key: "Series 1",
-     values: $scope.userDateandCommits
-    },
-    {
-      key: "Series 2",
-      values: $scope.userDateandCommits1
-    }];
+    }
 
-  $scope.commitsperLangugageData1 = $scope.getUserCommitsperLanganguage()
+    // $scope.xAxisTickFormat = function(){
+    //     return function(d){
+    //       //console.log("datttttes",d)
+    //         return d3.time.format('%b')(new Date(d));  //uncomment for date format
+    //     };
+    // };
 
-}
-
-$scope.xAxisTickFormat = function(){
-  return function(d){
-          //console.log("datttttes",d)
-            return d3.time.format('%x')(new Date(d));  //uncomment for date format
-          };
-        };
-
-  //Function that allows nvd3 and d3 to access x values from the ‘data’.
+  //Function that allows nvd3 and d3 to access x values from the ‘data’. 
   $scope.xFunction = function() {
     return function(d) {
       return d.language;
@@ -68,5 +80,5 @@ $scope.xAxisTickFormat = function(){
   }
 }])
 
-
+ 
 
