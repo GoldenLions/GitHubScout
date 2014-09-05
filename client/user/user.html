@@ -1,9 +1,6 @@
 <div>
 
   <h1>User View</h1>
-  <form ng-submit='submitUsername(search)'>
-   
- 
      <h1>GitHub User {{search.username}} Commits Over Time</h1>
     <nvd3-multi-bar-chart
                data="commitsbyDateData"
@@ -26,7 +23,7 @@
       height="500"
       showLabels="true"
       pieLabelsOutside="true"
-      showValues="true"
+      labelType="key"
        >
       <svg></svg>
     </nvd3-pie-chart>

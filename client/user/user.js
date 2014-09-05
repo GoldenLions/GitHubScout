@@ -4,6 +4,7 @@ userapp.controller('UserController', ['$scope', 'UserData', 'UserDateandCommits'
   $scope.userdata =[];
   $scope.userdata.data = UserData.rawDataCommitsByLanguage
 
+
   $scope.getdateandCommits = function(){
 
      return  UserDateandCommits.getdateandCommits($scope.userdata.data)

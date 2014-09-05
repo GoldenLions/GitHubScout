@@ -62,7 +62,12 @@ angular.module('githubscout.services', [])
          }
       }
       for(var key in commit){
-         result.push({language:key,count:commit[key]})
+      	   if(commit[key]<=3){
+            result.push({language:key,count:commit[key]+3})
+        }else{
+            result.push({language:key,count:commit[key]})
+
+        }
       }
       return result;
   }
