@@ -17,6 +17,18 @@ angular.module('githubscout.search', [])
   $scope.searchLanguage = function() {
     LanguageData.currentLanguages = [];
     LanguageData.currentLanguages.push($scope.input.language);
+
+    // var repoPromise = Repos.makeRepoPromise()
+    // repoPromise
+    //   .then(function(chartData){
+    //     LanguageData.commits = chartData;
+    //     LanguageData.creates = chartData;
+    //     LanguageData.public_repos = chartData;
+    //     LanguageData.pushes = chartData;
+    //     $stateParams.language = $scope.input.language;
+    //     $state.go('language', $stateParams.language)
+    //   });
+
     var settings = {};
 
     settings = {
@@ -70,7 +82,6 @@ angular.module('githubscout.search', [])
        $stateParams.language = $scope.input.language;
        $state.go('language', $stateParams.language)
       });
-
 
   };
 
