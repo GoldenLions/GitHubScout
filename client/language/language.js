@@ -4,9 +4,11 @@ angular.module('githubscout.language', ['nvd3ChartDirectives',
 
 
 
-  .controller('LanguageController', ['$scope', 'ChartsUtil', 'LanguageData', '$stateParams', function($scope, ChartsUtil, LanguageData, $stateParams){
+  .controller('LanguageController', ['$scope', 'ChartsUtil', 'LanguageData', 'Repos', '$location', '$state', '$stateParams', function($scope, ChartsUtil, LanguageData, Repos, $location, $state, $stateParams){
 
   	$scope.data = {}
+  	$scope.data.currentLanguages = LanguageData.currentLanguages;
+  	$scope.data.allLanguages = LanguageData.allLanguages;
 
   	console.log('LanguageController')
     $scope.commits = LanguageData.commits;
@@ -28,6 +30,25 @@ angular.module('githubscout.language', ['nvd3ChartDirectives',
             return colorArray[i];
         }
     }
+
+    $scope.addLanguage = function() {
+    	LanguageData.currentLanguages.push($scope.data.nextLanguage);
+
+			var repoPromise = Repos.makeRepoPromise()
+	    repoPromise
+		    .then(function(chartData){
+		      LanguageData.commits = chartData;
+		      LanguageData.creates = chartData;
+		      LanguageData.public_repos = chartData;
+		      LanguageData.pushes = chartData;
+
+					$state.transitionTo($state.current, $scope.data.nextLanguage, {
+			      location: true, reload: true, inherit: true, notify: true
+			    });
+			    console.log($stateParams)
+		    });
+
+	    }
 
   }])
 
