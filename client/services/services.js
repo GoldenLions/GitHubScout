@@ -35,8 +35,13 @@ angular.module('githubscout.services', [])
       }
     }
     for(var key in commit){
-    	var seconds = parseInt(new Date(key).getTime())
+    	var dt  = new Date(key)
+    	var year = dt.getFullYear()
+    	var month = dt.getMonth() + 1 
+    	var seconds = year + "/" + month
+    	if(year===2014){
         result.push([seconds,commit[key]])
+       }
     }
     return result
   }
