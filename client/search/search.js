@@ -43,7 +43,7 @@ angular.module('githubscout.search', [])
       $stateParams.language = $scope.input.language;
       $state.go('language', $stateParams.language)
     });
-    
+
     settings = {
       languages: LanguageData.currentLanguages,
       y: 'creates',
@@ -52,7 +52,7 @@ angular.module('githubscout.search', [])
 
     ChartsUtil.readDataFile(settings)
       .then(function(chartData){
-        LanguageData.creates = chartData;
+       LanguageData.creates = chartData;
        $stateParams.language = $scope.input.language;
        $state.go('language', $stateParams.language)
       });

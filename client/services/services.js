@@ -16,8 +16,8 @@ angular.module('githubscout.services', [])
 .factory('UserData', function() {
   return {}
 })
- // getdateandCommits will return an array of object with 
- //object having the form ['2014-04-01',5],['2014-06-02',8]] 
+ // getdateandCommits will return an array of object with
+ //object having the form ['2014-04-01',5],['2014-06-02',8]]
 .factory('UserDateandCommits',function(){
 	var getdateandCommits  = function(obj){
     var result = []
@@ -45,7 +45,7 @@ angular.module('githubscout.services', [])
 	}
 })
 
-  // getUserCommitsperLanganguage will return an array of object with 
+  // getUserCommitsperLanganguage will return an array of object with
   //object having the form {language:'JavaScript', count:10}
 .factory('UserLanguagesandCommits',function(){
     var getUserCommitsperLanganguage = function(obj){
@@ -105,7 +105,7 @@ angular.module('githubscout.services', [])
 
   var iterativeGetRepoStats = function(remainingRepoData,author,storage) {
     var repo = remainingRepoData.pop();
-    //console.log("CURRENT REPO", repo.full_name)
+    console.log("CURRENT REPO", repo.full_name)
     var languages = {};
     return $http({
       'method': 'GET',
@@ -129,6 +129,7 @@ angular.module('githubscout.services', [])
   };
 
   var getUserCommits = function(obj) {
+    console.log(obj)
     var username = obj.username;
     return $http({
       'method': 'GET',
@@ -206,7 +207,7 @@ angular.module('githubscout.services', [])
 .factory('ChartsUtil', function($q){
 
   //Since it can take a while for D3 to processs csv files, we use
-  // $q promises to read the data file and return the results. 
+  // $q promises to read the data file and return the results.
   readDataFile = function(settings){
     console.log('readDataFile', settings);
 
@@ -219,12 +220,12 @@ angular.module('githubscout.services', [])
       // processLanguageData() converts the data into the correct format for the charts
       dataDefer.resolve(processLanguageData(settings, data));
     });
-    
+
     return dataDefer.promise;
   };
 
   // The input data has information about all the languages.
-  // processLanguageData() filters the data and  creates a 
+  // processLanguageData() filters the data and  creates a
   // separate data set for each language that is listed in settings.
   var processLanguageData = function(settings, data){
     console.log('processLanguageData', settings);
@@ -248,7 +249,7 @@ angular.module('githubscout.services', [])
         .forEach(function(d){
           values.push([new Date(d.month), +d[settings.y]]);
         });
-      
+
       // Create a data set. Data set has a key and values.
       chartData.push({
         key: language,
