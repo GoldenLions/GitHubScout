@@ -35,10 +35,44 @@ var utils = {
       callback(results);
     });
   },
-  // progressback to pull the usernames out of the response body items.
-  parseItems: function(response) {
+  // One GET request at least every delay milliseconds.
+  throttledBatchGet: function(urls,progressback,callback,delay) {
+    var batch = new Batch();
+    _.each(urls, function(url, i) {
+      batch.push(function(done) {
+        setTimeout(function() {
+          request
+          .get(url)
+          .set('User-Agent', 'curl/7.24.0 (x86_64-apple-darwin12.0) libcurl/7.24.0 OpenSSL/0.9.8r zlib/1.2.5')
+          .end(function(error,response) {
+            if (error) throw new Error(error);
+            if (response.error) console.log(response.status,response.error);
+            var result = progressback(response.text);
+            done(error,result);
+          }); 
+        }, delay*i);
+      });
+    });
+    batch.on('progress', function(e){
+      console.log(e);
+    });
+    batch.end(function(error,results) {
+      if (error) throw new Error(error);
+      callback(results);
+    });
+  },
+  // progressback to pull the user URLs out of the response body items.
+  parseUserItems: function(response) {
     return _.map(JSON.parse(response).items,function(item) {
-      return item.login;
+      return item.html_url;
+    });
+  },
+  parseRepoItems: function(response) {
+    return _.map(JSON.parse(response).items,function(item) {
+      return {
+        html_url: item.html_url,
+        size: item.size
+      }
     });
   },
   // progressback that uses cheerio to parse the response body, which in this case is just HTML.
@@ -63,12 +97,18 @@ var utils = {
       contributions: parseInt($('.table-column.contrib-day').find('.num').text()),
       followers: $($('.vcard-stats').children()[0]).find('.vcard-stat-count').text()
     };
+  },
+  scrapeRepoStats: function(html) {
+    var $ = cheerio.load(html);
+    return {
+
+    };
   }
 };
 
-// Updates top-user-logins.json to reflect the current top 1000 users according to the
+// Updates top-user-urls.json to reflect the current top 1000 users according to the
 // search query.
-var updateLoginsJSON = function(callback) { 
+var updateUserUrlsJSON = function(callback) { 
   // Sets the query parameters for the GitHub search API.
   // Takes the first 10 pages of users with a minimum of minFollowers followers,
   // minRepos repos, and sorts by followers in descending order.
@@ -86,10 +126,10 @@ var updateLoginsJSON = function(callback) {
     return 'https://api.github.com/search/users'+config+'&l=&o=desc&ref=advsearch&s=followers&page='+page;
   });
   // Gets the 1000 top users, writes them to a .json.
-  utils.batchGet(userSearchURLS, utils.parseItems, function(results) {
+  utils.batchGet(userSearchURLS, utils.parseUserItems, function(results) {
     results = _.flatten(results);
-    fs.writeFileSync('top-user-logins.json',JSON.stringify(results,null,2));
-    console.log('updateLoginsJSON finished.');
+    fs.writeFileSync('top-user-urls.json',JSON.stringify(results,null,2));
+    console.log('updateUserUrlsJSON finished.');
     if (callback) callback();
   });
 };
@@ -97,10 +137,8 @@ var updateLoginsJSON = function(callback) {
 // Updates top-user-stats.json to reflect the current stats of the top 1000 users found 
 // found previously.
 var updateProfileStatsJSON = function(callback) {
-  // The profile urls corresponding to the 1000 usernames found previously.
-  var profileURLS = _.map(JSON.parse(fs.readFileSync('top-user-logins.json')), function(username) {
-    return 'https://github.com/'+username;
-  });
+  // The profile urls corresponding to the 1000 users found previously.
+  var profileURLS = JSON.parse(fs.readFileSync('top-user-urls.json'));
   // Scrapes statistics from the profile URLs, writes the stats to a .json.
   utils.batchGet(profileURLS, utils.scrapeProfileStats, function(results) {
     fs.writeFileSync('top-user-stats.json',JSON.stringify(results,null,2));
@@ -108,6 +146,25 @@ var updateProfileStatsJSON = function(callback) {
     if (callback) callback();
   });
 };
+
+var updateRepoUrlsJSON = function(callback) {
+  var minStars = 1;
+  var config = '?client_id=bf7e0962f270bf033f78'
+  +'&client_secret=37101e5bd7a17da01dfd4cb4f2889b8371b14388'
+  +'&per_page=20&sort=stars&order=desc';
+  var repoSearchUrls = _.map(languages, function(language) {
+    return 'https://api.github.com/search/repositories'+config
+           +'&q=stars%3A>'+minStars+'+language%3A'+encodeURIComponent(language);
+  });
+  utils.throttledBatchGet(repoSearchUrls, utils.parseRepoItems, function(results) {
+    results = _.flatten(results);
+    fs.writeFileSync('top-repo-urls.json',JSON.stringify(results,null,2));
+    console.log('updateRepoUrlsJSON finished.');
+    if (callback) callback();
+  }, 3000);
+};
+
+
 
 
 
