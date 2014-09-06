@@ -15,16 +15,22 @@ userapp.controller('UserController', ['$scope', 'UserSearch', 'UserData', 'UserD
   $scope.addUser = function() {
     UserSearch.getUserCommitsByLanguage({username: $scope.userdata.nextUsername})
       .then(function (data) {
-        UserData.usernames = []
-        UserData.usernames.push($scope.userdata.nextUsername);
         // UserData.rawDataCommitsByLanguage = data;
-        $scope.userDateandCommits.push($scope.getdateandCommits(data).reverse())
-        $scope.commitsperLangugageData.push($scope.getUserCommitsperLanganguage(data))
-        // $stateParams.username = $scope.input.username;
-        // $state.go('user', $stateParams.username)
-        $state.transitionTo($state.current, $scope.userdata.nextUsername, {
-          location: true, reload: true, inherit: true, notify: true
-        });
+        $scope.secondUserDateandCommits = $scope.getdateandCommits(data).reverse()
+        // $scope.commitsperLangugageData.push($scope.getUserCommitsperLanganguage(data))
+        $scope.commitsbyDateData =
+          [{
+           key: "Series 1",
+           values: $scope.userDateandCommits
+          },
+          {
+            key: "Series 2",
+            values: $scope.secondUserDateandCommits1
+          }];
+
+        // $state.transitionTo($state.current, $scope.userdata.nextUsername, {
+        //   location: true, reload: true, inherit: true, notify: true
+        // });
       })
   }
 
