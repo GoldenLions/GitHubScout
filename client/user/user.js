@@ -1,8 +1,13 @@
 var userapp = angular.module('githubscout.user', ['ui.router','nvd3ChartDirectives'])
 
-userapp.controller('UserController', ['$scope', 'UserSearch', 'UserData', 'UserDateandCommits','UserLanguagesandCommits', '$state', function($scope, UserSearch, UserData,UserDateandCommits,UserLanguagesandCommits, $state) {
-  $scope.userdata = {};
+userapp.controller('UserController', ['$scope', 'UserData', 'UserDateandCommits','UserLanguagesandCommits',function($scope, UserData,UserDateandCommits,UserLanguagesandCommits) {
+  $scope.userdata ={};
+  $scope.username = UserData.username
   $scope.userdata.data = UserData.rawDataCommitsByLanguage
+  $scope.newDiv=function(){
+             $scope.items= {title: 'GitHub User '+ UserData.username + ' Commits By Langauges'}
+        }
+
 
   $scope.getdateandCommits = function(data){
     return UserDateandCommits.getdateandCommits(data)
@@ -52,6 +57,3 @@ userapp.controller('UserController', ['$scope', 'UserSearch', 'UserData', 'UserD
     };
   }
 }])
-
-
-

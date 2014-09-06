@@ -1,4 +1,33 @@
-<div ng-controller="HomeController">
+<div>
   <h1>Home View</h1>
 </div>
 
+<h1>Top 10 Languages</h1>
+<nvd3-stacked-area-chart
+        data="topLanguages"
+        id="topLanguages"
+        height="400"
+        showXAxis="true"
+        showYAxis="true"
+        tooltips="true"
+        interactive="true"
+        useInteractiveGuideline="true"
+        toolTipContent="toolTipContentFunction()"
+        xAxisTickFormat="xAxisTickFormat()"
+        margin="{left: 120}"
+        showLegend="true"
+        >
+    <svg></svg>
+</nvd3-stacked-area-chart>
+
+<h1>All Languages</h1>
+<nvd3-multi-bar-horizontal-chart
+        data="allLanguages"
+        id="allLanguages"
+        showXAxis="true"
+        showYAxis="true"
+        height="2000"
+        margin="{left: 120}"
+        >
+    <svg></svg>
+</nvd3-multi-bar-horizontal-chart>

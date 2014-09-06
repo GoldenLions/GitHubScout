@@ -6,7 +6,7 @@
 	<div class="float-right">
 		<form ng-submit='searchUser()' ng-hide="showUser" class='fx-fade-normal'>
 		  <input type ='text' ng-model='input.username' placeholder = 'Enter username'>
-		  <input type='submit' value='Search' >
+		  <input type='submit'  value='Search' >
 		</form>
 		<form ng-submit='searchLanguage()' ng-show="showLanguage" class='fx-fade-normal'>
 		  <select ng-model='input.language' ng-options="language for language in input.languageList" placeholder='Enter language'>
@@ -14,5 +14,6 @@
 		  </select>
 		  <input type='submit' value='Search' />
 		</form>
+		<p ng-show="loading">Loading...</p>
 	</div>
 </div>

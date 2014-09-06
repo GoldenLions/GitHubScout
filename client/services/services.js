@@ -35,7 +35,13 @@ angular.module('githubscout.services', [])
       }
     }
     for(var key in commit){
-        result.push([key,commit[key]])
+    	var dt  = new Date(key)
+    	var year = dt.getFullYear()
+    	var month = dt.getMonth() + 1
+    	var seconds = year + "/" + month
+    	if(year===2014){
+        result.push([seconds,commit[key]])
+       }
     }
     return result
   }
@@ -62,7 +68,12 @@ angular.module('githubscout.services', [])
          }
       }
       for(var key in commit){
-         result.push({language:key,count:commit[key]})
+      	   if(commit[key]<=3){
+            result.push({language:key,count:commit[key]+3})
+        }else{
+            result.push({language:key,count:commit[key]})
+
+        }
       }
       return result;
   }
@@ -207,47 +218,55 @@ angular.module('githubscout.services', [])
 .factory('ChartsUtil', function($q){
 
   //Since it can take a while for D3 to processs csv files, we use
+
   // $q promises to read the data file and return the results.
-  readDataFile = function(settings){
+  var readDataFile = function(settings){
     console.log('readDataFile', settings);
 
     // Create a promise object.
-    var dataDefer = $q.defer();
+    var deferred = $q.defer();
 
-      // d3.csv reads the csv files and returns the data
-      d3.csv( settings.url, function(error, data){
-        console.log(settings.url)
+    // d3.csv reads the csv files and returns the data
+    d3.csv( settings.url, function(error, data){
+      if(error) {
+        console.log('d3 reading error');
+        return error;
+      }
+      console.log('d3.csv')
       // processLanguageData() converts the data into the correct format for the charts
-      dataDefer.resolve(processLanguageData(settings, data));
+      // dataDefer.resolve(processLanguageData(settings, data));
+      deferred.resolve(data);
     });
 
-    return dataDefer.promise;
+    return deferred.promise;
   };
 
-  // The input data has information about all the languages.
-  // processLanguageData() filters the data and  creates a
+  // The input rawData has information about all the languages.
+  // processLanguageData() filters the raw data and  creates a
   // separate data set for each language that is listed in settings.
-  var processLanguageData = function(settings, data){
+  var processLanguageData = function(settings, rawData){
     console.log('processLanguageData', settings);
-
     var chartData = [],
         values;
 
-    // Create one data set for each language in settings.
+    // Create a promise object.
+    var deferred = $q.defer();
+
+    // Create one data set for each language listed in settings.
     for (var i=0; i < settings.languages.length; i++){
       values = [];
       language = settings.languages[i];
 
-      // Select the data for one language.
-      var filtered = data
+      // Filter out the data for one language.
+      var filtered = rawData
         .filter(function(d){
-           return d.repository_language ===language;
+          return d.repository_language ===language;
         });
 
       // Line charts require x and y values for every point.
       filtered
         .forEach(function(d){
-          values.push([new Date(d.month), +d[settings.y]]);
+          values.push([new Date(d.month), +d[settings.countType]]);
         });
 
       // Create a data set. Data set has a key and values.
@@ -256,41 +275,125 @@ angular.module('githubscout.services', [])
         values: values
       });
     }
-    return chartData;
+
+    deferred.resolve(chartData);
+
+    // return a promise
+    return deferred.promise;
+  };
+
+  var fetchLanguageData = function(settings){
+    // var deferred = $q.defer();
+
+    console.log('fecthLanguageData');
+
+    // Create a promise object.
+    var deferred = $q.defer();
+
+    readDataFile(settings)
+      .then(function(result){
+        deferred.resolve( processLanguageData(settings, result) );
+      });
+
+    // return a promise
+    return deferred.promise;
+  };
+
+
+  var processHorizontalBarData = function(settings, rawData){
+    console.log('processHorizontalBar', settings);
+    var chartData =[],
+      values =[];
+
+    var deferred = $q.defer();
+
+    rawData.forEach(function(d){
+      values.push([d.repository_language, +d.commits])
+    });
+
+    chartData =[{
+        key: settings.key,
+        values: values
+      }];
+
+    deferred.resolve(chartData);
+    return deferred.promise;
+
+  };
+
+  var fetchHorizontalBarData = function(settings){
+    // var deferred = $q.defer();
+
+    console.log('fetchHorizontalBar');
+
+    var deferred = $q.defer();
+
+    readDataFile(settings)
+      .then(function(result){
+        deferred.resolve( processHorizontalBarData(settings, result) );
+      });
+    return deferred.promise;
+  };
+
+
+  var processStackedAreaData = function(settings, rawData){
+    console.log('processStackedAreaData', settings);
+
+    var chartData =[],
+      values =[];
+
+    var deferred = $q.defer();
+
+    // Stacked area charts require the data be a nested array.
+    // Create a nested array with repository language as the key.
+    var results = d3.nest()
+      .key(function(d){
+        return d.repository_language;
+      })
+      .entries(rawData)
+      .map(function(d){
+        var group = d.key;
+        // console.log('group', group)
+        var values = d.values.map(function(dd){
+          // console.log(dd.date, +dd[settings.countType])
+          return  [ Date.parse(dd.date), +dd[settings.countType]];
+        });
+        return {'key':group, 'values':values};
+      });
+
+    console.log(results)
+
+    deferred.resolve(results);
+
+    return deferred.promise;
+  };
+
+  var fetchStackedAreaData = function(settings){
+    // var deferred = $q.defer();
+
+    console.log('fetchStackedAreaData');
+
+    var deferred = $q.defer();
+
+    readDataFile(settings)
+      .then(function(result){
+        deferred.resolve( processStackedAreaData(settings, result) );
+      });
+    return deferred.promise;
   };
 
   return {
     processLanguageData: processLanguageData,
-    readDataFile: readDataFile
+    readDataFile: readDataFile,
+    fetchLanguageData: fetchLanguageData,
+    fetchStackedAreaData: fetchStackedAreaData,
+    fetchHorizontalBarData: fetchHorizontalBarData
   };
+
+
 })
 
-// //Since it can take a while for D3 to processs csv files, we use
-// // $q to return a promise.
-// .factory('Repos', ['$q', 'ChartsUtil', 'LanguageData', function($q, ChartsUtil, LanguageData){
-//   var makeRepoPromise = function() {
-//     var url = './CSVs/repo_activity_by_month.csv';
 
-//     var settings = {
-//       languages: LanguageData.currentLanguages,
-//       y: 'activity'
-//     };
-
-//     var dataDefer = $q.defer();
-//       // d3.csv reads the csv files and returns the data
-//       d3.csv( url, function(error, data){
-//       // processLanguageData() converts the data into the correct format for the charts
-//       console.log('d3 read')
-//       dataDefer.resolve(ChartsUtil.processLanguageData(settings, data));
-//     });
-
-//     return dataDefer.promise
-//   }
-
-//   return {
-//     makeRepoPromise: makeRepoPromise
-//   }
-// }])
 
 .factory('LanguageData', function() {
   var allLanguages = ["ABAP", "AGS Script", "ANTLR", "APL", "ASP", "ATS", "ActionScript", "Ada", "Agda", "Alloy", "Apex", "AppleScript", "Arc", "Arduino", "AspectJ", "Assembly", "Augeas", "AutoHotkey", "AutoIt", "Awk", "BlitzBasic", "BlitzMax", "Bluespec", "Boo", "Brightscript", "Bro", "C", "C#", "C++", "CLIPS", "COBOL", "CSS", "Ceylon", "Chapel", "Cirru", "Clean", "Clojure", "CoffeeScript", "ColdFusion", "Common Lisp", "Component Pascal", "Coq", "Crystal", "Cuda", "D", "DCPU-16 ASM", "DCPU-16 Assembly", "DM", "DOT", "Dart", "Delphi", "Dogescript", "Dylan", "E", "Ecl", "Eiffel", "Elixir", "Elm", "Emacs Lisp", "EmberScript", "Erlang", "F#", "FLUX", "FORTRAN", "Factor", "Fancy", "Fantom", "Forth", "Frege", "GAMS", "GAP", "Game Maker Language", "Glyph", "Gnuplot", "Go", "Gosu", "Grace", "Grammatical Framework", "Groovy", "HaXe", "Harbour", "Haskell", "Haxe", "Hy", "IDL", "Idris", "Inform 7", "Io", "Ioke", "Isabelle", "J", "JSONiq", "Java", "JavaScript", "Julia", "KRL", "Kotlin", "LabVIEW", "Lasso", "LiveScript", "Logos", "Logtalk", "LookML", "Lua", "M", "Mathematica", "Matlab", "Max", "Max/MSP", "Mercury", "Mirah", "Modelica", "Monkey", "Moocode", "MoonScript", "Nemerle", "NetLogo", "Nimrod", "Nit", "Nix", "Nu", "OCaml", "Objective-C", "Objective-C++", "Objective-J", "Omgrofl", "Opa", "OpenEdge ABL", "OpenSCAD", "Ox", "Oxygene", "PAWN", "PHP", "Pan", "Parrot", "Pascal", "Perl", "Perl6", "PigLatin", "Pike", "PogoScript", "PowerShell", "Powershell", "Processing", "Prolog", "Propeller Spin", "Puppet", "Pure Data", "PureScript", "Python", "R", "REALbasic", "Racket", "Ragel in Ruby Host", "Rebol", "Red", "RobotFramework", "Rouge", "Ruby", "Rust", "SAS", "SQF", "SQL", "Scala", "Scheme", "Scilab", "Self", "Shell", "Shen", "Slash", "Smalltalk", "SourcePawn", "Squirrel", "Standard ML", "Stata", "SuperCollider", "Swift", "SystemVerilog", "TXL", "Tcl", "TeX", "Turing", "TypeScript", "UnrealScript", "VCL", "VHDL", "Vala", "Verilog", "VimL", "Visual Basic", "Volt", "XC", "XML", "XProc", "XQuery", "XSLT", "Xojo", "Xtend", "Zephir", "Zimpl", "eC", "nesC", "ooc", "wisp", "xBase", ]

@@ -11,7 +11,9 @@ angular.module('githubscout.language', ['nvd3ChartDirectives',
 
     console.log('LanguageController')
     $scope.commits = LanguageData.commits;
+    console.log("commmmmmits", $scope.commits)
     $scope.creates = LanguageData.creates;
+
     $scope.public_repos = LanguageData.public_repos;
     $scope.pushes = LanguageData.pushes;
 
@@ -29,64 +31,63 @@ angular.module('githubscout.language', ['nvd3ChartDirectives',
 
       settings = {
         languages: LanguageData.currentLanguages,
-        y: 'activity',
+        countType: 'commits',
         url: './CSVs/repo_activity_by_month.csv'
       };
 
-      ChartsUtil.readDataFile(settings)
+      ChartsUtil.fetchLanguageData(settings)
         .then(function(chartData){
         LanguageData.commits = chartData;
         $state.transitionTo($state.current, $scope.data.nextLanguage, {
           location: true, reload: true, inherit: true, notify: true
         });
-        console.log($stateParams);
+        // console.log($stateParams);
       });
       
       settings = {
         languages: LanguageData.currentLanguages,
-        y: 'creates',
+        countType: 'creates',
         url: './CSVs/repo_creates_by_month.csv'
       };
 
-      ChartsUtil.readDataFile(settings)
+      ChartsUtil.fetchLanguageData(settings)
         .then(function(chartData){
           LanguageData.creates = chartData;
           $state.transitionTo($state.current, $scope.data.nextLanguage, {
             location: true, reload: true, inherit: true, notify: true
           });
-          console.log($stateParams);
         });
 
       settings = {
         languages: LanguageData.currentLanguages,
-        y: 'publics',
+        countType: 'public_repos',
         url: './CSVs/repos_made_public_by_month.csv'
       };
 
-      ChartsUtil.readDataFile(settings)
+      ChartsUtil.fetchLanguageData(settings)
         .then(function(chartData){
           LanguageData.public_repos = chartData;
           $state.transitionTo($state.current, $scope.data.nextLanguage, {
             location: true, reload: true, inherit: true, notify: true
           });
-          console.log($stateParams);
         });
 
       settings = {
         languages: LanguageData.currentLanguages,
-        y: 'pushes',
+        countType: 'pushes',
         url: './CSVs/pushes_by_month.csv'
       };
 
-      ChartsUtil.readDataFile(settings)
+      ChartsUtil.fetchLanguageData(settings)
         .then(function(chartData){
           LanguageData.pushes = chartData;
           $state.transitionTo($state.current, $scope.data.nextLanguage, {
             location: true, reload: true, inherit: true, notify: true
           });
-          console.log($stateParams);
         });
-      };
 
-  }]);
+
+      }
+
+  }])
 
