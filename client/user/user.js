@@ -1,13 +1,15 @@
 var userapp = angular.module('githubscout.user', ['ui.router','nvd3ChartDirectives'])
 
-userapp.controller('UserController', ['$scope', 'UserData', 'UserDateandCommits', 'UserSearch', 'UserLanguagesandCommits',function($scope, UserData,UserDateandCommits,UserSearch,UserLanguagesandCommits) {
+userapp.controller('UserController', ['$scope', 'UserData', 'UserSearch', 'UserDateandCommits','UserLanguagesandCommits','UserCompareRescaleBar',function($scope, UserData, UserSearch, UserDateandCommits,UserLanguagesandCommits,UserCompareRescaleBar) {
   $scope.userdata ={};
   $scope.username = UserData.username
   $scope.userdata.data = UserData.rawDataCommitsByLanguage
   $scope.newDiv=function(){
              $scope.items= {title: 'GitHub User '+ UserData.username + ' Commits By Langauges'}
         }
-
+   $scope.getCompareRescaleBar = function(secondUserData){
+       return UserCompareRescaleBar.getCompareRescaleBar($scope.userDateandCommits, secondUserData)
+   }
 
   $scope.getdateandCommits = function(data){
     return UserDateandCommits.getdateandCommits(data)
@@ -16,6 +18,22 @@ userapp.controller('UserController', ['$scope', 'UserData', 'UserDateandCommits'
   $scope.getUserCommitsperLanganguage = function(data){
     return UserLanguagesandCommits.getUserCommitsperLanganguage(data)
   }
+
+    $scope.userDateandCommits=$scope.getdateandCommits($scope.userdata.data).reverse()
+    $scope.commitsperLangugageData = $scope.getUserCommitsperLanganguage($scope.userdata.data)
+
+   //Data for bar chart.
+
+   $scope.commitsbyDateData =
+                        [
+                              {
+                                  "key": UserData.username,
+                                  "values": $scope.userDateandCommits
+                              }
+
+                         ];
+
+
 
   // Function grabs second user's data from compare user input to compare with first user on same commits over time chart
   $scope.addUser = function() {
@@ -33,17 +51,14 @@ userapp.controller('UserController', ['$scope', 'UserData', 'UserDateandCommits'
             values: $scope.secondUserDateandCommits
           }];
         $scope.commitsperLangugageDataUser2 = $scope.getUserCommitsperLanganguage(data)
+        $scope.CombinedNewandOldUserDatesData = $scope.getCompareRescaleBar($scope.secondUserDateandCommits)
       })
   }
 
+
+
   $scope.userDateandCommits = $scope.getdateandCommits($scope.userdata.data).reverse()
   $scope.commitsperLangugageData = $scope.getUserCommitsperLanganguage($scope.userdata.data)
-
-  //Data for bar chart.
-  $scope.commitsbyDateData = [{
-    key: "Series 1",
-    values: $scope.userDateandCommits
-  }];
 
   //Function that allows nvd3 and d3 to access x values from the ‘data’.
   $scope.xFunction = function() {

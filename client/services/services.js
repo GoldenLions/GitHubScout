@@ -50,6 +50,46 @@ angular.module('githubscout.services', [])
 		getdateandCommits: getdateandCommits
 	}
 })
+//this factory will include the dates of second user if
+//the first user didn't have those dates. This is necessary
+//to compare series in the multibar chart
+.factory('UserCompareRescaleBar', function(){
+
+    var getCompareRescaleBar = function(userarray1,userarray2){
+
+         var strip = []
+         result = []
+         for(var i =0; i<userarray1.length;i++){
+           strip.push(userarray1[i][0])
+         }
+
+         for(var j = 0; j<userarray2.length; j++){
+           if(strip.indexOf(userarray2[j][0])===-1){
+              result.push([userarray2[j][0],0])
+           }
+         }
+
+         var concatresult = userarray1.concat(result)
+         var finalresult = concatresult.sort(function(a,b){
+
+          if(parseInt((a[0].split('/')[1]))>parseInt((b[0].split('/')[1]))){
+              return 1;
+           }
+           if(parseInt((a[0].split('/')[1]))<parseInt((b[0].split('/')[1]))){
+              return -1
+
+           }
+             return 0
+         })
+         return finalresult;
+
+
+    }
+    return {
+      getCompareRescaleBar: getCompareRescaleBar
+    };
+
+})
 
   // getUserCommitsperLanganguage will return an array of object with
   //object having the form {language:'JavaScript', count:10}
