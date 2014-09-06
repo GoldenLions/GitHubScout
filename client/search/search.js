@@ -31,10 +31,10 @@ angular.module('githubscout.search', [])
 
     ChartsUtil.fetchLanguageData(settings)
       .then(function(chartData){
-        LanguageData.commits = chartData;
-        $stateParams.language = $scope.input.language;
-        $state.go('language', $stateParams.language)
-      });
+      LanguageData.commits = chartData;
+      $stateParams.language = $scope.input.language;
+      $state.go('language', $stateParams.language)
+    });
 
     settings = {
       languages: LanguageData.currentLanguages,
@@ -44,9 +44,9 @@ angular.module('githubscout.search', [])
 
     ChartsUtil.fetchLanguageData(settings)
       .then(function(chartData){
-        LanguageData.creates = chartData;
-        $stateParams.language = $scope.input.language;
-        $state.go('language', $stateParams.language)
+       LanguageData.creates = chartData;
+       $stateParams.language = $scope.input.language;
+       $state.go('language', $stateParams.language)
       });
 
     settings = {

@@ -16,8 +16,8 @@ angular.module('githubscout.services', [])
 .factory('UserData', function() {
   return {}
 })
- // getdateandCommits will return an array of object with 
- //object having the form ['2014-04-01',5],['2014-06-02',8]] 
+ // getdateandCommits will return an array of object with
+ //object having the form ['2014-04-01',5],['2014-06-02',8]]
 .factory('UserDateandCommits',function(){
 	var getdateandCommits  = function(obj){
     var result = []
@@ -37,13 +37,11 @@ angular.module('githubscout.services', [])
     for(var key in commit){
     	var dt  = new Date(key)
     	var year = dt.getFullYear()
-    	var month = dt.getMonth() + 1 
-    	var yearmonth = year + "/" + month
-        if(year === 2014){
-   
-        result.push([yearmonth,commit[key]])
-      }
-       
+    	var month = dt.getMonth() + 1
+    	var seconds = year + "/" + month
+    	if(year===2014){
+        result.push([seconds,commit[key]])
+       }
     }
     return result
   }
@@ -52,7 +50,7 @@ angular.module('githubscout.services', [])
 		getdateandCommits: getdateandCommits
 	}
 })
-//this factory will include the dates of second user if 
+//this factory will include the dates of second user if
 //the first user didn't have those dates. This is necessary
 //to compare series in the multibar chart
 .factory('UserCompareRescaleBar', function(){
@@ -76,7 +74,7 @@ angular.module('githubscout.services', [])
 
           if(parseInt((a[0].split('/')[1]))>parseInt((b[0].split('/')[1]))){
               return 1;
-           } 
+           }
            if(parseInt((a[0].split('/')[1]))<parseInt((b[0].split('/')[1]))){
               return -1
 
@@ -93,7 +91,7 @@ angular.module('githubscout.services', [])
 
 })
 
-  // getUserCommitsperLanganguage will return an array of object with 
+  // getUserCommitsperLanganguage will return an array of object with
   //object having the form {language:'JavaScript', count:10}
 .factory('UserLanguagesandCommits',function(){
     var getUserCommitsperLanganguage = function(obj){
@@ -158,7 +156,7 @@ angular.module('githubscout.services', [])
 
   var iterativeGetRepoStats = function(remainingRepoData,author,storage) {
     var repo = remainingRepoData.pop();
-    //console.log("CURRENT REPO", repo.full_name)
+    console.log("CURRENT REPO", repo.full_name)
     var languages = {};
     return $http({
       'method': 'GET',
@@ -182,6 +180,7 @@ angular.module('githubscout.services', [])
   };
 
   var getUserCommits = function(obj) {
+    console.log(obj)
     var username = obj.username;
     return $http({
       'method': 'GET',
@@ -259,7 +258,8 @@ angular.module('githubscout.services', [])
 .factory('ChartsUtil', function($q){
 
   //Since it can take a while for D3 to processs csv files, we use
-  // $q promises to read the data file and return the results. 
+
+  // $q promises to read the data file and return the results.
   var readDataFile = function(settings){
     console.log('readDataFile', settings);
 
@@ -277,13 +277,12 @@ angular.module('githubscout.services', [])
       // dataDefer.resolve(processLanguageData(settings, data));
       deferred.resolve(data);
     });
-    
 
     return deferred.promise;
   };
 
   // The input rawData has information about all the languages.
-  // processLanguageData() filters the raw data and  creates a 
+  // processLanguageData() filters the raw data and  creates a
   // separate data set for each language that is listed in settings.
   var processLanguageData = function(settings, rawData){
     console.log('processLanguageData', settings);
@@ -309,7 +308,7 @@ angular.module('githubscout.services', [])
         .forEach(function(d){
           values.push([new Date(d.month), +d[settings.countType]]);
         });
-      
+
       // Create a data set. Data set has a key and values.
       chartData.push({
         key: language,
