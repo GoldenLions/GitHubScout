@@ -156,7 +156,7 @@ angular.module('githubscout.services', [])
 
   var iterativeGetRepoStats = function(remainingRepoData,author,storage) {
     var repo = remainingRepoData.pop();
-    console.log("CURRENT REPO", repo.full_name)
+   // console.log("CURRENT REPO", repo.full_name)
     var languages = {};
     return $http({
       'method': 'GET',
