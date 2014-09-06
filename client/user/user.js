@@ -1,12 +1,16 @@
 var userapp = angular.module('githubscout.user', ['ui.router','nvd3ChartDirectives'])
 
-userapp.controller('UserController', ['$scope', 'UserData', 'UserDateandCommits','UserLanguagesandCommits',function($scope, UserData,UserDateandCommits,UserLanguagesandCommits) {
+userapp.controller('UserController', ['$scope', 'UserData', 'UserDateandCommits','UserLanguagesandCommits','UserCompareRescaleBar',function($scope, UserData,UserDateandCommits,UserLanguagesandCommits,UserCompareRescaleBar) {
   $scope.userdata =[];
   $scope.username = UserData.username
   $scope.userdata.data = UserData.rawDataCommitsByLanguage
   $scope.newDiv=function(){
              $scope.items= {title: 'GitHub User '+ UserData.username + ' Commits By Langauges'}
         }
+   $scope.getCompareRescaleBar = function(){
+       return UserCompareRescaleBar.getCompareRescaleBar($scope.userDateandCommits,seconduser)
+   }
+
 
 
   $scope.getdateandCommits = function(){
@@ -19,8 +23,9 @@ userapp.controller('UserController', ['$scope', 'UserData', 'UserDateandCommits'
     return UserLanguagesandCommits.getUserCommitsperLanganguage($scope.userdata.data)
 
      }
-    $scope.nextone; 
+
     $scope.userDateandCommits=$scope.getdateandCommits().reverse()
+    console.log("myyyyyy data",  $scope.userDateandCommits)
     $scope.userDateandCommits1=$scope.getdateandCommits().reverse()
     $scope.commitsperLangugageData = $scope.getUserCommitsperLanganguage()
 
@@ -35,19 +40,22 @@ userapp.controller('UserController', ['$scope', 'UserData', 'UserDateandCommits'
                             
                          ];
 
-
+    var seconduser = [['2014/4',10],['2014/5',10],['2014/6',10],['2014/8',23],['2014/9',10]]
     $scope.compareUser = function(){
+    $scope.CombinedNewandOldUserDatesData = $scope.getCompareRescaleBar()
+
+     console.log("oldnew",$scope.CombinedNewandOldUserDatesData )
        
 
         $scope.commitsbyDateData =
                [
                  {
                      key: UserData.username,
-                     values: $scope.userDateandCommits
+                     values: $scope.CombinedNewandOldUserDatesData
                  },
                  { 
                     key: "User2",
-                    values: [['2014/6',10],['2014/8',23],['2014/9',10]]
+                    values: seconduser
 
                  }
                
@@ -58,13 +66,6 @@ userapp.controller('UserController', ['$scope', 'UserData', 'UserDateandCommits'
 
 
     }
-
-    // $scope.xAxisTickFormat = function(){
-    //     return function(d){
-    //       //console.log("datttttes",d)
-    //         return d3.time.format('%b')(new Date(d));  //uncomment for date format
-    //     };
-    // };
 
   //Function that allows nvd3 and d3 to access x values from the ‘data’. 
   $scope.xFunction = function() {
