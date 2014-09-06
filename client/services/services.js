@@ -335,13 +335,58 @@ angular.module('githubscout.services', [])
   };
 
 
+  var processStackedAreaData = function(settings, rawData){
+    console.log('processStackedAreaData', settings);
 
+    var chartData =[],
+      values =[];
+
+    var deferred = $q.defer();
+
+    // Stacked area charts require the data be a nested array.
+    // Create a nested array with repository language as the key.
+    var results = d3.nest()
+      .key(function(d){
+        return d.repository_language
+      })
+      .entries(rawData)
+      .map(function(d){
+        var group = d.key;
+        // console.log('group', group)
+        var values = d.values.map(function(dd){
+          // console.log(dd.date, +dd[settings.countType])
+          return  [ Date.parse(dd.date), +dd[settings.countType]];
+        });
+        return {'key':group, 'values':values};
+      });
+
+      console.log(results)
+
+    deferred.resolve(results);
+
+    return deferred.promise;
+  };
+
+  var fetchStackedAreaData = function(settings){
+    // var deferred = $q.defer();
+
+    console.log('fetchStackedAreaData');
+
+    var deferred = $q.defer();
+
+    readDataFile(settings)
+      .then(function(result){
+        deferred.resolve( processStackedAreaData(settings, result) );
+      });
+    return deferred.promise;
+  };
 
 
   return {
     processLanguageData: processLanguageData,
     readDataFile: readDataFile,
     fetchLanguageData: fetchLanguageData,
+    fetchStackedAreaData: fetchStackedAreaData,
     fetchHorizontalBarData: fetchHorizontalBarData
   };
 
