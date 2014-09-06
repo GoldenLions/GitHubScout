@@ -347,7 +347,7 @@ angular.module('githubscout.services', [])
     // Create a nested array with repository language as the key.
     var results = d3.nest()
       .key(function(d){
-        return d.repository_language
+        return d.repository_language;
       })
       .entries(rawData)
       .map(function(d){
@@ -360,7 +360,7 @@ angular.module('githubscout.services', [])
         return {'key':group, 'values':values};
       });
 
-      console.log(results)
+    console.log(results)
 
     deferred.resolve(results);
 
