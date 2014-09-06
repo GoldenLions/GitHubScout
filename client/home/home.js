@@ -30,4 +30,5 @@ angular.module('githubscout.home', ['nvd3ChartDirectives'])
           return d3.time.format('%x')(new Date(d));  //uncomment for date format
       };
   };
+
 }])
