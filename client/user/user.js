@@ -1,7 +1,7 @@
 var userapp = angular.module('githubscout.user', ['ui.router','nvd3ChartDirectives'])
 
 userapp.controller('UserController', ['$scope', 'UserSearch', 'UserData', 'UserDateandCommits','UserLanguagesandCommits', '$state', function($scope, UserSearch, UserData,UserDateandCommits,UserLanguagesandCommits, $state) {
-  $scope.userdata =[];
+  $scope.userdata = {};
   $scope.userdata.data = UserData.rawDataCommitsByLanguage
 
   $scope.getdateandCommits = function(data){
@@ -12,12 +12,12 @@ userapp.controller('UserController', ['$scope', 'UserSearch', 'UserData', 'UserD
     return UserLanguagesandCommits.getUserCommitsperLanganguage(data)
   }
 
+  // Function grabs second user's data from compare user input to compare with first user on same commits over time chart
   $scope.addUser = function() {
+    console.log('addUser')
     UserSearch.getUserCommitsByLanguage({username: $scope.userdata.nextUsername})
       .then(function (data) {
-        // UserData.rawDataCommitsByLanguage = data;
         $scope.secondUserDateandCommits = $scope.getdateandCommits(data).reverse()
-        // $scope.commitsperLangugageData.push($scope.getUserCommitsperLanganguage(data))
         $scope.commitsbyDateData =
           [{
            key: "Series 1",
@@ -25,17 +25,12 @@ userapp.controller('UserController', ['$scope', 'UserSearch', 'UserData', 'UserD
           },
           {
             key: "Series 2",
-            values: $scope.secondUserDateandCommits1
+            values: $scope.secondUserDateandCommits
           }];
-
-        // $state.transitionTo($state.current, $scope.userdata.nextUsername, {
-        //   location: true, reload: true, inherit: true, notify: true
-        // });
       })
   }
 
   $scope.userDateandCommits = $scope.getdateandCommits($scope.userdata.data).reverse()
-  console.log('$scope.userDateandCommits', $scope.userDateandCommits)
   $scope.commitsperLangugageData = $scope.getUserCommitsperLanganguage($scope.userdata.data)
 
   //Data for bar chart.
