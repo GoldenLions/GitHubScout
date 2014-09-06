@@ -10,7 +10,7 @@ var languages = require('./languages.js')
 var utils = {
   // Uses batch to perform 10 GET requests at a time.
   // Calls progressback on each response body, placing the result in an accumulating results array.
-  // Expects objs to be an array of objects with the .html_url property.
+  // Expects objs to be an array of objects with the .url property.
   // Upon completion, calls callback on the finished results array.
   batchGet: function(objs,progressback,callback) {
     var batch = new Batch();
@@ -18,7 +18,7 @@ var utils = {
     _.each(objs, function(obj) {
       batch.push(function(done) {
         request
-        .get(obj.html_url)
+        .get(obj.url)
         .set('User-Agent', 'curl/7.24.0 (x86_64-apple-darwin12.0) libcurl/7.24.0 OpenSSL/0.9.8r zlib/1.2.5')
         .end(function(error,response) {
           if (error) throw new Error(error);
@@ -37,14 +37,14 @@ var utils = {
     });
   },
   // One GET request at least every delay milliseconds.
-  // Expects objs to be an array of objects with the .html_url property.
+  // Expects objs to be an array of objects with the .url property.
   throttledBatchGet: function(objs,progressback,callback,delay) {
     var batch = new Batch();
     _.each(objs, function(obj, i) {
       batch.push(function(done) {
         setTimeout(function() {
           request
-          .get(obj.html_url)
+          .get(obj.url)
           .set('User-Agent', 'curl/7.24.0 (x86_64-apple-darwin12.0) libcurl/7.24.0 OpenSSL/0.9.8r zlib/1.2.5')
           .end(function(error,response) {
             if (error) throw new Error(error);
@@ -65,18 +65,19 @@ var utils = {
   },
   // progressback to pull the user URLs out of the response body items.
   parseUserItems: function(response) {
-    return _.map(response.items,function(item) {
+    return _.map(JSON.parse(response).items,function(item) {
       return {
-        html_url: item.html_url
+        url: item.html_url
       };
     });
   },
-  // progressback to pull the repo URLs and sizes out of the response body items.
+  // progressback to pull the repo URL, size, and primary language out of each response body item.
   parseRepoItems: function(response) {
-    return _.map(response.items,function(item) {
+    return _.map(JSON.parse(response).items,function(item) {
       return {
-        html_url: item.html_url,
-        size: item.size
+        url: item.html_url,
+        size: item.size,
+        language: item.language
       };
     });
   },
@@ -89,7 +90,7 @@ var utils = {
       username: $('[itemprop=additionalName]').text(),
       location: $('[itemprop=homeLocation]').text(),
       join_date: $('.vcard-details').find('time').text(),
-      popular_repos_stars: _.reduce($($('.boxed-group-inner.mini-repo-list')[0]).children(), 
+      popular_repos_stars: _.reduce($('.boxed-group-inner.mini-repo-list').first().children(), 
         function(memo,item) {
           return memo + parseInt($(item).find('.stars').text().replace(/[\s|,]/g,''));
         }, 0),
@@ -100,14 +101,17 @@ var utils = {
         } else return [];
       })(),
       contributions: parseInt($('.table-column.contrib-day').find('.num').text()),
-      followers: $($('.vcard-stats').children()[0]).find('.vcard-stat-count').text()
+      followers: $('.vcard-stats .vcard-stat:first-child').find('.vcard-stat-count').text()
     });
   },
   // progressback to scrap various figures from the repo page HTML.
   scrapeRepoStats: function(html,obj) {
     var $ = cheerio.load(html);
     return _.extend(obj, {
-
+      stars: $('.social-count.js-social-count').text().trim(),
+      forks: $('.pagehead-actions li a').last().text().trim(),
+      commits: $('.commits .num').text().trim(),
+      contributors: $('.numbers-summary li .num').last().text().trim()
     });
   }
 };
@@ -131,7 +135,9 @@ var scraper = {
                 +'&per_page=100';
     var pages = [1,2,3,4,5,6,7,8,9,10];
     var userSearchURLS = _.map(pages, function(page) {
-      return 'https://api.github.com/search/users'+config+'&l=&o=desc&ref=advsearch&s=followers&page='+page;
+      return {
+        url: 'https://api.github.com/search/users'+config+'&l=&o=desc&ref=advsearch&s=followers&page='+page
+      };
     });
     // Gets the 1000 top users, writes them to a .json.
     utils.batchGet(userSearchURLS, utils.parseUserItems, function(results) {
@@ -146,7 +152,7 @@ var scraper = {
   updateProfileStatsJSON: function(callback) {
     var profileUrlObjs = JSON.parse(fs.readFileSync('top-user-urls.json'));
     // Scrapes statistics from the profile URLs, writes the stats to a .json.
-    utils.batchGet(profileUrls, utils.scrapeProfileStats, function(results) {
+    utils.batchGet(profileUrlObjs, utils.scrapeProfileStats, function(results) {
       fs.writeFileSync('top-user-stats.json',JSON.stringify(results,null,2));
       console.log('updateProfileStatsJSON finished.');
       if (callback) callback();
@@ -163,11 +169,13 @@ var scraper = {
     var config = '?client_id=bf7e0962f270bf033f78'
                 +'&client_secret=37101e5bd7a17da01dfd4cb4f2889b8371b14388'
                 +'&per_page=20&sort=stars&order=desc';
-    var repoSearchUrls = _.map(languages, function(language) {
-      return 'https://api.github.com/search/repositories'+config
-            +'&q=stars%3A>'+minStars+'+language%3A'+encodeURIComponent(language);
+    var repoSearchUrlObjs = _.map(languages, function(language) {
+      return {
+        url: 'https://api.github.com/search/repositories'+config
+            +'&q=stars%3A>'+minStars+'+language%3A'+encodeURIComponent(language)
+      };
     });
-    utils.throttledBatchGet(repoSearchUrls, utils.parseRepoItems, function(results) {
+    utils.throttledBatchGet(repoSearchUrlObjs, utils.parseRepoItems, function(results) {
       results = _.flatten(results);
       fs.writeFileSync('top-repo-urls.json',JSON.stringify(results,null,2));
       console.log('updateRepoUrlsJSON finished.');
@@ -184,6 +192,12 @@ var scraper = {
     });
   }
 };
+
+    utils.batchGet([{url:'https://github.com/gionkunz/chartist-js'}], utils.scrapeRepoStats, function(results) {
+      fs.writeFileSync('top-repo-stats.json',JSON.stringify(results,null,2));
+      console.log('updateRepoStatsJSON finished.');
+      // if (callback) callback();
+    });
 
 
 module.exports = scraper;
