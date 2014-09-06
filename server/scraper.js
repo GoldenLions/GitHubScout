@@ -193,12 +193,6 @@ var scraper = {
   }
 };
 
-    utils.batchGet([{url:'https://github.com/gionkunz/chartist-js'}], utils.scrapeRepoStats, function(results) {
-      fs.writeFileSync('top-repo-stats.json',JSON.stringify(results,null,2));
-      console.log('updateRepoStatsJSON finished.');
-      // if (callback) callback();
-    });
-
 
 module.exports = scraper;
 
