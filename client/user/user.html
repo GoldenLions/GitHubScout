@@ -1,22 +1,23 @@
 <div>
- <button ng-click=" newDiv(); compareUser()">Compare User </button>
   <h1>User View</h1>
   <h2>Compare another User</h2>
-  <form ng-submit='addUser()' class='fx-fade-normal'>
+  <form ng-submit='addUser();' ng-click="newDiv()" class='fx-fade-normal'>
     <input type ='text' ng-model='userdata.nextUsername' placeholder = 'Enter username'>
     <input type='submit' value='Search' >
   </form>
 
-  <h1>GitHub User {{search.username}} Commits Over Time</h1>
+  <h1>GitHub User Commits Over Time</h1>
   <nvd3-multi-bar-chart
              data="commitsbyDateData"
              id="commitsbyDateDataId"
              height="400"
              showXAxis="true"
              showYAxis="true"
+             showLegend="true"
              rotateLabels="-45">
         <svg></svg>
     </nvd3-multi-bar-chart>
+     
      <h1><b>GitHub User {{username}} Commits By Langauges</b></h1>
 
   <nvd3-pie-chart
