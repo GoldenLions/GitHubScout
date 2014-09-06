@@ -218,46 +218,54 @@ angular.module('githubscout.services', [])
 
   //Since it can take a while for D3 to processs csv files, we use
   // $q promises to read the data file and return the results. 
-  readDataFile = function(settings){
+  var readDataFile = function(settings){
     console.log('readDataFile', settings);
 
     // Create a promise object.
-    var dataDefer = $q.defer();
+    var deferred = $q.defer();
 
-      // d3.csv reads the csv files and returns the data
-      d3.csv( settings.url, function(error, data){
-        console.log(settings.url)
+    // d3.csv reads the csv files and returns the data
+    d3.csv( settings.url, function(error, data){
+      if(error) {
+        console.log('d3 reading error');
+        return error;
+      }
+      console.log('d3.csv')
       // processLanguageData() converts the data into the correct format for the charts
-      dataDefer.resolve(processLanguageData(settings, data));
+      // dataDefer.resolve(processLanguageData(settings, data));
+      deferred.resolve(data);
     });
     
-    return dataDefer.promise;
+
+    return deferred.promise;
   };
 
-  // The input data has information about all the languages.
-  // processLanguageData() filters the data and  creates a 
+  // The input rawData has information about all the languages.
+  // processLanguageData() filters the raw data and  creates a 
   // separate data set for each language that is listed in settings.
-  var processLanguageData = function(settings, data){
+  var processLanguageData = function(settings, rawData){
     console.log('processLanguageData', settings);
-
     var chartData = [],
         values;
 
-    // Create one data set for each language in settings.
+    // Create a promise object.
+    var deferred = $q.defer();
+
+    // Create one data set for each language listed in settings.
     for (var i=0; i < settings.languages.length; i++){
       values = [];
       language = settings.languages[i];
 
-      // Select the data for one language.
-      var filtered = data
+      // Filter out the data for one language.
+      var filtered = rawData
         .filter(function(d){
-           return d.repository_language ===language;
+          return d.repository_language ===language;
         });
 
       // Line charts require x and y values for every point.
       filtered
         .forEach(function(d){
-          values.push([new Date(d.month), +d[settings.y]]);
+          values.push([new Date(d.month), +d[settings.countType]]);
         });
       
       // Create a data set. Data set has a key and values.
@@ -266,12 +274,32 @@ angular.module('githubscout.services', [])
         values: values
       });
     }
-    return chartData;
+
+    deferred.resolve(chartData);
+
+    return deferred.promise;
+  };
+
+  var fetchLanguageData = function(settings){
+    // var deferred = $q.defer();
+
+    console.log('fecthLanguageData');
+
+    var deferred = $q.defer();
+
+    readDataFile(settings)
+      .then(function(result){
+        deferred.resolve( processLanguageData(settings, result) );
+      });
+
+    return deferred.promise;
+
   };
 
   return {
     processLanguageData: processLanguageData,
-    readDataFile: readDataFile
+    readDataFile: readDataFile,
+    fetchLanguageData: fetchLanguageData
   };
 })
 
