@@ -1,6 +1,6 @@
 var userapp = angular.module('githubscout.user', ['ui.router','nvd3ChartDirectives'])
 
-userapp.controller('UserController', ['$scope', 'UserData', 'UserDateandCommits','UserLanguagesandCommits',function($scope, UserData,UserDateandCommits,UserLanguagesandCommits) {
+userapp.controller('UserController', ['$scope', 'UserData', 'UserDateandCommits', 'UserSearch', 'UserLanguagesandCommits',function($scope, UserData,UserDateandCommits,UserSearch,UserLanguagesandCommits) {
   $scope.userdata ={};
   $scope.username = UserData.username
   $scope.userdata.data = UserData.rawDataCommitsByLanguage
@@ -32,6 +32,7 @@ userapp.controller('UserController', ['$scope', 'UserData', 'UserDateandCommits'
             key: "Series 2",
             values: $scope.secondUserDateandCommits
           }];
+        $scope.commitsperLangugageDataUser2 = $scope.getUserCommitsperLanganguage(data)
       })
   }
 
@@ -56,4 +57,4 @@ userapp.controller('UserController', ['$scope', 'UserData', 'UserDateandCommits'
       return d.count;
     };
   }
-}])
+}]);
