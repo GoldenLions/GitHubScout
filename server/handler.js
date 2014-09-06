@@ -83,7 +83,17 @@ var handler = {};
 // };
 
 handler.sendTopUserStats_All = function(req,res){
-  fs.readFile('./top-userstats.json',function(err,data){
+  fs.readFile('./top-user-stats.json',function(err,data){
+    if(err) throw new Error(err);   
+    res.set({
+      'Content-Type': 'text/json'
+    });
+    res.send(data);
+  });
+};
+
+handler.sendTopRepoStats_All = function(req,res){
+  fs.readFile('./top-repo-stats.json',function(err,data){
     if(err) throw new Error(err);   
     res.set({
       'Content-Type': 'text/json'
