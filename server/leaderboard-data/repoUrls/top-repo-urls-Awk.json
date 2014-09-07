@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/soimort/translate-shell",
+    "size": 940,
+    "language": "Awk"
+  },
+  {
+    "url": "https://github.com/darius/awklisp",
+    "size": 152,
+    "language": "Awk"
+  },
+  {
+    "url": "https://github.com/perusio/php-ini-cleanup",
+    "size": 54,
+    "language": "Awk"
+  },
+  {
+    "url": "https://github.com/Infinality/fontconfig-infinality",
+    "size": 263,
+    "language": "Shell"
+  },
+  {
+    "url": "https://github.com/e36freak/awk-libs",
+    "size": 368,
+    "language": "Awk"
+  },
+  {
+    "url": "https://github.com/nuex/zodiac",
+    "size": 264,
+    "language": "Awk"
+  },
+  {
+    "url": "https://github.com/step-/JSON.awk",
+    "size": 110,
+    "language": "Awk"
+  },
+  {
+    "url": "https://github.com/cosimo/vlogdump",
+    "size": 134,
+    "language": "Awk"
+  },
+  {
+    "url": "https://github.com/mrmanc/log-ninja",
+    "size": 303,
+    "language": "Awk"
+  },
+  {
+    "url": "https://github.com/arademaker/openWordnet-PT",
+    "size": 225711,
+    "language": "Awk"
+  },
+  {
+    "url": "https://github.com/dubiousjim/awkenough",
+    "size": 183,
+    "language": "Awk"
+  },
+  {
+    "url": "https://github.com/neovim/docs",
+    "size": 5113,
+    "language": "Awk"
+  },
+  {
+    "url": "https://github.com/wlangstroth/simple-static",
+    "size": 69,
+    "language": "Shell"
+  },
+  {
+    "url": "https://github.com/opentraveldata/optd",
+    "size": 165721,
+    "language": "Awk"
+  },
+  {
+    "url": "https://github.com/roidelapluie/icinga-to-graphite",
+    "size": 155,
+    "language": "Shell"
+  },
+  {
+    "url": "https://github.com/cheusov/runawk",
+    "size": 597,
+    "language": "Awk"
+  },
+  {
+    "url": "https://github.com/PaulReiber/Log-Dissector",
+    "size": 135,
+    "language": "Awk"
+  },
+  {
+    "url": "https://github.com/kroger/humdrum",
+    "size": 7693,
+    "language": "Awk"
+  },
+  {
+    "url": "https://github.com/Distrotech/tzdata",
+    "size": 450,
+    "language": "Awk"
+  },
+  {
+    "url": "https://github.com/agoldst/tex",
+    "size": 261,
+    "language": "Awk"
+  }
+]

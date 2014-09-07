@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/Netflix/asgard",
+    "size": 37358,
+    "language": "Groovy"
+  },
+  {
+    "url": "https://github.com/grails/grails-core",
+    "size": 405253,
+    "language": "Groovy"
+  },
+  {
+    "url": "https://github.com/JakeWharton/sdk-manager-plugin",
+    "size": 1216,
+    "language": "Groovy"
+  },
+  {
+    "url": "https://github.com/pongasoft/glu",
+    "size": 26767,
+    "language": "Groovy"
+  },
+  {
+    "url": "https://github.com/grails/grails",
+    "size": 337442,
+    "language": "Groovy"
+  },
+  {
+    "url": "https://github.com/jvoegele/gradle-android-plugin",
+    "size": 1631,
+    "language": "Groovy"
+  },
+  {
+    "url": "https://github.com/JakeWharton/gradle-android-test-plugin",
+    "size": 454,
+    "language": "Groovy"
+  },
+  {
+    "url": "https://github.com/geb/geb",
+    "size": 6407,
+    "language": "Groovy"
+  },
+  {
+    "url": "https://github.com/evant/gradle-retrolambda",
+    "size": 1066,
+    "language": "Groovy"
+  },
+  {
+    "url": "https://github.com/robolectric/robolectric-gradle-plugin",
+    "size": 1551,
+    "language": "Groovy"
+  },
+  {
+    "url": "https://github.com/chrisbanes/gradle-mvn-push",
+    "size": 544,
+    "language": "Groovy"
+  },
+  {
+    "url": "https://github.com/gaelyk/gaelyk",
+    "size": 250150,
+    "language": "Groovy"
+  },
+  {
+    "url": "https://github.com/jwagenleitner/groovy-wslite",
+    "size": 1084,
+    "language": "Groovy"
+  },
+  {
+    "url": "https://github.com/melix/groovy-android-gradle-plugin",
+    "size": 411,
+    "language": "Groovy"
+  },
+  {
+    "url": "https://github.com/robolectric/deckard-gradle",
+    "size": 1176,
+    "language": "Groovy"
+  },
+  {
+    "url": "https://github.com/ajoberstar/gradle-git",
+    "size": 2103,
+    "language": "Groovy"
+  },
+  {
+    "url": "https://github.com/robfletcher/twitter-bootstrap-scaffolding",
+    "size": 345,
+    "language": "Groovy"
+  },
+  {
+    "url": "https://github.com/bmuschko/gradle-tomcat-plugin",
+    "size": 1389,
+    "language": "Groovy"
+  },
+  {
+    "url": "https://github.com/grails/grails-doc",
+    "size": 16011,
+    "language": "Groovy"
+  },
+  {
+    "url": "https://github.com/entagen/jenkins-build-per-branch",
+    "size": 633,
+    "language": "Groovy"
+  }
+]

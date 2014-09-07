@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://github.com/quattor/template-library-grid",
+    "size": 4010,
+    "language": "Pan"
+  },
+  {
+    "url": "https://github.com/quattor/template-library-core",
+    "size": 3170,
+    "language": "Pan"
+  },
+  {
+    "url": "https://github.com/quattor/template-library-stratuslab",
+    "size": 1471,
+    "language": "Pan"
+  },
+  {
+    "url": "https://github.com/hpcugent/config-templates",
+    "size": 1239,
+    "language": "Pan"
+  },
+  {
+    "url": "https://github.com/quattor/template-library-monitoring",
+    "size": 499,
+    "language": "Pan"
+  },
+  {
+    "url": "https://github.com/ilia-maslakov/fried_eggs",
+    "size": 152,
+    "language": "Pan"
+  },
+  {
+    "url": "https://github.com/quattor/template-library-os",
+    "size": 3695,
+    "language": "Pan"
+  },
+  {
+    "url": "https://github.com/stdweird/quattor-SCDB-ugent",
+    "size": 12248,
+    "language": "Pan"
+  },
+  {
+    "url": "https://github.com/quattor/template-library-examples",
+    "size": 4702,
+    "language": "Pan"
+  }
+]

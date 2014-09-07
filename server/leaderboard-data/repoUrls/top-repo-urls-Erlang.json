@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/erlang/otp",
+    "size": 185104,
+    "language": "Erlang"
+  },
+  {
+    "url": "https://github.com/ninenines/cowboy",
+    "size": 9027,
+    "language": "Erlang"
+  },
+  {
+    "url": "https://github.com/processone/ejabberd",
+    "size": 23624,
+    "language": "Erlang"
+  },
+  {
+    "url": "https://github.com/mochi/mochiweb",
+    "size": 2567,
+    "language": "Erlang"
+  },
+  {
+    "url": "https://github.com/ChicagoBoss/ChicagoBoss",
+    "size": 13368,
+    "language": "Erlang"
+  },
+  {
+    "url": "https://github.com/basho/rebar",
+    "size": 6941,
+    "language": "Erlang"
+  },
+  {
+    "url": "https://github.com/basho/webmachine",
+    "size": 7020,
+    "language": "Erlang"
+  },
+  {
+    "url": "https://github.com/discoproject/disco",
+    "size": 16231,
+    "language": "Erlang"
+  },
+  {
+    "url": "https://github.com/nitrogen/nitrogen",
+    "size": 9313,
+    "language": "Erlang"
+  },
+  {
+    "url": "https://github.com/tarcieri/reia",
+    "size": 11753,
+    "language": "Erlang"
+  },
+  {
+    "url": "https://github.com/klacke/yaws",
+    "size": 14938,
+    "language": "Erlang"
+  },
+  {
+    "url": "https://github.com/5HT/n2o",
+    "size": 7819,
+    "language": "Erlang"
+  },
+  {
+    "url": "https://github.com/rabbitmq/rabbitmq-server",
+    "size": 87992,
+    "language": "Erlang"
+  },
+  {
+    "url": "https://github.com/ostinelli/misultin",
+    "size": 2479,
+    "language": "Erlang"
+  },
+  {
+    "url": "https://github.com/rvirding/lfe",
+    "size": 4947,
+    "language": "Erlang"
+  },
+  {
+    "url": "https://github.com/basho/lager",
+    "size": 3284,
+    "language": "Erlang"
+  },
+  {
+    "url": "https://github.com/heroku/logplex",
+    "size": 7648,
+    "language": "Erlang"
+  },
+  {
+    "url": "https://github.com/basho/riak_core",
+    "size": 21924,
+    "language": "Erlang"
+  },
+  {
+    "url": "https://github.com/couchbaselabs/iOS-Couchbase",
+    "size": 36391,
+    "language": "Erlang"
+  },
+  {
+    "url": "https://github.com/knutin/elli",
+    "size": 1176,
+    "language": "Erlang"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/antlr/grammars-v4",
+    "size": 10007,
+    "language": "ANTLR"
+  },
+  {
+    "url": "https://github.com/Hackerpilot/DGrammar",
+    "size": 332,
+    "language": "ANTLR"
+  },
+  {
+    "url": "https://github.com/fenollp/kju",
+    "size": 16390,
+    "language": "ANTLR"
+  },
+  {
+    "url": "https://github.com/bkiers/rrd-antlr4",
+    "size": 14019,
+    "language": "ANTLR"
+  },
+  {
+    "url": "https://github.com/oli-lang/oli-java",
+    "size": 340,
+    "language": "ANTLR"
+  },
+  {
+    "url": "https://github.com/iuliux/SublimeText2-Antlr-syntax",
+    "size": 223,
+    "language": "ANTLR"
+  },
+  {
+    "url": "https://github.com/nightscape/papa-carlos-aunt",
+    "size": 180,
+    "language": "ANTLR"
+  },
+  {
+    "url": "https://github.com/mobileink/lab.antlr",
+    "size": 580,
+    "language": "ANTLR"
+  },
+  {
+    "url": "https://github.com/aanastasiou/adl_ebnf",
+    "size": 344,
+    "language": "ANTLR"
+  },
+  {
+    "url": "https://github.com/exquery/xpath3-parser",
+    "size": 192,
+    "language": "ANTLR"
+  },
+  {
+    "url": "https://github.com/rgolangh/osinfo-antlr",
+    "size": 166,
+    "language": "ANTLR"
+  },
+  {
+    "url": "https://github.com/brettwooldridge/jet",
+    "size": 204,
+    "language": "ANTLR"
+  },
+  {
+    "url": "https://github.com/homayoonfarrahi/Compiler-Project",
+    "size": 144,
+    "language": "ANTLR"
+  },
+  {
+    "url": "https://github.com/potigol/potigol-grammar",
+    "size": 224,
+    "language": "ANTLR"
+  },
+  {
+    "url": "https://github.com/bkiers/sqlite-parser",
+    "size": 3536,
+    "language": "ANTLR"
+  },
+  {
+    "url": "https://github.com/shiver-me-timbers/smt-antlr4-java-parser",
+    "size": 212,
+    "language": "ANTLR"
+  },
+  {
+    "url": "https://github.com/Diolor/PJ",
+    "size": 652,
+    "language": "ANTLR"
+  },
+  {
+    "url": "https://github.com/grahambrooks/jast",
+    "size": 1296,
+    "language": "ANTLR"
+  },
+  {
+    "url": "https://github.com/bymarkone/dojos",
+    "size": 118,
+    "language": "ANTLR"
+  },
+  {
+    "url": "https://github.com/adobni/bard",
+    "size": 168,
+    "language": "ANTLR"
+  }
+]

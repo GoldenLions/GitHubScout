@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/HoTT/HoTT",
+    "size": 66485,
+    "language": "Coq"
+  },
+  {
+    "url": "https://github.com/vladimirias/Foundations",
+    "size": 4139,
+    "language": "Coq"
+  },
+  {
+    "url": "https://github.com/namin/dot",
+    "size": 3572,
+    "language": "Coq"
+  },
+  {
+    "url": "https://github.com/jonleivent/mindless-coding",
+    "size": 581,
+    "language": "Coq"
+  },
+  {
+    "url": "https://github.com/sfja/sfja",
+    "size": 3447,
+    "language": "Coq"
+  },
+  {
+    "url": "https://github.com/tcarstens/verlang",
+    "size": 130,
+    "language": "Coq"
+  },
+  {
+    "url": "https://github.com/cmeiklejohn/distributed-data-structures",
+    "size": 462,
+    "language": "Coq"
+  },
+  {
+    "url": "https://github.com/jwiegley/category-theory",
+    "size": 1008,
+    "language": "Coq"
+  },
+  {
+    "url": "https://github.com/math-classes/math-classes",
+    "size": 2908,
+    "language": "Coq"
+  },
+  {
+    "url": "https://github.com/trun/fpgaboy",
+    "size": 2517,
+    "language": "Coq"
+  },
+  {
+    "url": "https://github.com/coq-ext-lib/coq-ext-lib",
+    "size": 1908,
+    "language": "Coq"
+  },
+  {
+    "url": "https://github.com/finrod/System-T",
+    "size": 118,
+    "language": "Coq"
+  },
+  {
+    "url": "https://github.com/UniMath/UniMath",
+    "size": 5948,
+    "language": "Coq"
+  },
+  {
+    "url": "https://github.com/sergei-romanenko/agda-simple-scp",
+    "size": 412,
+    "language": "Coq"
+  },
+  {
+    "url": "https://github.com/wouter-swierstra/xmonad",
+    "size": 313,
+    "language": "Coq"
+  },
+  {
+    "url": "https://github.com/pi8027/lambda-calculus",
+    "size": 1543,
+    "language": "Coq"
+  },
+  {
+    "url": "https://github.com/ekmett/comonad-transformers",
+    "size": 238,
+    "language": "Coq"
+  },
+  {
+    "url": "https://github.com/tmiya/coq",
+    "size": 5727,
+    "language": "Coq"
+  },
+  {
+    "url": "https://github.com/haklabbeograd/software-foundations-coq-workshop",
+    "size": 284,
+    "language": "Coq"
+  },
+  {
+    "url": "https://github.com/pi8027/formalized-postscript",
+    "size": 584,
+    "language": "Coq"
+  }
+]
