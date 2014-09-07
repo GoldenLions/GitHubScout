@@ -11,7 +11,7 @@ var CLIENT_SECRET = "_FW5deWK4e3fizF8n9VDi9j0";
 var datasetID = 'githubscout'
 var projectID = 'agile-binder-688'
 var SERVICE_ACCOUNT_EMAIL = '314338891317-u8v8evcg11jpfn8ukkdkbh25p53h84ua@developer.gserviceaccount.com'
-var SERVICE_ACCOUNT_KEY_FILE = './googleapi-privatekey.pem'//might be hidden
+var SERVICE_ACCOUNT_KEY_FILE = './server/googleapi-privatekey.pem'//might be hidden
 var scopes = ['https://www.googleapis.com/auth/bigquery','https://www.googleapis.com/auth/cloud-platform'];
 //create an oauth2 object for authentication. We just need to add an access_token property now
 var oauth2 = new google.auth.OAuth2(CLIENT_ID, CLIENT_SECRET, 'postmessage');
@@ -24,6 +24,8 @@ var JWT = new google.auth.JWT(
 // console.log('outside makeFile: JWT: ',JWT)
 var updater = {};
 
+//thequery: 'SELECT * FROM [githubscout.distinct_users_pushing_by_month_and_language] LIMIT 3500;'
+//thefileName: 'usersPushingByMonthAndLanguage2.json'
 updater.makeFile = function(myQuery,fileName){
 	// console.log('inside makeFile: JWT:',JWT)
 	JWT.authorize(function(err,data){
@@ -40,7 +42,7 @@ updater.makeFile = function(myQuery,fileName){
 			projectId: projectID,
 			resource: {
 				configuration: {
-					query: {query: 'SELECT * FROM [githubscout.distinct_users_pushing_by_month_and_language] LIMIT 3500;'}
+					query: {query: myQuery}
 				}
 			},
 			media: {}
@@ -53,7 +55,7 @@ updater.makeFile = function(myQuery,fileName){
 				projectId: projectID,
 			},function(err,data){
 				if(err){console.log(err)}
-				fs.writeFile('usersPushingByMonthAndLanguage2.json',
+				fs.writeFile(fileName,
 					JSON.stringify(data),
 					function(err){
 						if(err)console.log(err);

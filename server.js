@@ -4,7 +4,7 @@ var handler = require('./server/handler.js');
 var updater = require('./server/autoUpdates.js');
 
 
-updater.makeFile();
+updater.makeFile('SELECT * FROM [githubscout.distinct_users_pushing_by_month_and_language] LIMIT 3500;','usersPushingByMonthAndLanguage2.json');
 
 // var google = require('googleapis');
 // var http = require('http');
@@ -18,7 +18,7 @@ updater.makeFile();
 // var datasetID = 'githubscout'
 // var projectID = 'agile-binder-688'
 // var SERVICE_ACCOUNT_EMAIL = '314338891317-u8v8evcg11jpfn8ukkdkbh25p53h84ua@developer.gserviceaccount.com'
-// var SERVICE_ACCOUNT_KEY_FILE = './googleapi-privatekey.pem'//might be hidden
+// var SERVICE_ACCOUNT_KEY_FILE = './server/googleapi-privatekey.pem'//might be hidden
 // var scopes = ['https://www.googleapis.com/auth/bigquery','https://www.googleapis.com/auth/cloud-platform'];
 
 // //create an oauth2 object for authentication. We just need to add an access_token property now
