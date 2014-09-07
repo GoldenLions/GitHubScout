@@ -1,8 +1,12 @@
 var bodyParser = require('body-parser');
+var Promise = require('bluebird');
+var _ = require('lodash');
 
 var db = require('../app/config');
 var Cities = require('../app/collections/cities');
 var City = require('../app/models/city');
+var State = require('../app/models/state');
+var States = require('../app/collections/states');
 var Countries = require('../app/collections/countries');
 var Country = require('../app/models/country');
 var GithubLocation = require('../app/models/githublocation');
@@ -11,107 +15,273 @@ var GithubLocations = require('../app/collections/githublocations');
 
 var handler = {};
 
+// Since Github user put different types of information in their location, 
+// we need to normalize the data and turn to Github locations into city,
+// state, country whenever possible.
 
-// // Fetches and returns the name and ISO initials for all countries.
-// handler.fetchCountries = function(){
-//   console.log('fetchCountries');
-//   // using query() instead of fetch() so that we can limit the number 
-//   // of records selected.
-//   Countries.query()
-//     .limit(1)
-//     .select('country', 'iso', 'iso3')
-//     .then(function(countries){
-
-//       // console.log('countries', countries);
-//       countries.forEach(function(country){
-//         for(var key in country){
-//           console.log(country[key]);
-//           // using query() instead of fetch() so that we can limit the number 
-//           // of records selected.
-//           GithubLocations.query()
-//             // .whereNull('country')
-//             // .limit(1)
-//             .where({github_location: country[key]})
-//             .select()
-//             .then(function(locations){
-//               console.log('locations', locations);
-
-//               // foreach github location, set the country field to targetCountry
-//               locations.forEach(function(location){
-//                 console.log('loc....',location);
-//                 updateGithubLocation(location);
-//               })
-
-//             });
-//         }
-//       })
-
-//     });
-// };
+handler.resetDraft = function() {
+  db.knex('github_locations')
+    .where({draft: 1})
+    .update({ draft: 0})
+    .then(console.log('update draft'))
+};
 
 
-
-// Fetches and returns the name and ISO initials for all countries.
-handler.fetchCountries = function(){
-  var names = [];
-
-  console.log('fetchCountries');
-  // using query() instead of fetch() so that we can limit the number 
-  // of records selected.
+// Update country for records whose Github locations only list a country.
+handler.setCountryOnly = function(){
+  // select all countries in countries table
   Countries.query()
-    .limit(10)
     .select('country', 'iso', 'iso3')
-    .then(function(countries){
 
-      // console.log('countries', countries);
-      countries.forEach(function(country){
-        for(var key in country){
-          // console.log(country[key]);
-          // names.push(country[key]);
-          
-          handler.fetchGithubLocations(country[key]);
-
-        }
-      });
+    // for each country, update the country field for all Github records that  
+    // list the country as their location
+    .map(function(country){
+      console.log(country);
+      db.knex('github_locations')
+        .whereNull('part2')
+        .andWhere( function() {
+          this.where('part1', country['iso'])
+          .orWhere('part1', country['iso3'])
+          .orWhere('part1', country['country'])
+        })
+        .andWhere('draft', 0)
+        .update({country: country['country'], draft: 1})
+        .then(console.log('update country'));
     });
 };
 
-// Get all Github locations that match the target location.
-handler.fetchGithubLocations = function(targetLocation) {
-  console.log('fetchGithubLocations', targetLocation);
 
-  // using query() instead of fetch() so that we can limit the number 
-  // of records selected.
+// Update state and country for records whose Github locations only list a USA state.
+handler.setStateOnly = function(){
+  // select all states in states table
+  States.query()
+    .select('state', 'abbr')
+
+    // for each state
+    .map(function(state){
+      console.log(state);
+
+      //update the state and country field for all Github locations that  
+      // list the state as their location
+      db.knex('github_locations')
+        .whereNull('part2')
+        .andWhere( function() {
+          this.where('part1', state['state'])
+          .orWhere('part1', state['abbr'])
+        })
+        .andWhere('draft', 0)
+        .update({state: state['state'], country: 'United States', draft: 1})
+        .then(console.log('update state'));
+
+      //update the state and country field for all Github locations that  
+      // list the state  and United states as their location
+      db.knex('github_locations')
+        .where( function() {
+          this.where('part1', state['state'])
+          .orWhere('part1', state['abbr'])
+        })
+        .andWhere( function() {
+          this.where('part2', 'US')
+          .orWhere('part2', 'United States')
+          .orWhere('part2', 'USA')
+          .orWhere('part2', 'DC')
+        })
+        .andWhere('draft', 0)
+        .update({state: state['state'], country: 'United States', draft: 1})
+        .then(console.log('update state US'));
+
+    });
+};
+
+
+handler.setCityOnly = function(){
+  // select all cities in cities table
+  db.knex('cities')
+    .join('countries', 'cities.country_code', 'countries.iso')
+    .leftJoin('states', 'cities.admin', 'states.abbr')
+    .select('cities.name as city', 'cities.asciiname as cityAlt' ,
+      'countries.country', 'countries.iso', 'countries.iso3',
+      'states.state', 'states.abbr')
+    // .limit(10)
+
+    //for each city
+    .map(function(place){
+      // console.log(place)
+
+      //update the city, state and country field for all Github locations   
+      db.knex('github_locations')
+        // Github location that list the city as their location
+        .where(function(){
+          this.whereNull('part2')
+          .andWhere(function(){
+            this.where('part1', place['city'])
+            .orWhere('part1', place['cityAlt'])
+          })
+        })
+
+        // Github location that list the city, state as their location
+        .orWhere(function(){
+          this.where(function(){
+            this.where('part1', place['city'])
+            .orWhere('part1', place['cityAlt'])
+          })
+          .andWhere(function(){
+            this.where('part2', place['state'])
+            .orWhere('part2', place['abbr'])
+          })
+        })
+
+        // Github location that list the city, country as their location
+        .orWhere(function(){
+          this.where(function(){
+            this.where('part1', place['city'])
+            .orWhere('part1', place['cityAlt'])
+          })
+          .andWhere(function(){
+            this.where('part2', place['country'])
+            .orWhere('part2', place['iso'])
+            .orWhere('part2', place['iso3'])
+          })
+        })
+
+        // Github location that list the xxx, city, country as their location
+        .orWhere(function(){
+          this.where(function(){
+            this.where('part2', place['city'])
+            .orWhere('part2', place['cityAlt'])
+          })
+          .andWhere(function(){
+            this.where('part3', place['country'])
+            .orWhere('part3', place['iso'])
+            .orWhere('part3', place['iso3'])
+          })
+        })
+
+        // Github location that list the city, xxx, country as their location
+        .orWhere(function(){
+          this.where(function(){
+            this.where('part1', place['city'])
+            .orWhere('part1', place['cityAlt'])
+          })
+          .andWhere(function(){
+            this.where('part3', place['country'])
+            .orWhere('part3', place['iso'])
+            .orWhere('part3', place['iso3'])
+          })
+        })
+        .andWhere('draft', 0)
+        .update({city: place['city'], state: place['state'], country: place['country'], draft: 1})
+        .then(console.log('update city'));
+
+    })
+
+};
+
+
+handler.setCityReverseOnly = function(){
+  // select all cities in cities table
+  db.knex('cities')
+    .join('countries', 'cities.country_code', 'countries.iso')
+    .leftJoin('states', 'cities.admin', 'states.abbr')
+    .select('cities.name as city', 'cities.asciiname as cityAlt' ,
+      'countries.country', 'countries.iso', 'countries.iso3',
+      'states.state', 'states.abbr')
+    // .where('name','Duisburg')
+    // .limit(10)
+
+    //for each city
+    .map(function(place){
+      // console.log(place)
+
+      //update the city, state and country field for all Github locations   
+      db.knex('github_locations')
+        // Github location that list the city as their location
+
+        // Github location that list the country, xxx, city as their location
+        .where(function(){
+          this.where(function(){
+            this.where('part3', place['city'])
+            .orWhere('part3', place['cityAlt'])
+          })
+          .andWhere(function(){
+            this.where('part1', place['country'])
+            .orWhere('part1', place['iso'])
+          })
+        })
+        // Github location that list the country, city as their location
+        .orWhere(function(){
+          this.where(function(){
+            this.where('part2', place['city'])
+            .orWhere('part2', place['cityAlt'])
+          })
+          .andWhere(function(){
+            this.where('part1', place['country'])
+            .orWhere('part1', place['iso'])
+          })
+        })
+
+        // Github location that list the xxx, country, city as their location
+        .orWhere(function(){
+          this.where(function(){
+            this.where('part3', place['city'])
+            .orWhere('part3', place['cityAlt'])
+          })
+          .andWhere(function(){
+            this.where('part2', place['country'])
+            .orWhere('part2', place['iso'])
+          })
+        })
+
+        .andWhere('draft', 0)
+        .update({city: place['city'], state: place['state'], country: place['country'], draft: 1})
+        .then(console.log('update city'));
+
+    })
+
+};
+
+
+
+
+
+// takes locations from Github and splits them into parts
+handler.splitLocations = function(){
+  // select every distinct location that has comma or split, and not an url
   GithubLocations.query()
-    .whereNull('country')
-    .where({github_location: targetLocation})
-    .limit(3)
-    .select()
-    .then(function(locations){
-      console.log('locations', locations);
+    .distinct('location')
+    // .where({draft : 0})
+    .andWhere(function(){
+      this.where('location', 'like', '%,%')
+      .orWhere('location', 'like', '%/%')
+    })
+    .andWhere('location', 'not like', 'http')
 
-      // foreach github location, set the country field to targetCountry
-      locations.forEach(function(location){
-        console.log('test.......')
-        updateGithubLocation(targetLocation);
-      })
+    // for every location
+    .map(function(location){
+      console.log(location)
 
+      // split the location into parts by comma or slash and
+      var parts = location['location'].split(/ ?[,\/] ?/);  
+
+      // store each part in an object. The number of parts for each location 
+      // can vary from 1 to 3.  
+      var updateParts = {};
+      if(parts.length === 1){
+        updateParts = {part1: parts[0], draft: 1};
+      } else if (parts.length === 2) {
+        updateParts = {part1: parts[0], part2: parts[1], draft: 1};
+      } else if (parts.length >= 3) {
+        updateParts = {part1: parts[0], part2: parts[1], part3: parts[2], draft: 1};
+      }
+
+      // update the parts for the location
+      db.knex('github_locations')
+        .where('location', location['location'])
+        .andWhere('draft', 0)
+        .update(updateParts)
+        .then(console.log('update parts'));
+          
     });
-}
-
-var updateGithubLocation = function(targetLocation){
-  console.log('updateGithubLocation', targetLocation);
-
-  new GithubLocation({github_location: targetLocation})
-    .save({country: targetLocation}, {patch: true})
-    .then(function(githubLocation){
-      console.log('sucess', targetLocation);
-    });
-}
-
-
-
-// 
-// var insertCountry = 
+};
 
 module.exports = handler;
