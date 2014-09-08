@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/EiffelWebFramework/EWF",
+    "size": 17462,
+    "language": "Eiffel",
+    "commits": "1,919",
+    "stars": "17",
+    "forks": "17",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/grinsfem/grins",
+    "size": 26292,
+    "language": "Eiffel",
+    "commits": "1,382",
+    "stars": "12",
+    "forks": "9",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/eiffelhub/json",
+    "size": 1348,
+    "language": "Eiffel",
+    "commits": "106",
+    "stars": "10",
+    "forks": "7",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/oligot/epm",
+    "size": 305,
+    "language": "Eiffel",
+    "commits": "68",
+    "stars": "9",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/jvelilla/EiffelWebNino",
+    "size": 2842,
+    "language": "Eiffel",
+    "commits": "51",
+    "stars": "8",
+    "forks": "7",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/nmaguirre/eiffel-2048",
+    "size": 2247,
+    "language": "Eiffel",
+    "commits": "62",
+    "stars": "7",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/jocelyn/eel",
+    "size": 303,
+    "language": "Eiffel",
+    "commits": "2",
+    "stars": "7",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/jvelilla/HAL",
+    "size": 180,
+    "language": "Eiffel",
+    "commits": "22",
+    "stars": "6",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/seventh/codemetre",
+    "size": 592,
+    "language": "Eiffel",
+    "commits": "43",
+    "stars": "6",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/jocelyn/bricabrac",
+    "size": 704,
+    "language": "Eiffel",
+    "commits": "70",
+    "stars": "6",
+    "forks": "6",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/berenddeboer/eposix",
+    "size": 8365,
+    "language": "Eiffel",
+    "commits": "400",
+    "stars": "6",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/jvelilla/RosettaCode",
+    "size": 167,
+    "language": "Eiffel",
+    "commits": "26",
+    "stars": "6",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/tioui/eiffel_game_lib",
+    "size": 50515,
+    "language": "Eiffel",
+    "commits": "109",
+    "stars": "5",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/safe-eiffel/lib",
+    "size": 5892,
+    "language": "Eiffel",
+    "commits": "752",
+    "stars": "5",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/safe-eiffel/ecli",
+    "size": 4916,
+    "language": "Eiffel",
+    "commits": "488",
+    "stars": "5",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/fuentesdt/old_deltap_phantom_oct10",
+    "size": 1361,
+    "language": "Eiffel",
+    "commits": "20",
+    "stars": "4",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/scottgw/language-eiffel",
+    "size": 625,
+    "language": "Eiffel",
+    "commits": "237",
+    "stars": "4",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/jocelyn-old/EiffelWebReloaded",
+    "size": 2945,
+    "language": "Eiffel",
+    "commits": "101",
+    "stars": "4",
+    "forks": "4",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/hirunatan/mine-eiffel",
+    "size": 398,
+    "language": "Eiffel",
+    "commits": "28",
+    "stars": "4",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/dhda/Engin100-Team-Ah-Maze-Ing",
+    "size": 3372,
+    "language": "Eiffel",
+    "commits": "135",
+    "stars": "4",
+    "forks": "1",
+    "contributors": ""
+  }
+]

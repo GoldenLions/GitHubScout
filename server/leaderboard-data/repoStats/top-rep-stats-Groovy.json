@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/Netflix/asgard",
+    "size": 37358,
+    "language": "Groovy",
+    "commits": "1,698",
+    "stars": "1,458",
+    "forks": "279",
+    "contributors": "16"
+  },
+  {
+    "url": "https://github.com/grails/grails-core",
+    "size": 405253,
+    "language": "Groovy",
+    "commits": "14,599",
+    "stars": "1,059",
+    "forks": "539",
+    "contributors": "147"
+  },
+  {
+    "url": "https://github.com/JakeWharton/sdk-manager-plugin",
+    "size": 1216,
+    "language": "Groovy",
+    "commits": "70",
+    "stars": "537",
+    "forks": "30",
+    "contributors": "9"
+  },
+  {
+    "url": "https://github.com/pongasoft/glu",
+    "size": 26767,
+    "language": "Groovy",
+    "commits": "585",
+    "stars": "431",
+    "forks": "77",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/grails/grails",
+    "size": 337442,
+    "language": "Groovy",
+    "commits": "6,419",
+    "stars": "387",
+    "forks": "81",
+    "contributors": "16"
+  },
+  {
+    "url": "https://github.com/jvoegele/gradle-android-plugin",
+    "size": 1631,
+    "language": "Groovy",
+    "commits": "319",
+    "stars": "357",
+    "forks": "92",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/JakeWharton/gradle-android-test-plugin",
+    "size": 454,
+    "language": "Groovy",
+    "commits": "80",
+    "stars": "352",
+    "forks": "63",
+    "contributors": "11"
+  },
+  {
+    "url": "https://github.com/geb/geb",
+    "size": 6407,
+    "language": "Groovy",
+    "commits": "1,308",
+    "stars": "345",
+    "forks": "101",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/evant/gradle-retrolambda",
+    "size": 1066,
+    "language": "Groovy",
+    "commits": "123",
+    "stars": "293",
+    "forks": "12",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/robolectric/robolectric-gradle-plugin",
+    "size": 1551,
+    "language": "Groovy",
+    "commits": "184",
+    "stars": "231",
+    "forks": "42",
+    "contributors": "25"
+  },
+  {
+    "url": "https://github.com/chrisbanes/gradle-mvn-push",
+    "size": 544,
+    "language": "Groovy",
+    "commits": "26",
+    "stars": "217",
+    "forks": "92",
+    "contributors": "9"
+  },
+  {
+    "url": "https://github.com/gaelyk/gaelyk",
+    "size": 250150,
+    "language": "Groovy",
+    "commits": "1,165",
+    "stars": "207",
+    "forks": "41",
+    "contributors": "11"
+  },
+  {
+    "url": "https://github.com/jwagenleitner/groovy-wslite",
+    "size": 1084,
+    "language": "Groovy",
+    "commits": "197",
+    "stars": "199",
+    "forks": "47",
+    "contributors": "9"
+  },
+  {
+    "url": "https://github.com/melix/groovy-android-gradle-plugin",
+    "size": 411,
+    "language": "Groovy",
+    "commits": "25",
+    "stars": "186",
+    "forks": "12",
+    "contributors": "5"
+  },
+  {
+    "url": "https://github.com/robolectric/deckard-gradle",
+    "size": 1176,
+    "language": "Groovy",
+    "commits": "88",
+    "stars": "171",
+    "forks": "51",
+    "contributors": "12"
+  },
+  {
+    "url": "https://github.com/ajoberstar/gradle-git",
+    "size": 2103,
+    "language": "Groovy",
+    "commits": "182",
+    "stars": "157",
+    "forks": "29",
+    "contributors": "7"
+  },
+  {
+    "url": "https://github.com/robfletcher/twitter-bootstrap-scaffolding",
+    "size": 345,
+    "language": "Groovy",
+    "commits": "70",
+    "stars": "156",
+    "forks": "102",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/bmuschko/gradle-tomcat-plugin",
+    "size": 1389,
+    "language": "Groovy",
+    "commits": "169",
+    "stars": "148",
+    "forks": "34",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/grails/grails-doc",
+    "size": 16011,
+    "language": "Groovy",
+    "commits": "1,819",
+    "stars": "148",
+    "forks": "175",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/entagen/jenkins-build-per-branch",
+    "size": 633,
+    "language": "Groovy",
+    "commits": "58",
+    "stars": "147",
+    "forks": "109",
+    "contributors": ""
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/xtk/X",
+    "size": 191518,
+    "language": "Smalltalk",
+    "commits": "1,495",
+    "stars": "257",
+    "forks": "98",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/sl4m/gnu_smalltalk_koans",
+    "size": 229,
+    "language": "Smalltalk",
+    "commits": "75",
+    "stars": "76",
+    "forks": "19",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/bonzini/smalltalk",
+    "size": 11524,
+    "language": "Smalltalk",
+    "commits": "2,141",
+    "stars": "68",
+    "forks": "15",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/dalehenrich/filetree",
+    "size": 3229,
+    "language": "Smalltalk",
+    "commits": "298",
+    "stars": "59",
+    "forks": "16",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/NicolasPetton/iliad",
+    "size": 6083,
+    "language": "Smalltalk",
+    "commits": "869",
+    "stars": "52",
+    "forks": "11",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/pharo-project/pharo-core",
+    "size": 64561,
+    "language": "Smalltalk",
+    "commits": "1,438",
+    "stars": "46",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/renggli/builder",
+    "size": 37228,
+    "language": "Smalltalk",
+    "commits": "346",
+    "stars": "38",
+    "forks": "23",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/timfel/gitocello",
+    "size": 215,
+    "language": "Smalltalk",
+    "commits": "91",
+    "stars": "33",
+    "forks": "4",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev",
+    "size": 69638,
+    "language": "Smalltalk",
+    "commits": "125",
+    "stars": "23",
+    "forks": "6",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/svenvc/ston",
+    "size": 461,
+    "language": "Smalltalk",
+    "commits": "52",
+    "stars": "21",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/martinmcclure/mist",
+    "size": 2258,
+    "language": "Smalltalk",
+    "commits": "100",
+    "stars": "21",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/jvuletich/Cuis",
+    "size": 121528,
+    "language": "Smalltalk",
+    "commits": "106",
+    "stars": "20",
+    "forks": "6",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/SquareBracketAssociates/SqueakByExample-english",
+    "size": 13899,
+    "language": "Smalltalk",
+    "commits": "240",
+    "stars": "19",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/GwenaelCasaccio/gst-visualgst",
+    "size": 5794,
+    "language": "Smalltalk",
+    "commits": "679",
+    "stars": "19",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/svenvc/zinc",
+    "size": 6537,
+    "language": "Smalltalk",
+    "commits": "53",
+    "stars": "19",
+    "forks": "13",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/CampSmalltalk/Cypress",
+    "size": 663,
+    "language": "Smalltalk",
+    "commits": "28",
+    "stars": "18",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/dmatveev/shampoo",
+    "size": 257,
+    "language": "Smalltalk",
+    "commits": "78",
+    "stars": "16",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/dalehenrich/tode",
+    "size": 21083,
+    "language": "Smalltalk",
+    "commits": "2,405",
+    "stars": "16",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/SergeStinckwich/SciSmalltalk",
+    "size": 3727,
+    "language": "Smalltalk",
+    "commits": "137",
+    "stars": "15",
+    "forks": "4",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/lukego/xoos",
+    "size": 104,
+    "language": "Smalltalk",
+    "commits": "20",
+    "stars": "14",
+    "forks": "1",
+    "contributors": ""
+  }
+]

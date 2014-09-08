@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://github.com/githwxi/ATS-Postiats",
+    "size": 41761,
+    "language": "ATS",
+    "commits": "3,246",
+    "stars": "47",
+    "forks": "19",
+    "contributors": "6"
+  },
+  {
+    "url": "https://github.com/githwxi/ATS-Postiats-contrib",
+    "size": 10851,
+    "language": "ATS",
+    "commits": "333",
+    "stars": "5",
+    "forks": "8",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/wdblair/ats-pilot",
+    "size": 328,
+    "language": "ATS",
+    "commits": "36",
+    "stars": "2",
+    "forks": "1",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/mitsururike/freebsd-ports",
+    "size": 188,
+    "language": "ATS",
+    "commits": "8",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/noisesmith/learning-ats",
+    "size": 184,
+    "language": "ATS",
+    "commits": "17",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/thisismiller/ats2",
+    "size": 321,
+    "language": "ATS",
+    "commits": "43",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/bbarker/ATStest",
+    "size": 160,
+    "language": "ATS",
+    "commits": "8",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/bbarker/M-N-K-Tic-Tac-Toe",
+    "size": 644,
+    "language": "ATS",
+    "commits": "39",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/alex-ren/org.ats-lang.documentation",
+    "size": 763,
+    "language": "ATS",
+    "commits": "20",
+    "stars": "1",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/shlevy/socket-activate",
+    "size": 184,
+    "language": "ATS",
+    "commits": "14",
+    "stars": "0",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/steinwaywhw/ats-parcc",
+    "size": 352,
+    "language": "ATS",
+    "commits": "15",
+    "stars": "0",
+    "forks": "0",
+    "contributors": ""
+  }
+]

@@ -1,0 +1,548 @@
+[
+  {
+    "url": "https://github.com/julycoding",
+    "language": "TeX",
+    "full_name": "July",
+    "username": "julycoding",
+    "location": "Beijing, China",
+    "join_date": "Dec 14, 2013",
+    "popular_repos_stars": "4519",
+    "primary_languages": [
+      "TeX",
+      "Ruby",
+      "Rebol"
+    ],
+    "contributions": 2,
+    "followers": "981"
+  },
+  {
+    "url": "https://github.com/bananapi-dev",
+    "language": "TeX",
+    "full_name": "",
+    "username": "bananapi-dev",
+    "location": "",
+    "join_date": "May 20, 2014",
+    "popular_repos_stars": "4",
+    "primary_languages": [
+      "Shell",
+      "Perl",
+      "Python"
+    ],
+    "contributions": 7,
+    "followers": "43"
+  },
+  {
+    "url": "https://github.com/qiwsir",
+    "language": "TeX",
+    "full_name": "老齐",
+    "username": "qiwsir",
+    "location": "Suzhou China",
+    "join_date": "Feb 20, 2013",
+    "popular_repos_stars": "82",
+    "primary_languages": [
+      "Python",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 386,
+    "followers": "41"
+  },
+  {
+    "url": "https://github.com/RobertHarper",
+    "language": "TeX",
+    "full_name": "Robert Harper",
+    "username": "RobertHarper",
+    "location": "Pittsburgh PA",
+    "join_date": "Mar 13, 2012",
+    "popular_repos_stars": "5",
+    "primary_languages": [
+      "Shell",
+      "Assembly",
+      "C"
+    ],
+    "contributions": 49,
+    "followers": "19"
+  },
+  {
+    "url": "https://github.com/molpopgen",
+    "language": "TeX",
+    "full_name": "Kevin R. Thornton",
+    "username": "molpopgen",
+    "location": "Irvine, CA",
+    "join_date": "Jan 15, 2014",
+    "popular_repos_stars": "17",
+    "primary_languages": [
+      "C",
+      "Shell",
+      "C"
+    ],
+    "contributions": 603,
+    "followers": "16"
+  },
+  {
+    "url": "https://github.com/fengChenHPC",
+    "language": "TeX",
+    "full_name": "Rogy Liu",
+    "username": "fengChenHPC",
+    "location": "",
+    "join_date": "Nov 15, 2013",
+    "popular_repos_stars": "35",
+    "primary_languages": [
+      "Cuda",
+      "TeX",
+      "Shell"
+    ],
+    "contributions": 2,
+    "followers": "16"
+  },
+  {
+    "url": "https://github.com/ngehlenborg",
+    "language": "TeX",
+    "full_name": "Nils Gehlenborg",
+    "username": "ngehlenborg",
+    "location": "Boston, MA",
+    "join_date": "Nov 23, 2011",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "TeX",
+      "CSS"
+    ],
+    "contributions": 1,
+    "followers": "15"
+  },
+  {
+    "url": "https://github.com/kavyamanohar",
+    "language": "TeX",
+    "full_name": "Kavya Manohar",
+    "username": "kavyamanohar",
+    "location": "",
+    "join_date": "Jun 29, 2013",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "TeX"
+    ],
+    "contributions": 148,
+    "followers": "12"
+  },
+  {
+    "url": "https://github.com/shd",
+    "language": "TeX",
+    "full_name": "Dmitry Shtukenberg",
+    "username": "shd",
+    "location": "",
+    "join_date": "Dec 2, 2009",
+    "popular_repos_stars": "13",
+    "primary_languages": [
+      "TeX"
+    ],
+    "contributions": 1,
+    "followers": "12"
+  },
+  {
+    "url": "https://github.com/cgnieder",
+    "language": "TeX",
+    "full_name": "Clemens Niederberger",
+    "username": "cgnieder",
+    "location": "",
+    "join_date": "Aug 30, 2012",
+    "popular_repos_stars": "6",
+    "primary_languages": [
+      "TeX"
+    ],
+    "contributions": 134,
+    "followers": "10"
+  },
+  {
+    "url": "https://github.com/blefloch",
+    "language": "TeX",
+    "full_name": "Bruno Le Floch",
+    "username": "blefloch",
+    "location": "",
+    "join_date": "Apr 11, 2011",
+    "popular_repos_stars": "7",
+    "primary_languages": [
+      "Lua",
+      "TeX"
+    ],
+    "contributions": 57,
+    "followers": "10"
+  },
+  {
+    "url": "https://github.com/alanarnholt",
+    "language": "TeX",
+    "full_name": "Alan Arnholt",
+    "username": "alanarnholt",
+    "location": "Boone, NC",
+    "join_date": "Jul 11, 2012",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "R",
+      "TeX",
+      "JavaScript"
+    ],
+    "contributions": 582,
+    "followers": "10"
+  },
+  {
+    "url": "https://github.com/gsmashkilla",
+    "language": "TeX",
+    "full_name": "Gsmash Killa",
+    "username": "gsmashkilla",
+    "location": "",
+    "join_date": "Jan 3, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/placidoneto",
+    "language": "TeX",
+    "full_name": "",
+    "username": "placidoneto",
+    "location": "",
+    "join_date": "Feb 16, 2012",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "TeX"
+    ],
+    "contributions": 24,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/hollybik",
+    "language": "TeX",
+    "full_name": "",
+    "username": "hollybik",
+    "location": "",
+    "join_date": "Jan 30, 2012",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "TeX"
+    ],
+    "contributions": 20,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/rajeeshknambiar",
+    "language": "TeX",
+    "full_name": "Rajeesh K Nambiar",
+    "username": "rajeeshknambiar",
+    "location": "",
+    "join_date": "Oct 1, 2010",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "TeX"
+    ],
+    "contributions": 60,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/dcernst",
+    "language": "TeX",
+    "full_name": "Dana Ernst",
+    "username": "dcernst",
+    "location": "Flagstaff, AZ",
+    "join_date": "Dec 26, 2011",
+    "popular_repos_stars": "5",
+    "primary_languages": [
+      "TeX",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 208,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/RobertTalbert",
+    "language": "TeX",
+    "full_name": "Robert Talbert",
+    "username": "RobertTalbert",
+    "location": "Allendale, Michigan USA",
+    "join_date": "Dec 26, 2012",
+    "popular_repos_stars": "8",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "PHP"
+    ],
+    "contributions": 107,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/kittykat",
+    "language": "TeX",
+    "full_name": "Ekaterina Gerasimova",
+    "username": "kittykat",
+    "location": "Norwich, UK",
+    "join_date": "Feb 4, 2009",
+    "popular_repos_stars": "4",
+    "primary_languages": [
+      "TeX"
+    ],
+    "contributions": 6,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/Strandtasche",
+    "language": "TeX",
+    "full_name": "Tobias Hornberger",
+    "username": "Strandtasche",
+    "location": "Karlsruhe, Germany",
+    "join_date": "Jul 6, 2012",
+    "popular_repos_stars": "1",
+    "primary_languages": [
+      "TeX",
+      "Perl"
+    ],
+    "contributions": 463,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/carlislerainey",
+    "language": "TeX",
+    "full_name": "Carlisle Rainey",
+    "username": "carlislerainey",
+    "location": "Buffalo, NY",
+    "join_date": "Jul 13, 2012",
+    "popular_repos_stars": "13",
+    "primary_languages": [
+      "R",
+      "TeX",
+      "Stata"
+    ],
+    "contributions": 322,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/karakaplanm",
+    "language": "TeX",
+    "full_name": "Mustafa Karakaplan",
+    "username": "karakaplanm",
+    "location": "Malatya-Turkey",
+    "join_date": "Jul 17, 2013",
+    "popular_repos_stars": "1",
+    "primary_languages": [
+      "TeX",
+      "IDL",
+      "C"
+    ],
+    "contributions": 44,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/renatacord",
+    "language": "TeX",
+    "full_name": "",
+    "username": "renatacord",
+    "location": "",
+    "join_date": "Jul 1, 2011",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "TeX"
+    ],
+    "contributions": 21,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/tarheelcoxn",
+    "language": "TeX",
+    "full_name": "Cristóbal M. Palmer",
+    "username": "tarheelcoxn",
+    "location": "",
+    "join_date": "Jul 20, 2009",
+    "popular_repos_stars": "1",
+    "primary_languages": [
+      "R",
+      "TeX",
+      "Shell"
+    ],
+    "contributions": 3,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/aidin36",
+    "language": "TeX",
+    "full_name": "Aidin Gharibnavaz",
+    "username": "aidin36",
+    "location": "Tehran, Iran.",
+    "join_date": "Mar 8, 2013",
+    "popular_repos_stars": "15",
+    "primary_languages": [
+      "C",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 242,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/DoG-peer",
+    "language": "TeX",
+    "full_name": "",
+    "username": "DoG-peer",
+    "location": "",
+    "join_date": "Sep 29, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "Ruby",
+      "C",
+      "TeX"
+    ],
+    "contributions": 6,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/provbench",
+    "language": "TeX",
+    "full_name": "",
+    "username": "provbench",
+    "location": "",
+    "join_date": "Oct 5, 2012",
+    "popular_repos_stars": "2",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/behrmann",
+    "language": "TeX",
+    "full_name": "Jörg Behrmann",
+    "username": "behrmann",
+    "location": "",
+    "join_date": "Sep 12, 2011",
+    "popular_repos_stars": "4",
+    "primary_languages": [],
+    "contributions": 142,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/kimurakoichi",
+    "language": "TeX",
+    "full_name": "Kimura, Koichi",
+    "username": "kimurakoichi",
+    "location": "Tokyo, Japan",
+    "join_date": "Aug 29, 2010",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 4,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/codewdy",
+    "language": "TeX",
+    "full_name": "Dongyue Wang",
+    "username": "codewdy",
+    "location": "",
+    "join_date": "Mar 13, 2013",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "C",
+      "C",
+      "Shell"
+    ],
+    "contributions": 114,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/bsuv",
+    "language": "TeX",
+    "full_name": "Bogdan",
+    "username": "bsuv",
+    "location": "",
+    "join_date": "Nov 9, 2010",
+    "popular_repos_stars": "NaN",
+    "primary_languages": [],
+    "contributions": 75,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/Pakan1992",
+    "language": "TeX",
+    "full_name": "Arsham Sabbaghi Asl",
+    "username": "Pakan1992",
+    "location": "",
+    "join_date": "Apr 24, 2012",
+    "popular_repos_stars": "4",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/DaveBackus",
+    "language": "TeX",
+    "full_name": "Dave Backus",
+    "username": "DaveBackus",
+    "location": "New York",
+    "join_date": "Jun 25, 2014",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "TeX",
+      "Python",
+      "Stata"
+    ],
+    "contributions": 128,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/oyamad",
+    "language": "TeX",
+    "full_name": "Daisuke Oyama",
+    "username": "oyamad",
+    "location": "",
+    "join_date": "Apr 20, 2014",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "Python",
+      "TeX",
+      "Shell"
+    ],
+    "contributions": 245,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/ChicoXXX",
+    "language": "TeX",
+    "full_name": "",
+    "username": "ChicoXXX",
+    "location": "",
+    "join_date": "Nov 18, 2010",
+    "popular_repos_stars": "3",
+    "primary_languages": [
+      "TeX"
+    ],
+    "contributions": 16,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/Snicksie",
+    "language": "TeX",
+    "full_name": "",
+    "username": "Snicksie",
+    "location": "",
+    "join_date": "Dec 5, 2011",
+    "popular_repos_stars": "5",
+    "primary_languages": [
+      "TeX",
+      "C"
+    ],
+    "contributions": 34,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/astronomerdamo",
+    "language": "TeX",
+    "full_name": "Damien Robertson",
+    "username": "astronomerdamo",
+    "location": "Hamilton, Ontario",
+    "join_date": "Jan 21, 2014",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "Python",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 160,
+    "followers": "6"
+  }
+]

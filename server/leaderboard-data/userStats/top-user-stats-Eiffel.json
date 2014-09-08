@@ -1,0 +1,80 @@
+[
+  {
+    "url": "https://github.com/jocelyn",
+    "language": "Eiffel",
+    "full_name": "Jocelyn Fiat",
+    "username": "jocelyn",
+    "location": "Europe",
+    "join_date": "Oct 29, 2008",
+    "popular_repos_stars": "24",
+    "primary_languages": [
+      "Eiffel",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 557,
+    "followers": "16"
+  },
+  {
+    "url": "https://github.com/jvelilla",
+    "language": "Eiffel",
+    "full_name": "",
+    "username": "jvelilla",
+    "location": "",
+    "join_date": "Sep 6, 2008",
+    "popular_repos_stars": "27",
+    "primary_languages": [
+      "Eiffel",
+      "JavaScript",
+      "C"
+    ],
+    "contributions": 222,
+    "followers": "10"
+  },
+  {
+    "url": "https://github.com/nmaguirre",
+    "language": "Eiffel",
+    "full_name": "Nazareno Aguirre",
+    "username": "nmaguirre",
+    "location": "Rio Cuarto, Argentina",
+    "join_date": "Sep 19, 2012",
+    "popular_repos_stars": "8",
+    "primary_languages": [
+      "Eiffel"
+    ],
+    "contributions": 38,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/wolandscat",
+    "language": "Eiffel",
+    "full_name": "Thomas Beale",
+    "username": "wolandscat",
+    "location": "London",
+    "join_date": "Feb 28, 2012",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "Eiffel",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 640,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/clemahieu",
+    "language": "Eiffel",
+    "full_name": "",
+    "username": "clemahieu",
+    "location": "",
+    "join_date": "May 10, 2010",
+    "popular_repos_stars": "6",
+    "primary_languages": [
+      "C",
+      "C",
+      "Eiffel"
+    ],
+    "contributions": 178,
+    "followers": "6"
+  }
+]

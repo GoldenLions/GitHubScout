@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://github.com/LiamRandall",
+    "language": "Bro",
+    "full_name": "Liam Randall",
+    "username": "LiamRandall",
+    "location": "Cincinnati Oh",
+    "join_date": "Mar 12, 2012",
+    "popular_repos_stars": "72",
+    "primary_languages": [
+      "Bro",
+      "Standard",
+      "ML"
+    ],
+    "contributions": 9,
+    "followers": "72"
+  },
+  {
+    "url": "https://github.com/sethhall",
+    "language": "Bro",
+    "full_name": "Seth Hall",
+    "username": "sethhall",
+    "location": "Columbus, OH",
+    "join_date": "Jul 2, 2008",
+    "popular_repos_stars": "52",
+    "primary_languages": [
+      "Bro",
+      "Ruby",
+      "C"
+    ],
+    "contributions": 113,
+    "followers": "60"
+  },
+  {
+    "url": "https://github.com/sheharbano",
+    "language": "Bro",
+    "full_name": "",
+    "username": "sheharbano",
+    "location": "",
+    "join_date": "Mar 29, 2012",
+    "popular_repos_stars": "19",
+    "primary_languages": [
+      "Bro",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 9,
+    "followers": "10"
+  }
+]

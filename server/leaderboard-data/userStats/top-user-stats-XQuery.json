@@ -1,0 +1,418 @@
+[
+  {
+    "url": "https://github.com/ndw",
+    "language": "XQuery",
+    "full_name": "Norman Walsh",
+    "username": "ndw",
+    "location": "Austin, TX, US",
+    "join_date": "Nov 26, 2008",
+    "popular_repos_stars": "83",
+    "primary_languages": [
+      "XQuery",
+      "Perl",
+      "XSLT"
+    ],
+    "contributions": 397,
+    "followers": "46"
+  },
+  {
+    "url": "https://github.com/xquery",
+    "language": "XQuery",
+    "full_name": "James Fuller",
+    "username": "xquery",
+    "location": "Prague",
+    "join_date": "Mar 22, 2011",
+    "popular_repos_stars": "55",
+    "primary_languages": [
+      "XSLT",
+      "XQuery",
+      "JavaScript"
+    ],
+    "contributions": 171,
+    "followers": "37"
+  },
+  {
+    "url": "https://github.com/jpcs",
+    "language": "XQuery",
+    "full_name": "John Snelson",
+    "username": "jpcs",
+    "location": "Oxford, UK",
+    "join_date": "Jun 21, 2010",
+    "popular_repos_stars": "33",
+    "primary_languages": [
+      "XQuery",
+      "JavaScript",
+      "LiveScript"
+    ],
+    "contributions": 23,
+    "followers": "24"
+  },
+  {
+    "url": "https://github.com/joewiz",
+    "language": "XQuery",
+    "full_name": "Joe Wicentowski",
+    "username": "joewiz",
+    "location": "Arlington, Virginia",
+    "join_date": "Mar 1, 2009",
+    "popular_repos_stars": "20",
+    "primary_languages": [
+      "XQuery",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 119,
+    "followers": "24"
+  },
+  {
+    "url": "https://github.com/adamretter",
+    "language": "XQuery",
+    "full_name": "Adam Retter",
+    "username": "adamretter",
+    "location": "London",
+    "join_date": "Dec 14, 2011",
+    "popular_repos_stars": "14",
+    "primary_languages": [
+      "Java",
+      "XQuery",
+      "Shell"
+    ],
+    "contributions": 616,
+    "followers": "23"
+  },
+  {
+    "url": "https://github.com/robwhitby",
+    "language": "XQuery",
+    "full_name": "Rob Whitby",
+    "username": "robwhitby",
+    "location": "London",
+    "join_date": "Jan 4, 2010",
+    "popular_repos_stars": "54",
+    "primary_languages": [
+      "XQuery",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 20,
+    "followers": "22"
+  },
+  {
+    "url": "https://github.com/ChristianGruen",
+    "language": "XQuery",
+    "full_name": "Christian Gruen",
+    "username": "ChristianGruen",
+    "location": "Konstanz",
+    "join_date": "Feb 4, 2010",
+    "popular_repos_stars": "1",
+    "primary_languages": [
+      "XQuery",
+      "XSLT",
+      "Shell"
+    ],
+    "contributions": 922,
+    "followers": "22"
+  },
+  {
+    "url": "https://github.com/apb2006",
+    "language": "XQuery",
+    "full_name": "Andy Bunce",
+    "username": "apb2006",
+    "location": "London, UK",
+    "join_date": "Oct 6, 2010",
+    "popular_repos_stars": "30",
+    "primary_languages": [
+      "XQuery",
+      "JavaScript",
+      "Racket"
+    ],
+    "contributions": 66,
+    "followers": "19"
+  },
+  {
+    "url": "https://github.com/CliffordAnderson",
+    "language": "XQuery",
+    "full_name": "Clifford Anderson",
+    "username": "CliffordAnderson",
+    "location": "Nashville, TN",
+    "join_date": "Jul 3, 2012",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "XQuery",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 377,
+    "followers": "16"
+  },
+  {
+    "url": "https://github.com/windauer",
+    "language": "XQuery",
+    "full_name": "Lars Windauer",
+    "username": "windauer",
+    "location": "Berlin, Deutschland",
+    "join_date": "Dec 8, 2010",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "JavaScript",
+      "XQuery",
+      "CSS"
+    ],
+    "contributions": 132,
+    "followers": "16"
+  },
+  {
+    "url": "https://github.com/grtjn",
+    "language": "XQuery",
+    "full_name": "Geert",
+    "username": "grtjn",
+    "location": "",
+    "join_date": "Feb 10, 2011",
+    "popular_repos_stars": "26",
+    "primary_languages": [
+      "XQuery",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 98,
+    "followers": "14"
+  },
+  {
+    "url": "https://github.com/mblakele",
+    "language": "XQuery",
+    "full_name": "Michael Blakeley",
+    "username": "mblakele",
+    "location": "",
+    "join_date": "Jul 5, 2009",
+    "popular_repos_stars": "44",
+    "primary_languages": [
+      "XQuery",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 15,
+    "followers": "14"
+  },
+  {
+    "url": "https://github.com/isubiker",
+    "language": "XQuery",
+    "full_name": "Ryan Grimm",
+    "username": "isubiker",
+    "location": "San Mateo, CA",
+    "join_date": "Mar 12, 2010",
+    "popular_repos_stars": "13",
+    "primary_languages": [
+      "XQuery",
+      "JavaScript",
+      "Python"
+    ],
+    "contributions": 1,
+    "followers": "14"
+  },
+  {
+    "url": "https://github.com/evanlenz",
+    "language": "XQuery",
+    "full_name": "",
+    "username": "evanlenz",
+    "location": "",
+    "join_date": "Feb 7, 2011",
+    "popular_repos_stars": "15",
+    "primary_languages": [
+      "XML",
+      "XQuery",
+      "Java"
+    ],
+    "contributions": 53,
+    "followers": "13"
+  },
+  {
+    "url": "https://github.com/wcandillon",
+    "language": "XQuery",
+    "full_name": "William Candillon",
+    "username": "wcandillon",
+    "location": "Zürich",
+    "join_date": "Jun 15, 2010",
+    "popular_repos_stars": "44",
+    "primary_languages": [
+      "JavaScript",
+      "Shell",
+      "XQuery"
+    ],
+    "contributions": 2,
+    "followers": "13"
+  },
+  {
+    "url": "https://github.com/kefo",
+    "language": "XQuery",
+    "full_name": "Kevin Ford",
+    "username": "kefo",
+    "location": "Washington, DC",
+    "join_date": "Feb 11, 2011",
+    "popular_repos_stars": "8",
+    "primary_languages": [
+      "JavaScript",
+      "PHP",
+      "CSS"
+    ],
+    "contributions": 367,
+    "followers": "11"
+  },
+  {
+    "url": "https://github.com/garyvidal",
+    "language": "XQuery",
+    "full_name": "garyvidal",
+    "username": "garyvidal",
+    "location": "New York, NY",
+    "join_date": "May 19, 2010",
+    "popular_repos_stars": "28",
+    "primary_languages": [
+      "XQuery",
+      "JavaScript",
+      "XSLT"
+    ],
+    "contributions": 57,
+    "followers": "10"
+  },
+  {
+    "url": "https://github.com/philipfennell",
+    "language": "XQuery",
+    "full_name": "Philip Fennell",
+    "username": "philipfennell",
+    "location": "",
+    "join_date": "Dec 5, 2011",
+    "popular_repos_stars": "19",
+    "primary_languages": [
+      "XQuery",
+      "JavaScript",
+      "XSLT"
+    ],
+    "contributions": 51,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/grechaw",
+    "language": "XQuery",
+    "full_name": "Charles Greer",
+    "username": "grechaw",
+    "location": "Occidental, California",
+    "join_date": "Aug 31, 2010",
+    "popular_repos_stars": "5",
+    "primary_languages": [
+      "XQuery",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 414,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/ryanjdew",
+    "language": "XQuery",
+    "full_name": "Ryan Dew",
+    "username": "ryanjdew",
+    "location": "",
+    "join_date": "Jul 12, 2010",
+    "popular_repos_stars": "12",
+    "primary_languages": [
+      "XQuery",
+      "JavaScript",
+      "Ruby"
+    ],
+    "contributions": 92,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/dmccreary",
+    "language": "XQuery",
+    "full_name": "Dan McCreary",
+    "username": "dmccreary",
+    "location": "Minnesota, USA",
+    "join_date": "Mar 16, 2011",
+    "popular_repos_stars": "5",
+    "primary_languages": [
+      "XQuery",
+      "XSLT",
+      "CSS"
+    ],
+    "contributions": 1,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/malteseduck",
+    "language": "XQuery",
+    "full_name": "Chris Cieslinski",
+    "username": "malteseduck",
+    "location": "",
+    "join_date": "Aug 17, 2010",
+    "popular_repos_stars": "13",
+    "primary_languages": [
+      "XQuery",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 29,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/sumeetsk",
+    "language": "XQuery",
+    "full_name": "Sumeet",
+    "username": "sumeetsk",
+    "location": "",
+    "join_date": "Aug 16, 2011",
+    "popular_repos_stars": "12",
+    "primary_languages": [
+      "Python",
+      "C",
+      "C"
+    ],
+    "contributions": 0,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/ableasdale",
+    "language": "XQuery",
+    "full_name": "Alex Bleasdale",
+    "username": "ableasdale",
+    "location": "London",
+    "join_date": "Nov 3, 2009",
+    "popular_repos_stars": "3",
+    "primary_languages": [
+      "XQuery",
+      "Java",
+      "JavaScript"
+    ],
+    "contributions": 137,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/fordmadox",
+    "language": "XQuery",
+    "full_name": "fordmadox",
+    "username": "fordmadox",
+    "location": "",
+    "join_date": "Jan 7, 2011",
+    "popular_repos_stars": "1",
+    "primary_languages": [
+      "XSLT",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 20,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/wendellpiez",
+    "language": "XQuery",
+    "full_name": "Wendell Piez",
+    "username": "wendellpiez",
+    "location": "Rockville, Maryland",
+    "join_date": "Mar 29, 2012",
+    "popular_repos_stars": "15",
+    "primary_languages": [
+      "XSLT",
+      "CSS",
+      "XProc"
+    ],
+    "contributions": 21,
+    "followers": "6"
+  }
+]

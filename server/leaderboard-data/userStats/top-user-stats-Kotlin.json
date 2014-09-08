@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://github.com/abreslav",
+    "language": "Kotlin",
+    "full_name": "Andrey Breslav",
+    "username": "abreslav",
+    "location": "Saint Petersburg, Russia",
+    "join_date": "Jul 1, 2011",
+    "popular_repos_stars": "22",
+    "primary_languages": [
+      "Kotlin",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "35"
+  },
+  {
+    "url": "https://github.com/ntaro",
+    "language": "Kotlin",
+    "full_name": "Taro Nagasawa",
+    "username": "ntaro",
+    "location": "Tokyo, Japan",
+    "join_date": "Jun 29, 2011",
+    "popular_repos_stars": "4",
+    "primary_languages": [
+      "Kotlin",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 18,
+    "followers": "25"
+  },
+  {
+    "url": "https://github.com/shafirov",
+    "language": "Kotlin",
+    "full_name": "Maxim Shafirov",
+    "username": "shafirov",
+    "location": "St.Petersburg, Russia",
+    "join_date": "Sep 1, 2009",
+    "popular_repos_stars": "11",
+    "primary_languages": [
+      "Kotlin",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 8,
+    "followers": "14"
+  },
+  {
+    "url": "https://github.com/dodyg",
+    "language": "Kotlin",
+    "full_name": "Dody Gunawinata",
+    "username": "dodyg",
+    "location": "Cairo",
+    "join_date": "May 21, 2012",
+    "popular_repos_stars": "82",
+    "primary_languages": [
+      "Kotlin",
+      "C",
+      "Java"
+    ],
+    "contributions": 97,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/Hallo",
+    "language": "Kotlin",
+    "full_name": "Ville Knuuttila",
+    "username": "Hallo",
+    "location": "",
+    "join_date": "Jan 28, 2011",
+    "popular_repos_stars": "1",
+    "primary_languages": [
+      "JavaScript",
+      "Kotlin",
+      "Java"
+    ],
+    "contributions": 38,
+    "followers": "6"
+  }
+]

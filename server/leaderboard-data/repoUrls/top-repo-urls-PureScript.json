@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/purescript-contrib/purescript-react",
+    "size": 631,
+    "language": "PureScript"
+  },
+  {
+    "url": "https://github.com/purescript/purescript-in-purescript",
+    "size": 1492,
+    "language": "PureScript"
+  },
+  {
+    "url": "https://github.com/slamdata/slamdata",
+    "size": 4534,
+    "language": "PureScript"
+  },
+  {
+    "url": "https://github.com/paf31/purescript-book",
+    "size": 645,
+    "language": "PureScript"
+  },
+  {
+    "url": "https://github.com/purescript/starter-kit",
+    "size": 207,
+    "language": "PureScript"
+  },
+  {
+    "url": "https://github.com/dancingrobot84/purescript-express",
+    "size": 460,
+    "language": "PureScript"
+  },
+  {
+    "url": "https://github.com/dancingrobot84/bro",
+    "size": 720,
+    "language": "PureScript"
+  },
+  {
+    "url": "https://github.com/purescript-contrib/purescript-parsing",
+    "size": 702,
+    "language": "PureScript"
+  },
+  {
+    "url": "https://github.com/pelotom/purescript-d3",
+    "size": 400,
+    "language": "PureScript"
+  },
+  {
+    "url": "https://github.com/pelotom/purescript-easy-ffi",
+    "size": 192,
+    "language": "PureScript"
+  },
+  {
+    "url": "https://github.com/michaelficarra/purescript-spidermonkey-ast",
+    "size": 526,
+    "language": "PureScript"
+  },
+  {
+    "url": "https://github.com/purescript-contrib/purescript-lens",
+    "size": 275,
+    "language": "PureScript"
+  },
+  {
+    "url": "https://github.com/purescript-contrib/purescript-angular",
+    "size": 369,
+    "language": "PureScript"
+  },
+  {
+    "url": "https://github.com/aktowns/purescript-simple-dom",
+    "size": 485,
+    "language": "PureScript"
+  },
+  {
+    "url": "https://github.com/andreypopp/purescript-node-thunk",
+    "size": 176,
+    "language": "PureScript"
+  },
+  {
+    "url": "https://github.com/purescript-contrib/purescript-virtual-dom",
+    "size": 143,
+    "language": "PureScript"
+  },
+  {
+    "url": "https://github.com/purescript/purescript-quickcheck",
+    "size": 535,
+    "language": "PureScript"
+  },
+  {
+    "url": "https://github.com/purescript-contrib/purescript-datetime",
+    "size": 252,
+    "language": "PureScript"
+  },
+  {
+    "url": "https://github.com/purescript/purescript-foreign",
+    "size": 702,
+    "language": "PureScript"
+  },
+  {
+    "url": "https://github.com/darinmorrison/purescript-atom-api",
+    "size": 128,
+    "language": "PureScript"
+  }
+]

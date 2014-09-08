@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/rakudo/rakudo",
+    "size": 41272,
+    "language": "Perl6",
+    "commits": "15,880",
+    "stars": "575",
+    "forks": "176",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/perl6/std",
+    "size": 6461,
+    "language": "Perl6",
+    "commits": "2,398",
+    "stars": "47",
+    "forks": "4",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/edumentab/rakudo-and-nqp-internals-course",
+    "size": 4269,
+    "language": "Perl6",
+    "commits": "13",
+    "stars": "27",
+    "forks": "8",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/cjfields/bioperl6",
+    "size": 841,
+    "language": "Perl6",
+    "commits": "277",
+    "stars": "27",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/PerlGameDev/SDL6",
+    "size": 911,
+    "language": "Perl6",
+    "commits": "40",
+    "stars": "7",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/supernovus/perl6-http-client",
+    "size": 177,
+    "language": "Perl6",
+    "commits": "12",
+    "stars": "7",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/supernovus/exemel",
+    "size": 356,
+    "language": "Perl6",
+    "commits": "82",
+    "stars": "6",
+    "forks": "6",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/supernovus/perl6-http-easy",
+    "size": 267,
+    "language": "Perl6",
+    "commits": "38",
+    "stars": "6",
+    "forks": "6",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/niner/Inline-Perl5",
+    "size": 412,
+    "language": "Perl6",
+    "commits": "51",
+    "stars": "6",
+    "forks": "0",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/supernovus/perl6-web",
+    "size": 268,
+    "language": "Perl6",
+    "commits": "49",
+    "stars": "5",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/perlpilot/benchmark",
+    "size": 145,
+    "language": "Perl6",
+    "commits": "16",
+    "stars": "5",
+    "forks": "4",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/supernovus/perl6-web-app-mvc",
+    "size": 229,
+    "language": "Perl",
+    "commits": "22",
+    "stars": "5",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/perl6/gtk-simple",
+    "size": 204,
+    "language": "Perl6",
+    "commits": "20",
+    "stars": "5",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/uasi/messagepack-pm6",
+    "size": 152,
+    "language": "Perl6",
+    "commits": "8",
+    "stars": "5",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/supernovus/flower",
+    "size": 262,
+    "language": "Perl6",
+    "commits": "55",
+    "stars": "4",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/poznan-pm/poznan.pm.org",
+    "size": 294,
+    "language": "Perl6",
+    "commits": "12",
+    "stars": "4",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/supernovus/perl6-fastcgi",
+    "size": 192,
+    "language": "Perl6",
+    "commits": "20",
+    "stars": "4",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/sergot/openssl",
+    "size": 402,
+    "language": "Perl6",
+    "commits": "51",
+    "stars": "4",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/raydiak/pray",
+    "size": 346,
+    "language": "Perl6",
+    "commits": "17",
+    "stars": "4",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/supernovus/SCGI",
+    "size": 246,
+    "language": "Perl6",
+    "commits": "43",
+    "stars": "4",
+    "forks": "2",
+    "contributors": ""
+  }
+]

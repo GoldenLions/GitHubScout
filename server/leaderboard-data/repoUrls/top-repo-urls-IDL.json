@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/getlantern/lantern",
+    "size": 462274,
+    "language": "IDL"
+  },
+  {
+    "url": "https://github.com/spark/core",
+    "size": 44098,
+    "language": "IDL"
+  },
+  {
+    "url": "https://github.com/KiCad/kicad-library",
+    "size": 84583,
+    "language": "IDL"
+  },
+  {
+    "url": "https://github.com/guanix/boards",
+    "size": 1936,
+    "language": "Prolog"
+  },
+  {
+    "url": "https://github.com/bishboria/ErgoDox",
+    "size": 4982,
+    "language": "IDL"
+  },
+  {
+    "url": "https://github.com/spark/shields",
+    "size": 12504,
+    "language": "IDL"
+  },
+  {
+    "url": "https://github.com/nanofury/NanoFury",
+    "size": 12806,
+    "language": "IDL"
+  },
+  {
+    "url": "https://github.com/mossmann/cc11xx",
+    "size": 828,
+    "language": "IDL"
+  },
+  {
+    "url": "https://github.com/pcbsd/pbi",
+    "size": 76635,
+    "language": "IDL"
+  },
+  {
+    "url": "https://github.com/myriadrf/Novena-RF-module",
+    "size": 3836,
+    "language": "IDL"
+  },
+  {
+    "url": "https://github.com/piranha32/FlyingBone",
+    "size": 3210,
+    "language": "IDL"
+  },
+  {
+    "url": "https://github.com/Galvant/usb_wrapper-pcb",
+    "size": 306,
+    "language": "IDL"
+  },
+  {
+    "url": "https://github.com/BathroomEpiphanies/KiCAD-Keyboard-Tutorial",
+    "size": 192,
+    "language": "IDL"
+  },
+  {
+    "url": "https://github.com/krschultz/android-proguard-snippets",
+    "size": 300,
+    "language": "IDL"
+  },
+  {
+    "url": "https://github.com/bitcraze/crazyflie-electronics",
+    "size": 15120,
+    "language": "IDL"
+  },
+  {
+    "url": "https://github.com/tmk/HHKB_controller",
+    "size": 2943,
+    "language": "IDL"
+  },
+  {
+    "url": "https://github.com/bbenchoff/BackplaneComputer",
+    "size": 14060,
+    "language": "IDL"
+  },
+  {
+    "url": "https://github.com/mossmann/retroreflectors",
+    "size": 298,
+    "language": "IDL"
+  },
+  {
+    "url": "https://github.com/wlandsman/IDLAstro",
+    "size": 2836,
+    "language": "IDL"
+  },
+  {
+    "url": "https://github.com/losh11/aura-asic",
+    "size": 5349,
+    "language": "IDL"
+  }
+]

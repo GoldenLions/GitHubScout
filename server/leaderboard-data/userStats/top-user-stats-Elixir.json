@@ -1,0 +1,98 @@
+[
+  {
+    "url": "https://github.com/sasa1977",
+    "language": "Elixir",
+    "full_name": "Saša Jurić",
+    "username": "sasa1977",
+    "location": "Zagreb, Croatia",
+    "join_date": "Feb 12, 2010",
+    "popular_repos_stars": "173",
+    "primary_languages": [
+      "Elixir",
+      "Shell",
+      "Erlang"
+    ],
+    "contributions": 213,
+    "followers": "32"
+  },
+  {
+    "url": "https://github.com/OpakAlex",
+    "language": "Elixir",
+    "full_name": "Opak Alex",
+    "username": "OpakAlex",
+    "location": "Kiev",
+    "join_date": "Nov 29, 2011",
+    "popular_repos_stars": "4",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "CoffeeScript"
+    ],
+    "contributions": 587,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/santeri",
+    "language": "Elixir",
+    "full_name": "Santeri Hernejärvi",
+    "username": "santeri",
+    "location": "San Francisco, California",
+    "join_date": "Mar 7, 2009",
+    "popular_repos_stars": "6",
+    "primary_languages": [
+      "JavaScript",
+      "Python",
+      "Ruby"
+    ],
+    "contributions": 2,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/k1complete",
+    "language": "Elixir",
+    "full_name": "ODA Terutaka",
+    "username": "k1complete",
+    "location": "",
+    "join_date": "May 26, 2009",
+    "popular_repos_stars": "17",
+    "primary_languages": [
+      "Elixir",
+      "Erlang",
+      "Shell"
+    ],
+    "contributions": 174,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/pminten",
+    "language": "Elixir",
+    "full_name": "Peter Minten",
+    "username": "pminten",
+    "location": "",
+    "join_date": "Apr 16, 2013",
+    "popular_repos_stars": "16",
+    "primary_languages": [
+      "Elixir",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 353,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/leonc",
+    "language": "Elixir",
+    "full_name": "Leon Chism",
+    "username": "leonc",
+    "location": "The Internet",
+    "join_date": "Sep 30, 2009",
+    "popular_repos_stars": "3",
+    "primary_languages": [
+      "Elixir",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 36,
+    "followers": "6"
+  }
+]

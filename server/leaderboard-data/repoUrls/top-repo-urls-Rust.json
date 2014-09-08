@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/rust-lang/rust",
+    "size": 455156,
+    "language": "Rust"
+  },
+  {
+    "url": "https://github.com/servo/servo",
+    "size": 76873,
+    "language": "Rust"
+  },
+  {
+    "url": "https://github.com/japaric/rust-by-example",
+    "size": 9253,
+    "language": "Rust"
+  },
+  {
+    "url": "https://github.com/uutils/coreutils",
+    "size": 6268,
+    "language": "Rust"
+  },
+  {
+    "url": "https://github.com/iron/iron",
+    "size": 3430,
+    "language": "Rust"
+  },
+  {
+    "url": "https://github.com/rust-lang/cargo",
+    "size": 22396,
+    "language": "Rust"
+  },
+  {
+    "url": "https://github.com/pcwalton/sprocketnes",
+    "size": 891,
+    "language": "Rust"
+  },
+  {
+    "url": "https://github.com/chris-morgan/rust-http",
+    "size": 3427,
+    "language": "Rust"
+  },
+  {
+    "url": "https://github.com/jeaye/q3",
+    "size": 18841,
+    "language": "Rust"
+  },
+  {
+    "url": "https://github.com/PistonDevelopers/piston",
+    "size": 6033,
+    "language": "Rust"
+  },
+  {
+    "url": "https://github.com/nickel-org/nickel.rs",
+    "size": 3231,
+    "language": "Rust"
+  },
+  {
+    "url": "https://github.com/teepee/teepee",
+    "size": 796,
+    "language": "Rust"
+  },
+  {
+    "url": "https://github.com/steveklabnik/rust_for_rubyists",
+    "size": 2201,
+    "language": "Rust"
+  },
+  {
+    "url": "https://github.com/pcwalton/zero.rs",
+    "size": 104,
+    "language": "Rust"
+  },
+  {
+    "url": "https://github.com/sebcrozet/nphysics",
+    "size": 5691,
+    "language": "Rust"
+  },
+  {
+    "url": "https://github.com/hackndev/zinc",
+    "size": 4470,
+    "language": "Rust"
+  },
+  {
+    "url": "https://github.com/PistonDevelopers/rust-empty",
+    "size": 108665,
+    "language": "Rust"
+  },
+  {
+    "url": "https://github.com/phildawes/racer",
+    "size": 1592,
+    "language": "Rust"
+  },
+  {
+    "url": "https://github.com/crabtw/rust-bindgen",
+    "size": 2187,
+    "language": "Rust"
+  },
+  {
+    "url": "https://github.com/bjz/glfw-rs",
+    "size": 5049,
+    "language": "Rust"
+  }
+]

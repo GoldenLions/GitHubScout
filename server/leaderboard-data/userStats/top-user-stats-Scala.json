@@ -1,0 +1,1602 @@
+[
+  {
+    "url": "https://github.com/codahale",
+    "language": "Scala",
+    "full_name": "Coda Hale",
+    "username": "codahale",
+    "location": "Berkeley, CA",
+    "join_date": "Feb 12, 2008",
+    "popular_repos_stars": "984",
+    "primary_languages": [
+      "Go",
+      "Ruby",
+      "Scala"
+    ],
+    "contributions": 861,
+    "followers": "960"
+  },
+  {
+    "url": "https://github.com/al3x",
+    "language": "Scala",
+    "full_name": "Alex Payne",
+    "username": "al3x",
+    "location": "Cascadia",
+    "join_date": "Feb 6, 2008",
+    "popular_repos_stars": "3976",
+    "primary_languages": [
+      "Python",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 235,
+    "followers": "954"
+  },
+  {
+    "url": "https://github.com/jboner",
+    "language": "Scala",
+    "full_name": "Jonas Bonér",
+    "username": "jboner",
+    "location": "Uppsala, Sweden",
+    "join_date": "May 18, 2008",
+    "popular_repos_stars": "226",
+    "primary_languages": [
+      "Scala",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 100,
+    "followers": "504"
+  },
+  {
+    "url": "https://github.com/djspiewak",
+    "language": "Scala",
+    "full_name": "Daniel Spiewak",
+    "username": "djspiewak",
+    "location": "Wisconsin, USA",
+    "join_date": "Feb 24, 2008",
+    "popular_repos_stars": "502",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 33,
+    "followers": "483"
+  },
+  {
+    "url": "https://github.com/robey",
+    "language": "Scala",
+    "full_name": "Robey Pointer",
+    "username": "robey",
+    "location": "San Francisco, CA",
+    "join_date": "Feb 8, 2008",
+    "popular_repos_stars": "377",
+    "primary_languages": [
+      "CoffeeScript",
+      "Scala",
+      "JavaScript"
+    ],
+    "contributions": 442,
+    "followers": "463"
+  },
+  {
+    "url": "https://github.com/paulp",
+    "language": "Scala",
+    "full_name": "Paul Phillips",
+    "username": "paulp",
+    "location": "Bend, OR",
+    "join_date": "May 2, 2008",
+    "popular_repos_stars": "874",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 972,
+    "followers": "418"
+  },
+  {
+    "url": "https://github.com/dpp",
+    "language": "Scala",
+    "full_name": "David Pollak",
+    "username": "dpp",
+    "location": "San Francisco",
+    "join_date": "May 16, 2008",
+    "popular_repos_stars": "385",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 107,
+    "followers": "393"
+  },
+  {
+    "url": "https://github.com/yuroyoro",
+    "language": "Scala",
+    "full_name": "Tomohito Ozaki",
+    "username": "yuroyoro",
+    "location": "Tokyo",
+    "join_date": "Jul 27, 2008",
+    "popular_repos_stars": "616",
+    "primary_languages": [
+      "Scala",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 374,
+    "followers": "345"
+  },
+  {
+    "url": "https://github.com/odersky",
+    "language": "Scala",
+    "full_name": "",
+    "username": "odersky",
+    "location": "",
+    "join_date": "May 18, 2011",
+    "popular_repos_stars": "33",
+    "primary_languages": [
+      "Shell",
+      "Scala",
+      "Java"
+    ],
+    "contributions": 1,
+    "followers": "345"
+  },
+  {
+    "url": "https://github.com/rxin",
+    "language": "Scala",
+    "full_name": "Reynold Xin",
+    "username": "rxin",
+    "location": "Berkeley, CA",
+    "join_date": "Jul 5, 2010",
+    "popular_repos_stars": "2967",
+    "primary_languages": [
+      "Shell",
+      "Python",
+      "Scala"
+    ],
+    "contributions": 1,
+    "followers": "344"
+  },
+  {
+    "url": "https://github.com/n8han",
+    "language": "Scala",
+    "full_name": "Nathan Hamblen",
+    "username": "n8han",
+    "location": "New York",
+    "join_date": "Jul 7, 2009",
+    "popular_repos_stars": "1085",
+    "primary_languages": [
+      "Scala",
+      "JavaScript",
+      "Java"
+    ],
+    "contributions": 328,
+    "followers": "322"
+  },
+  {
+    "url": "https://github.com/jsuereth",
+    "language": "Scala",
+    "full_name": "Josh Suereth",
+    "username": "jsuereth",
+    "location": "Pittsburgh, PA",
+    "join_date": "Oct 14, 2008",
+    "popular_repos_stars": "382",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "301"
+  },
+  {
+    "url": "https://github.com/namin",
+    "language": "Scala",
+    "full_name": "Nada Amin",
+    "username": "namin",
+    "location": "",
+    "join_date": "Apr 10, 2008",
+    "popular_repos_stars": "269",
+    "primary_languages": [
+      "Shell",
+      "Scala",
+      "Scheme"
+    ],
+    "contributions": 1,
+    "followers": "277"
+  },
+  {
+    "url": "https://github.com/mateiz",
+    "language": "Scala",
+    "full_name": "Matei Zaharia",
+    "username": "mateiz",
+    "location": "Berkeley, CA",
+    "join_date": "Mar 23, 2010",
+    "popular_repos_stars": "16",
+    "primary_languages": [
+      "Python",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 717,
+    "followers": "259"
+  },
+  {
+    "url": "https://github.com/xuwei-k",
+    "language": "Scala",
+    "full_name": "kenji yoshida",
+    "username": "xuwei-k",
+    "location": "tokyo",
+    "join_date": "Sep 6, 2010",
+    "popular_repos_stars": "59",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "237"
+  },
+  {
+    "url": "https://github.com/derekwyatt",
+    "language": "Scala",
+    "full_name": "Derek Wyatt",
+    "username": "derekwyatt",
+    "location": "",
+    "join_date": "Mar 11, 2009",
+    "popular_repos_stars": "785",
+    "primary_languages": [
+      "Scala",
+      "VimL",
+      "Shell"
+    ],
+    "contributions": 165,
+    "followers": "235"
+  },
+  {
+    "url": "https://github.com/lihaoyi",
+    "language": "Scala",
+    "full_name": "Li Haoyi",
+    "username": "lihaoyi",
+    "location": "",
+    "join_date": "Jul 23, 2011",
+    "popular_repos_stars": "2183",
+    "primary_languages": [
+      "Scala",
+      "CSS",
+      "Java"
+    ],
+    "contributions": 1,
+    "followers": "222"
+  },
+  {
+    "url": "https://github.com/heathermiller",
+    "language": "Scala",
+    "full_name": "Heather Miller",
+    "username": "heathermiller",
+    "location": "Lausanne, Switzerland",
+    "join_date": "Mar 23, 2011",
+    "popular_repos_stars": "278",
+    "primary_languages": [
+      "Scala",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 792,
+    "followers": "220"
+  },
+  {
+    "url": "https://github.com/harrah",
+    "language": "Scala",
+    "full_name": "Mark Harrah",
+    "username": "harrah",
+    "location": "Boston, MA",
+    "join_date": "Apr 11, 2009",
+    "popular_repos_stars": "327",
+    "primary_languages": [
+      "Scala",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 213,
+    "followers": "213"
+  },
+  {
+    "url": "https://github.com/mgonto",
+    "language": "Scala",
+    "full_name": "Martin Gontovnikas",
+    "username": "mgonto",
+    "location": "Buenos Aires, Argentina",
+    "join_date": "Apr 11, 2011",
+    "popular_repos_stars": "5106",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "Ruby"
+    ],
+    "contributions": 1,
+    "followers": "208"
+  },
+  {
+    "url": "https://github.com/debasishg",
+    "language": "Scala",
+    "full_name": "Debasish Ghosh",
+    "username": "debasishg",
+    "location": "India",
+    "join_date": "Jul 21, 2009",
+    "popular_repos_stars": "895",
+    "primary_languages": [
+      "Scala",
+      "Java",
+      "Clojure"
+    ],
+    "contributions": 32,
+    "followers": "196"
+  },
+  {
+    "url": "https://github.com/retronym",
+    "language": "Scala",
+    "full_name": "Jason Zaugg",
+    "username": "retronym",
+    "location": "Brisbane, Australia",
+    "join_date": "Mar 21, 2009",
+    "popular_repos_stars": "202",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 1,
+    "followers": "193"
+  },
+  {
+    "url": "https://github.com/stevej",
+    "language": "Scala",
+    "full_name": "Steve Jenson",
+    "username": "stevej",
+    "location": "San Francisco, CA",
+    "join_date": "Apr 8, 2008",
+    "popular_repos_stars": "293",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 104,
+    "followers": "186"
+  },
+  {
+    "url": "https://github.com/runarorama",
+    "language": "Scala",
+    "full_name": "Rúnar",
+    "username": "runarorama",
+    "location": "Boston",
+    "join_date": "Sep 24, 2009",
+    "popular_repos_stars": "268",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 140,
+    "followers": "182"
+  },
+  {
+    "url": "https://github.com/takezoe",
+    "language": "Scala",
+    "full_name": "Naoki Takezoe",
+    "username": "takezoe",
+    "location": "",
+    "join_date": "Oct 1, 2011",
+    "popular_repos_stars": "3405",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 1,
+    "followers": "179"
+  },
+  {
+    "url": "https://github.com/caniszczyk",
+    "language": "Scala",
+    "full_name": "Chris Aniszczyk",
+    "username": "caniszczyk",
+    "location": "Austin, TX USA",
+    "join_date": "Mar 15, 2009",
+    "popular_repos_stars": "54",
+    "primary_languages": [
+      "Shell",
+      "Scala",
+      "Ruby"
+    ],
+    "contributions": 166,
+    "followers": "178"
+  },
+  {
+    "url": "https://github.com/dcaoyuan",
+    "language": "Scala",
+    "full_name": "Caoyuan Deng",
+    "username": "dcaoyuan",
+    "location": "Vancouver, B.C. Canada",
+    "join_date": "May 9, 2010",
+    "popular_repos_stars": "258",
+    "primary_languages": [
+      "Scala",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 638,
+    "followers": "174"
+  },
+  {
+    "url": "https://github.com/softprops",
+    "language": "Scala",
+    "full_name": "doug tangren",
+    "username": "softprops",
+    "location": "nyc",
+    "join_date": "Mar 4, 2008",
+    "popular_repos_stars": "321",
+    "primary_languages": [
+      "Scala",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "171"
+  },
+  {
+    "url": "https://github.com/sirthias",
+    "language": "Scala",
+    "full_name": "Mathias",
+    "username": "sirthias",
+    "location": "Freiburg, Germany",
+    "join_date": "Oct 5, 2009",
+    "popular_repos_stars": "1702",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 760,
+    "followers": "162"
+  },
+  {
+    "url": "https://github.com/scala-incubator",
+    "language": "Scala",
+    "full_name": "Scala Incubator",
+    "username": "scala-incubator",
+    "location": "",
+    "join_date": "Sep 25, 2009",
+    "popular_repos_stars": "201",
+    "primary_languages": [
+      "Scala",
+      "Java",
+      "JavaScript"
+    ],
+    "contributions": 0,
+    "followers": "160"
+  },
+  {
+    "url": "https://github.com/hseeberger",
+    "language": "Scala",
+    "full_name": "Heiko Seeberger",
+    "username": "hseeberger",
+    "location": "Germany",
+    "join_date": "Dec 21, 2008",
+    "popular_repos_stars": "118",
+    "primary_languages": [
+      "Scala",
+      "Java",
+      "JavaScript"
+    ],
+    "contributions": 790,
+    "followers": "158"
+  },
+  {
+    "url": "https://github.com/johnynek",
+    "language": "Scala",
+    "full_name": "P. Oscar Boykin",
+    "username": "johnynek",
+    "location": "San Francisco",
+    "join_date": "Mar 27, 2009",
+    "popular_repos_stars": "51",
+    "primary_languages": [
+      "Scala",
+      "Java",
+      "Python"
+    ],
+    "contributions": 1,
+    "followers": "157"
+  },
+  {
+    "url": "https://github.com/jorgeortiz85",
+    "language": "Scala",
+    "full_name": "Jorge Ortiz",
+    "username": "jorgeortiz85",
+    "location": "New York, NY",
+    "join_date": "Apr 7, 2008",
+    "popular_repos_stars": "437",
+    "primary_languages": [
+      "Scala",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 35,
+    "followers": "149"
+  },
+  {
+    "url": "https://github.com/joa",
+    "language": "Scala",
+    "full_name": "Joa Ebert",
+    "username": "joa",
+    "location": "The Future",
+    "join_date": "Oct 18, 2009",
+    "popular_repos_stars": "204",
+    "primary_languages": [
+      "Java",
+      "Shell",
+      "Scala"
+    ],
+    "contributions": 51,
+    "followers": "147"
+  },
+  {
+    "url": "https://github.com/milessabin",
+    "language": "Scala",
+    "full_name": "Miles Sabin",
+    "username": "milessabin",
+    "location": "Brighton, UK",
+    "join_date": "Sep 25, 2009",
+    "popular_repos_stars": "840",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 230,
+    "followers": "147"
+  },
+  {
+    "url": "https://github.com/viktorklang",
+    "language": "Scala",
+    "full_name": "Viktor Klang (√)",
+    "username": "viktorklang",
+    "location": "",
+    "join_date": "May 20, 2008",
+    "popular_repos_stars": "8",
+    "primary_languages": [
+      "Scala",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 148,
+    "followers": "141"
+  },
+  {
+    "url": "https://github.com/shadaj",
+    "language": "Scala",
+    "full_name": "Shadaj",
+    "username": "shadaj",
+    "location": "",
+    "join_date": "Dec 31, 2010",
+    "popular_repos_stars": "52",
+    "primary_languages": [
+      "Scala",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 8,
+    "followers": "139"
+  },
+  {
+    "url": "https://github.com/bwmcadams",
+    "language": "Scala",
+    "full_name": "Brendan W. McAdams",
+    "username": "bwmcadams",
+    "location": "Sunnyvale, CA",
+    "join_date": "Jun 23, 2009",
+    "popular_repos_stars": "203",
+    "primary_languages": [
+      "Scala",
+      "Python",
+      "Java"
+    ],
+    "contributions": 38,
+    "followers": "133"
+  },
+  {
+    "url": "https://github.com/pk11",
+    "language": "Scala",
+    "full_name": "Peter Hausel",
+    "username": "pk11",
+    "location": "New York",
+    "join_date": "Sep 12, 2009",
+    "popular_repos_stars": "92",
+    "primary_languages": [
+      "JavaScript",
+      "Scala",
+      "Java"
+    ],
+    "contributions": 30,
+    "followers": "133"
+  },
+  {
+    "url": "https://github.com/sqs",
+    "language": "Scala",
+    "full_name": "Quinn Slack",
+    "username": "sqs",
+    "location": "San Francisco, CA",
+    "join_date": "Mar 2, 2008",
+    "popular_repos_stars": "105",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 3,
+    "followers": "130"
+  },
+  {
+    "url": "https://github.com/non",
+    "language": "Scala",
+    "full_name": "Erik Osheim",
+    "username": "non",
+    "location": "Providence / Philly / NYC",
+    "join_date": "Mar 7, 2010",
+    "popular_repos_stars": "795",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 645,
+    "followers": "129"
+  },
+  {
+    "url": "https://github.com/sadache",
+    "language": "Scala",
+    "full_name": "Sadek Drobi",
+    "username": "sadache",
+    "location": "Paris",
+    "join_date": "Mar 5, 2009",
+    "popular_repos_stars": "24",
+    "primary_languages": [
+      "Java",
+      "Scala",
+      "Shell"
+    ],
+    "contributions": 3,
+    "followers": "128"
+  },
+  {
+    "url": "https://github.com/haoyuan",
+    "language": "Scala",
+    "full_name": "Haoyuan Li",
+    "username": "haoyuan",
+    "location": "",
+    "join_date": "Nov 16, 2011",
+    "popular_repos_stars": "9",
+    "primary_languages": [
+      "Shell",
+      "Python",
+      "Java"
+    ],
+    "contributions": 780,
+    "followers": "128"
+  },
+  {
+    "url": "https://github.com/mandubian",
+    "language": "Scala",
+    "full_name": "Pascal Voitot",
+    "username": "mandubian",
+    "location": "France",
+    "join_date": "Apr 23, 2009",
+    "popular_repos_stars": "332",
+    "primary_languages": [
+      "Scala",
+      "JavaScript",
+      "Java"
+    ],
+    "contributions": 264,
+    "followers": "127"
+  },
+  {
+    "url": "https://github.com/janm399",
+    "language": "Scala",
+    "full_name": "Jan Machacek",
+    "username": "janm399",
+    "location": "Oxford, UK",
+    "join_date": "May 18, 2009",
+    "popular_repos_stars": "86",
+    "primary_languages": [
+      "Scala",
+      "Java",
+      "JavaScript"
+    ],
+    "contributions": 773,
+    "followers": "121"
+  },
+  {
+    "url": "https://github.com/eed3si9n",
+    "language": "Scala",
+    "full_name": "eugene yokota",
+    "username": "eed3si9n",
+    "location": "western massachusetts",
+    "join_date": "Jan 18, 2010",
+    "popular_repos_stars": "272",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 770,
+    "followers": "121"
+  },
+  {
+    "url": "https://github.com/deanwampler",
+    "language": "Scala",
+    "full_name": "Dean Wampler",
+    "username": "deanwampler",
+    "location": "Chicago",
+    "join_date": "Mar 27, 2008",
+    "popular_repos_stars": "280",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 15,
+    "followers": "119"
+  },
+  {
+    "url": "https://github.com/j5ik2o",
+    "language": "Scala",
+    "full_name": "じゅんいち☆かとう",
+    "username": "j5ik2o",
+    "location": "",
+    "join_date": "Oct 31, 2010",
+    "popular_repos_stars": "62",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 899,
+    "followers": "119"
+  },
+  {
+    "url": "https://github.com/danluu",
+    "language": "Scala",
+    "full_name": "Dan Luu",
+    "username": "danluu",
+    "location": "Madison",
+    "join_date": "Nov 23, 2009",
+    "popular_repos_stars": "194",
+    "primary_languages": [
+      "C",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 750,
+    "followers": "119"
+  },
+  {
+    "url": "https://github.com/seratch",
+    "language": "Scala",
+    "full_name": "Kazuhiro Sera",
+    "username": "seratch",
+    "location": "Tokyo, Japan",
+    "join_date": "Aug 5, 2008",
+    "popular_repos_stars": "401",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 2,
+    "followers": "118"
+  },
+  {
+    "url": "https://github.com/Atry",
+    "language": "Scala",
+    "full_name": "杨博 (Yang Bo)",
+    "username": "Atry",
+    "location": "",
+    "join_date": "Feb 4, 2011",
+    "popular_repos_stars": "180",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "Haxe"
+    ],
+    "contributions": 736,
+    "followers": "112"
+  },
+  {
+    "url": "https://github.com/krasserm",
+    "language": "Scala",
+    "full_name": "Martin Krasser",
+    "username": "krasserm",
+    "location": "",
+    "join_date": "Feb 12, 2010",
+    "popular_repos_stars": "359",
+    "primary_languages": [
+      "Scala",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 280,
+    "followers": "112"
+  },
+  {
+    "url": "https://github.com/kmizu",
+    "language": "Scala",
+    "full_name": "Kota Mizushima",
+    "username": "kmizu",
+    "location": "Tokyo, Japan",
+    "join_date": "Jun 20, 2009",
+    "popular_repos_stars": "56",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 455,
+    "followers": "107"
+  },
+  {
+    "url": "https://github.com/ngocdaothanh",
+    "language": "Scala",
+    "full_name": "Ngoc Dao",
+    "username": "ngocdaothanh",
+    "location": "Japan",
+    "join_date": "May 12, 2008",
+    "popular_repos_stars": "104",
+    "primary_languages": [
+      "Scala",
+      "Java",
+      "Ruby"
+    ],
+    "contributions": 1,
+    "followers": "107"
+  },
+  {
+    "url": "https://github.com/tjweir",
+    "language": "Scala",
+    "full_name": "Tyler Weir",
+    "username": "tjweir",
+    "location": "Toronto",
+    "join_date": "Mar 9, 2008",
+    "popular_repos_stars": "316",
+    "primary_languages": [
+      "Scala",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 0,
+    "followers": "107"
+  },
+  {
+    "url": "https://github.com/adriaanm",
+    "language": "Scala",
+    "full_name": "Adriaan Moors",
+    "username": "adriaanm",
+    "location": "San Francisco, CA",
+    "join_date": "Jun 2, 2009",
+    "popular_repos_stars": "33",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 1,
+    "followers": "107"
+  },
+  {
+    "url": "https://github.com/dlwh",
+    "language": "Scala",
+    "full_name": "David Hall",
+    "username": "dlwh",
+    "location": "Berkeley, CA",
+    "join_date": "May 7, 2008",
+    "popular_repos_stars": "665",
+    "primary_languages": [
+      "Scala",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "103"
+  },
+  {
+    "url": "https://github.com/dickwall",
+    "language": "Scala",
+    "full_name": "Dick Wall",
+    "username": "dickwall",
+    "location": "United States",
+    "join_date": "Feb 20, 2009",
+    "popular_repos_stars": "400",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 11,
+    "followers": "96"
+  },
+  {
+    "url": "https://github.com/etorreborre",
+    "language": "Scala",
+    "full_name": "Eric Torreborre",
+    "username": "etorreborre",
+    "location": "Sydney, Australia",
+    "join_date": "May 20, 2008",
+    "popular_repos_stars": "450",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "95"
+  },
+  {
+    "url": "https://github.com/jamie-allen",
+    "language": "Scala",
+    "full_name": "Jamie Allen",
+    "username": "jamie-allen",
+    "location": "Bay Area",
+    "join_date": "Aug 12, 2010",
+    "popular_repos_stars": "150",
+    "primary_languages": [
+      "Scala",
+      "Ruby",
+      "Java"
+    ],
+    "contributions": 42,
+    "followers": "89"
+  },
+  {
+    "url": "https://github.com/mads379",
+    "language": "Scala",
+    "full_name": "Mads Hartmann Jensen",
+    "username": "mads379",
+    "location": "Denmark",
+    "join_date": "May 12, 2009",
+    "popular_repos_stars": "366",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 119,
+    "followers": "89"
+  },
+  {
+    "url": "https://github.com/szeiger",
+    "language": "Scala",
+    "full_name": "Stefan Zeiger",
+    "username": "szeiger",
+    "location": "Switzerland",
+    "join_date": "Feb 13, 2009",
+    "popular_repos_stars": "102",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 720,
+    "followers": "88"
+  },
+  {
+    "url": "https://github.com/tototoshi",
+    "language": "Scala",
+    "full_name": "Toshiyuki Takahashi",
+    "username": "tototoshi",
+    "location": "Tokyo",
+    "join_date": "May 4, 2010",
+    "popular_repos_stars": "270",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 697,
+    "followers": "87"
+  },
+  {
+    "url": "https://github.com/timperrett",
+    "language": "Scala",
+    "full_name": "Timothy Perrett",
+    "username": "timperrett",
+    "location": "Santa Clara, CA",
+    "join_date": "Feb 19, 2008",
+    "popular_repos_stars": "255",
+    "primary_languages": [
+      "Scala",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 13,
+    "followers": "87"
+  },
+  {
+    "url": "https://github.com/jrudolph",
+    "language": "Scala",
+    "full_name": "Johannes Rudolph",
+    "username": "jrudolph",
+    "location": "Freiburg, Germany",
+    "join_date": "May 10, 2008",
+    "popular_repos_stars": "475",
+    "primary_languages": [
+      "Scala",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 772,
+    "followers": "83"
+  },
+  {
+    "url": "https://github.com/rkuhn",
+    "language": "Scala",
+    "full_name": "Roland Kuhn",
+    "username": "rkuhn",
+    "location": "Uppsala, Sweden",
+    "join_date": "Nov 6, 2010",
+    "popular_repos_stars": "29",
+    "primary_languages": [
+      "Scala",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 431,
+    "followers": "83"
+  },
+  {
+    "url": "https://github.com/xeno-by",
+    "language": "Scala",
+    "full_name": "Eugene Burmako",
+    "username": "xeno-by",
+    "location": "Lausanne, Switzerland",
+    "join_date": "Feb 9, 2011",
+    "popular_repos_stars": "26",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 2,
+    "followers": "82"
+  },
+  {
+    "url": "https://github.com/headinthebox",
+    "language": "Scala",
+    "full_name": "",
+    "username": "headinthebox",
+    "location": "",
+    "join_date": "Sep 22, 2011",
+    "popular_repos_stars": "123",
+    "primary_languages": [
+      "Scala",
+      "Java",
+      "OCaml"
+    ],
+    "contributions": 134,
+    "followers": "80"
+  },
+  {
+    "url": "https://github.com/mosesn",
+    "language": "Scala",
+    "full_name": "Moses Nakamura",
+    "username": "mosesn",
+    "location": "SF / NYC",
+    "join_date": "Nov 21, 2009",
+    "popular_repos_stars": "32",
+    "primary_languages": [
+      "Scala",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 273,
+    "followers": "79"
+  },
+  {
+    "url": "https://github.com/bmatheny",
+    "language": "Scala",
+    "full_name": "Blake Matheny",
+    "username": "bmatheny",
+    "location": "San Francisco",
+    "join_date": "Dec 4, 2009",
+    "popular_repos_stars": "140",
+    "primary_languages": [
+      "Shell",
+      "Ruby",
+      "Scala"
+    ],
+    "contributions": 23,
+    "followers": "77"
+  },
+  {
+    "url": "https://github.com/nraychaudhuri",
+    "language": "Scala",
+    "full_name": "Nilanjan Raychaudhuri",
+    "username": "nraychaudhuri",
+    "location": "Columbus, OH",
+    "join_date": "Dec 18, 2008",
+    "popular_repos_stars": "138",
+    "primary_languages": [
+      "Scala",
+      "Java",
+      "JavaScript"
+    ],
+    "contributions": 66,
+    "followers": "75"
+  },
+  {
+    "url": "https://github.com/fujohnwang",
+    "language": "Scala",
+    "full_name": "王福强",
+    "username": "fujohnwang",
+    "location": "浙江，杭州",
+    "join_date": "Oct 23, 2010",
+    "popular_repos_stars": "13",
+    "primary_languages": [
+      "Scala",
+      "Java",
+      "CSS"
+    ],
+    "contributions": 57,
+    "followers": "75"
+  },
+  {
+    "url": "https://github.com/edgurgel",
+    "language": "Scala",
+    "full_name": "Eduardo Gurgel",
+    "username": "edgurgel",
+    "location": "Auckland, New Zealand",
+    "join_date": "Oct 24, 2008",
+    "popular_repos_stars": "439",
+    "primary_languages": [
+      "Elixir",
+      "Ruby",
+      "Erlang"
+    ],
+    "contributions": 778,
+    "followers": "74"
+  },
+  {
+    "url": "https://github.com/jdegoes",
+    "language": "Scala",
+    "full_name": "John A. De Goes",
+    "username": "jdegoes",
+    "location": "Boulder, CO",
+    "join_date": "Nov 22, 2009",
+    "popular_repos_stars": "771",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 883,
+    "followers": "73"
+  },
+  {
+    "url": "https://github.com/pchiusano",
+    "language": "Scala",
+    "full_name": "Paul Chiusano",
+    "username": "pchiusano",
+    "location": "Boston, MA",
+    "join_date": "May 21, 2008",
+    "popular_repos_stars": "21",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "VimL"
+    ],
+    "contributions": 605,
+    "followers": "70"
+  },
+  {
+    "url": "https://github.com/earldouglas",
+    "language": "Scala",
+    "full_name": "James Earl Douglas",
+    "username": "earldouglas",
+    "location": "San Francisco, CA",
+    "join_date": "Oct 2, 2010",
+    "popular_repos_stars": "374",
+    "primary_languages": [
+      "Scala",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 626,
+    "followers": "70"
+  },
+  {
+    "url": "https://github.com/casualjim",
+    "language": "Scala",
+    "full_name": "Ivan Porto Carrero",
+    "username": "casualjim",
+    "location": "San Mateo, CA",
+    "join_date": "Oct 27, 2010",
+    "popular_repos_stars": "67",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 477,
+    "followers": "68"
+  },
+  {
+    "url": "https://github.com/wsargent",
+    "language": "Scala",
+    "full_name": "Will Sargent",
+    "username": "wsargent",
+    "location": "San Francisco",
+    "join_date": "Apr 6, 2009",
+    "popular_repos_stars": "666",
+    "primary_languages": [
+      "Scala",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 382,
+    "followers": "68"
+  },
+  {
+    "url": "https://github.com/Sciss",
+    "language": "Scala",
+    "full_name": "",
+    "username": "Sciss",
+    "location": "",
+    "join_date": "Sep 25, 2009",
+    "popular_repos_stars": "118",
+    "primary_languages": [
+      "Scala",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "68"
+  },
+  {
+    "url": "https://github.com/evnm",
+    "language": "Scala",
+    "full_name": "Evan Meagher",
+    "username": "evnm",
+    "location": "San Francisco, CA",
+    "join_date": "Jul 29, 2009",
+    "popular_repos_stars": "280",
+    "primary_languages": [
+      "JavaScript",
+      "Shell",
+      "Scala"
+    ],
+    "contributions": 281,
+    "followers": "67"
+  },
+  {
+    "url": "https://github.com/jonifreeman",
+    "language": "Scala",
+    "full_name": "Joni Freeman",
+    "username": "jonifreeman",
+    "location": "Finland",
+    "join_date": "Feb 13, 2009",
+    "popular_repos_stars": "234",
+    "primary_languages": [
+      "Scala",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 6,
+    "followers": "67"
+  },
+  {
+    "url": "https://github.com/gkossakowski",
+    "language": "Scala",
+    "full_name": "Grzegorz Kossakowski",
+    "username": "gkossakowski",
+    "location": "Warsaw, Poland",
+    "join_date": "Apr 1, 2008",
+    "popular_repos_stars": "59",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 580,
+    "followers": "67"
+  },
+  {
+    "url": "https://github.com/kayousterhout",
+    "language": "Scala",
+    "full_name": "Kay Ousterhout",
+    "username": "kayousterhout",
+    "location": "",
+    "join_date": "Oct 6, 2011",
+    "popular_repos_stars": "6",
+    "primary_languages": [
+      "Python",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 292,
+    "followers": "66"
+  },
+  {
+    "url": "https://github.com/ankurdave",
+    "language": "Scala",
+    "full_name": "Ankur Dave",
+    "username": "ankurdave",
+    "location": "Berkeley, CA",
+    "join_date": "Sep 20, 2010",
+    "popular_repos_stars": "102",
+    "primary_languages": [
+      "Shell",
+      "JavaScript",
+      "Python"
+    ],
+    "contributions": 713,
+    "followers": "66"
+  },
+  {
+    "url": "https://github.com/halcat0x15a",
+    "language": "Scala",
+    "full_name": "Sanshiro Yoshida",
+    "username": "halcat0x15a",
+    "location": "Japan",
+    "join_date": "Jan 7, 2011",
+    "popular_repos_stars": "41",
+    "primary_languages": [
+      "Scala",
+      "Clojure",
+      "Shell"
+    ],
+    "contributions": 142,
+    "followers": "65"
+  },
+  {
+    "url": "https://github.com/loicdescotte",
+    "language": "Scala",
+    "full_name": "Loïc Descotte",
+    "username": "loicdescotte",
+    "location": "Grenoble, France",
+    "join_date": "Feb 25, 2011",
+    "popular_repos_stars": "147",
+    "primary_languages": [
+      "Scala",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 179,
+    "followers": "65"
+  },
+  {
+    "url": "https://github.com/folone",
+    "language": "Scala",
+    "full_name": "George Leontiev",
+    "username": "folone",
+    "location": "Berlin, Germany",
+    "join_date": "Aug 16, 2010",
+    "popular_repos_stars": "79",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 172,
+    "followers": "64"
+  },
+  {
+    "url": "https://github.com/HouzuoGuo",
+    "language": "Scala",
+    "full_name": "Howard",
+    "username": "HouzuoGuo",
+    "location": "Hamburg, Deutschland",
+    "join_date": "Jan 13, 2011",
+    "popular_repos_stars": "1145",
+    "primary_languages": [
+      "Scala",
+      "Java",
+      "Go"
+    ],
+    "contributions": 396,
+    "followers": "64"
+  },
+  {
+    "url": "https://github.com/TiarkRompf",
+    "language": "Scala",
+    "full_name": "Tiark Rompf",
+    "username": "TiarkRompf",
+    "location": "",
+    "join_date": "Aug 16, 2010",
+    "popular_repos_stars": "319",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 637,
+    "followers": "64"
+  },
+  {
+    "url": "https://github.com/travisbrown",
+    "language": "Scala",
+    "full_name": "Travis Brown",
+    "username": "travisbrown",
+    "location": "Washington, DC",
+    "join_date": "Jun 27, 2010",
+    "popular_repos_stars": "92",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 506,
+    "followers": "63"
+  },
+  {
+    "url": "https://github.com/notnoop",
+    "language": "Scala",
+    "full_name": "Mahmood Ali",
+    "username": "notnoop",
+    "location": "Boston, MA",
+    "join_date": "Oct 7, 2009",
+    "popular_repos_stars": "855",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 5,
+    "followers": "62"
+  },
+  {
+    "url": "https://github.com/psnively",
+    "language": "Scala",
+    "full_name": "Paul Snively",
+    "username": "psnively",
+    "location": "Los Angeles, CA, USA",
+    "join_date": "Jun 9, 2009",
+    "popular_repos_stars": "64",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 5,
+    "followers": "61"
+  },
+  {
+    "url": "https://github.com/ilya-klyuchnikov",
+    "language": "Scala",
+    "full_name": "Ilya Klyuchnikov",
+    "username": "ilya-klyuchnikov",
+    "location": "Moscow",
+    "join_date": "May 11, 2010",
+    "popular_repos_stars": "150",
+    "primary_languages": [
+      "Scala",
+      "Haskell",
+      "Java"
+    ],
+    "contributions": 1,
+    "followers": "60"
+  },
+  {
+    "url": "https://github.com/nkpart",
+    "language": "Scala",
+    "full_name": "Nick Partridge",
+    "username": "nkpart",
+    "location": "Brisbane, Australia",
+    "join_date": "Feb 28, 2008",
+    "popular_repos_stars": "62",
+    "primary_languages": [
+      "Haskell",
+      "Scala",
+      "Shell"
+    ],
+    "contributions": 136,
+    "followers": "60"
+  },
+  {
+    "url": "https://github.com/charroch",
+    "language": "Scala",
+    "full_name": "Carl-Gustaf Harroch",
+    "username": "charroch",
+    "location": "London, UK",
+    "join_date": "Oct 18, 2008",
+    "popular_repos_stars": "17",
+    "primary_languages": [
+      "Scala",
+      "Java",
+      "JavaScript"
+    ],
+    "contributions": 104,
+    "followers": "60"
+  },
+  {
+    "url": "https://github.com/eishay",
+    "language": "Scala",
+    "full_name": "Eishay Smith",
+    "username": "eishay",
+    "location": "Mountain View, CA",
+    "join_date": "Dec 4, 2008",
+    "popular_repos_stars": "765",
+    "primary_languages": [
+      "Scala",
+      "Java",
+      "JavaScript"
+    ],
+    "contributions": 8,
+    "followers": "58"
+  },
+  {
+    "url": "https://github.com/larsrh",
+    "language": "Scala",
+    "full_name": "Lars Hupel",
+    "username": "larsrh",
+    "location": "Munich, Germany",
+    "join_date": "Jul 18, 2011",
+    "popular_repos_stars": "22",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "Haskell"
+    ],
+    "contributions": 478,
+    "followers": "57"
+  },
+  {
+    "url": "https://github.com/velvia",
+    "language": "Scala",
+    "full_name": "Evan Chan",
+    "username": "velvia",
+    "location": "",
+    "join_date": "Sep 19, 2011",
+    "popular_repos_stars": "253",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 342,
+    "followers": "57"
+  },
+  {
+    "url": "https://github.com/dragos",
+    "language": "Scala",
+    "full_name": "Iulian Dragos",
+    "username": "dragos",
+    "location": "Lausanne, Switzerland",
+    "join_date": "Oct 1, 2009",
+    "popular_repos_stars": "28",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 462,
+    "followers": "57"
+  },
+  {
+    "url": "https://github.com/shyssiryuxius",
+    "language": "Scala",
+    "full_name": "Yuri Ushakov",
+    "username": "shyssiryuxius",
+    "location": "Moscow",
+    "join_date": "May 10, 2011",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "Scala",
+      "Shell",
+      "Elixir"
+    ],
+    "contributions": 7,
+    "followers": "56"
+  }
+]

@@ -1,0 +1,1594 @@
+[
+  {
+    "url": "https://github.com/torvalds",
+    "language": "Modelica",
+    "full_name": "Linus Torvalds",
+    "username": "torvalds",
+    "location": "Portland, OR",
+    "join_date": "Sep 3, 2011",
+    "popular_repos_stars": "16067",
+    "primary_languages": [
+      "XSLT",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 2,
+    "followers": "18k"
+  },
+  {
+    "url": "https://github.com/mojombo",
+    "language": "Modelica",
+    "full_name": "Tom Preston-Werner",
+    "username": "mojombo",
+    "location": "San Francisco",
+    "join_date": "Oct 19, 2007",
+    "popular_repos_stars": "7410",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "Erlang"
+    ],
+    "contributions": 63,
+    "followers": "17k"
+  },
+  {
+    "url": "https://github.com/defunkt",
+    "language": "Modelica",
+    "full_name": "Chris Wanstrath",
+    "username": "defunkt",
+    "location": "San Francisco",
+    "join_date": "Oct 19, 2007",
+    "popular_repos_stars": "16516",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 27,
+    "followers": "13k"
+  },
+  {
+    "url": "https://github.com/paulirish",
+    "language": "Modelica",
+    "full_name": "Paul Irish",
+    "username": "paulirish",
+    "location": "Palo Alto",
+    "join_date": "Dec 8, 2008",
+    "popular_repos_stars": "6426",
+    "primary_languages": [
+      "JavaScript",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 506,
+    "followers": "12k"
+  },
+  {
+    "url": "https://github.com/visionmedia",
+    "language": "Modelica",
+    "full_name": "TJ Holowaychuk",
+    "username": "visionmedia",
+    "location": "Victoria, BC, Canada",
+    "join_date": "Sep 18, 2008",
+    "popular_repos_stars": "21420",
+    "primary_languages": [
+      "JavaScript",
+      "Shell",
+      "C"
+    ],
+    "contributions": 3,
+    "followers": "11k"
+  },
+  {
+    "url": "https://github.com/schacon",
+    "language": "Modelica",
+    "full_name": "Scott Chacon",
+    "username": "schacon",
+    "location": "San Francisco, CA",
+    "join_date": "Jan 27, 2008",
+    "popular_repos_stars": "5470",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "C"
+    ],
+    "contributions": 37,
+    "followers": "9.9k"
+  },
+  {
+    "url": "https://github.com/addyosmani",
+    "language": "Modelica",
+    "full_name": "Addy Osmani",
+    "username": "addyosmani",
+    "location": "London, England",
+    "join_date": "Aug 1, 2009",
+    "popular_repos_stars": "15128",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "Shell"
+    ],
+    "contributions": 4,
+    "followers": "9.4k"
+  },
+  {
+    "url": "https://github.com/jeresig",
+    "language": "Modelica",
+    "full_name": "John Resig",
+    "username": "jeresig",
+    "location": "Brooklyn, NY",
+    "join_date": "Feb 28, 2008",
+    "popular_repos_stars": "4142",
+    "primary_languages": [
+      "JavaScript",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 1,
+    "followers": "8.3k"
+  },
+  {
+    "url": "https://github.com/pjhyett",
+    "language": "Modelica",
+    "full_name": "PJ Hyett",
+    "username": "pjhyett",
+    "location": "San Francisco",
+    "join_date": "Jan 7, 2008",
+    "popular_repos_stars": "599",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "C"
+    ],
+    "contributions": 0,
+    "followers": "8.0k"
+  },
+  {
+    "url": "https://github.com/douglascrockford",
+    "language": "Modelica",
+    "full_name": "Douglas Crockford",
+    "username": "douglascrockford",
+    "location": "",
+    "join_date": "May 2, 2010",
+    "popular_repos_stars": "8636",
+    "primary_languages": [
+      "JavaScript",
+      "C",
+      "Perl"
+    ],
+    "contributions": 60,
+    "followers": "7.4k"
+  },
+  {
+    "url": "https://github.com/JakeWharton",
+    "language": "Modelica",
+    "full_name": "Jake Wharton",
+    "username": "JakeWharton",
+    "location": "San Francisco, CA",
+    "join_date": "Mar 24, 2009",
+    "popular_repos_stars": "15009",
+    "primary_languages": [
+      "Java",
+      "Shell",
+      "Groovy"
+    ],
+    "contributions": 2,
+    "followers": "6.3k"
+  },
+  {
+    "url": "https://github.com/mattt",
+    "language": "Modelica",
+    "full_name": "Mattt Thompson",
+    "username": "mattt",
+    "location": "Portland, OR",
+    "join_date": "Apr 16, 2008",
+    "popular_repos_stars": "9279",
+    "primary_languages": [
+      "Ruby",
+      "Objective",
+      "C",
+      "C"
+    ],
+    "contributions": 2,
+    "followers": "6.1k"
+  },
+  {
+    "url": "https://github.com/jashkenas",
+    "language": "Modelica",
+    "full_name": "Jeremy Ashkenas",
+    "username": "jashkenas",
+    "location": "NYC",
+    "join_date": "Apr 3, 2008",
+    "popular_repos_stars": "44669",
+    "primary_languages": [
+      "JavaScript",
+      "Ruby",
+      "CoffeeScript"
+    ],
+    "contributions": 651,
+    "followers": "6.0k"
+  },
+  {
+    "url": "https://github.com/mbostock",
+    "language": "Modelica",
+    "full_name": "Mike Bostock",
+    "username": "mbostock",
+    "location": "San Francisco, CA",
+    "join_date": "Mar 25, 2010",
+    "popular_repos_stars": "33040",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "PHP"
+    ],
+    "contributions": 979,
+    "followers": "5.9k"
+  },
+  {
+    "url": "https://github.com/ryanb",
+    "language": "Modelica",
+    "full_name": "Ryan Bates",
+    "username": "ryanb",
+    "location": "Southern Oregon",
+    "join_date": "Feb 7, 2008",
+    "popular_repos_stars": "13402",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 5,
+    "followers": "5.8k"
+  },
+  {
+    "url": "https://github.com/dhh",
+    "language": "Modelica",
+    "full_name": "David Heinemeier Hansson",
+    "username": "dhh",
+    "location": "Chicago, USA",
+    "join_date": "Mar 10, 2008",
+    "popular_repos_stars": "880",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 513,
+    "followers": "5.7k"
+  },
+  {
+    "url": "https://github.com/mdo",
+    "language": "Modelica",
+    "full_name": "Mark Otto",
+    "username": "mdo",
+    "location": "San Francisco, CA",
+    "join_date": "Jun 24, 2009",
+    "popular_repos_stars": "8678",
+    "primary_languages": [
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 3,
+    "followers": "5.3k"
+  },
+  {
+    "url": "https://github.com/kennethreitz",
+    "language": "Modelica",
+    "full_name": "Kenneth Reitz",
+    "username": "kennethreitz",
+    "location": "I ॐ AM",
+    "join_date": "Aug 26, 2009",
+    "popular_repos_stars": "24289",
+    "primary_languages": [
+      "Python",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "5.3k"
+  },
+  {
+    "url": "https://github.com/wycats",
+    "language": "Modelica",
+    "full_name": "Yehuda Katz",
+    "username": "wycats",
+    "location": "San Francisco",
+    "join_date": "Jan 11, 2008",
+    "popular_repos_stars": "9349",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 808,
+    "followers": "5.3k"
+  },
+  {
+    "url": "https://github.com/jlord",
+    "language": "Modelica",
+    "full_name": "Jessica Lord",
+    "username": "jlord",
+    "location": "Oakland, Ca",
+    "join_date": "Jan 4, 2012",
+    "popular_repos_stars": "2158",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "PHP"
+    ],
+    "contributions": 2,
+    "followers": "5.2k"
+  },
+  {
+    "url": "https://github.com/tekkub",
+    "language": "Modelica",
+    "full_name": "Tekkub",
+    "username": "tekkub",
+    "location": "Denver, CO",
+    "join_date": "Feb 23, 2008",
+    "popular_repos_stars": "275",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "Lua"
+    ],
+    "contributions": 263,
+    "followers": "5.1k"
+  },
+  {
+    "url": "https://github.com/tpope",
+    "language": "Modelica",
+    "full_name": "Tim Pope",
+    "username": "tpope",
+    "location": "Brooklyn, NY",
+    "join_date": "Feb 18, 2008",
+    "popular_repos_stars": "15457",
+    "primary_languages": [
+      "VimL",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "5.1k"
+  },
+  {
+    "url": "https://github.com/substack",
+    "language": "Modelica",
+    "full_name": "James Halliday",
+    "username": "substack",
+    "location": "Oakland, California, USA",
+    "join_date": "Jun 4, 2008",
+    "popular_repos_stars": "13907",
+    "primary_languages": [
+      "JavaScript",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 5,
+    "followers": "5.1k"
+  },
+  {
+    "url": "https://github.com/mrdoob",
+    "language": "Modelica",
+    "full_name": "Mr.doob",
+    "username": "mrdoob",
+    "location": "Barcelona, Spain",
+    "join_date": "Jun 19, 2009",
+    "popular_repos_stars": "18836",
+    "primary_languages": [
+      "JavaScript",
+      "Python",
+      "CSS"
+    ],
+    "contributions": 1,
+    "followers": "4.9k"
+  },
+  {
+    "url": "https://github.com/LeaVerou",
+    "language": "Modelica",
+    "full_name": "Lea Verou",
+    "username": "LeaVerou",
+    "location": "Greece",
+    "join_date": "Jan 3, 2010",
+    "popular_repos_stars": "7618",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "PHP"
+    ],
+    "contributions": 329,
+    "followers": "4.4k"
+  },
+  {
+    "url": "https://github.com/hakimel",
+    "language": "Modelica",
+    "full_name": "Hakim El Hattab",
+    "username": "hakimel",
+    "location": "Stockholm, Sweden",
+    "join_date": "Feb 20, 2011",
+    "popular_repos_stars": "28261",
+    "primary_languages": [
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 210,
+    "followers": "4.4k"
+  },
+  {
+    "url": "https://github.com/fat",
+    "language": "Modelica",
+    "full_name": "Jacob",
+    "username": "fat",
+    "location": "San Francisco, CA",
+    "join_date": "Dec 18, 2009",
+    "popular_repos_stars": "1595",
+    "primary_languages": [
+      "JavaScript",
+      "Ruby",
+      "PHP"
+    ],
+    "contributions": 199,
+    "followers": "4.1k"
+  },
+  {
+    "url": "https://github.com/fabpot",
+    "language": "Modelica",
+    "full_name": "Fabien Potencier",
+    "username": "fabpot",
+    "location": "Paris, France",
+    "join_date": "Jan 17, 2009",
+    "popular_repos_stars": "7301",
+    "primary_languages": [
+      "PHP",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 6,
+    "followers": "4.1k"
+  },
+  {
+    "url": "https://github.com/ry",
+    "language": "Modelica",
+    "full_name": "ry",
+    "username": "ry",
+    "location": "",
+    "join_date": "Jan 29, 2008",
+    "popular_repos_stars": "44844",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "3.8k"
+  },
+  {
+    "url": "https://github.com/yinwang0",
+    "language": "Modelica",
+    "full_name": "Yin Wang",
+    "username": "yinwang0",
+    "location": "",
+    "join_date": "Sep 11, 2010",
+    "popular_repos_stars": "2387",
+    "primary_languages": [
+      "CSS",
+      "Scheme",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "3.7k"
+  },
+  {
+    "url": "https://github.com/mitsuhiko",
+    "language": "Modelica",
+    "full_name": "Armin Ronacher",
+    "username": "mitsuhiko",
+    "location": "United Kingdom / Austria",
+    "join_date": "Apr 15, 2008",
+    "popular_repos_stars": "16558",
+    "primary_languages": [
+      "Python",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "3.6k"
+  },
+  {
+    "url": "https://github.com/holman",
+    "language": "Modelica",
+    "full_name": "Zach Holman",
+    "username": "holman",
+    "location": "San Francisco",
+    "join_date": "Mar 10, 2008",
+    "popular_repos_stars": "7245",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 89,
+    "followers": "3.5k"
+  },
+  {
+    "url": "https://github.com/isaacs",
+    "language": "Modelica",
+    "full_name": "Isaac Z. Schlueter",
+    "username": "isaacs",
+    "location": "Oakland CA",
+    "join_date": "May 4, 2008",
+    "popular_repos_stars": "4002",
+    "primary_languages": [
+      "JavaScript",
+      "Shell",
+      "C"
+    ],
+    "contributions": 1,
+    "followers": "3.5k"
+  },
+  {
+    "url": "https://github.com/tenderlove",
+    "language": "Modelica",
+    "full_name": "Aaron Patterson",
+    "username": "tenderlove",
+    "location": "Seattle",
+    "join_date": "Mar 14, 2008",
+    "popular_repos_stars": "1147",
+    "primary_languages": [
+      "Ruby",
+      "C",
+      "JavaScript"
+    ],
+    "contributions": 2,
+    "followers": "3.5k"
+  },
+  {
+    "url": "https://github.com/sindresorhus",
+    "language": "Modelica",
+    "full_name": "Sindre Sorhus",
+    "username": "sindresorhus",
+    "location": "",
+    "join_date": "Dec 20, 2009",
+    "popular_repos_stars": "12613",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "Python"
+    ],
+    "contributions": 6,
+    "followers": "3.4k"
+  },
+  {
+    "url": "https://github.com/chriscoyier",
+    "language": "Modelica",
+    "full_name": "Chris Coyier",
+    "username": "chriscoyier",
+    "location": "Milwaukee, WI",
+    "join_date": "Mar 31, 2009",
+    "popular_repos_stars": "565",
+    "primary_languages": [
+      "JavaScript",
+      "Ruby",
+      "PHP"
+    ],
+    "contributions": 145,
+    "followers": "3.4k"
+  },
+  {
+    "url": "https://github.com/cloudwu",
+    "language": "Modelica",
+    "full_name": "云风",
+    "username": "cloudwu",
+    "location": "China",
+    "join_date": "Apr 14, 2011",
+    "popular_repos_stars": "3364",
+    "primary_languages": [
+      "C",
+      "Lua",
+      "C"
+    ],
+    "contributions": 736,
+    "followers": "3.4k"
+  },
+  {
+    "url": "https://github.com/JeffreyWay",
+    "language": "Modelica",
+    "full_name": "Jeffrey Way",
+    "username": "JeffreyWay",
+    "location": "Chattanooga, TN",
+    "join_date": "Jan 15, 2010",
+    "popular_repos_stars": "3421",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 398,
+    "followers": "3.3k"
+  },
+  {
+    "url": "https://github.com/charliesome",
+    "language": "Modelica",
+    "full_name": "Charlie Somerville",
+    "username": "charliesome",
+    "location": "Melbourne, Australia",
+    "join_date": "Jan 9, 2010",
+    "popular_repos_stars": "6094",
+    "primary_languages": [
+      "Ruby",
+      "C",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "3.3k"
+  },
+  {
+    "url": "https://github.com/lifesinger",
+    "language": "Modelica",
+    "full_name": "lifesinger",
+    "username": "lifesinger",
+    "location": "Hangzhou, China",
+    "join_date": "Jun 19, 2009",
+    "popular_repos_stars": "1486",
+    "primary_languages": [
+      "JavaScript",
+      "CoffeeScript",
+      "PHP"
+    ],
+    "contributions": 55,
+    "followers": "3.1k"
+  },
+  {
+    "url": "https://github.com/igrigorik",
+    "language": "Modelica",
+    "full_name": "Ilya Grigorik",
+    "username": "igrigorik",
+    "location": "Mountain View, CA",
+    "join_date": "May 17, 2008",
+    "popular_repos_stars": "5688",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "Go"
+    ],
+    "contributions": 577,
+    "followers": "3.1k"
+  },
+  {
+    "url": "https://github.com/josevalim",
+    "language": "Modelica",
+    "full_name": "José Valim",
+    "username": "josevalim",
+    "location": "Kraków, Poland",
+    "join_date": "May 7, 2008",
+    "popular_repos_stars": "4203",
+    "primary_languages": [
+      "Ruby",
+      "Elixir",
+      "JavaScript"
+    ],
+    "contributions": 3,
+    "followers": "3.0k"
+  },
+  {
+    "url": "https://github.com/necolas",
+    "language": "Modelica",
+    "full_name": "Nicolas Gallagher",
+    "username": "necolas",
+    "location": "San Francisco, CA",
+    "join_date": "Apr 8, 2010",
+    "popular_repos_stars": "19007",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "PHP"
+    ],
+    "contributions": 1,
+    "followers": "2.9k"
+  },
+  {
+    "url": "https://github.com/maccman",
+    "language": "Modelica",
+    "full_name": "Alex MacCaw",
+    "username": "maccman",
+    "location": "San Francisco",
+    "join_date": "Mar 4, 2008",
+    "popular_repos_stars": "5819",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "CoffeeScript"
+    ],
+    "contributions": 237,
+    "followers": "2.9k"
+  },
+  {
+    "url": "https://github.com/BYVoid",
+    "language": "Modelica",
+    "full_name": "Carbo Kuo",
+    "username": "BYVoid",
+    "location": "Zurich, Switzerland",
+    "join_date": "Apr 16, 2010",
+    "popular_repos_stars": "1848",
+    "primary_languages": [
+      "JavaScript",
+      "C",
+      "Shell"
+    ],
+    "contributions": 498,
+    "followers": "2.8k"
+  },
+  {
+    "url": "https://github.com/commonsguy",
+    "language": "Modelica",
+    "full_name": "Mark Murphy",
+    "username": "commonsguy",
+    "location": "",
+    "join_date": "Jul 10, 2009",
+    "popular_repos_stars": "4748",
+    "primary_languages": [
+      "Java",
+      "Groovy",
+      "Perl"
+    ],
+    "contributions": 621,
+    "followers": "2.7k"
+  },
+  {
+    "url": "https://github.com/cloudhead",
+    "language": "Modelica",
+    "full_name": "Alexis Sellier",
+    "username": "cloudhead",
+    "location": "Berlin",
+    "join_date": "Dec 16, 2008",
+    "popular_repos_stars": "4359",
+    "primary_languages": [
+      "JavaScript",
+      "Ruby",
+      "C"
+    ],
+    "contributions": 76,
+    "followers": "2.7k"
+  },
+  {
+    "url": "https://github.com/muan",
+    "language": "Modelica",
+    "full_name": "Mu-An Chiou",
+    "username": "muan",
+    "location": "Taipei, Taiwan",
+    "join_date": "Oct 26, 2011",
+    "popular_repos_stars": "1605",
+    "primary_languages": [
+      "CSS",
+      "JavaScript",
+      "Ruby"
+    ],
+    "contributions": 698,
+    "followers": "2.6k"
+  },
+  {
+    "url": "https://github.com/JacksonTian",
+    "language": "Modelica",
+    "full_name": "Jackson Tian",
+    "username": "JacksonTian",
+    "location": "Hangzhou, China",
+    "join_date": "Jul 8, 2010",
+    "popular_repos_stars": "3826",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "Shell"
+    ],
+    "contributions": 713,
+    "followers": "2.6k"
+  },
+  {
+    "url": "https://github.com/remy",
+    "language": "Modelica",
+    "full_name": "Remy Sharp",
+    "username": "remy",
+    "location": "Brighton, UK",
+    "join_date": "Jun 14, 2008",
+    "popular_repos_stars": "9404",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "PHP"
+    ],
+    "contributions": 3,
+    "followers": "2.6k"
+  },
+  {
+    "url": "https://github.com/antirez",
+    "language": "Modelica",
+    "full_name": "Salvatore Sanfilippo",
+    "username": "antirez",
+    "location": "Campobello di Licata, Sicily, Italy",
+    "join_date": "Mar 21, 2009",
+    "popular_repos_stars": "13625",
+    "primary_languages": [
+      "C",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "2.6k"
+  },
+  {
+    "url": "https://github.com/creationix",
+    "language": "Modelica",
+    "full_name": "Tim Caswell",
+    "username": "creationix",
+    "location": "Red Lick, TX, USA",
+    "join_date": "May 27, 2009",
+    "popular_repos_stars": "10279",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "Shell"
+    ],
+    "contributions": 2,
+    "followers": "2.5k"
+  },
+  {
+    "url": "https://github.com/desandro",
+    "language": "Modelica",
+    "full_name": "David DeSandro",
+    "username": "desandro",
+    "location": "Brooklyn, NY",
+    "join_date": "May 17, 2009",
+    "popular_repos_stars": "12029",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "Shell"
+    ],
+    "contributions": 894,
+    "followers": "2.4k"
+  },
+  {
+    "url": "https://github.com/vim-scripts",
+    "language": "Modelica",
+    "full_name": "",
+    "username": "vim-scripts",
+    "location": "",
+    "join_date": "Oct 18, 2010",
+    "popular_repos_stars": "940",
+    "primary_languages": [
+      "VimL",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 25,
+    "followers": "2.3k"
+  },
+  {
+    "url": "https://github.com/nzakas",
+    "language": "Modelica",
+    "full_name": "Nicholas C. Zakas",
+    "username": "nzakas",
+    "location": "Mountain View, CA",
+    "join_date": "Dec 5, 2008",
+    "popular_repos_stars": "4377",
+    "primary_languages": [
+      "JavaScript",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 1,
+    "followers": "2.3k"
+  },
+  {
+    "url": "https://github.com/koush",
+    "language": "Modelica",
+    "full_name": "Koushik Dutta",
+    "username": "koush",
+    "location": "Seattle, WA",
+    "join_date": "Apr 14, 2009",
+    "popular_repos_stars": "5514",
+    "primary_languages": [
+      "Shell",
+      "Java",
+      "C"
+    ],
+    "contributions": 1,
+    "followers": "2.2k"
+  },
+  {
+    "url": "https://github.com/sstephenson",
+    "language": "Modelica",
+    "full_name": "Sam Stephenson",
+    "username": "sstephenson",
+    "location": "Chicago",
+    "join_date": "Mar 8, 2008",
+    "popular_repos_stars": "14309",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "CoffeeScript"
+    ],
+    "contributions": 90,
+    "followers": "2.2k"
+  },
+  {
+    "url": "https://github.com/matz",
+    "language": "Modelica",
+    "full_name": "Yukihiro \"Matz\" Matsumoto",
+    "username": "matz",
+    "location": "Matsue, Japan",
+    "join_date": "Oct 23, 2008",
+    "popular_repos_stars": "56",
+    "primary_languages": [],
+    "contributions": 1,
+    "followers": "2.2k"
+  },
+  {
+    "url": "https://github.com/taylorotwell",
+    "language": "Modelica",
+    "full_name": "Taylor Otwell",
+    "username": "taylorotwell",
+    "location": "Arkansas",
+    "join_date": "Nov 1, 2010",
+    "popular_repos_stars": "43378",
+    "primary_languages": [],
+    "contributions": 9,
+    "followers": "2.2k"
+  },
+  {
+    "url": "https://github.com/cyanogen",
+    "language": "Modelica",
+    "full_name": "Steve Kondik",
+    "username": "cyanogen",
+    "location": "Seattle, WA",
+    "join_date": "Jul 6, 2009",
+    "popular_repos_stars": "85",
+    "primary_languages": [
+      "Shell",
+      "Perl",
+      "C"
+    ],
+    "contributions": 1,
+    "followers": "2.2k"
+  },
+  {
+    "url": "https://github.com/agentzh",
+    "language": "Modelica",
+    "full_name": "Yichun Zhang",
+    "username": "agentzh",
+    "location": "San Francisco, CA, USA",
+    "join_date": "Feb 20, 2009",
+    "popular_repos_stars": "227",
+    "primary_languages": [
+      "Perl",
+      "Shell",
+      "C"
+    ],
+    "contributions": 2,
+    "followers": "2.1k"
+  },
+  {
+    "url": "https://github.com/guille",
+    "language": "Modelica",
+    "full_name": "Guillermo Rauch",
+    "username": "guille",
+    "location": "SF",
+    "join_date": "Jun 8, 2008",
+    "popular_repos_stars": "1119",
+    "primary_languages": [
+      "JavaScript",
+      "PHP",
+      "CSS"
+    ],
+    "contributions": 1,
+    "followers": "2.1k"
+  },
+  {
+    "url": "https://github.com/soffes",
+    "language": "Modelica",
+    "full_name": "Sam Soffes",
+    "username": "soffes",
+    "location": "San Francisco",
+    "join_date": "Feb 8, 2009",
+    "popular_repos_stars": "5972",
+    "primary_languages": [
+      "Ruby",
+      "Objective",
+      "C",
+      "C"
+    ],
+    "contributions": 825,
+    "followers": "2.1k"
+  },
+  {
+    "url": "https://github.com/maxogden",
+    "language": "Modelica",
+    "full_name": "Max Ogden",
+    "username": "maxogden",
+    "location": "Oakland, CA",
+    "join_date": "Dec 10, 2008",
+    "popular_repos_stars": "6633",
+    "primary_languages": [
+      "JavaScript",
+      "Ruby",
+      "CSS"
+    ],
+    "contributions": 2,
+    "followers": "2.1k"
+  },
+  {
+    "url": "https://github.com/sebastianbergmann",
+    "language": "Modelica",
+    "full_name": "Sebastian Bergmann",
+    "username": "sebastianbergmann",
+    "location": "Siegburg, Germany",
+    "join_date": "Sep 18, 2008",
+    "popular_repos_stars": "5881",
+    "primary_languages": [
+      "PHP",
+      "CSS",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "2.1k"
+  },
+  {
+    "url": "https://github.com/technoweenie",
+    "language": "Modelica",
+    "full_name": "risk danger olson",
+    "username": "technoweenie",
+    "location": "Rapid City, SD",
+    "join_date": "Jan 13, 2008",
+    "popular_repos_stars": "4015",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 549,
+    "followers": "2.1k"
+  },
+  {
+    "url": "https://github.com/philsturgeon",
+    "language": "Modelica",
+    "full_name": "Phil Sturgeon",
+    "username": "philsturgeon",
+    "location": "Bristol & Brooklyn",
+    "join_date": "Mar 26, 2009",
+    "popular_repos_stars": "1721",
+    "primary_languages": [
+      "PHP",
+      "Ruby",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "2.1k"
+  },
+  {
+    "url": "https://github.com/chrisbanes",
+    "language": "Modelica",
+    "full_name": "Chris Banes",
+    "username": "chrisbanes",
+    "location": "London, UK",
+    "join_date": "Mar 21, 2010",
+    "popular_repos_stars": "9612",
+    "primary_languages": [
+      "Java",
+      "Groovy",
+      "JavaScript"
+    ],
+    "contributions": 780,
+    "followers": "2.1k"
+  },
+  {
+    "url": "https://github.com/hadley",
+    "language": "Modelica",
+    "full_name": "Hadley Wickham",
+    "username": "hadley",
+    "location": "Houston, TX",
+    "join_date": "Apr 1, 2008",
+    "popular_repos_stars": "2878",
+    "primary_languages": [
+      "R",
+      "C",
+      "JavaScript"
+    ],
+    "contributions": 5,
+    "followers": "2.0k"
+  },
+  {
+    "url": "https://github.com/mathiasbynens",
+    "language": "Modelica",
+    "full_name": "Mathias Bynens",
+    "username": "mathiasbynens",
+    "location": "Belgium",
+    "join_date": "May 7, 2009",
+    "popular_repos_stars": "13195",
+    "primary_languages": [
+      "JavaScript",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 3,
+    "followers": "1.9k"
+  },
+  {
+    "url": "https://github.com/zenorocha",
+    "language": "Modelica",
+    "full_name": "Zeno Rocha",
+    "username": "zenorocha",
+    "location": "Los Angeles, CA",
+    "join_date": "Sep 14, 2010",
+    "popular_repos_stars": "6611",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "Shell"
+    ],
+    "contributions": 3,
+    "followers": "1.9k"
+  },
+  {
+    "url": "https://github.com/cowboy",
+    "language": "Modelica",
+    "full_name": "Ben Alman",
+    "username": "cowboy",
+    "location": "Boston, MA",
+    "join_date": "Feb 12, 2009",
+    "popular_repos_stars": "3684",
+    "primary_languages": [
+      "JavaScript",
+      "PHP",
+      "Shell"
+    ],
+    "contributions": 315,
+    "followers": "1.9k"
+  },
+  {
+    "url": "https://github.com/csswizardry",
+    "language": "Modelica",
+    "full_name": "Harry Roberts",
+    "username": "csswizardry",
+    "location": "Leeds, UK",
+    "join_date": "Apr 26, 2011",
+    "popular_repos_stars": "9331",
+    "primary_languages": [
+      "CSS",
+      "Shell",
+      "PHP"
+    ],
+    "contributions": 1,
+    "followers": "1.9k"
+  },
+  {
+    "url": "https://github.com/ibdknox",
+    "language": "Modelica",
+    "full_name": "Chris Granger",
+    "username": "ibdknox",
+    "location": "",
+    "join_date": "Apr 2, 2009",
+    "popular_repos_stars": "1218",
+    "primary_languages": [
+      "Clojure",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 595,
+    "followers": "1.9k"
+  },
+  {
+    "url": "https://github.com/nathanmarz",
+    "language": "Modelica",
+    "full_name": "Nathan Marz",
+    "username": "nathanmarz",
+    "location": "San Francisco",
+    "join_date": "Sep 25, 2009",
+    "popular_repos_stars": "11035",
+    "primary_languages": [
+      "Clojure",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 24,
+    "followers": "1.9k"
+  },
+  {
+    "url": "https://github.com/madrobby",
+    "language": "Modelica",
+    "full_name": "Thomas Fuchs",
+    "username": "madrobby",
+    "location": "Philadelphia, PA",
+    "join_date": "Mar 18, 2008",
+    "popular_repos_stars": "15544",
+    "primary_languages": [
+      "JavaScript",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 212,
+    "followers": "1.8k"
+  },
+  {
+    "url": "https://github.com/benbalter",
+    "language": "Modelica",
+    "full_name": "Ben Balter",
+    "username": "benbalter",
+    "location": "Washington, DC",
+    "join_date": "May 20, 2010",
+    "popular_repos_stars": "972",
+    "primary_languages": [
+      "JavaScript",
+      "Ruby",
+      "PHP"
+    ],
+    "contributions": 2,
+    "followers": "1.8k"
+  },
+  {
+    "url": "https://github.com/mitchellh",
+    "language": "Modelica",
+    "full_name": "Mitchell Hashimoto",
+    "username": "mitchellh",
+    "location": "San Francisco, CA",
+    "join_date": "Feb 27, 2008",
+    "popular_repos_stars": "12617",
+    "primary_languages": [
+      "Ruby",
+      "Go",
+      "Shell"
+    ],
+    "contributions": 6,
+    "followers": "1.8k"
+  },
+  {
+    "url": "https://github.com/leah",
+    "language": "Modelica",
+    "full_name": "Leah Culver",
+    "username": "leah",
+    "location": "San Francisco, CA",
+    "join_date": "Jan 11, 2009",
+    "popular_repos_stars": "2282",
+    "primary_languages": [
+      "Python",
+      "JavaScript",
+      "Ruby"
+    ],
+    "contributions": 56,
+    "followers": "1.8k"
+  },
+  {
+    "url": "https://github.com/richhickey",
+    "language": "Modelica",
+    "full_name": "Rich Hickey",
+    "username": "richhickey",
+    "location": "NY",
+    "join_date": "Nov 12, 2008",
+    "popular_repos_stars": "1907",
+    "primary_languages": [
+      "Clojure",
+      "Java",
+      "C"
+    ],
+    "contributions": 71,
+    "followers": "1.8k"
+  },
+  {
+    "url": "https://github.com/steveklabnik",
+    "language": "Modelica",
+    "full_name": "Steve Klabnik",
+    "username": "steveklabnik",
+    "location": "Brooklyn",
+    "join_date": "Oct 6, 2008",
+    "popular_repos_stars": "1300",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "Rust"
+    ],
+    "contributions": 1,
+    "followers": "1.8k"
+  },
+  {
+    "url": "https://github.com/ginatrapani",
+    "language": "Modelica",
+    "full_name": "Gina Trapani",
+    "username": "ginatrapani",
+    "location": "Brooklyn, NY",
+    "join_date": "Mar 5, 2009",
+    "popular_repos_stars": "6053",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 203,
+    "followers": "1.8k"
+  },
+  {
+    "url": "https://github.com/astaxie",
+    "language": "Modelica",
+    "full_name": "astaxie",
+    "username": "astaxie",
+    "location": "Shanghai, China",
+    "join_date": "Mar 30, 2010",
+    "popular_repos_stars": "8563",
+    "primary_languages": [
+      "Go",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "1.7k"
+  },
+  {
+    "url": "https://github.com/erica",
+    "language": "Modelica",
+    "full_name": "Erica Sadun",
+    "username": "erica",
+    "location": "Denver, CO",
+    "join_date": "Nov 4, 2008",
+    "popular_repos_stars": "4153",
+    "primary_languages": [
+      "Objective",
+      "C",
+      "Shell",
+      "C"
+    ],
+    "contributions": 1,
+    "followers": "1.7k"
+  },
+  {
+    "url": "https://github.com/steipete",
+    "language": "Modelica",
+    "full_name": "Peter Steinberger",
+    "username": "steipete",
+    "location": "Vienna, Austria",
+    "join_date": "Feb 27, 2009",
+    "popular_repos_stars": "6108",
+    "primary_languages": [
+      "Objective",
+      "C",
+      "Ruby",
+      "C"
+    ],
+    "contributions": 2,
+    "followers": "1.7k"
+  },
+  {
+    "url": "https://github.com/pkrumins",
+    "language": "Modelica",
+    "full_name": "Peteris Krumins",
+    "username": "pkrumins",
+    "location": "Riga, Latvia",
+    "join_date": "Dec 17, 2008",
+    "popular_repos_stars": "1189",
+    "primary_languages": [
+      "JavaScript",
+      "C",
+      "Perl"
+    ],
+    "contributions": 56,
+    "followers": "1.7k"
+  },
+  {
+    "url": "https://github.com/sofish",
+    "language": "Modelica",
+    "full_name": "小鱼",
+    "username": "sofish",
+    "location": "Shanghai China",
+    "join_date": "Nov 14, 2009",
+    "popular_repos_stars": "4751",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "Shell"
+    ],
+    "contributions": 502,
+    "followers": "1.7k"
+  },
+  {
+    "url": "https://github.com/laruence",
+    "language": "Modelica",
+    "full_name": "Xinchen Hui",
+    "username": "laruence",
+    "location": "China",
+    "join_date": "Aug 31, 2010",
+    "popular_repos_stars": "1823",
+    "primary_languages": [
+      "PHP",
+      "C",
+      "Shell"
+    ],
+    "contributions": 824,
+    "followers": "1.7k"
+  },
+  {
+    "url": "https://github.com/bradfitz",
+    "language": "Modelica",
+    "full_name": "Brad Fitzpatrick",
+    "username": "bradfitz",
+    "location": "San Francisco, CA",
+    "join_date": "Mar 8, 2008",
+    "popular_repos_stars": "2091",
+    "primary_languages": [
+      "Go",
+      "Perl",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "1.7k"
+  },
+  {
+    "url": "https://github.com/zedshaw",
+    "language": "Modelica",
+    "full_name": "Zed A. Shaw",
+    "username": "zedshaw",
+    "location": "San Francisco, CA",
+    "join_date": "Aug 8, 2010",
+    "popular_repos_stars": "3106",
+    "primary_languages": [
+      "Python",
+      "C",
+      "Shell"
+    ],
+    "contributions": 20,
+    "followers": "1.7k"
+  },
+  {
+    "url": "https://github.com/rtomayko",
+    "language": "Modelica",
+    "full_name": "Ryan Tomayko",
+    "username": "rtomayko",
+    "location": "San Francisco",
+    "join_date": "Feb 18, 2008",
+    "popular_repos_stars": "3595",
+    "primary_languages": [
+      "Ruby",
+      "C",
+      "Shell"
+    ],
+    "contributions": 344,
+    "followers": "1.7k"
+  },
+  {
+    "url": "https://github.com/blueimp",
+    "language": "Modelica",
+    "full_name": "Sebastian Tschan",
+    "username": "blueimp",
+    "location": "London, UK",
+    "join_date": "Apr 15, 2010",
+    "popular_repos_stars": "21405",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "Go"
+    ],
+    "contributions": 464,
+    "followers": "1.6k"
+  },
+  {
+    "url": "https://github.com/romannurik",
+    "language": "Modelica",
+    "full_name": "Roman Nurik",
+    "username": "romannurik",
+    "location": "New York, NY",
+    "join_date": "Jun 29, 2009",
+    "popular_repos_stars": "3054",
+    "primary_languages": [
+      "Java",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 68,
+    "followers": "1.6k"
+  },
+  {
+    "url": "https://github.com/felixge",
+    "language": "Modelica",
+    "full_name": "Felix Geisendörfer",
+    "username": "felixge",
+    "location": "Berlin, Germany",
+    "join_date": "Jun 25, 2008",
+    "popular_repos_stars": "8585",
+    "primary_languages": [
+      "JavaScript",
+      "Shell",
+      "Go"
+    ],
+    "contributions": 602,
+    "followers": "1.6k"
+  },
+  {
+    "url": "https://github.com/garybernhardt",
+    "language": "Modelica",
+    "full_name": "Gary Bernhardt",
+    "username": "garybernhardt",
+    "location": "Seattle, WA",
+    "join_date": "Jan 10, 2009",
+    "popular_repos_stars": "2186",
+    "primary_languages": [
+      "Ruby",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 460,
+    "followers": "1.6k"
+  },
+  {
+    "url": "https://github.com/nicklockwood",
+    "language": "Modelica",
+    "full_name": "Nick Lockwood",
+    "username": "nicklockwood",
+    "location": "UK",
+    "join_date": "Jan 4, 2011",
+    "popular_repos_stars": "9907",
+    "primary_languages": [
+      "Objective",
+      "C",
+      "Ruby",
+      "C"
+    ],
+    "contributions": 829,
+    "followers": "1.6k"
+  },
+  {
+    "url": "https://github.com/btford",
+    "language": "Modelica",
+    "full_name": "Brian Ford",
+    "username": "btford",
+    "location": "San Francisco, CA",
+    "join_date": "Nov 9, 2010",
+    "popular_repos_stars": "3907",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "1.5k"
+  },
+  {
+    "url": "https://github.com/ccoenraets",
+    "language": "Modelica",
+    "full_name": "Christophe Coenraets",
+    "username": "ccoenraets",
+    "location": "Boston",
+    "join_date": "Sep 1, 2010",
+    "popular_repos_stars": "4113",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "Java"
+    ],
+    "contributions": 264,
+    "followers": "1.5k"
+  },
+  {
+    "url": "https://github.com/miyagawa",
+    "language": "Modelica",
+    "full_name": "Tatsuhiko Miyagawa",
+    "username": "miyagawa",
+    "location": "San Francisco, CA",
+    "join_date": "Mar 20, 2008",
+    "popular_repos_stars": "1145",
+    "primary_languages": [
+      "Perl",
+      "Ruby",
+      "JavaScript"
+    ],
+    "contributions": 382,
+    "followers": "1.5k"
+  },
+  {
+    "url": "https://github.com/progrium",
+    "language": "Modelica",
+    "full_name": "Jeff Lindsay",
+    "username": "progrium",
+    "location": "Austin, TX",
+    "join_date": "Feb 22, 2008",
+    "popular_repos_stars": "11191",
+    "primary_languages": [
+      "Python",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 695,
+    "followers": "1.5k"
+  }
+]

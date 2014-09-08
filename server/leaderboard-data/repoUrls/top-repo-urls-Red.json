@@ -1,0 +1,52 @@
+[
+  {
+    "url": "https://github.com/red/red",
+    "size": 23654,
+    "language": "Red"
+  },
+  {
+    "url": "https://github.com/PeterWAWood/Red-System-Libs",
+    "size": 740,
+    "language": "Red"
+  },
+  {
+    "url": "https://github.com/ldci/glfw-red",
+    "size": 316,
+    "language": "Red"
+  },
+  {
+    "url": "https://github.com/MarkGoldberg/CwUnit",
+    "size": 216,
+    "language": "Red"
+  },
+  {
+    "url": "https://github.com/cjbrowne/Codewars",
+    "size": 140,
+    "language": "Red"
+  },
+  {
+    "url": "https://github.com/WayneTsui/re-scripts",
+    "size": 200,
+    "language": "Red"
+  },
+  {
+    "url": "https://github.com/MarkGoldberg/ClarionCommunity",
+    "size": 3391,
+    "language": "Red"
+  },
+  {
+    "url": "https://github.com/surma-dump/corewars",
+    "size": 112,
+    "language": "Red"
+  },
+  {
+    "url": "https://github.com/ipfire/network",
+    "size": 32216,
+    "language": "Red"
+  },
+  {
+    "url": "https://github.com/obrienm/redirects",
+    "size": 95040,
+    "language": "Red"
+  }
+]

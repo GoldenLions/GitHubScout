@@ -1,0 +1,98 @@
+[
+  {
+    "url": "https://github.com/hbbio",
+    "language": "Opa",
+    "full_name": "Henri",
+    "username": "hbbio",
+    "location": "Paris / SF",
+    "join_date": "May 24, 2011",
+    "popular_repos_stars": "41",
+    "primary_languages": [
+      "Opa",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 51,
+    "followers": "29"
+  },
+  {
+    "url": "https://github.com/Aqua-Ye",
+    "language": "Opa",
+    "full_name": "Frederic Ye",
+    "username": "Aqua-Ye",
+    "location": "Paris, France",
+    "join_date": "May 16, 2009",
+    "popular_repos_stars": "31",
+    "primary_languages": [
+      "Java",
+      "Opa",
+      "Shell"
+    ],
+    "contributions": 11,
+    "followers": "19"
+  },
+  {
+    "url": "https://github.com/akoprow",
+    "language": "Opa",
+    "full_name": "Adam Koprowski",
+    "username": "akoprow",
+    "location": "Mountain View, CA, US",
+    "join_date": "Apr 13, 2010",
+    "popular_repos_stars": "27",
+    "primary_languages": [
+      "JavaScript",
+      "Opa",
+      "Shell"
+    ],
+    "contributions": 396,
+    "followers": "15"
+  },
+  {
+    "url": "https://github.com/cedricss",
+    "language": "Opa",
+    "full_name": "Cédric Soulas",
+    "username": "cedricss",
+    "location": "Paris",
+    "join_date": "May 21, 2011",
+    "popular_repos_stars": "27",
+    "primary_languages": [
+      "Opa",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 82,
+    "followers": "13"
+  },
+  {
+    "url": "https://github.com/OpaOnWindowsNow",
+    "language": "Opa",
+    "full_name": "Rudy Sicard",
+    "username": "OpaOnWindowsNow",
+    "location": "",
+    "join_date": "Dec 19, 2011",
+    "popular_repos_stars": "12",
+    "primary_languages": [
+      "Opa",
+      "Shell",
+      "VimL"
+    ],
+    "contributions": 0,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/matbd",
+    "language": "Opa",
+    "full_name": "Mathieu Baudet",
+    "username": "matbd",
+    "location": "",
+    "join_date": "Oct 5, 2011",
+    "popular_repos_stars": "7",
+    "primary_languages": [
+      "Shell",
+      "OCaml",
+      "Python"
+    ],
+    "contributions": 8,
+    "followers": "6"
+  }
+]

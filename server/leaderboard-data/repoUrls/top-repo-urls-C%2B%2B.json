@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/rogerwang/node-webkit",
+    "size": 82466,
+    "language": "C++"
+  },
+  {
+    "url": "https://github.com/ariya/phantomjs",
+    "size": 163705,
+    "language": "C++"
+  },
+  {
+    "url": "https://github.com/textmate/textmate",
+    "size": 77421,
+    "language": "C++"
+  },
+  {
+    "url": "https://github.com/facebook/hhvm",
+    "size": 288337,
+    "language": "C++"
+  },
+  {
+    "url": "https://github.com/rethinkdb/rethinkdb",
+    "size": 446910,
+    "language": "C++"
+  },
+  {
+    "url": "https://github.com/mongodb/mongo",
+    "size": 232147,
+    "language": "C++"
+  },
+  {
+    "url": "https://github.com/cocos2d/cocos2d-x",
+    "size": 1211967,
+    "language": "C++"
+  },
+  {
+    "url": "https://github.com/facebook/folly",
+    "size": 4826,
+    "language": "C++"
+  },
+  {
+    "url": "https://github.com/keithw/mosh",
+    "size": 4820,
+    "language": "C++"
+  },
+  {
+    "url": "https://github.com/xbmc/xbmc",
+    "size": 1768999,
+    "language": "C++"
+  },
+  {
+    "url": "https://github.com/coolwanglu/pdf2htmlEX",
+    "size": 140631,
+    "language": "C++"
+  },
+  {
+    "url": "https://github.com/Itseez/opencv",
+    "size": 1082326,
+    "language": "C++"
+  },
+  {
+    "url": "https://github.com/TTimo/doom3.gpl",
+    "size": 9330,
+    "language": "C++"
+  },
+  {
+    "url": "https://github.com/atom/atom-shell",
+    "size": 17105,
+    "language": "C++"
+  },
+  {
+    "url": "https://github.com/fish-shell/fish-shell",
+    "size": 34035,
+    "language": "C++"
+  },
+  {
+    "url": "https://github.com/appjs/appjs",
+    "size": 8216,
+    "language": "C++"
+  },
+  {
+    "url": "https://github.com/facebookarchive/scribe",
+    "size": 2265,
+    "language": "C++"
+  },
+  {
+    "url": "https://github.com/TrinityCore/TrinityCore",
+    "size": 625783,
+    "language": "C++"
+  },
+  {
+    "url": "https://github.com/google/lmctfy",
+    "size": 5619,
+    "language": "C++"
+  },
+  {
+    "url": "https://github.com/facebook/rocksdb",
+    "size": 60628,
+    "language": "C++"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://github.com/stefano",
+    "language": "Arc",
+    "full_name": "Stefano",
+    "username": "stefano",
+    "location": "Italy",
+    "join_date": "Mar 18, 2008",
+    "popular_repos_stars": "34",
+    "primary_languages": [
+      "Arc",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 0,
+    "followers": "11"
+  },
+  {
+    "url": "https://github.com/shader",
+    "language": "Arc",
+    "full_name": "",
+    "username": "shader",
+    "location": "",
+    "join_date": "Jun 9, 2008",
+    "popular_repos_stars": "13",
+    "primary_languages": [
+      "Arc",
+      "Shell",
+      "C"
+    ],
+    "contributions": 152,
+    "followers": "10"
+  },
+  {
+    "url": "https://github.com/allenday",
+    "language": "Arc",
+    "full_name": "",
+    "username": "allenday",
+    "location": "",
+    "join_date": "Oct 11, 2010",
+    "popular_repos_stars": "27",
+    "primary_languages": [
+      "Java",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 5,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/pferrel",
+    "language": "Arc",
+    "full_name": "Pat Ferrel",
+    "username": "pferrel",
+    "location": "Seattle, WA",
+    "join_date": "Jul 8, 2010",
+    "popular_repos_stars": "66",
+    "primary_languages": [
+      "Shell",
+      "Java",
+      "Scala"
+    ],
+    "contributions": 82,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/bixo",
+    "language": "Arc",
+    "full_name": "",
+    "username": "bixo",
+    "location": "",
+    "join_date": "Dec 14, 2009",
+    "popular_repos_stars": "134",
+    "primary_languages": [
+      "Java",
+      "Shell",
+      "Arc"
+    ],
+    "contributions": 0,
+    "followers": "8"
+  }
+]

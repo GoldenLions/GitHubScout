@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/marklogic/roxy",
+    "size": 11424,
+    "language": "XQuery"
+  },
+  {
+    "url": "https://github.com/lcnetdev/marc2bibframe",
+    "size": 2946,
+    "language": "XQuery"
+  },
+  {
+    "url": "https://github.com/marklogic/Corona",
+    "size": 40317,
+    "language": "XQuery"
+  },
+  {
+    "url": "https://github.com/robwhitby/xray",
+    "size": 1433,
+    "language": "XQuery"
+  },
+  {
+    "url": "https://github.com/opensiddur/opensiddur",
+    "size": 65170,
+    "language": "XQuery"
+  },
+  {
+    "url": "https://github.com/marklogic/commons",
+    "size": 4056,
+    "language": "XQuery"
+  },
+  {
+    "url": "https://github.com/xquery/xquerydoc",
+    "size": 15493,
+    "language": "XQuery"
+  },
+  {
+    "url": "https://github.com/pgfearo/xmlspectrum",
+    "size": 26239,
+    "language": "XQuery"
+  },
+  {
+    "url": "https://github.com/marklogic/semantic",
+    "size": 203,
+    "language": "XQuery"
+  },
+  {
+    "url": "https://github.com/xquery/rxq",
+    "size": 2103,
+    "language": "XQuery"
+  },
+  {
+    "url": "https://github.com/garyvidal/xquerrail",
+    "size": 19222,
+    "language": "XQuery"
+  },
+  {
+    "url": "https://github.com/LeoWoerteler/xq-modules",
+    "size": 245,
+    "language": "XQuery"
+  },
+  {
+    "url": "https://github.com/dscape/mustache.xq",
+    "size": 2664,
+    "language": "XQuery"
+  },
+  {
+    "url": "https://github.com/mblakele/taskbot",
+    "size": 160,
+    "language": "XQuery"
+  },
+  {
+    "url": "https://github.com/holmesw/isbn",
+    "size": 153,
+    "language": "XQuery"
+  },
+  {
+    "url": "https://github.com/marklogic/ml-rest-lib",
+    "size": 189,
+    "language": "XQuery"
+  },
+  {
+    "url": "https://github.com/isubiker/mljson",
+    "size": 398,
+    "language": "XQuery"
+  },
+  {
+    "url": "https://github.com/Edirom/WeGA-WebApp",
+    "size": 3883,
+    "language": "XQuery"
+  },
+  {
+    "url": "https://github.com/joewiz/xqjson",
+    "size": 275,
+    "language": "XQuery"
+  },
+  {
+    "url": "https://github.com/garyvidal/marklogic-ant-tasks",
+    "size": 8352,
+    "language": "XQuery"
+  }
+]

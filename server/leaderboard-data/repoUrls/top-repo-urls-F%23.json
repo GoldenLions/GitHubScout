@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/fsharp/fsharp",
+    "size": 110790,
+    "language": "F#"
+  },
+  {
+    "url": "https://github.com/fsprojects/fsharpx",
+    "size": 71845,
+    "language": "F#"
+  },
+  {
+    "url": "https://github.com/JohnEarnest/Mako",
+    "size": 2537,
+    "language": "F#"
+  },
+  {
+    "url": "https://github.com/fsharp/FAKE",
+    "size": 191601,
+    "language": "F#"
+  },
+  {
+    "url": "https://github.com/ChrisMarinos/FSharpKoans",
+    "size": 891,
+    "language": "F#"
+  },
+  {
+    "url": "https://github.com/ZachBray/FunScript",
+    "size": 51302,
+    "language": "F#"
+  },
+  {
+    "url": "https://github.com/AshleyF/VimSpeak",
+    "size": 118,
+    "language": "F#"
+  },
+  {
+    "url": "https://github.com/fsharp/fsharpbinding",
+    "size": 36905,
+    "language": "F#"
+  },
+  {
+    "url": "https://github.com/FStarLang/FStar",
+    "size": 5824,
+    "language": "F#"
+  },
+  {
+    "url": "https://github.com/BlueMountainCapital/Deedle",
+    "size": 26174,
+    "language": "F#"
+  },
+  {
+    "url": "https://github.com/fsharp/FSharp.Data",
+    "size": 72543,
+    "language": "F#"
+  },
+  {
+    "url": "https://github.com/tpetricek/FSharp.Formatting",
+    "size": 22810,
+    "language": "F#"
+  },
+  {
+    "url": "https://github.com/nessos/LinqOptimizer",
+    "size": 4652,
+    "language": "F#"
+  },
+  {
+    "url": "https://github.com/lefthandedgoat/canopy",
+    "size": 79748,
+    "language": "F#"
+  },
+  {
+    "url": "https://github.com/SuaveIO/suave",
+    "size": 9696,
+    "language": "F#"
+  },
+  {
+    "url": "https://github.com/fsharp/FsUnit",
+    "size": 73930,
+    "language": "F#"
+  },
+  {
+    "url": "https://github.com/fsprojects/VisualFSharpPowerTools",
+    "size": 21148,
+    "language": "F#"
+  },
+  {
+    "url": "https://github.com/BlueMountainCapital/FSharpRProvider",
+    "size": 7083,
+    "language": "F#"
+  },
+  {
+    "url": "https://github.com/fsharp/FsCheck",
+    "size": 11973,
+    "language": "F#"
+  },
+  {
+    "url": "https://github.com/dmitry-a-morozov/fsharp-wpf-mvc-series",
+    "size": 11472,
+    "language": "F#"
+  }
+]

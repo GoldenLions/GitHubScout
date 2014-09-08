@@ -1,0 +1,1329 @@
+[
+  {
+    "url": "https://github.com/tpetricek",
+    "language": "F#",
+    "full_name": "Tomas Petricek",
+    "username": "tpetricek",
+    "location": "Cambridge, UK",
+    "join_date": "Nov 17, 2010",
+    "popular_repos_stars": "261",
+    "primary_languages": [
+      "F",
+      "Shell",
+      "C"
+    ],
+    "contributions": 1,
+    "followers": "188"
+  },
+  {
+    "url": "https://github.com/mausch",
+    "language": "F#",
+    "full_name": "Mauricio Scheffer",
+    "username": "mausch",
+    "location": "",
+    "join_date": "Jun 14, 2009",
+    "popular_repos_stars": "499",
+    "primary_languages": [
+      "F",
+      "C",
+      "Shell"
+    ],
+    "contributions": 405,
+    "followers": "125"
+  },
+  {
+    "url": "https://github.com/ovatsus",
+    "language": "F#",
+    "full_name": "Gustavo Guerra",
+    "username": "ovatsus",
+    "location": "London, United Kingdom",
+    "join_date": "Apr 19, 2011",
+    "popular_repos_stars": "24",
+    "primary_languages": [
+      "F",
+      "Shell",
+      "C"
+    ],
+    "contributions": 2,
+    "followers": "89"
+  },
+  {
+    "url": "https://github.com/fholm",
+    "language": "F#",
+    "full_name": "Fredrik Holmström",
+    "username": "fholm",
+    "location": "Sweden",
+    "join_date": "Oct 19, 2009",
+    "popular_repos_stars": "792",
+    "primary_languages": [
+      "C",
+      "F",
+      "C"
+    ],
+    "contributions": 159,
+    "followers": "84"
+  },
+  {
+    "url": "https://github.com/dmohl",
+    "language": "F#",
+    "full_name": "Dan Mohl",
+    "username": "dmohl",
+    "location": "",
+    "join_date": "Nov 9, 2009",
+    "popular_repos_stars": "118",
+    "primary_languages": [
+      "F",
+      "C",
+      "JavaScript"
+    ],
+    "contributions": 298,
+    "followers": "81"
+  },
+  {
+    "url": "https://github.com/Heather",
+    "language": "F#",
+    "full_name": "",
+    "username": "Heather",
+    "location": "",
+    "join_date": "Oct 26, 2012",
+    "popular_repos_stars": "66",
+    "primary_languages": [
+      "Shell",
+      "F",
+      "Haskell"
+    ],
+    "contributions": 2,
+    "followers": "76"
+  },
+  {
+    "url": "https://github.com/7sharp9",
+    "language": "F#",
+    "full_name": "Dave Thomas",
+    "username": "7sharp9",
+    "location": "UK",
+    "join_date": "Jan 28, 2011",
+    "popular_repos_stars": "54",
+    "primary_languages": [
+      "F",
+      "Shell",
+      "C"
+    ],
+    "contributions": 996,
+    "followers": "71"
+  },
+  {
+    "url": "https://github.com/mathias-brandewinder",
+    "language": "F#",
+    "full_name": "Mathias Brandewinder",
+    "username": "mathias-brandewinder",
+    "location": "San Francisco",
+    "join_date": "Jun 30, 2012",
+    "popular_repos_stars": "99",
+    "primary_languages": [
+      "F",
+      "C",
+      "Shell"
+    ],
+    "contributions": 337,
+    "followers": "60"
+  },
+  {
+    "url": "https://github.com/rodrigovidal",
+    "language": "F#",
+    "full_name": "Rodrigo Vidal",
+    "username": "rodrigovidal",
+    "location": "Rio de Janeiro, Brazil",
+    "join_date": "Sep 4, 2010",
+    "popular_repos_stars": "8",
+    "primary_languages": [
+      "F",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 42,
+    "followers": "59"
+  },
+  {
+    "url": "https://github.com/robertpi",
+    "language": "F#",
+    "full_name": "Robert Pickering",
+    "username": "robertpi",
+    "location": "Paris, France",
+    "join_date": "Feb 3, 2009",
+    "popular_repos_stars": "84",
+    "primary_languages": [
+      "F",
+      "C",
+      "Shell"
+    ],
+    "contributions": 101,
+    "followers": "58"
+  },
+  {
+    "url": "https://github.com/Rickasaurus",
+    "language": "F#",
+    "full_name": "Rick Minerich",
+    "username": "Rickasaurus",
+    "location": "Hoboken, NJ",
+    "join_date": "Feb 27, 2008",
+    "popular_repos_stars": "78",
+    "primary_languages": [
+      "F",
+      "Shell",
+      "C"
+    ],
+    "contributions": 115,
+    "followers": "57"
+  },
+  {
+    "url": "https://github.com/rachelreese",
+    "language": "F#",
+    "full_name": "Rachel Reese",
+    "username": "rachelreese",
+    "location": "",
+    "join_date": "Sep 23, 2011",
+    "popular_repos_stars": "42",
+    "primary_languages": [
+      "F",
+      "C",
+      "PowerShell"
+    ],
+    "contributions": 141,
+    "followers": "48"
+  },
+  {
+    "url": "https://github.com/Gab-km",
+    "language": "F#",
+    "full_name": "MATSUSHIMA Kazuhiro",
+    "username": "Gab-km",
+    "location": "Yokohama, Japan",
+    "join_date": "May 18, 2011",
+    "popular_repos_stars": "22",
+    "primary_languages": [
+      "F",
+      "Python",
+      "C"
+    ],
+    "contributions": 218,
+    "followers": "43"
+  },
+  {
+    "url": "https://github.com/theburningmonk",
+    "language": "F#",
+    "full_name": "Yan Cui",
+    "username": "theburningmonk",
+    "location": "UK",
+    "join_date": "Jan 4, 2011",
+    "popular_repos_stars": "41",
+    "primary_languages": [
+      "F",
+      "C",
+      "CSS"
+    ],
+    "contributions": 763,
+    "followers": "43"
+  },
+  {
+    "url": "https://github.com/jack-pappas",
+    "language": "F#",
+    "full_name": "Jack Pappas",
+    "username": "jack-pappas",
+    "location": "United States",
+    "join_date": "Nov 11, 2010",
+    "popular_repos_stars": "132",
+    "primary_languages": [
+      "F",
+      "Shell",
+      "C"
+    ],
+    "contributions": 216,
+    "followers": "40"
+  },
+  {
+    "url": "https://github.com/santialbo",
+    "language": "F#",
+    "full_name": "Santi Albo",
+    "username": "santialbo",
+    "location": "London",
+    "join_date": "Mar 20, 2012",
+    "popular_repos_stars": "33",
+    "primary_languages": [
+      "JavaScript",
+      "F",
+      "Python"
+    ],
+    "contributions": 92,
+    "followers": "37"
+  },
+  {
+    "url": "https://github.com/ZachBray",
+    "language": "F#",
+    "full_name": "Zach Bray",
+    "username": "ZachBray",
+    "location": "London",
+    "join_date": "Jul 26, 2012",
+    "popular_repos_stars": "288",
+    "primary_languages": [
+      "F",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 165,
+    "followers": "30"
+  },
+  {
+    "url": "https://github.com/pblasucci",
+    "language": "F#",
+    "full_name": "Paulmichael Blasucci",
+    "username": "pblasucci",
+    "location": "New York, NY",
+    "join_date": "Nov 10, 2010",
+    "popular_repos_stars": "34",
+    "primary_languages": [
+      "F",
+      "Shell",
+      "C"
+    ],
+    "contributions": 941,
+    "followers": "26"
+  },
+  {
+    "url": "https://github.com/ademar",
+    "language": "F#",
+    "full_name": "Ademar Gonzalez",
+    "username": "ademar",
+    "location": "Toronto",
+    "join_date": "Oct 16, 2009",
+    "popular_repos_stars": "28",
+    "primary_languages": [
+      "C",
+      "JavaScript",
+      "F"
+    ],
+    "contributions": 389,
+    "followers": "26"
+  },
+  {
+    "url": "https://github.com/dungpa",
+    "language": "F#",
+    "full_name": "Anh-Dung Phan",
+    "username": "dungpa",
+    "location": "Copenhagen, Denmark",
+    "join_date": "Jul 26, 2011",
+    "popular_repos_stars": "210",
+    "primary_languages": [
+      "F",
+      "Shell",
+      "C"
+    ],
+    "contributions": 834,
+    "followers": "25"
+  },
+  {
+    "url": "https://github.com/TahaHachana",
+    "language": "F#",
+    "full_name": "Taha Hachana",
+    "username": "TahaHachana",
+    "location": "Tunisia",
+    "join_date": "Feb 7, 2012",
+    "popular_repos_stars": "71",
+    "primary_languages": [
+      "F",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 313,
+    "followers": "23"
+  },
+  {
+    "url": "https://github.com/hammett",
+    "language": "F#",
+    "full_name": "hamilton verissimo",
+    "username": "hammett",
+    "location": "Vancouver BC",
+    "join_date": "Oct 13, 2009",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "Shell",
+      "JavaScript",
+      "F"
+    ],
+    "contributions": 106,
+    "followers": "22"
+  },
+  {
+    "url": "https://github.com/luajalla",
+    "language": "F#",
+    "full_name": "Natallie Baikevich",
+    "username": "luajalla",
+    "location": "",
+    "join_date": "Nov 1, 2011",
+    "popular_repos_stars": "31",
+    "primary_languages": [
+      "F",
+      "Shell",
+      "C"
+    ],
+    "contributions": 31,
+    "followers": "22"
+  },
+  {
+    "url": "https://github.com/jackfoxy",
+    "language": "F#",
+    "full_name": "Jack Fox",
+    "username": "jackfoxy",
+    "location": "Danville, CA",
+    "join_date": "Jun 6, 2012",
+    "popular_repos_stars": "9",
+    "primary_languages": [
+      "F",
+      "C",
+      "CSS"
+    ],
+    "contributions": 40,
+    "followers": "22"
+  },
+  {
+    "url": "https://github.com/dsyme",
+    "language": "F#",
+    "full_name": "Don Syme",
+    "username": "dsyme",
+    "location": "",
+    "join_date": "Apr 7, 2014",
+    "popular_repos_stars": "13",
+    "primary_languages": [
+      "F",
+      "Shell",
+      "C"
+    ],
+    "contributions": 241,
+    "followers": "21"
+  },
+  {
+    "url": "https://github.com/stej",
+    "language": "F#",
+    "full_name": "Pepa Štefan",
+    "username": "stej",
+    "location": "Czech Republic",
+    "join_date": "Apr 26, 2010",
+    "popular_repos_stars": "12",
+    "primary_languages": [
+      "C",
+      "Shell",
+      "F"
+    ],
+    "contributions": 2,
+    "followers": "20"
+  },
+  {
+    "url": "https://github.com/danfinch",
+    "language": "F#",
+    "full_name": "Dan Finch",
+    "username": "danfinch",
+    "location": "",
+    "join_date": "Feb 13, 2011",
+    "popular_repos_stars": "21",
+    "primary_languages": [
+      "F",
+      "Ruby",
+      "C"
+    ],
+    "contributions": 22,
+    "followers": "20"
+  },
+  {
+    "url": "https://github.com/palladin",
+    "language": "F#",
+    "full_name": "Nick Palladinos",
+    "username": "palladin",
+    "location": "Greece",
+    "join_date": "Jul 15, 2011",
+    "popular_repos_stars": "15",
+    "primary_languages": [
+      "F",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 362,
+    "followers": "19"
+  },
+  {
+    "url": "https://github.com/VesaKarvonen",
+    "language": "F#",
+    "full_name": "Vesa Karvonen",
+    "username": "VesaKarvonen",
+    "location": "Helsinki",
+    "join_date": "Oct 29, 2013",
+    "popular_repos_stars": "102",
+    "primary_languages": [
+      "F",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 676,
+    "followers": "18"
+  },
+  {
+    "url": "https://github.com/pocketberserker",
+    "language": "F#",
+    "full_name": "",
+    "username": "pocketberserker",
+    "location": "Japan",
+    "join_date": "Jul 12, 2011",
+    "popular_repos_stars": "45",
+    "primary_languages": [
+      "F",
+      "Shell",
+      "Scala"
+    ],
+    "contributions": 309,
+    "followers": "17"
+  },
+  {
+    "url": "https://github.com/gonchar",
+    "language": "F#",
+    "full_name": "Sergey Gonchar",
+    "username": "gonchar",
+    "location": "Montenegro",
+    "join_date": "Feb 7, 2012",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 21,
+    "followers": "17"
+  },
+  {
+    "url": "https://github.com/colinbull",
+    "language": "F#",
+    "full_name": "Colin",
+    "username": "colinbull",
+    "location": "United Kingdom",
+    "join_date": "Jan 26, 2011",
+    "popular_repos_stars": "54",
+    "primary_languages": [
+      "F",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 185,
+    "followers": "17"
+  },
+  {
+    "url": "https://github.com/eiriktsarpalis",
+    "language": "F#",
+    "full_name": "Eirik Tsarpalis",
+    "username": "eiriktsarpalis",
+    "location": "Athens, Greece",
+    "join_date": "Nov 16, 2012",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "F",
+      "CSS",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "17"
+  },
+  {
+    "url": "https://github.com/dmitry-a-morozov",
+    "language": "F#",
+    "full_name": "Dmitry Morozov",
+    "username": "dmitry-a-morozov",
+    "location": "San Mateo, CA",
+    "join_date": "Dec 9, 2012",
+    "popular_repos_stars": "98",
+    "primary_languages": [
+      "F",
+      "C",
+      "ASP"
+    ],
+    "contributions": 190,
+    "followers": "16"
+  },
+  {
+    "url": "https://github.com/funnelweb",
+    "language": "F#",
+    "full_name": "Ben Winkel",
+    "username": "funnelweb",
+    "location": "",
+    "join_date": "Jul 16, 2011",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "Shell",
+      "F",
+      "C"
+    ],
+    "contributions": 1,
+    "followers": "15"
+  },
+  {
+    "url": "https://github.com/ReedCopsey",
+    "language": "F#",
+    "full_name": "Reed Copsey, Jr.",
+    "username": "ReedCopsey",
+    "location": "Bellingham, WA",
+    "join_date": "Aug 21, 2013",
+    "popular_repos_stars": "3",
+    "primary_languages": [
+      "F",
+      "Shell",
+      "C"
+    ],
+    "contributions": 198,
+    "followers": "15"
+  },
+  {
+    "url": "https://github.com/fahadsuhaib",
+    "language": "F#",
+    "full_name": "Mohamed Suhaib Fahad",
+    "username": "fahadsuhaib",
+    "location": "Chennai",
+    "join_date": "Mar 6, 2011",
+    "popular_repos_stars": "26",
+    "primary_languages": [
+      "F",
+      "C",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "15"
+  },
+  {
+    "url": "https://github.com/ptrelford",
+    "language": "F#",
+    "full_name": "Phillip Trelford",
+    "username": "ptrelford",
+    "location": "UK",
+    "join_date": "Jul 18, 2010",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 30,
+    "followers": "14"
+  },
+  {
+    "url": "https://github.com/kolosy",
+    "language": "F#",
+    "full_name": "Alex Pedenko",
+    "username": "kolosy",
+    "location": "chicago",
+    "join_date": "Sep 10, 2009",
+    "popular_repos_stars": "99",
+    "primary_languages": [
+      "F",
+      "C",
+      "Arduino"
+    ],
+    "contributions": 14,
+    "followers": "13"
+  },
+  {
+    "url": "https://github.com/diffoperator",
+    "language": "F#",
+    "full_name": "Nikhil Sarda",
+    "username": "diffoperator",
+    "location": "San Francisco",
+    "join_date": "May 6, 2009",
+    "popular_repos_stars": "65",
+    "primary_languages": [
+      "Java",
+      "F",
+      "Objective",
+      "C"
+    ],
+    "contributions": 0,
+    "followers": "13"
+  },
+  {
+    "url": "https://github.com/gmpl",
+    "language": "F#",
+    "full_name": "Gustavo",
+    "username": "gmpl",
+    "location": "",
+    "join_date": "Dec 13, 2011",
+    "popular_repos_stars": "78",
+    "primary_languages": [
+      "F",
+      "C",
+      "Shell"
+    ],
+    "contributions": 163,
+    "followers": "12"
+  },
+  {
+    "url": "https://github.com/rojepp",
+    "language": "F#",
+    "full_name": "Robert Jeppesen",
+    "username": "rojepp",
+    "location": "Gothenburg, Sweden",
+    "join_date": "Oct 19, 2010",
+    "popular_repos_stars": "4",
+    "primary_languages": [
+      "F",
+      "Shell",
+      "C"
+    ],
+    "contributions": 261,
+    "followers": "12"
+  },
+  {
+    "url": "https://github.com/aChrisSmith",
+    "language": "F#",
+    "full_name": "Chris Smith",
+    "username": "aChrisSmith",
+    "location": "Seattle",
+    "join_date": "Jan 20, 2010",
+    "popular_repos_stars": "22",
+    "primary_languages": [
+      "F"
+    ],
+    "contributions": 1,
+    "followers": "12"
+  },
+  {
+    "url": "https://github.com/mstyura",
+    "language": "F#",
+    "full_name": "Yury Yaroshevich",
+    "username": "mstyura",
+    "location": "Belarus, Minsk",
+    "join_date": "Sep 2, 2010",
+    "popular_repos_stars": "34",
+    "primary_languages": [
+      "TeX",
+      "Shell",
+      "F"
+    ],
+    "contributions": 7,
+    "followers": "12"
+  },
+  {
+    "url": "https://github.com/pezipink",
+    "language": "F#",
+    "full_name": "Ross McKinlay",
+    "username": "pezipink",
+    "location": "London",
+    "join_date": "Sep 20, 2012",
+    "popular_repos_stars": "7",
+    "primary_languages": [
+      "F",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 209,
+    "followers": "12"
+  },
+  {
+    "url": "https://github.com/AshleyF",
+    "language": "F#",
+    "full_name": "AshleyF",
+    "username": "AshleyF",
+    "location": "Redmond, WA",
+    "join_date": "Mar 26, 2011",
+    "popular_repos_stars": "273",
+    "primary_languages": [
+      "F",
+      "Scheme",
+      "Assembly"
+    ],
+    "contributions": 39,
+    "followers": "12"
+  },
+  {
+    "url": "https://github.com/bentayloruk",
+    "language": "F#",
+    "full_name": "Ben Taylor",
+    "username": "bentayloruk",
+    "location": "London",
+    "join_date": "Jan 25, 2010",
+    "popular_repos_stars": "21",
+    "primary_languages": [
+      "F",
+      "C",
+      "Shell"
+    ],
+    "contributions": 72,
+    "followers": "12"
+  },
+  {
+    "url": "https://github.com/igorkulman",
+    "language": "F#",
+    "full_name": "Igor Kulman",
+    "username": "igorkulman",
+    "location": "Prague, Czech Republic",
+    "join_date": "Jun 20, 2013",
+    "popular_repos_stars": "41",
+    "primary_languages": [
+      "C",
+      "F",
+      "JavaScript"
+    ],
+    "contributions": 218,
+    "followers": "12"
+  },
+  {
+    "url": "https://github.com/ericksoa",
+    "language": "F#",
+    "full_name": "Aaron Erickson",
+    "username": "ericksoa",
+    "location": "",
+    "join_date": "Jun 19, 2009",
+    "popular_repos_stars": "49",
+    "primary_languages": [
+      "C",
+      "F"
+    ],
+    "contributions": 0,
+    "followers": "11"
+  },
+  {
+    "url": "https://github.com/nikswamy",
+    "language": "F#",
+    "full_name": "",
+    "username": "nikswamy",
+    "location": "",
+    "join_date": "Dec 11, 2013",
+    "popular_repos_stars": "322",
+    "primary_languages": [],
+    "contributions": 133,
+    "followers": "11"
+  },
+  {
+    "url": "https://github.com/scitesy",
+    "language": "F#",
+    "full_name": "Scott Scites",
+    "username": "scitesy",
+    "location": "",
+    "join_date": "Jan 9, 2009",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "Emacs",
+      "Lisp",
+      "F",
+      "Shell"
+    ],
+    "contributions": 8,
+    "followers": "11"
+  },
+  {
+    "url": "https://github.com/vpolozov",
+    "language": "F#",
+    "full_name": "Victor Polozov",
+    "username": "vpolozov",
+    "location": "Russia, Saint-Petersburg",
+    "join_date": "Sep 12, 2012",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "F",
+      "C",
+      "Shell"
+    ],
+    "contributions": 12,
+    "followers": "11"
+  },
+  {
+    "url": "https://github.com/rneatherway",
+    "language": "F#",
+    "full_name": "Robin Neatherway",
+    "username": "rneatherway",
+    "location": "",
+    "join_date": "Apr 14, 2010",
+    "popular_repos_stars": "16",
+    "primary_languages": [
+      "Shell",
+      "F",
+      "C"
+    ],
+    "contributions": 315,
+    "followers": "11"
+  },
+  {
+    "url": "https://github.com/mavnn",
+    "language": "F#",
+    "full_name": "Michael Newton",
+    "username": "mavnn",
+    "location": "",
+    "join_date": "Jun 19, 2010",
+    "popular_repos_stars": "159",
+    "primary_languages": [
+      "F",
+      "Shell",
+      "C"
+    ],
+    "contributions": 231,
+    "followers": "11"
+  },
+  {
+    "url": "https://github.com/melentyev",
+    "language": "F#",
+    "full_name": "Kirill Melentyev",
+    "username": "melentyev",
+    "location": "",
+    "join_date": "Oct 1, 2013",
+    "popular_repos_stars": "1",
+    "primary_languages": [
+      "C",
+      "F",
+      "Haskell"
+    ],
+    "contributions": 225,
+    "followers": "10"
+  },
+  {
+    "url": "https://github.com/nagat01",
+    "language": "F#",
+    "full_name": "nagato",
+    "username": "nagat01",
+    "location": "Japan",
+    "join_date": "Jun 19, 2010",
+    "popular_repos_stars": "3",
+    "primary_languages": [
+      "F"
+    ],
+    "contributions": 2,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/OnorioCatenacci",
+    "language": "F#",
+    "full_name": "Onorio Catenacci",
+    "username": "OnorioCatenacci",
+    "location": "Rochester, MI",
+    "join_date": "Nov 14, 2009",
+    "popular_repos_stars": "17",
+    "primary_languages": [
+      "Shell",
+      "Elixir",
+      "F"
+    ],
+    "contributions": 40,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/yurii-litvinov",
+    "language": "F#",
+    "full_name": "Yurii Litvinov",
+    "username": "yurii-litvinov",
+    "location": "",
+    "join_date": "Apr 3, 2011",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "F",
+      "C",
+      "JavaScript"
+    ],
+    "contributions": 910,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/davidgrenier",
+    "language": "F#",
+    "full_name": "David Grenier",
+    "username": "davidgrenier",
+    "location": "Quebec",
+    "join_date": "Jul 14, 2011",
+    "popular_repos_stars": "10",
+    "primary_languages": [
+      "F",
+      "C",
+      "CSS"
+    ],
+    "contributions": 162,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/carbon-twelve",
+    "language": "F#",
+    "full_name": "carbon-twelve",
+    "username": "carbon-twelve",
+    "location": "",
+    "join_date": "Oct 4, 2011",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "F",
+      "C",
+      "C"
+    ],
+    "contributions": 6,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/DCFsharp",
+    "language": "F#",
+    "full_name": "DCFsharp",
+    "username": "DCFsharp",
+    "location": "Washington DC",
+    "join_date": "Sep 17, 2013",
+    "popular_repos_stars": "7",
+    "primary_languages": [
+      "F",
+      "C",
+      "ASP"
+    ],
+    "contributions": 2,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/Ming-Tang",
+    "language": "F#",
+    "full_name": "Ming Tang",
+    "username": "Ming-Tang",
+    "location": "Vancouver",
+    "join_date": "Oct 28, 2009",
+    "popular_repos_stars": "16",
+    "primary_languages": [
+      "F",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 146,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/marckr",
+    "language": "F#",
+    "full_name": "Marc",
+    "username": "marckr",
+    "location": "New York",
+    "join_date": "Mar 11, 2010",
+    "popular_repos_stars": "4",
+    "primary_languages": [
+      "F"
+    ],
+    "contributions": 0,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/simontcousins",
+    "language": "F#",
+    "full_name": "Simon Cousins",
+    "username": "simontcousins",
+    "location": "Warwickshire, UK",
+    "join_date": "Apr 20, 2011",
+    "popular_repos_stars": "8",
+    "primary_languages": [
+      "F",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 222,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/brianmcn",
+    "language": "F#",
+    "full_name": "",
+    "username": "brianmcn",
+    "location": "",
+    "join_date": "Jun 5, 2010",
+    "popular_repos_stars": "18",
+    "primary_languages": [
+      "F"
+    ],
+    "contributions": 20,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/ladagagina",
+    "language": "F#",
+    "full_name": "Lada",
+    "username": "ladagagina",
+    "location": "",
+    "join_date": "Mar 4, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "F",
+      "C",
+      "PowerShell"
+    ],
+    "contributions": 115,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/letrec",
+    "language": "F#",
+    "full_name": "",
+    "username": "letrec",
+    "location": "",
+    "join_date": "Aug 22, 2011",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "OCaml",
+      "F",
+      "ASP"
+    ],
+    "contributions": 0,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/jpalmer",
+    "language": "F#",
+    "full_name": "John Palmer",
+    "username": "jpalmer",
+    "location": "",
+    "join_date": "Mar 18, 2010",
+    "popular_repos_stars": "5",
+    "primary_languages": [
+      "F",
+      "Shell",
+      "C"
+    ],
+    "contributions": 55,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/lilred",
+    "language": "F#",
+    "full_name": "Carl Patenaude Poulin",
+    "username": "lilred",
+    "location": "Montréal, QC",
+    "join_date": "Jun 9, 2012",
+    "popular_repos_stars": "1",
+    "primary_languages": [
+      "F",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 19,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/pvtdancer",
+    "language": "F#",
+    "full_name": "",
+    "username": "pvtdancer",
+    "location": "",
+    "join_date": "Jul 10, 2010",
+    "popular_repos_stars": "4",
+    "primary_languages": [
+      "F",
+      "Scala"
+    ],
+    "contributions": 3,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/fsgit",
+    "language": "F#",
+    "full_name": "F# Software Foundation",
+    "username": "fsgit",
+    "location": "",
+    "join_date": "Mar 31, 2014",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 614,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/pdeligia",
+    "language": "F#",
+    "full_name": "Pantazis Deligiannis",
+    "username": "pdeligia",
+    "location": "London, UK",
+    "join_date": "Sep 15, 2011",
+    "popular_repos_stars": "7",
+    "primary_languages": [
+      "CoffeeScript",
+      "C"
+    ],
+    "contributions": 87,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/TheNuttyArchitect",
+    "language": "F#",
+    "full_name": "Ben Chesnut",
+    "username": "TheNuttyArchitect",
+    "location": "Indianapolis, IN",
+    "join_date": "May 27, 2012",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "Groovy",
+      "Java",
+      "Scala"
+    ],
+    "contributions": 5,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/jkoberg",
+    "language": "F#",
+    "full_name": "",
+    "username": "jkoberg",
+    "location": "",
+    "join_date": "Jun 15, 2009",
+    "popular_repos_stars": "7",
+    "primary_languages": [
+      "F",
+      "C",
+      "Python"
+    ],
+    "contributions": 87,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/stephen-swensen",
+    "language": "F#",
+    "full_name": "Stephen Swensen",
+    "username": "stephen-swensen",
+    "location": "",
+    "join_date": "Jan 3, 2012",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "C",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 2,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/MichaelGG",
+    "language": "F#",
+    "full_name": "Michael Giagnocavo",
+    "username": "MichaelGG",
+    "location": "Toronto",
+    "join_date": "Oct 5, 2010",
+    "popular_repos_stars": "13",
+    "primary_languages": [
+      "F",
+      "C",
+      "C"
+    ],
+    "contributions": 0,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/sandersn",
+    "language": "F#",
+    "full_name": "Nathan Sanders",
+    "username": "sandersn",
+    "location": "",
+    "join_date": "Jun 1, 2010",
+    "popular_repos_stars": "27",
+    "primary_languages": [
+      "Haskell",
+      "F",
+      "C"
+    ],
+    "contributions": 0,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/efotin",
+    "language": "F#",
+    "full_name": "",
+    "username": "efotin",
+    "location": "",
+    "join_date": "Oct 7, 2012",
+    "popular_repos_stars": "1",
+    "primary_languages": [
+      "F"
+    ],
+    "contributions": 2,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/acormier",
+    "language": "F#",
+    "full_name": "Alain Cormier",
+    "username": "acormier",
+    "location": "Switzerland",
+    "join_date": "Jan 16, 2011",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "C",
+      "Python",
+      "F"
+    ],
+    "contributions": 291,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/lucabol",
+    "language": "F#",
+    "full_name": "Luca Boolognese",
+    "username": "lucabol",
+    "location": "",
+    "join_date": "Jan 23, 2012",
+    "popular_repos_stars": "12",
+    "primary_languages": [
+      "C",
+      "F",
+      "C"
+    ],
+    "contributions": 22,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/FStarLang",
+    "language": "F#",
+    "full_name": "",
+    "username": "FStarLang",
+    "location": "",
+    "join_date": "May 24, 2014",
+    "popular_repos_stars": "157",
+    "primary_languages": [
+      "Python",
+      "Shell",
+      "F"
+    ],
+    "contributions": 3,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/krontogiannis",
+    "language": "F#",
+    "full_name": "",
+    "username": "krontogiannis",
+    "location": "",
+    "join_date": "Sep 28, 2012",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 686,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/RobertWithP",
+    "language": "F#",
+    "full_name": "Robert",
+    "username": "RobertWithP",
+    "location": "",
+    "join_date": "Dec 14, 2011",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "C",
+      "F"
+    ],
+    "contributions": 0,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/dsevastianov",
+    "language": "F#",
+    "full_name": "",
+    "username": "dsevastianov",
+    "location": "",
+    "join_date": "Jan 31, 2012",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 274,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/acbrewbaker",
+    "language": "F#",
+    "full_name": "Aaron Brewbaker",
+    "username": "acbrewbaker",
+    "location": "Boone, NC",
+    "join_date": "Dec 21, 2012",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "F",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 80,
+    "followers": "6"
+  }
+]

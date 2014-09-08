@@ -1,0 +1,162 @@
+[
+  {
+    "url": "https://github.com/cartland",
+    "language": "Gosu",
+    "full_name": "Christopher Cartland",
+    "username": "cartland",
+    "location": "",
+    "join_date": "Jun 12, 2011",
+    "popular_repos_stars": "14",
+    "primary_languages": [
+      "Java",
+      "JavaScript",
+      "Groovy"
+    ],
+    "contributions": 66,
+    "followers": "29"
+  },
+  {
+    "url": "https://github.com/carsongross",
+    "language": "Gosu",
+    "full_name": "Carson Gross",
+    "username": "carsongross",
+    "location": "Sacramento, CA",
+    "join_date": "Nov 5, 2010",
+    "popular_repos_stars": "33",
+    "primary_languages": [
+      "Gosu",
+      "Java",
+      "JavaScript"
+    ],
+    "contributions": 423,
+    "followers": "20"
+  },
+  {
+    "url": "https://github.com/jamietr1",
+    "language": "Gosu",
+    "full_name": "Jamie Todd Rubin",
+    "username": "jamietr1",
+    "location": "Falls Church, VA",
+    "join_date": "Feb 21, 2013",
+    "popular_repos_stars": "94",
+    "primary_languages": [
+      "Python",
+      "Gosu",
+      "AppleScript"
+    ],
+    "contributions": 36,
+    "followers": "19"
+  },
+  {
+    "url": "https://github.com/dalekunce",
+    "language": "Gosu",
+    "full_name": "Dale Kunce",
+    "username": "dalekunce",
+    "location": "Washington DC",
+    "join_date": "Jul 2, 2012",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "Shell",
+      "Gosu",
+      "Python"
+    ],
+    "contributions": 495,
+    "followers": "11"
+  },
+  {
+    "url": "https://github.com/swechha",
+    "language": "Gosu",
+    "full_name": "Swechha Prakash",
+    "username": "swechha",
+    "location": "Pune, India",
+    "join_date": "Aug 26, 2012",
+    "popular_repos_stars": "6",
+    "primary_languages": [
+      "Objective",
+      "C",
+      "CSS",
+      "Ruby"
+    ],
+    "contributions": 57,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/akeefer",
+    "language": "Gosu",
+    "full_name": "Alan Keefer",
+    "username": "akeefer",
+    "location": "",
+    "join_date": "Nov 23, 2010",
+    "popular_repos_stars": "23",
+    "primary_languages": [
+      "Java",
+      "Gosu",
+      "CoffeeScript"
+    ],
+    "contributions": 0,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/Jacobvdb",
+    "language": "Gosu",
+    "full_name": "Jacob van den Berg",
+    "username": "Jacobvdb",
+    "location": "Belo Horizonte, Brasil ",
+    "join_date": "Nov 17, 2012",
+    "popular_repos_stars": "3",
+    "primary_languages": [
+      "Gosu",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 82,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/p4coperez",
+    "language": "Gosu",
+    "full_name": "Francisco Pérez García",
+    "username": "p4coperez",
+    "location": "Sevilla",
+    "join_date": "Sep 8, 2011",
+    "popular_repos_stars": "4",
+    "primary_languages": [
+      "Gosu",
+      "Java"
+    ],
+    "contributions": 40,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/rosulek",
+    "language": "Gosu",
+    "full_name": "Mike Rosulek",
+    "username": "rosulek",
+    "location": "",
+    "join_date": "May 23, 2013",
+    "popular_repos_stars": "75",
+    "primary_languages": [
+      "Gosu",
+      "CoffeeScript",
+      "JavaScript"
+    ],
+    "contributions": 7,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/prexer",
+    "language": "Gosu",
+    "full_name": "Peter Rexer",
+    "username": "prexer",
+    "location": "California",
+    "join_date": "Dec 7, 2010",
+    "popular_repos_stars": "7",
+    "primary_languages": [
+      "Gosu",
+      "Python",
+      "JavaScript"
+    ],
+    "contributions": 5,
+    "followers": "6"
+  }
+]

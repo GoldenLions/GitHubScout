@@ -1,0 +1,1589 @@
+[
+  {
+    "url": "https://github.com/JakeWharton",
+    "language": "Java",
+    "full_name": "Jake Wharton",
+    "username": "JakeWharton",
+    "location": "San Francisco, CA",
+    "join_date": "Mar 24, 2009",
+    "popular_repos_stars": "15009",
+    "primary_languages": [
+      "Java",
+      "Shell",
+      "Groovy"
+    ],
+    "contributions": 2,
+    "followers": "6.3k"
+  },
+  {
+    "url": "https://github.com/commonsguy",
+    "language": "Java",
+    "full_name": "Mark Murphy",
+    "username": "commonsguy",
+    "location": "",
+    "join_date": "Jul 10, 2009",
+    "popular_repos_stars": "4748",
+    "primary_languages": [
+      "Java",
+      "Groovy",
+      "Perl"
+    ],
+    "contributions": 621,
+    "followers": "2.7k"
+  },
+  {
+    "url": "https://github.com/koush",
+    "language": "Java",
+    "full_name": "Koushik Dutta",
+    "username": "koush",
+    "location": "Seattle, WA",
+    "join_date": "Apr 14, 2009",
+    "popular_repos_stars": "5514",
+    "primary_languages": [
+      "Shell",
+      "Java",
+      "C"
+    ],
+    "contributions": 1,
+    "followers": "2.2k"
+  },
+  {
+    "url": "https://github.com/chrisbanes",
+    "language": "Java",
+    "full_name": "Chris Banes",
+    "username": "chrisbanes",
+    "location": "London, UK",
+    "join_date": "Mar 21, 2010",
+    "popular_repos_stars": "9612",
+    "primary_languages": [
+      "Java",
+      "Groovy",
+      "JavaScript"
+    ],
+    "contributions": 780,
+    "followers": "2.1k"
+  },
+  {
+    "url": "https://github.com/romannurik",
+    "language": "Java",
+    "full_name": "Roman Nurik",
+    "username": "romannurik",
+    "location": "New York, NY",
+    "join_date": "Jun 29, 2009",
+    "popular_repos_stars": "3054",
+    "primary_languages": [
+      "Java",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 68,
+    "followers": "1.6k"
+  },
+  {
+    "url": "https://github.com/unclebob",
+    "language": "Java",
+    "full_name": "Robert C. Martin",
+    "username": "unclebob",
+    "location": "Gurnee, IL",
+    "join_date": "Nov 26, 2008",
+    "popular_repos_stars": "636",
+    "primary_languages": [
+      "Java",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 60,
+    "followers": "1.4k"
+  },
+  {
+    "url": "https://github.com/Trinea",
+    "language": "Java",
+    "full_name": "Trinea",
+    "username": "Trinea",
+    "location": "Shanghai, China",
+    "join_date": "Nov 3, 2011",
+    "popular_repos_stars": "4495",
+    "primary_languages": [
+      "Java",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 969,
+    "followers": "1.1k"
+  },
+  {
+    "url": "https://github.com/kevinsawicki",
+    "language": "Java",
+    "full_name": "Kevin Sawicki",
+    "username": "kevinsawicki",
+    "location": "Redwood City, CA",
+    "join_date": "Mar 15, 2011",
+    "popular_repos_stars": "1578",
+    "primary_languages": [
+      "JavaScript",
+      "Java",
+      "CoffeeScript"
+    ],
+    "contributions": 12,
+    "followers": "1.1k"
+  },
+  {
+    "url": "https://github.com/cyrilmottier",
+    "language": "Java",
+    "full_name": "Cyril Mottier",
+    "username": "cyrilmottier",
+    "location": "France",
+    "join_date": "Jun 7, 2009",
+    "popular_repos_stars": "3152",
+    "primary_languages": [
+      "Java",
+      "Groovy",
+      "Shell"
+    ],
+    "contributions": 8,
+    "followers": "1.1k"
+  },
+  {
+    "url": "https://github.com/romainguy",
+    "language": "Java",
+    "full_name": "Romain Guy",
+    "username": "romainguy",
+    "location": "",
+    "join_date": "Jun 22, 2011",
+    "popular_repos_stars": "1874",
+    "primary_languages": [
+      "Groovy",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 12,
+    "followers": "1.1k"
+  },
+  {
+    "url": "https://github.com/pahimar",
+    "language": "Java",
+    "full_name": "Pahimar",
+    "username": "pahimar",
+    "location": "Ontario, Canada",
+    "join_date": "Feb 18, 2012",
+    "popular_repos_stars": "889",
+    "primary_languages": [
+      "Java",
+      "Groovy",
+      "Shell"
+    ],
+    "contributions": 696,
+    "followers": "995"
+  },
+  {
+    "url": "https://github.com/jgilfelt",
+    "language": "Java",
+    "full_name": "Jeff Gilfelt",
+    "username": "jgilfelt",
+    "location": "Berkshire, United Kingdom",
+    "join_date": "Jan 3, 2010",
+    "popular_repos_stars": "4322",
+    "primary_languages": [
+      "Java",
+      "Shell",
+      "Groovy"
+    ],
+    "contributions": 308,
+    "followers": "950"
+  },
+  {
+    "url": "https://github.com/nicolasgramlich",
+    "language": "Java",
+    "full_name": "Nicolas Gramlich",
+    "username": "nicolasgramlich",
+    "location": "San Francisco, CA",
+    "join_date": "May 25, 2010",
+    "popular_repos_stars": "2862",
+    "primary_languages": [
+      "Java",
+      "Shell",
+      "C"
+    ],
+    "contributions": 31,
+    "followers": "896"
+  },
+  {
+    "url": "https://github.com/shiffman",
+    "language": "Java",
+    "full_name": "Daniel Shiffman",
+    "username": "shiffman",
+    "location": "New York, NY",
+    "join_date": "Jan 28, 2010",
+    "popular_repos_stars": "1662",
+    "primary_languages": [
+      "Processing",
+      "Java",
+      "CSS"
+    ],
+    "contributions": 1,
+    "followers": "895"
+  },
+  {
+    "url": "https://github.com/jfeinstein10",
+    "language": "Java",
+    "full_name": "Jeremy Feinstein",
+    "username": "jfeinstein10",
+    "location": "Ithaca, NY",
+    "join_date": "Dec 16, 2011",
+    "popular_repos_stars": "7209",
+    "primary_languages": [
+      "Java",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 40,
+    "followers": "894"
+  },
+  {
+    "url": "https://github.com/KentBeck",
+    "language": "Java",
+    "full_name": "Kent Beck",
+    "username": "KentBeck",
+    "location": "Southern Oregon, USA",
+    "join_date": "Jan 12, 2009",
+    "popular_repos_stars": "24",
+    "primary_languages": [
+      "Java"
+    ],
+    "contributions": 0,
+    "followers": "887"
+  },
+  {
+    "url": "https://github.com/SimonVT",
+    "language": "Java",
+    "full_name": "Simon Vig Therkildsen",
+    "username": "SimonVT",
+    "location": "Denmark",
+    "join_date": "Jan 5, 2011",
+    "popular_repos_stars": "3178",
+    "primary_languages": [
+      "Java",
+      "Groovy",
+      "Shell"
+    ],
+    "contributions": 379,
+    "followers": "768"
+  },
+  {
+    "url": "https://github.com/oschina",
+    "language": "Java",
+    "full_name": "开源中国",
+    "username": "oschina",
+    "location": "SZ China",
+    "join_date": "Mar 15, 2012",
+    "popular_repos_stars": "958",
+    "primary_languages": [
+      "Java",
+      "JavaScript",
+      "C"
+    ],
+    "contributions": 1,
+    "followers": "730"
+  },
+  {
+    "url": "https://github.com/Dinnerbone",
+    "language": "Java",
+    "full_name": "Dinner Bone",
+    "username": "Dinnerbone",
+    "location": "Stockholm, Sweden",
+    "join_date": "Jun 29, 2010",
+    "popular_repos_stars": "137",
+    "primary_languages": [
+      "Java",
+      "Python"
+    ],
+    "contributions": 31,
+    "followers": "683"
+  },
+  {
+    "url": "https://github.com/nostra13",
+    "language": "Java",
+    "full_name": "Sergey Tarasevich",
+    "username": "nostra13",
+    "location": "Hrodna, Belarus",
+    "join_date": "Nov 27, 2011",
+    "popular_repos_stars": "5906",
+    "primary_languages": [
+      "Java",
+      "Groovy"
+    ],
+    "contributions": 262,
+    "followers": "676"
+  },
+  {
+    "url": "https://github.com/matthewmccullough",
+    "language": "Java",
+    "full_name": "Matthew McCullough",
+    "username": "matthewmccullough",
+    "location": "Denver, CO USA",
+    "join_date": "Sep 15, 2008",
+    "popular_repos_stars": "312",
+    "primary_languages": [
+      "Java",
+      "Shell",
+      "Groovy"
+    ],
+    "contributions": 408,
+    "followers": "671"
+  },
+  {
+    "url": "https://github.com/codefollower",
+    "language": "Java",
+    "full_name": "",
+    "username": "codefollower",
+    "location": "",
+    "join_date": "Jun 23, 2011",
+    "popular_repos_stars": "358",
+    "primary_languages": [
+      "Shell",
+      "Java",
+      "CSS"
+    ],
+    "contributions": 299,
+    "followers": "633"
+  },
+  {
+    "url": "https://github.com/kohsuke",
+    "language": "Java",
+    "full_name": "Kohsuke Kawaguchi",
+    "username": "kohsuke",
+    "location": "San Jose, California",
+    "join_date": "Jan 28, 2009",
+    "popular_repos_stars": "870",
+    "primary_languages": [
+      "Java",
+      "Shell",
+      "Groovy"
+    ],
+    "contributions": 3,
+    "followers": "619"
+  },
+  {
+    "url": "https://github.com/karan",
+    "language": "Java",
+    "full_name": "Karan Goel",
+    "username": "karan",
+    "location": "Bay Area (Summer), Seattle",
+    "join_date": "Jan 13, 2013",
+    "popular_repos_stars": "6969",
+    "primary_languages": [
+      "Python",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 2,
+    "followers": "592"
+  },
+  {
+    "url": "https://github.com/ManuelPeinado",
+    "language": "Java",
+    "full_name": "",
+    "username": "ManuelPeinado",
+    "location": "Madrid, Spain",
+    "join_date": "Nov 1, 2012",
+    "popular_repos_stars": "3626",
+    "primary_languages": [
+      "Java",
+      "Groovy",
+      "Shell"
+    ],
+    "contributions": 103,
+    "followers": "584"
+  },
+  {
+    "url": "https://github.com/jamesward",
+    "language": "Java",
+    "full_name": "James Ward",
+    "username": "jamesward",
+    "location": "",
+    "join_date": "Mar 19, 2009",
+    "popular_repos_stars": "680",
+    "primary_languages": [
+      "Java",
+      "Scala",
+      "JavaScript"
+    ],
+    "contributions": 3,
+    "followers": "551"
+  },
+  {
+    "url": "https://github.com/donnfelker",
+    "language": "Java",
+    "full_name": "Donn Felker",
+    "username": "donnfelker",
+    "location": "Scottsdale, AZ",
+    "join_date": "Jun 4, 2009",
+    "popular_repos_stars": "136",
+    "primary_languages": [
+      "Java",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 121,
+    "followers": "534"
+  },
+  {
+    "url": "https://github.com/killme2008",
+    "language": "Java",
+    "full_name": "dennis zhuang",
+    "username": "killme2008",
+    "location": "SuZhou,KunShan,China",
+    "join_date": "Jun 17, 2008",
+    "popular_repos_stars": "810",
+    "primary_languages": [
+      "Clojure",
+      "Java",
+      "JavaScript"
+    ],
+    "contributions": 625,
+    "followers": "533"
+  },
+  {
+    "url": "https://github.com/goldmansachs",
+    "language": "Java",
+    "full_name": "",
+    "username": "goldmansachs",
+    "location": "",
+    "join_date": "Dec 16, 2011",
+    "popular_repos_stars": "853",
+    "primary_languages": [
+      "Java",
+      "Scala",
+      "Perl"
+    ],
+    "contributions": 0,
+    "followers": "515"
+  },
+  {
+    "url": "https://github.com/Issacw0ng",
+    "language": "Java",
+    "full_name": "Issacw0ng",
+    "username": "Issacw0ng",
+    "location": "China",
+    "join_date": "Aug 30, 2011",
+    "popular_repos_stars": "1297",
+    "primary_languages": [
+      "Java",
+      "Groovy",
+      "CSS"
+    ],
+    "contributions": 20,
+    "followers": "486"
+  },
+  {
+    "url": "https://github.com/gabrielemariotti",
+    "language": "Java",
+    "full_name": "Gabriele Mariotti",
+    "username": "gabrielemariotti",
+    "location": "",
+    "join_date": "Oct 17, 2012",
+    "popular_repos_stars": "3707",
+    "primary_languages": [
+      "Java",
+      "Groovy",
+      "IDL"
+    ],
+    "contributions": 547,
+    "followers": "473"
+  },
+  {
+    "url": "https://github.com/sonyxperiadev",
+    "language": "Java",
+    "full_name": "Sony Xperia Developer World",
+    "username": "sonyxperiadev",
+    "location": "Sweden",
+    "join_date": "Nov 18, 2010",
+    "popular_repos_stars": "703",
+    "primary_languages": [
+      "Java",
+      "C",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "467"
+  },
+  {
+    "url": "https://github.com/springside",
+    "language": "Java",
+    "full_name": "Calvin Xiao",
+    "username": "springside",
+    "location": "China",
+    "join_date": "Feb 23, 2012",
+    "popular_repos_stars": "1853",
+    "primary_languages": [
+      "Java",
+      "CSS",
+      "Python"
+    ],
+    "contributions": 193,
+    "followers": "454"
+  },
+  {
+    "url": "https://github.com/kimchy",
+    "language": "Java",
+    "full_name": "Shay Banon",
+    "username": "kimchy",
+    "location": "",
+    "join_date": "Dec 18, 2008",
+    "popular_repos_stars": "56",
+    "primary_languages": [
+      "Shell",
+      "Java",
+      "Ruby"
+    ],
+    "contributions": 593,
+    "followers": "450"
+  },
+  {
+    "url": "https://github.com/johannilsson",
+    "language": "Java",
+    "full_name": "Johan Nilsson",
+    "username": "johannilsson",
+    "location": "Stockholm, Sweden",
+    "join_date": "Jan 3, 2009",
+    "popular_repos_stars": "3432",
+    "primary_languages": [
+      "JavaScript",
+      "Java",
+      "Python"
+    ],
+    "contributions": 189,
+    "followers": "433"
+  },
+  {
+    "url": "https://github.com/brianchandotcom",
+    "language": "Java",
+    "full_name": "Brian Chan",
+    "username": "brianchandotcom",
+    "location": "Los Angeles, CA",
+    "join_date": "May 19, 2010",
+    "popular_repos_stars": "49",
+    "primary_languages": [
+      "Java",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 7,
+    "followers": "427"
+  },
+  {
+    "url": "https://github.com/joshlong",
+    "language": "Java",
+    "full_name": "Josh Long",
+    "username": "joshlong",
+    "location": "San Francisco, CA",
+    "join_date": "Feb 14, 2009",
+    "popular_repos_stars": "262",
+    "primary_languages": [
+      "Java",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 364,
+    "followers": "407"
+  },
+  {
+    "url": "https://github.com/vogella",
+    "language": "Java",
+    "full_name": "Lars Vogel",
+    "username": "vogella",
+    "location": "Hamburg",
+    "join_date": "Oct 14, 2009",
+    "popular_repos_stars": "23",
+    "primary_languages": [
+      "Java",
+      "Perl",
+      "Shell"
+    ],
+    "contributions": 297,
+    "followers": "401"
+  },
+  {
+    "url": "https://github.com/sk89q",
+    "language": "Java",
+    "full_name": "sk89q",
+    "username": "sk89q",
+    "location": "United States",
+    "join_date": "Dec 7, 2008",
+    "popular_repos_stars": "1375",
+    "primary_languages": [
+      "Java",
+      "Python",
+      "JavaScript"
+    ],
+    "contributions": 861,
+    "followers": "401"
+  },
+  {
+    "url": "https://github.com/StylingAndroid",
+    "language": "Java",
+    "full_name": "Mark Allison",
+    "username": "StylingAndroid",
+    "location": "Hertfordshire, UK",
+    "join_date": "Jul 23, 2011",
+    "popular_repos_stars": "91",
+    "primary_languages": [
+      "Java"
+    ],
+    "contributions": 3,
+    "followers": "400"
+  },
+  {
+    "url": "https://github.com/emilsjolander",
+    "language": "Java",
+    "full_name": "Emil Sjölander",
+    "username": "emilsjolander",
+    "location": "Umeå, Sweden",
+    "join_date": "Mar 11, 2012",
+    "popular_repos_stars": "3176",
+    "primary_languages": [
+      "Java",
+      "Go",
+      "Groovy"
+    ],
+    "contributions": 469,
+    "followers": "399"
+  },
+  {
+    "url": "https://github.com/flavienlaurent",
+    "language": "Java",
+    "full_name": "Flavien Laurent",
+    "username": "flavienlaurent",
+    "location": "",
+    "join_date": "May 14, 2013",
+    "popular_repos_stars": "2382",
+    "primary_languages": [
+      "Java",
+      "Groovy",
+      "Shell"
+    ],
+    "contributions": 118,
+    "followers": "398"
+  },
+  {
+    "url": "https://github.com/rovo89",
+    "language": "Java",
+    "full_name": "",
+    "username": "rovo89",
+    "location": "",
+    "join_date": "Mar 25, 2012",
+    "popular_repos_stars": "1091",
+    "primary_languages": [
+      "Java",
+      "C",
+      "Shell"
+    ],
+    "contributions": 367,
+    "followers": "387"
+  },
+  {
+    "url": "https://github.com/guillaumebort",
+    "language": "Java",
+    "full_name": "Guillaume Bort",
+    "username": "guillaumebort",
+    "location": "Paris",
+    "join_date": "Jun 12, 2009",
+    "popular_repos_stars": "441",
+    "primary_languages": [
+      "Scala",
+      "JavaScript",
+      "Java"
+    ],
+    "contributions": 160,
+    "followers": "385"
+  },
+  {
+    "url": "https://github.com/AdamBien",
+    "language": "Java",
+    "full_name": "Adam Bien",
+    "username": "AdamBien",
+    "location": "Planet Java",
+    "join_date": "Jul 3, 2011",
+    "popular_repos_stars": "225",
+    "primary_languages": [
+      "Java",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 955,
+    "followers": "378"
+  },
+  {
+    "url": "https://github.com/greenrobot",
+    "language": "Java",
+    "full_name": "",
+    "username": "greenrobot",
+    "location": "",
+    "join_date": "Apr 12, 2010",
+    "popular_repos_stars": "3630",
+    "primary_languages": [
+      "Java",
+      "Groovy",
+      "Shell"
+    ],
+    "contributions": 87,
+    "followers": "377"
+  },
+  {
+    "url": "https://github.com/ChainsDD",
+    "language": "Java",
+    "full_name": "Adam Shanks",
+    "username": "ChainsDD",
+    "location": "Arkansas",
+    "join_date": "Oct 30, 2009",
+    "popular_repos_stars": "511",
+    "primary_languages": [
+      "Java",
+      "C",
+      "Shell"
+    ],
+    "contributions": 0,
+    "followers": "373"
+  },
+  {
+    "url": "https://github.com/yusuke",
+    "language": "Java",
+    "full_name": "Yusuke Yamamoto",
+    "username": "yusuke",
+    "location": "Tokyo, Japan",
+    "join_date": "Apr 17, 2009",
+    "popular_repos_stars": "1376",
+    "primary_languages": [
+      "Java",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 366,
+    "followers": "363"
+  },
+  {
+    "url": "https://github.com/endymuhardin",
+    "language": "Java",
+    "full_name": "Endy Muhardin",
+    "username": "endymuhardin",
+    "location": "Jakarta, Indonesia",
+    "join_date": "Jul 6, 2010",
+    "popular_repos_stars": "113",
+    "primary_languages": [
+      "Java",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 886,
+    "followers": "361"
+  },
+  {
+    "url": "https://github.com/swankjesse",
+    "language": "Java",
+    "full_name": "Jesse Wilson",
+    "username": "swankjesse",
+    "location": "Waterloo, Canada",
+    "join_date": "Sep 29, 2009",
+    "popular_repos_stars": "255",
+    "primary_languages": [
+      "Java",
+      "CSS",
+      "Groovy"
+    ],
+    "contributions": 1,
+    "followers": "361"
+  },
+  {
+    "url": "https://github.com/cpw",
+    "language": "Java",
+    "full_name": "cpw",
+    "username": "cpw",
+    "location": "",
+    "join_date": "Nov 23, 2011",
+    "popular_repos_stars": "258",
+    "primary_languages": [
+      "Java",
+      "Groovy",
+      "Shell"
+    ],
+    "contributions": 498,
+    "followers": "361"
+  },
+  {
+    "url": "https://github.com/rednaxelafx",
+    "language": "Java",
+    "full_name": "Krystal Mok",
+    "username": "rednaxelafx",
+    "location": "Hangzhou, China",
+    "join_date": "Jul 22, 2009",
+    "popular_repos_stars": "19",
+    "primary_languages": [
+      "Ruby",
+      "Java",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "344"
+  },
+  {
+    "url": "https://github.com/shenfeng",
+    "language": "Java",
+    "full_name": "Feng Shen",
+    "username": "shenfeng",
+    "location": "Beijing, China",
+    "join_date": "Sep 11, 2010",
+    "popular_repos_stars": "392",
+    "primary_languages": [
+      "Shell",
+      "Python",
+      "Go"
+    ],
+    "contributions": 185,
+    "followers": "341"
+  },
+  {
+    "url": "https://github.com/nadlabak",
+    "language": "Java",
+    "full_name": "Pavel",
+    "username": "nadlabak",
+    "location": "Prague, Czech Republic",
+    "join_date": "Jun 29, 2010",
+    "popular_repos_stars": "300",
+    "primary_languages": [
+      "C",
+      "Java",
+      "C"
+    ],
+    "contributions": 98,
+    "followers": "327"
+  },
+  {
+    "url": "https://github.com/qii",
+    "language": "Java",
+    "full_name": "qii",
+    "username": "qii",
+    "location": "China",
+    "join_date": "Jun 22, 2011",
+    "popular_repos_stars": "1185",
+    "primary_languages": [
+      "Java",
+      "Scala",
+      "Objective",
+      "C"
+    ],
+    "contributions": 440,
+    "followers": "325"
+  },
+  {
+    "url": "https://github.com/tdunning",
+    "language": "Java",
+    "full_name": "Ted Dunning",
+    "username": "tdunning",
+    "location": "",
+    "join_date": "Apr 22, 2010",
+    "popular_repos_stars": "605",
+    "primary_languages": [
+      "Java",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 265,
+    "followers": "318"
+  },
+  {
+    "url": "https://github.com/mttkay",
+    "language": "Java",
+    "full_name": "Matthias Käppler",
+    "username": "mttkay",
+    "location": "Berlin, Germany",
+    "join_date": "Jul 8, 2009",
+    "popular_repos_stars": "2578",
+    "primary_languages": [
+      "Java",
+      "Ruby",
+      "Groovy"
+    ],
+    "contributions": 285,
+    "followers": "314"
+  },
+  {
+    "url": "https://github.com/olivergierke",
+    "language": "Java",
+    "full_name": "Oliver Gierke",
+    "username": "olivergierke",
+    "location": "Dresden, Germany",
+    "join_date": "Sep 18, 2009",
+    "popular_repos_stars": "294",
+    "primary_languages": [
+      "Java",
+      "Groovy",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "311"
+  },
+  {
+    "url": "https://github.com/rstoyanchev",
+    "language": "Java",
+    "full_name": "Rossen Stoyanchev",
+    "username": "rstoyanchev",
+    "location": "New York, NY",
+    "join_date": "Sep 16, 2010",
+    "popular_repos_stars": "396",
+    "primary_languages": [
+      "Java",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 689,
+    "followers": "293"
+  },
+  {
+    "url": "https://github.com/mariotaku",
+    "language": "Java",
+    "full_name": "Mariotaku",
+    "username": "mariotaku",
+    "location": "Zhengzhou, Henan, China",
+    "join_date": "Jun 4, 2011",
+    "popular_repos_stars": "825",
+    "primary_languages": [
+      "Java",
+      "Groovy",
+      "Shell"
+    ],
+    "contributions": 310,
+    "followers": "293"
+  },
+  {
+    "url": "https://github.com/trustin",
+    "language": "Java",
+    "full_name": "Trustin Lee",
+    "username": "trustin",
+    "location": "South Korea",
+    "join_date": "Dec 29, 2009",
+    "popular_repos_stars": "22",
+    "primary_languages": [
+      "Java",
+      "C",
+      "Shell"
+    ],
+    "contributions": 814,
+    "followers": "288"
+  },
+  {
+    "url": "https://github.com/kevinweil",
+    "language": "Java",
+    "full_name": "Kevin Weil",
+    "username": "kevinweil",
+    "location": "Portola Valley, CA",
+    "join_date": "Feb 28, 2009",
+    "popular_repos_stars": "918",
+    "primary_languages": [
+      "Java",
+      "Ruby",
+      "JavaScript"
+    ],
+    "contributions": 0,
+    "followers": "288"
+  },
+  {
+    "url": "https://github.com/dodola",
+    "language": "Java",
+    "full_name": "dodola",
+    "username": "dodola",
+    "location": "Beijing",
+    "join_date": "Sep 5, 2011",
+    "popular_repos_stars": "1035",
+    "primary_languages": [
+      "Java",
+      "JavaScript",
+      "C"
+    ],
+    "contributions": 32,
+    "followers": "286"
+  },
+  {
+    "url": "https://github.com/code4craft",
+    "language": "Java",
+    "full_name": "Yihua Huang",
+    "username": "code4craft",
+    "location": "Shanghai, China",
+    "join_date": "Jan 18, 2012",
+    "popular_repos_stars": "937",
+    "primary_languages": [
+      "Java",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "286"
+  },
+  {
+    "url": "https://github.com/md-5",
+    "language": "Java",
+    "full_name": "",
+    "username": "md-5",
+    "location": "Melbourne, Australia",
+    "join_date": "Aug 26, 2011",
+    "popular_repos_stars": "45",
+    "primary_languages": [
+      "Java",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 20,
+    "followers": "283"
+  },
+  {
+    "url": "https://github.com/AnderWeb",
+    "language": "Java",
+    "full_name": "",
+    "username": "AnderWeb",
+    "location": "",
+    "join_date": "Mar 16, 2010",
+    "popular_repos_stars": "362",
+    "primary_languages": [
+      "Java"
+    ],
+    "contributions": 0,
+    "followers": "281"
+  },
+  {
+    "url": "https://github.com/yangfuhai",
+    "language": "Java",
+    "full_name": "",
+    "username": "yangfuhai",
+    "location": "",
+    "join_date": "Mar 15, 2012",
+    "popular_repos_stars": "1351",
+    "primary_languages": [
+      "Java"
+    ],
+    "contributions": 13,
+    "followers": "281"
+  },
+  {
+    "url": "https://github.com/wenshao",
+    "language": "Java",
+    "full_name": "高铁",
+    "username": "wenshao",
+    "location": "Hangzhou, Zhejiang, China",
+    "join_date": "Nov 2, 2011",
+    "popular_repos_stars": "42",
+    "primary_languages": [
+      "Java",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 93,
+    "followers": "279"
+  },
+  {
+    "url": "https://github.com/peas",
+    "language": "Java",
+    "full_name": "Paulo Silveira",
+    "username": "peas",
+    "location": "São Paulo, Brazil",
+    "join_date": "Apr 7, 2009",
+    "popular_repos_stars": "17",
+    "primary_languages": [
+      "Java",
+      "JavaScript",
+      "Python"
+    ],
+    "contributions": 87,
+    "followers": "277"
+  },
+  {
+    "url": "https://github.com/SirSengir",
+    "language": "Java",
+    "full_name": "SirSengir",
+    "username": "SirSengir",
+    "location": "",
+    "join_date": "Apr 16, 2012",
+    "popular_repos_stars": "9",
+    "primary_languages": [
+      "C",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 88,
+    "followers": "276"
+  },
+  {
+    "url": "https://github.com/lucasr",
+    "language": "Java",
+    "full_name": "Lucas Rocha",
+    "username": "lucasr",
+    "location": "London, UK",
+    "join_date": "Apr 14, 2011",
+    "popular_repos_stars": "1774",
+    "primary_languages": [
+      "Java",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 302,
+    "followers": "276"
+  },
+  {
+    "url": "https://github.com/youxiachai",
+    "language": "Java",
+    "full_name": "youxiachai",
+    "username": "youxiachai",
+    "location": "China Canton Guangzhou",
+    "join_date": "Jul 20, 2011",
+    "popular_repos_stars": "198",
+    "primary_languages": [
+      "JavaScript",
+      "Java",
+      "Groovy"
+    ],
+    "contributions": 272,
+    "followers": "275"
+  },
+  {
+    "url": "https://github.com/sephiroth74",
+    "language": "Java",
+    "full_name": "Alessandro Crugnola",
+    "username": "sephiroth74",
+    "location": "New York, NY",
+    "join_date": "Jun 1, 2011",
+    "popular_repos_stars": "1417",
+    "primary_languages": [
+      "Java",
+      "Groovy",
+      "IDL"
+    ],
+    "contributions": 207,
+    "followers": "274"
+  },
+  {
+    "url": "https://github.com/nhaarman",
+    "language": "Java",
+    "full_name": "Niek Haarman",
+    "username": "nhaarman",
+    "location": "Netherlands",
+    "join_date": "Dec 11, 2012",
+    "popular_repos_stars": "2739",
+    "primary_languages": [
+      "Java",
+      "Groovy",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "271"
+  },
+  {
+    "url": "https://github.com/jberkel",
+    "language": "Java",
+    "full_name": "Jan Berkel",
+    "username": "jberkel",
+    "location": "Berlin",
+    "join_date": "Jul 29, 2008",
+    "popular_repos_stars": "1548",
+    "primary_languages": [
+      "Java",
+      "Ruby",
+      "JavaScript"
+    ],
+    "contributions": 276,
+    "followers": "270"
+  },
+  {
+    "url": "https://github.com/astuetz",
+    "language": "Java",
+    "full_name": "Andreas Stütz",
+    "username": "astuetz",
+    "location": "Linz, Austria",
+    "join_date": "Aug 22, 2009",
+    "popular_repos_stars": "2404",
+    "primary_languages": [
+      "Java",
+      "Groovy",
+      "Shell"
+    ],
+    "contributions": 10,
+    "followers": "266"
+  },
+  {
+    "url": "https://github.com/graemerocher",
+    "language": "Java",
+    "full_name": "",
+    "username": "graemerocher",
+    "location": "",
+    "join_date": "Mar 24, 2009",
+    "popular_repos_stars": "19",
+    "primary_languages": [
+      "Groovy",
+      "Java",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "262"
+  },
+  {
+    "url": "https://github.com/ahmetalpbalkan",
+    "language": "Java",
+    "full_name": "Ahmet Alp Balkan",
+    "username": "ahmetalpbalkan",
+    "location": "Seattle, WA",
+    "join_date": "Nov 28, 2009",
+    "popular_repos_stars": "979",
+    "primary_languages": [
+      "Python",
+      "Java",
+      "Go"
+    ],
+    "contributions": 388,
+    "followers": "254"
+  },
+  {
+    "url": "https://github.com/lintool",
+    "language": "Java",
+    "full_name": "Jimmy Lin",
+    "username": "lintool",
+    "location": "",
+    "join_date": "Jun 24, 2010",
+    "popular_repos_stars": "869",
+    "primary_languages": [
+      "JavaScript",
+      "Java",
+      "CSS"
+    ],
+    "contributions": 656,
+    "followers": "254"
+  },
+  {
+    "url": "https://github.com/rtyley",
+    "language": "Java",
+    "full_name": "Roberto Tyley",
+    "username": "rtyley",
+    "location": "London, United Kingdom",
+    "join_date": "Feb 5, 2009",
+    "popular_repos_stars": "1504",
+    "primary_languages": [
+      "Java",
+      "Scala",
+      "Shell"
+    ],
+    "contributions": 556,
+    "followers": "247"
+  },
+  {
+    "url": "https://github.com/normanmaurer",
+    "language": "Java",
+    "full_name": "Norman Maurer",
+    "username": "normanmaurer",
+    "location": "Germany",
+    "join_date": "Oct 14, 2010",
+    "popular_repos_stars": "175",
+    "primary_languages": [
+      "Java",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "244"
+  },
+  {
+    "url": "https://github.com/jackychi",
+    "language": "Java",
+    "full_name": "JackyChi",
+    "username": "jackychi",
+    "location": "北京",
+    "join_date": "Apr 1, 2011",
+    "popular_repos_stars": "172",
+    "primary_languages": [
+      "Python",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 1,
+    "followers": "243"
+  },
+  {
+    "url": "https://github.com/miguno",
+    "language": "Java",
+    "full_name": "Michael G. Noll",
+    "username": "miguno",
+    "location": "Europe",
+    "join_date": "Jun 2, 2010",
+    "popular_repos_stars": "378",
+    "primary_languages": [
+      "Shell",
+      "Ruby",
+      "Puppet"
+    ],
+    "contributions": 155,
+    "followers": "235"
+  },
+  {
+    "url": "https://github.com/peter-lawrey",
+    "language": "Java",
+    "full_name": "Peter Lawrey",
+    "username": "peter-lawrey",
+    "location": "London",
+    "join_date": "Sep 22, 2011",
+    "popular_repos_stars": "1104",
+    "primary_languages": [
+      "Java",
+      "Shell",
+      "Scala"
+    ],
+    "contributions": 314,
+    "followers": "235"
+  },
+  {
+    "url": "https://github.com/tomwhite",
+    "language": "Java",
+    "full_name": "Tom White",
+    "username": "tomwhite",
+    "location": "",
+    "join_date": "May 15, 2009",
+    "popular_repos_stars": "761",
+    "primary_languages": [
+      "Java",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 1,
+    "followers": "234"
+  },
+  {
+    "url": "https://github.com/lehni",
+    "language": "Java",
+    "full_name": "Jürg Lehni",
+    "username": "lehni",
+    "location": "Switzerland",
+    "join_date": "Mar 1, 2010",
+    "popular_repos_stars": "55",
+    "primary_languages": [
+      "JavaScript",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 950,
+    "followers": "230"
+  },
+  {
+    "url": "https://github.com/arun-gupta",
+    "language": "Java",
+    "full_name": "Arun Gupta",
+    "username": "arun-gupta",
+    "location": "San Jose, CA",
+    "join_date": "Aug 10, 2009",
+    "popular_repos_stars": "19",
+    "primary_languages": [
+      "Java",
+      "CSS",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "230"
+  },
+  {
+    "url": "https://github.com/glaforge",
+    "language": "Java",
+    "full_name": "Guillaume Laforge",
+    "username": "glaforge",
+    "location": "Paris, France",
+    "join_date": "Jan 20, 2009",
+    "popular_repos_stars": "157",
+    "primary_languages": [
+      "Groovy",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 370,
+    "followers": "227"
+  },
+  {
+    "url": "https://github.com/spullara",
+    "language": "Java",
+    "full_name": "Sam Pullara",
+    "username": "spullara",
+    "location": "Los Altos, CA",
+    "join_date": "Nov 8, 2008",
+    "popular_repos_stars": "1051",
+    "primary_languages": [
+      "Java",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 73,
+    "followers": "227"
+  },
+  {
+    "url": "https://github.com/peteralfonso",
+    "language": "Java",
+    "full_name": "Peter Alfonso",
+    "username": "peteralfonso",
+    "location": "Florida, United States",
+    "join_date": "Jul 26, 2010",
+    "popular_repos_stars": "97",
+    "primary_languages": [
+      "Shell",
+      "C",
+      "C"
+    ],
+    "contributions": 0,
+    "followers": "226"
+  },
+  {
+    "url": "https://github.com/aporter",
+    "language": "Java",
+    "full_name": "Adam Porter",
+    "username": "aporter",
+    "location": "",
+    "join_date": "Oct 10, 2011",
+    "popular_repos_stars": "1822",
+    "primary_languages": [
+      "Java"
+    ],
+    "contributions": 6,
+    "followers": "221"
+  },
+  {
+    "url": "https://github.com/mosabua",
+    "language": "Java",
+    "full_name": "Manfred Moser",
+    "username": "mosabua",
+    "location": "Victoria, BC",
+    "join_date": "Oct 27, 2009",
+    "popular_repos_stars": "1204",
+    "primary_languages": [
+      "Java",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 233,
+    "followers": "217"
+  },
+  {
+    "url": "https://github.com/mezzoblue",
+    "language": "Java",
+    "full_name": "Dave Shea",
+    "username": "mezzoblue",
+    "location": "Vancouver",
+    "join_date": "Oct 11, 2009",
+    "popular_repos_stars": "1352",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "PHP"
+    ],
+    "contributions": 143,
+    "followers": "215"
+  },
+  {
+    "url": "https://github.com/ansjsun",
+    "language": "Java",
+    "full_name": "ansj",
+    "username": "ansjsun",
+    "location": "china",
+    "join_date": "Nov 26, 2011",
+    "popular_repos_stars": "934",
+    "primary_languages": [
+      "Java",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 385,
+    "followers": "215"
+  },
+  {
+    "url": "https://github.com/lorensiuswlt",
+    "language": "Java",
+    "full_name": "Lorensius W. L. T",
+    "username": "lorensiuswlt",
+    "location": "Bandung",
+    "join_date": "Feb 11, 2011",
+    "popular_repos_stars": "1154",
+    "primary_languages": [
+      "Java"
+    ],
+    "contributions": 12,
+    "followers": "214"
+  },
+  {
+    "url": "https://github.com/kirillcool",
+    "language": "Java",
+    "full_name": "Kirill Grouchnikov",
+    "username": "kirillcool",
+    "location": "",
+    "join_date": "Feb 8, 2009",
+    "popular_repos_stars": "212",
+    "primary_languages": [
+      "Java",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 0,
+    "followers": "214"
+  },
+  {
+    "url": "https://github.com/UweTrottmann",
+    "language": "Java",
+    "full_name": "Uwe Trottmann",
+    "username": "UweTrottmann",
+    "location": "Germany",
+    "join_date": "Jul 1, 2011",
+    "popular_repos_stars": "678",
+    "primary_languages": [
+      "Java",
+      "Groovy",
+      "JavaScript"
+    ],
+    "contributions": 2,
+    "followers": "210"
+  },
+  {
+    "url": "https://github.com/ducrohet",
+    "language": "Java",
+    "full_name": "Xavier Ducrohet",
+    "username": "ducrohet",
+    "location": "Mountain View",
+    "join_date": "Mar 22, 2013",
+    "popular_repos_stars": "6",
+    "primary_languages": [
+      "Java",
+      "Shell",
+      "Groovy"
+    ],
+    "contributions": 0,
+    "followers": "209"
+  },
+  {
+    "url": "https://github.com/iChun",
+    "language": "Java",
+    "full_name": "iChun",
+    "username": "iChun",
+    "location": "Malaysia",
+    "join_date": "Sep 7, 2012",
+    "popular_repos_stars": "135",
+    "primary_languages": [
+      "Java",
+      "Groovy",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "207"
+  },
+  {
+    "url": "https://github.com/dmytrodanylyk",
+    "language": "Java",
+    "full_name": "Dmytro Danylyk",
+    "username": "dmytrodanylyk",
+    "location": "Ukraine, Lviv",
+    "join_date": "Nov 19, 2012",
+    "popular_repos_stars": "2577",
+    "primary_languages": [
+      "Java",
+      "Groovy",
+      "CSS"
+    ],
+    "contributions": 430,
+    "followers": "207"
+  }
+]

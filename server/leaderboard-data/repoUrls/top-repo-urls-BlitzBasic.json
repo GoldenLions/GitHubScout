@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/dv1/meta-gstreamer1.0",
+    "size": 379,
+    "language": "BlitzBasic"
+  },
+  {
+    "url": "https://github.com/openembedded/openembedded",
+    "size": 185834,
+    "language": "BlitzBasic"
+  },
+  {
+    "url": "https://github.com/openembedded/meta-oe",
+    "size": 27953,
+    "language": "BlitzBasic"
+  },
+  {
+    "url": "https://github.com/Freescale/meta-fsl-arm",
+    "size": 40178,
+    "language": "BlitzBasic"
+  },
+  {
+    "url": "https://github.com/openembedded/oe-core",
+    "size": 107465,
+    "language": "BlitzBasic"
+  },
+  {
+    "url": "https://github.com/bmwcarit/meta-ros",
+    "size": 3816,
+    "language": "BlitzBasic"
+  },
+  {
+    "url": "https://github.com/openwebos/meta-webos",
+    "size": 11664,
+    "language": "BlitzBasic"
+  },
+  {
+    "url": "https://github.com/Angstrom-distribution/meta-ti",
+    "size": 11666,
+    "language": "BlitzBasic"
+  },
+  {
+    "url": "https://github.com/meta-qt5/meta-qt5",
+    "size": 4124,
+    "language": "BlitzBasic"
+  },
+  {
+    "url": "https://github.com/oe-alliance/oe-alliance-core",
+    "size": 141493,
+    "language": "BlitzBasic"
+  },
+  {
+    "url": "https://github.com/woglinde/meta-java",
+    "size": 1572,
+    "language": "BlitzBasic"
+  },
+  {
+    "url": "https://github.com/Freescale/meta-fsl-arm-extra",
+    "size": 2932,
+    "language": "BlitzBasic"
+  },
+  {
+    "url": "https://github.com/E2OpenPlugins/e2openplugins",
+    "size": 366,
+    "language": "BlitzBasic"
+  },
+  {
+    "url": "https://github.com/ebutera/meta-sunxi",
+    "size": 718,
+    "language": "BlitzBasic"
+  },
+  {
+    "url": "https://github.com/openpandora/meta-openpandora",
+    "size": 16462,
+    "language": "BlitzBasic"
+  },
+  {
+    "url": "https://github.com/oe-alliance/build-enviroment",
+    "size": 24979,
+    "language": "BlitzBasic"
+  },
+  {
+    "url": "https://github.com/ebutera/meta-igep",
+    "size": 401,
+    "language": "BlitzBasic"
+  },
+  {
+    "url": "https://github.com/balister/meta-ettus",
+    "size": 406,
+    "language": "BlitzBasic"
+  },
+  {
+    "url": "https://github.com/Freescale/meta-fsl-demos",
+    "size": 734,
+    "language": "BlitzBasic"
+  },
+  {
+    "url": "https://github.com/openembedded/meta-openembedded",
+    "size": 22684,
+    "language": "BlitzBasic"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/joyent/node",
+    "size": 492614,
+    "language": "JavaScript",
+    "commits": "10,128",
+    "stars": "31,757",
+    "forks": "7,090",
+    "contributors": "544"
+  },
+  {
+    "url": "https://github.com/jquery/jquery",
+    "size": 38165,
+    "language": "JavaScript",
+    "commits": "5,649",
+    "stars": "31,687",
+    "forks": "7,277",
+    "contributors": "198"
+  },
+  {
+    "url": "https://github.com/mbostock/d3",
+    "size": 120538,
+    "language": "JavaScript",
+    "commits": "3,208",
+    "stars": "29,840",
+    "forks": "6,861",
+    "contributors": "77"
+  },
+  {
+    "url": "https://github.com/angular/angular.js",
+    "size": 221908,
+    "language": "JavaScript",
+    "commits": "5,593",
+    "stars": "28,293",
+    "forks": "10,433",
+    "contributors": "957"
+  },
+  {
+    "url": "https://github.com/h5bp/html5-boilerplate",
+    "size": 80259,
+    "language": "JavaScript",
+    "commits": "1,361",
+    "stars": "26,590",
+    "forks": "6,999",
+    "contributors": "182"
+  },
+  {
+    "url": "https://github.com/bartaz/impress.js",
+    "size": 5939,
+    "language": "JavaScript",
+    "commits": "227",
+    "stars": "21,444",
+    "forks": "4,462",
+    "contributors": "32"
+  },
+  {
+    "url": "https://github.com/jashkenas/backbone",
+    "size": 60002,
+    "language": "JavaScript",
+    "commits": "2,648",
+    "stars": "19,046",
+    "forks": "4,289",
+    "contributors": "230"
+  },
+  {
+    "url": "https://github.com/meteor/meteor",
+    "size": 120388,
+    "language": "JavaScript",
+    "commits": "9,980",
+    "stars": "18,328",
+    "forks": "2,012",
+    "contributors": "129"
+  },
+  {
+    "url": "https://github.com/moment/moment",
+    "size": 15593,
+    "language": "JavaScript",
+    "commits": "2,138",
+    "stars": "17,881",
+    "forks": "1,703",
+    "contributors": "213"
+  },
+  {
+    "url": "https://github.com/adobe/brackets",
+    "size": 337318,
+    "language": "JavaScript",
+    "commits": "14,417",
+    "stars": "17,709",
+    "forks": "3,659",
+    "contributors": "233"
+  },
+  {
+    "url": "https://github.com/blueimp/jQuery-File-Upload",
+    "size": 28065,
+    "language": "JavaScript",
+    "commits": "823",
+    "stars": "17,436",
+    "forks": "4,395",
+    "contributors": "37"
+  },
+  {
+    "url": "https://github.com/hakimel/reveal.js",
+    "size": 41416,
+    "language": "JavaScript",
+    "commits": "1,140",
+    "stars": "16,938",
+    "forks": "4,953",
+    "contributors": "105"
+  },
+  {
+    "url": "https://github.com/mrdoob/three.js",
+    "size": 311233,
+    "language": "JavaScript",
+    "commits": "8,609",
+    "stars": "16,319",
+    "forks": "4,487",
+    "contributors": "343"
+  },
+  {
+    "url": "https://github.com/strongloop/express",
+    "size": 27102,
+    "language": "JavaScript",
+    "commits": "4,799",
+    "stars": "15,493",
+    "forks": "3,159",
+    "contributors": "156"
+  },
+  {
+    "url": "https://github.com/resume/resume.github.com",
+    "size": 636,
+    "language": "JavaScript",
+    "commits": "205",
+    "stars": "13,285",
+    "forks": "381",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/Automattic/socket.io",
+    "size": 24181,
+    "language": "JavaScript",
+    "commits": "1,309",
+    "stars": "13,151",
+    "forks": "2,422",
+    "contributors": "71"
+  },
+  {
+    "url": "https://github.com/Modernizr/Modernizr",
+    "size": 39010,
+    "language": "JavaScript",
+    "commits": "1,824",
+    "stars": "13,091",
+    "forks": "1,642",
+    "contributors": "156"
+  },
+  {
+    "url": "https://github.com/jashkenas/underscore",
+    "size": 17846,
+    "language": "JavaScript",
+    "commits": "1,684",
+    "stars": "12,270",
+    "forks": "2,677",
+    "contributors": "178"
+  },
+  {
+    "url": "https://github.com/TryGhost/Ghost",
+    "size": 60960,
+    "language": "JavaScript",
+    "commits": "3,603",
+    "stars": "12,078",
+    "forks": "2,533",
+    "contributors": "161"
+  },
+  {
+    "url": "https://github.com/ivaynberg/select2",
+    "size": 15513,
+    "language": "JavaScript",
+    "commits": "1,333",
+    "stars": "11,803",
+    "forks": "2,188",
+    "contributors": "267"
+  }
+]

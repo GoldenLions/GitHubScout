@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/parallella/parallella-hw",
+    "size": 69569,
+    "language": "Verilog"
+  },
+  {
+    "url": "https://github.com/kramble/FPGA-Litecoin-Miner",
+    "size": 914,
+    "language": "Verilog"
+  },
+  {
+    "url": "https://github.com/m-labs/milkymist",
+    "size": 34543,
+    "language": "Verilog"
+  },
+  {
+    "url": "https://github.com/marmolejo/zet",
+    "size": 4921,
+    "language": "Verilog"
+  },
+  {
+    "url": "https://github.com/zhemao/ez8",
+    "size": 394,
+    "language": "OCaml"
+  },
+  {
+    "url": "https://github.com/mossmann/daisho",
+    "size": 7256,
+    "language": "Verilog"
+  },
+  {
+    "url": "https://github.com/ngzhang/Icarus",
+    "size": 41174,
+    "language": "Verilog"
+  },
+  {
+    "url": "https://github.com/EttusResearch/uhd",
+    "size": 106513,
+    "language": "Verilog"
+  },
+  {
+    "url": "https://github.com/tommythorn/Reduceron",
+    "size": 5358,
+    "language": "Verilog"
+  },
+  {
+    "url": "https://github.com/teknohog/Xilinx-Serial-Miner",
+    "size": 128,
+    "language": "Verilog"
+  },
+  {
+    "url": "https://github.com/openrisc/mor1kx",
+    "size": 2942,
+    "language": "Verilog"
+  },
+  {
+    "url": "https://github.com/andrejbauer/Homotopy",
+    "size": 331,
+    "language": "Verilog"
+  },
+  {
+    "url": "https://github.com/Arlet/verilog-6502",
+    "size": 109,
+    "language": "Verilog"
+  },
+  {
+    "url": "https://github.com/NetFPGA/netfpga",
+    "size": 10637,
+    "language": "Verilog"
+  },
+  {
+    "url": "https://github.com/maidenone/ORGFXSoC",
+    "size": 3233,
+    "language": "Verilog"
+  },
+  {
+    "url": "https://github.com/m-labs/lm32",
+    "size": 448,
+    "language": "Verilog"
+  },
+  {
+    "url": "https://github.com/brianbennett/fpga_nes",
+    "size": 2050,
+    "language": "Verilog"
+  },
+  {
+    "url": "https://github.com/sybreon/dcpu16",
+    "size": 363,
+    "language": "Verilog"
+  },
+  {
+    "url": "https://github.com/opencpi/opencpi",
+    "size": 63502,
+    "language": "Verilog"
+  },
+  {
+    "url": "https://github.com/alfikpl/ao68000",
+    "size": 1596,
+    "language": "Verilog"
+  }
+]

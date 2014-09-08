@@ -1,0 +1,98 @@
+[
+  {
+    "url": "https://github.com/tmpbci",
+    "language": "Rebol",
+    "full_name": "Sam Neurohack",
+    "username": "tmpbci",
+    "location": "",
+    "join_date": "Jan 19, 2011",
+    "popular_repos_stars": "12",
+    "primary_languages": [
+      "Rebol",
+      "Python",
+      "Arduino"
+    ],
+    "contributions": 0,
+    "followers": "20"
+  },
+  {
+    "url": "https://github.com/BrianHawley",
+    "language": "Rebol",
+    "full_name": "Brian Hawley",
+    "username": "BrianHawley",
+    "location": "",
+    "join_date": "Oct 29, 2010",
+    "popular_repos_stars": "15",
+    "primary_languages": [
+      "Rebol",
+      "R",
+      "Shell"
+    ],
+    "contributions": 29,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/cyphre",
+    "language": "Rebol",
+    "full_name": "",
+    "username": "cyphre",
+    "location": "",
+    "join_date": "Jan 19, 2012",
+    "popular_repos_stars": "4",
+    "primary_languages": [
+      "Rebol",
+      "Shell",
+      "R"
+    ],
+    "contributions": 4,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/rgchris",
+    "language": "Rebol",
+    "full_name": "",
+    "username": "rgchris",
+    "location": "",
+    "join_date": "Aug 17, 2011",
+    "popular_repos_stars": "20",
+    "primary_languages": [
+      "Rebol",
+      "R",
+      "JavaScript"
+    ],
+    "contributions": 174,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/gchiu",
+    "language": "Rebol",
+    "full_name": "",
+    "username": "gchiu",
+    "location": "",
+    "join_date": "Feb 15, 2010",
+    "popular_repos_stars": "39",
+    "primary_languages": [
+      "Rebol",
+      "R",
+      "Shell"
+    ],
+    "contributions": 74,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/rebolek",
+    "language": "Rebol",
+    "full_name": "Boleslav Březovský",
+    "username": "rebolek",
+    "location": "",
+    "join_date": "Mar 9, 2011",
+    "popular_repos_stars": "14",
+    "primary_languages": [
+      "Rebol",
+      "R",
+      "C"
+    ],
+    "contributions": 264,
+    "followers": "6"
+  }
+]

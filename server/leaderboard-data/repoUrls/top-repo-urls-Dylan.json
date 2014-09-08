@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/dylan-lang/opendylan",
+    "size": 94307,
+    "language": "Dylan"
+  },
+  {
+    "url": "https://github.com/dylan-hackers/network-night-vision",
+    "size": 1624,
+    "language": "Dylan"
+  },
+  {
+    "url": "https://github.com/dylan-lang/http",
+    "size": 2289,
+    "language": "Dylan"
+  },
+  {
+    "url": "https://github.com/dylan-foundry/gir-dylan",
+    "size": 304,
+    "language": "Dylan"
+  },
+  {
+    "url": "https://github.com/dylan-lang/wiki",
+    "size": 798,
+    "language": "Dylan"
+  },
+  {
+    "url": "https://github.com/dylan-foundry/libpq-dylan",
+    "size": 56,
+    "language": "Dylan"
+  },
+  {
+    "url": "https://github.com/dylan-foundry/serialization",
+    "size": 183,
+    "language": "Dylan"
+  },
+  {
+    "url": "https://github.com/AndrewGlynn/orlok",
+    "size": 914,
+    "language": "Dylan"
+  },
+  {
+    "url": "https://github.com/waywardmonkeys/uv-dylan",
+    "size": 153,
+    "language": "Dylan"
+  },
+  {
+    "url": "https://github.com/dylan-foundry/nanomsg-dylan",
+    "size": 274,
+    "language": "Dylan"
+  },
+  {
+    "url": "https://github.com/dylan-lang/melange",
+    "size": 2939,
+    "language": "Dylan"
+  },
+  {
+    "url": "https://github.com/dylan-lang/mime",
+    "size": 120,
+    "language": "Dylan"
+  },
+  {
+    "url": "https://github.com/waywardmonkeys/clang-dylan",
+    "size": 96,
+    "language": "Dylan"
+  },
+  {
+    "url": "https://github.com/nickik/RRB-Vector-in-Dylan",
+    "size": 96,
+    "language": "Dylan"
+  },
+  {
+    "url": "https://github.com/dylan-foundry/leveldb-dylan",
+    "size": 179,
+    "language": "Dylan"
+  },
+  {
+    "url": "https://github.com/dylan-lang/strings",
+    "size": 265,
+    "language": "Dylan"
+  },
+  {
+    "url": "https://github.com/dylan-lang/json",
+    "size": 151,
+    "language": "Dylan"
+  },
+  {
+    "url": "https://github.com/dylan-foundry/tracing",
+    "size": 319,
+    "language": "Dylan"
+  },
+  {
+    "url": "https://github.com/dylan-lang/binary-data",
+    "size": 753,
+    "language": "Dylan"
+  },
+  {
+    "url": "https://github.com/dylan-foundry/python-dylan",
+    "size": 151,
+    "language": "Dylan"
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "url": "https://github.com/opengeospatial/poi",
+    "size": 4379,
+    "language": "Bluespec",
+    "commits": "49",
+    "stars": "8",
+    "forks": "11",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/cambridgehackers/xbsv",
+    "size": 19104,
+    "language": "Bluespec",
+    "commits": "4,384",
+    "stars": "4",
+    "forks": "4",
+    "contributors": "5"
+  },
+  {
+    "url": "https://github.com/vmurali/StructuralSpec",
+    "size": 705,
+    "language": "Bluespec",
+    "commits": "189",
+    "stars": "3",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/lightstor/ssd-controller",
+    "size": 15170,
+    "language": "Bluespec",
+    "commits": "4",
+    "stars": "3",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/cambridgehackers/dbn",
+    "size": 784,
+    "language": "Bluespec",
+    "commits": "195",
+    "stars": "2",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/freecores/bluespec_md6",
+    "size": 1464,
+    "language": "Bluespec",
+    "commits": "6",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/freecores/bluespec-reedsolomon",
+    "size": 164,
+    "language": "Bluespec",
+    "commits": "4",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/thotypous/AcqSys",
+    "size": 144,
+    "language": "Bluespec",
+    "commits": "1",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/mehultikekar/uart",
+    "size": 140,
+    "language": "Bluespec",
+    "commits": "4",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/akgeni/ByteOfPython",
+    "size": 156,
+    "language": "Bluespec",
+    "commits": "4",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/xushuotao/fpgamemcached",
+    "size": 81561,
+    "language": "Bluespec",
+    "commits": "6",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/rishavs/pixiTest",
+    "size": 456,
+    "language": "Bluespec",
+    "commits": "5",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/freecores/bluespec-80211atransmitter",
+    "size": 392,
+    "language": "Bluespec",
+    "commits": "2",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/freecores/reedsolomon",
+    "size": 164,
+    "language": "Bluespec",
+    "commits": "2",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/freecores/cryptosorter",
+    "size": 332,
+    "language": "Bluespec",
+    "commits": "5",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/freecores/bluespec-h264",
+    "size": 32748,
+    "language": "Bluespec",
+    "commits": "99",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/2020saurav/cs220a",
+    "size": 1536,
+    "language": "Bluespec",
+    "commits": "1",
+    "stars": "0",
+    "forks": "0",
+    "contributors": ""
+  }
+]

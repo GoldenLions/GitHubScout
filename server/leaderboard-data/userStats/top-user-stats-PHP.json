@@ -1,0 +1,1590 @@
+[
+  {
+    "url": "https://github.com/fabpot",
+    "language": "PHP",
+    "full_name": "Fabien Potencier",
+    "username": "fabpot",
+    "location": "Paris, France",
+    "join_date": "Jan 17, 2009",
+    "popular_repos_stars": "7301",
+    "primary_languages": [
+      "PHP",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 6,
+    "followers": "4.1k"
+  },
+  {
+    "url": "https://github.com/JeffreyWay",
+    "language": "PHP",
+    "full_name": "Jeffrey Way",
+    "username": "JeffreyWay",
+    "location": "Chattanooga, TN",
+    "join_date": "Jan 15, 2010",
+    "popular_repos_stars": "3421",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 398,
+    "followers": "3.3k"
+  },
+  {
+    "url": "https://github.com/taylorotwell",
+    "language": "PHP",
+    "full_name": "Taylor Otwell",
+    "username": "taylorotwell",
+    "location": "Arkansas",
+    "join_date": "Nov 1, 2010",
+    "popular_repos_stars": "43378",
+    "primary_languages": [],
+    "contributions": 9,
+    "followers": "2.2k"
+  },
+  {
+    "url": "https://github.com/sebastianbergmann",
+    "language": "PHP",
+    "full_name": "Sebastian Bergmann",
+    "username": "sebastianbergmann",
+    "location": "Siegburg, Germany",
+    "join_date": "Sep 18, 2008",
+    "popular_repos_stars": "5881",
+    "primary_languages": [
+      "PHP",
+      "CSS",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "2.1k"
+  },
+  {
+    "url": "https://github.com/philsturgeon",
+    "language": "PHP",
+    "full_name": "Phil Sturgeon",
+    "username": "philsturgeon",
+    "location": "Bristol & Brooklyn",
+    "join_date": "Mar 26, 2009",
+    "popular_repos_stars": "1721",
+    "primary_languages": [
+      "PHP",
+      "Ruby",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "2.1k"
+  },
+  {
+    "url": "https://github.com/csswizardry",
+    "language": "PHP",
+    "full_name": "Harry Roberts",
+    "username": "csswizardry",
+    "location": "Leeds, UK",
+    "join_date": "Apr 26, 2011",
+    "popular_repos_stars": "9331",
+    "primary_languages": [
+      "CSS",
+      "Shell",
+      "PHP"
+    ],
+    "contributions": 1,
+    "followers": "1.9k"
+  },
+  {
+    "url": "https://github.com/benbalter",
+    "language": "PHP",
+    "full_name": "Ben Balter",
+    "username": "benbalter",
+    "location": "Washington, DC",
+    "join_date": "May 20, 2010",
+    "popular_repos_stars": "972",
+    "primary_languages": [
+      "JavaScript",
+      "Ruby",
+      "PHP"
+    ],
+    "contributions": 2,
+    "followers": "1.8k"
+  },
+  {
+    "url": "https://github.com/ginatrapani",
+    "language": "PHP",
+    "full_name": "Gina Trapani",
+    "username": "ginatrapani",
+    "location": "Brooklyn, NY",
+    "join_date": "Mar 5, 2009",
+    "popular_repos_stars": "6053",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 203,
+    "followers": "1.8k"
+  },
+  {
+    "url": "https://github.com/daneden",
+    "language": "PHP",
+    "full_name": "Daniel Eden",
+    "username": "daneden",
+    "location": "San Francisco, CA",
+    "join_date": "Oct 14, 2010",
+    "popular_repos_stars": "17696",
+    "primary_languages": [
+      "Swift",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 702,
+    "followers": "1.4k"
+  },
+  {
+    "url": "https://github.com/weierophinney",
+    "language": "PHP",
+    "full_name": "Matthew Weier O'Phinney",
+    "username": "weierophinney",
+    "location": "Sioux Falls, SD, USA",
+    "join_date": "Sep 23, 2008",
+    "popular_repos_stars": "387",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 5,
+    "followers": "1.3k"
+  },
+  {
+    "url": "https://github.com/Seldaek",
+    "language": "PHP",
+    "full_name": "Jordi Boggiano",
+    "username": "Seldaek",
+    "location": "Zürich, Zurich, Switzerland",
+    "join_date": "Jan 16, 2010",
+    "popular_repos_stars": "3662",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 999,
+    "followers": "939"
+  },
+  {
+    "url": "https://github.com/daylerees",
+    "language": "PHP",
+    "full_name": "Dayle Rees",
+    "username": "daylerees",
+    "location": "Wales, UK",
+    "join_date": "Feb 21, 2010",
+    "popular_repos_stars": "6126",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 196,
+    "followers": "909"
+  },
+  {
+    "url": "https://github.com/phalcon",
+    "language": "PHP",
+    "full_name": "Phalcon",
+    "username": "phalcon",
+    "location": "",
+    "join_date": "Nov 25, 2011",
+    "popular_repos_stars": "5508",
+    "primary_languages": [
+      "PHP",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "876"
+  },
+  {
+    "url": "https://github.com/codeguy",
+    "language": "PHP",
+    "full_name": "Josh Lockhart",
+    "username": "codeguy",
+    "location": "Chapel Hill, North Carolina",
+    "join_date": "Oct 29, 2008",
+    "popular_repos_stars": "7996",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 228,
+    "followers": "861"
+  },
+  {
+    "url": "https://github.com/nikic",
+    "language": "PHP",
+    "full_name": "Nikita Popov",
+    "username": "nikic",
+    "location": "Berlin, Germany",
+    "join_date": "Mar 4, 2010",
+    "popular_repos_stars": "2312",
+    "primary_languages": [
+      "PHP",
+      "C",
+      "D"
+    ],
+    "contributions": 671,
+    "followers": "834"
+  },
+  {
+    "url": "https://github.com/markjaquith",
+    "language": "PHP",
+    "full_name": "Mark Jaquith",
+    "username": "markjaquith",
+    "location": "Tampa, FL",
+    "join_date": "Aug 4, 2010",
+    "popular_repos_stars": "2515",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Ruby"
+    ],
+    "contributions": 161,
+    "followers": "749"
+  },
+  {
+    "url": "https://github.com/stof",
+    "language": "PHP",
+    "full_name": "Christophe Coevoet",
+    "username": "stof",
+    "location": "Paris",
+    "join_date": "Oct 14, 2010",
+    "popular_repos_stars": "550",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 2,
+    "followers": "741"
+  },
+  {
+    "url": "https://github.com/igorw",
+    "language": "PHP",
+    "full_name": "Igor Wiedler",
+    "username": "igorw",
+    "location": "Berlin",
+    "join_date": "May 24, 2009",
+    "popular_repos_stars": "852",
+    "primary_languages": [
+      "PHP",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 872,
+    "followers": "725"
+  },
+  {
+    "url": "https://github.com/CakeDC",
+    "language": "PHP",
+    "full_name": "Cake Development Corporation",
+    "username": "CakeDC",
+    "location": "Las Vegas, Nevada",
+    "join_date": "Feb 16, 2010",
+    "popular_repos_stars": "1320",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 3,
+    "followers": "715"
+  },
+  {
+    "url": "https://github.com/qiangxue",
+    "language": "PHP",
+    "full_name": "Qiang Xue",
+    "username": "qiangxue",
+    "location": "Virginia, U.S.A.",
+    "join_date": "Aug 20, 2011",
+    "popular_repos_stars": "38694",
+    "primary_languages": [],
+    "contributions": 7,
+    "followers": "701"
+  },
+  {
+    "url": "https://github.com/kriswallsmith",
+    "language": "PHP",
+    "full_name": "Kris Wallsmith",
+    "username": "kriswallsmith",
+    "location": "Portland, Oregon USA",
+    "join_date": "Nov 11, 2008",
+    "popular_repos_stars": "4102",
+    "primary_languages": [
+      "PHP",
+      "Ruby",
+      "JavaScript"
+    ],
+    "contributions": 55,
+    "followers": "695"
+  },
+  {
+    "url": "https://github.com/alganet",
+    "language": "PHP",
+    "full_name": "Alexandre Gomes Gaigalas",
+    "username": "alganet",
+    "location": "São Paulo, SP, Brasil",
+    "join_date": "Feb 12, 2010",
+    "popular_repos_stars": "66",
+    "primary_languages": [
+      "PHP",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 104,
+    "followers": "684"
+  },
+  {
+    "url": "https://github.com/markstory",
+    "language": "PHP",
+    "full_name": "Mark Story",
+    "username": "markstory",
+    "location": "Toronto, Ontario",
+    "join_date": "Sep 10, 2008",
+    "popular_repos_stars": "697",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 2,
+    "followers": "682"
+  },
+  {
+    "url": "https://github.com/jwage",
+    "language": "PHP",
+    "full_name": "Jonathan H. Wage",
+    "username": "jwage",
+    "location": "Nashville, TN",
+    "join_date": "Jun 20, 2009",
+    "popular_repos_stars": "778",
+    "primary_languages": [
+      "PHP"
+    ],
+    "contributions": 220,
+    "followers": "621"
+  },
+  {
+    "url": "https://github.com/josegonzalez",
+    "language": "PHP",
+    "full_name": "Jose Diaz-Gonzalez",
+    "username": "josegonzalez",
+    "location": "New York, NY",
+    "join_date": "Mar 21, 2009",
+    "popular_repos_stars": "997",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "603"
+  },
+  {
+    "url": "https://github.com/Ocramius",
+    "language": "PHP",
+    "full_name": "Marco Pivetta",
+    "username": "Ocramius",
+    "location": "Germany",
+    "join_date": "Nov 17, 2009",
+    "popular_repos_stars": "500",
+    "primary_languages": [
+      "PHP",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 3,
+    "followers": "592"
+  },
+  {
+    "url": "https://github.com/beberlei",
+    "language": "PHP",
+    "full_name": "Benjamin Eberlei",
+    "username": "beberlei",
+    "location": "Germany",
+    "join_date": "Sep 30, 2008",
+    "popular_repos_stars": "1156",
+    "primary_languages": [
+      "PHP",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 27,
+    "followers": "587"
+  },
+  {
+    "url": "https://github.com/Grafikart",
+    "language": "PHP",
+    "full_name": "",
+    "username": "Grafikart",
+    "location": "Montpellier",
+    "join_date": "Sep 10, 2010",
+    "popular_repos_stars": "335",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 157,
+    "followers": "586"
+  },
+  {
+    "url": "https://github.com/ircmaxell",
+    "language": "PHP",
+    "full_name": "Anthony Ferrara",
+    "username": "ircmaxell",
+    "location": "New York, NY",
+    "join_date": "Mar 9, 2011",
+    "popular_repos_stars": "2117",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 132,
+    "followers": "584"
+  },
+  {
+    "url": "https://github.com/schmittjoh",
+    "language": "PHP",
+    "full_name": "Johannes",
+    "username": "schmittjoh",
+    "location": "",
+    "join_date": "Feb 4, 2010",
+    "popular_repos_stars": "1345",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 480,
+    "followers": "560"
+  },
+  {
+    "url": "https://github.com/tommcfarlin",
+    "language": "PHP",
+    "full_name": "Tom McFarlin",
+    "username": "tommcfarlin",
+    "location": "Atlanta, Georgia",
+    "join_date": "Sep 28, 2009",
+    "popular_repos_stars": "3014",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 353,
+    "followers": "539"
+  },
+  {
+    "url": "https://github.com/willdurand",
+    "language": "PHP",
+    "full_name": "William Durand",
+    "username": "willdurand",
+    "location": "France",
+    "join_date": "Mar 7, 2010",
+    "popular_repos_stars": "1157",
+    "primary_languages": [
+      "PHP",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 2,
+    "followers": "521"
+  },
+  {
+    "url": "https://github.com/samdark",
+    "language": "PHP",
+    "full_name": "Alexander Makarov",
+    "username": "samdark",
+    "location": "Russia",
+    "join_date": "Jan 17, 2009",
+    "popular_repos_stars": "569",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 4,
+    "followers": "517"
+  },
+  {
+    "url": "https://github.com/akrabat",
+    "language": "PHP",
+    "full_name": "Rob Allen",
+    "username": "akrabat",
+    "location": "Worcester, UK",
+    "join_date": "Nov 7, 2008",
+    "popular_repos_stars": "376",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 538,
+    "followers": "512"
+  },
+  {
+    "url": "https://github.com/ornicar",
+    "language": "PHP",
+    "full_name": "Thibault Duplessis",
+    "username": "ornicar",
+    "location": "France",
+    "join_date": "Oct 15, 2009",
+    "popular_repos_stars": "1625",
+    "primary_languages": [
+      "PHP",
+      "Scala",
+      "JavaScript"
+    ],
+    "contributions": 5,
+    "followers": "506"
+  },
+  {
+    "url": "https://github.com/scribu",
+    "language": "PHP",
+    "full_name": "Cristi Burcă",
+    "username": "scribu",
+    "location": "Cluj-Napoca, Romania",
+    "join_date": "Mar 18, 2010",
+    "popular_repos_stars": "1131",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 832,
+    "followers": "504"
+  },
+  {
+    "url": "https://github.com/lsmith77",
+    "language": "PHP",
+    "full_name": "Lukas Kahwe Smith",
+    "username": "lsmith77",
+    "location": "Zurich, Switzerland",
+    "join_date": "Jun 8, 2010",
+    "popular_repos_stars": "56",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 2,
+    "followers": "492"
+  },
+  {
+    "url": "https://github.com/ralphschindler",
+    "language": "PHP",
+    "full_name": "Ralph Schindler",
+    "username": "ralphschindler",
+    "location": "New Orleans, Louisiana",
+    "join_date": "Apr 22, 2009",
+    "popular_repos_stars": "309",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 490,
+    "followers": "478"
+  },
+  {
+    "url": "https://github.com/fzaninotto",
+    "language": "PHP",
+    "full_name": "Francois Zaninotto",
+    "username": "fzaninotto",
+    "location": "Paris, France",
+    "join_date": "Jun 29, 2009",
+    "popular_repos_stars": "7260",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 626,
+    "followers": "478"
+  },
+  {
+    "url": "https://github.com/everzet",
+    "language": "PHP",
+    "full_name": "Konstantin Kudryashov",
+    "username": "everzet",
+    "location": "London, UK",
+    "join_date": "Oct 24, 2008",
+    "popular_repos_stars": "1135",
+    "primary_languages": [
+      "PHP",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 875,
+    "followers": "468"
+  },
+  {
+    "url": "https://github.com/laracasts",
+    "language": "PHP",
+    "full_name": "",
+    "username": "laracasts",
+    "location": "",
+    "join_date": "Nov 1, 2013",
+    "popular_repos_stars": "710",
+    "primary_languages": [
+      "PHP",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 45,
+    "followers": "456"
+  },
+  {
+    "url": "https://github.com/devinsays",
+    "language": "PHP",
+    "full_name": "Devin Price",
+    "username": "devinsays",
+    "location": "Austin, Texas",
+    "join_date": "Oct 7, 2010",
+    "popular_repos_stars": "1426",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 751,
+    "followers": "453"
+  },
+  {
+    "url": "https://github.com/EvanDotPro",
+    "language": "PHP",
+    "full_name": "Evan Coury",
+    "username": "EvanDotPro",
+    "location": "Gilbert, Arizona",
+    "join_date": "Apr 7, 2008",
+    "popular_repos_stars": "334",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 143,
+    "followers": "451"
+  },
+  {
+    "url": "https://github.com/nacin",
+    "language": "PHP",
+    "full_name": "Andrew Nacin",
+    "username": "nacin",
+    "location": "Washington, D.C.",
+    "join_date": "May 10, 2010",
+    "popular_repos_stars": "18",
+    "primary_languages": [
+      "JavaScript",
+      "PHP",
+      "Python"
+    ],
+    "contributions": 1,
+    "followers": "433"
+  },
+  {
+    "url": "https://github.com/tinyfool",
+    "language": "PHP",
+    "full_name": "HaoPeiqiang",
+    "username": "tinyfool",
+    "location": "Shanghai,China",
+    "join_date": "Mar 23, 2010",
+    "popular_repos_stars": "335",
+    "primary_languages": [
+      "CSS",
+      "JavaScript",
+      "PHP"
+    ],
+    "contributions": 623,
+    "followers": "412"
+  },
+  {
+    "url": "https://github.com/guilhermeblanco",
+    "language": "PHP",
+    "full_name": "Guilherme Blanco",
+    "username": "guilhermeblanco",
+    "location": "Toronto, ON, Canada",
+    "join_date": "Feb 22, 2010",
+    "popular_repos_stars": "380",
+    "primary_languages": [
+      "PHP",
+      "Shell",
+      "C"
+    ],
+    "contributions": 342,
+    "followers": "408"
+  },
+  {
+    "url": "https://github.com/ericbarnes",
+    "language": "PHP",
+    "full_name": "Eric Barnes",
+    "username": "ericbarnes",
+    "location": "North Carolina",
+    "join_date": "Aug 18, 2009",
+    "popular_repos_stars": "780",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 283,
+    "followers": "405"
+  },
+  {
+    "url": "https://github.com/pippinsplugins",
+    "language": "PHP",
+    "full_name": "Pippin Williamson",
+    "username": "pippinsplugins",
+    "location": "Hutchinson, KS",
+    "join_date": "Sep 7, 2011",
+    "popular_repos_stars": "220",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 4,
+    "followers": "403"
+  },
+  {
+    "url": "https://github.com/webmozart",
+    "language": "PHP",
+    "full_name": "Bernhard Schussek",
+    "username": "webmozart",
+    "location": "Vienna, Austria",
+    "join_date": "Jan 4, 2010",
+    "popular_repos_stars": "306",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 1,
+    "followers": "388"
+  },
+  {
+    "url": "https://github.com/eminetto",
+    "language": "PHP",
+    "full_name": "Elton Minetto",
+    "username": "eminetto",
+    "location": "Joinville, SC",
+    "join_date": "Feb 5, 2010",
+    "popular_repos_stars": "76",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 291,
+    "followers": "383"
+  },
+  {
+    "url": "https://github.com/weaverryan",
+    "language": "PHP",
+    "full_name": "Ryan Weaver",
+    "username": "weaverryan",
+    "location": "Nashville, TN",
+    "join_date": "Aug 29, 2009",
+    "popular_repos_stars": "97",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 4,
+    "followers": "383"
+  },
+  {
+    "url": "https://github.com/shadowhand",
+    "language": "PHP",
+    "full_name": "Woody Gilk",
+    "username": "shadowhand",
+    "location": "MN, USA",
+    "join_date": "Dec 3, 2008",
+    "popular_repos_stars": "1010",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 564,
+    "followers": "379"
+  },
+  {
+    "url": "https://github.com/jamierumbelow",
+    "language": "PHP",
+    "full_name": "Jamie Rumbelow",
+    "username": "jamierumbelow",
+    "location": "Cambridge, UK",
+    "join_date": "Jan 26, 2009",
+    "popular_repos_stars": "985",
+    "primary_languages": [
+      "PHP",
+      "Ruby",
+      "JavaScript"
+    ],
+    "contributions": 32,
+    "followers": "378"
+  },
+  {
+    "url": "https://github.com/justintadlock",
+    "language": "PHP",
+    "full_name": "Justin Tadlock",
+    "username": "justintadlock",
+    "location": "Alabama",
+    "join_date": "Jun 4, 2012",
+    "popular_repos_stars": "678",
+    "primary_languages": [
+      "PHP",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "374"
+  },
+  {
+    "url": "https://github.com/feelinglucky",
+    "language": "PHP",
+    "full_name": "明城",
+    "username": "feelinglucky",
+    "location": "Hangzhou, China",
+    "join_date": "Aug 24, 2008",
+    "popular_repos_stars": "749",
+    "primary_languages": [
+      "Java",
+      "PHP",
+      "CSS"
+    ],
+    "contributions": 337,
+    "followers": "371"
+  },
+  {
+    "url": "https://github.com/benedmunds",
+    "language": "PHP",
+    "full_name": "Ben Edmunds",
+    "username": "benedmunds",
+    "location": "Portland, OR, USA",
+    "join_date": "Nov 22, 2009",
+    "popular_repos_stars": "1503",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Ruby"
+    ],
+    "contributions": 134,
+    "followers": "361"
+  },
+  {
+    "url": "https://github.com/netojoaobatista",
+    "language": "PHP",
+    "full_name": "João Batista Neto",
+    "username": "netojoaobatista",
+    "location": "Franca/SP - Brazil",
+    "join_date": "May 11, 2010",
+    "popular_repos_stars": "75",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Java"
+    ],
+    "contributions": 75,
+    "followers": "349"
+  },
+  {
+    "url": "https://github.com/jennschiffer",
+    "language": "PHP",
+    "full_name": "your biological dad",
+    "username": "jennschiffer",
+    "location": "Jersey City, NJ",
+    "join_date": "Jul 22, 2010",
+    "popular_repos_stars": "226",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "PHP"
+    ],
+    "contributions": 451,
+    "followers": "346"
+  },
+  {
+    "url": "https://github.com/AD7six",
+    "language": "PHP",
+    "full_name": "Andy Dawson",
+    "username": "AD7six",
+    "location": "Spain",
+    "join_date": "Nov 8, 2008",
+    "popular_repos_stars": "115",
+    "primary_languages": [
+      "PHP",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 480,
+    "followers": "345"
+  },
+  {
+    "url": "https://github.com/mikejolley",
+    "language": "PHP",
+    "full_name": "Mike Jolley",
+    "username": "mikejolley",
+    "location": "England, UK",
+    "join_date": "Jun 2, 2009",
+    "popular_repos_stars": "455",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 2,
+    "followers": "345"
+  },
+  {
+    "url": "https://github.com/ProLoser",
+    "language": "PHP",
+    "full_name": "Dean Sofer",
+    "username": "ProLoser",
+    "location": "San Francisco",
+    "join_date": "Mar 26, 2009",
+    "popular_repos_stars": "256",
+    "primary_languages": [
+      "JavaScript",
+      "PHP",
+      "Shell"
+    ],
+    "contributions": 637,
+    "followers": "342"
+  },
+  {
+    "url": "https://github.com/bastianallgeier",
+    "language": "PHP",
+    "full_name": "Bastian Allgeier",
+    "username": "bastianallgeier",
+    "location": "Mannheim, Germany",
+    "join_date": "Sep 14, 2008",
+    "popular_repos_stars": "1986",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 349,
+    "followers": "341"
+  },
+  {
+    "url": "https://github.com/padraic",
+    "language": "PHP",
+    "full_name": "Pádraic Brady",
+    "username": "padraic",
+    "location": "Ireland",
+    "join_date": "Aug 6, 2008",
+    "popular_repos_stars": "1616",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 41,
+    "followers": "333"
+  },
+  {
+    "url": "https://github.com/iamcal",
+    "language": "PHP",
+    "full_name": "Cal Henderson",
+    "username": "iamcal",
+    "location": "San Francisco, CA",
+    "join_date": "Dec 29, 2009",
+    "popular_repos_stars": "973",
+    "primary_languages": [
+      "PHP",
+      "Perl",
+      "JavaScript"
+    ],
+    "contributions": 313,
+    "followers": "331"
+  },
+  {
+    "url": "https://github.com/avalanche123",
+    "language": "PHP",
+    "full_name": "Bulat Shakirzyanov",
+    "username": "avalanche123",
+    "location": "Emeryville, CA",
+    "join_date": "May 11, 2009",
+    "popular_repos_stars": "2595",
+    "primary_languages": [
+      "Ruby",
+      "PHP",
+      "JavaScript"
+    ],
+    "contributions": 781,
+    "followers": "329"
+  },
+  {
+    "url": "https://github.com/ShawnMcCool",
+    "language": "PHP",
+    "full_name": "Shawn McCool",
+    "username": "ShawnMcCool",
+    "location": "Utrecht, Netherlands",
+    "join_date": "Jan 12, 2011",
+    "popular_repos_stars": "620",
+    "primary_languages": [
+      "PHP",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 1,
+    "followers": "328"
+  },
+  {
+    "url": "https://github.com/dhrrgn",
+    "language": "PHP",
+    "full_name": "Dan Horrigan",
+    "username": "dhrrgn",
+    "location": "Cuyahoga Falls, OH",
+    "join_date": "Nov 6, 2009",
+    "popular_repos_stars": "155",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Ruby"
+    ],
+    "contributions": 202,
+    "followers": "326"
+  },
+  {
+    "url": "https://github.com/TiuTalk",
+    "language": "PHP",
+    "full_name": "Thiago Belem",
+    "username": "TiuTalk",
+    "location": "Rio de Janeiro",
+    "join_date": "Oct 27, 2009",
+    "popular_repos_stars": "33",
+    "primary_languages": [
+      "PHP",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 411,
+    "followers": "325"
+  },
+  {
+    "url": "https://github.com/billerickson",
+    "language": "PHP",
+    "full_name": "Bill Erickson",
+    "username": "billerickson",
+    "location": "Austin, TX",
+    "join_date": "Mar 22, 2011",
+    "popular_repos_stars": "405",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 163,
+    "followers": "323"
+  },
+  {
+    "url": "https://github.com/augustohp",
+    "language": "PHP",
+    "full_name": "Augusto Pascutti",
+    "username": "augustohp",
+    "location": "São Paulo, Sp / Brazil",
+    "join_date": "Jan 23, 2010",
+    "popular_repos_stars": "82",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 324,
+    "followers": "323"
+  },
+  {
+    "url": "https://github.com/lzyy",
+    "language": "PHP",
+    "full_name": "Limboy",
+    "username": "lzyy",
+    "location": "Hangzhou, China",
+    "join_date": "Nov 22, 2008",
+    "popular_repos_stars": "355",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Python"
+    ],
+    "contributions": 45,
+    "followers": "319"
+  },
+  {
+    "url": "https://github.com/vrana",
+    "language": "PHP",
+    "full_name": "Jakub Vrána",
+    "username": "vrana",
+    "location": "",
+    "join_date": "Aug 20, 2009",
+    "popular_repos_stars": "1379",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 189,
+    "followers": "317"
+  },
+  {
+    "url": "https://github.com/dg",
+    "language": "PHP",
+    "full_name": "David Grudl",
+    "username": "dg",
+    "location": "",
+    "join_date": "Feb 2, 2010",
+    "popular_repos_stars": "740",
+    "primary_languages": [
+      "PHP",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 3,
+    "followers": "316"
+  },
+  {
+    "url": "https://github.com/huichen",
+    "language": "PHP",
+    "full_name": "Hui Chen",
+    "username": "huichen",
+    "location": "",
+    "join_date": "Sep 1, 2009",
+    "popular_repos_stars": "980",
+    "primary_languages": [
+      "Go",
+      "C",
+      "C"
+    ],
+    "contributions": 44,
+    "followers": "316"
+  },
+  {
+    "url": "https://github.com/petewarden",
+    "language": "PHP",
+    "full_name": "Pete Warden",
+    "username": "petewarden",
+    "location": "Boulder, CO",
+    "join_date": "Dec 3, 2009",
+    "popular_repos_stars": "1903",
+    "primary_languages": [
+      "PHP",
+      "Python",
+      "JavaScript"
+    ],
+    "contributions": 21,
+    "followers": "299"
+  },
+  {
+    "url": "https://github.com/ptarjan",
+    "language": "PHP",
+    "full_name": "Paul Tarjan",
+    "username": "ptarjan",
+    "location": "",
+    "join_date": "Dec 12, 2008",
+    "popular_repos_stars": "280",
+    "primary_languages": [
+      "PHP",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 908,
+    "followers": "299"
+  },
+  {
+    "url": "https://github.com/easychen",
+    "language": "PHP",
+    "full_name": "Easy",
+    "username": "easychen",
+    "location": "Beijing,China",
+    "join_date": "Dec 30, 2011",
+    "popular_repos_stars": "1092",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 90,
+    "followers": "294"
+  },
+  {
+    "url": "https://github.com/bgardner",
+    "language": "PHP",
+    "full_name": "Brian Gardner",
+    "username": "bgardner",
+    "location": "Chicago, IL",
+    "join_date": "Nov 17, 2010",
+    "popular_repos_stars": "24",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 53,
+    "followers": "291"
+  },
+  {
+    "url": "https://github.com/elliothaughin",
+    "language": "PHP",
+    "full_name": "Elliot Haughin",
+    "username": "elliothaughin",
+    "location": "Barrow-in-Furness",
+    "join_date": "Jan 2, 2009",
+    "popular_repos_stars": "650",
+    "primary_languages": [
+      "PHP",
+      "Python"
+    ],
+    "contributions": 0,
+    "followers": "289"
+  },
+  {
+    "url": "https://github.com/Zizaco",
+    "language": "PHP",
+    "full_name": "Zizaco",
+    "username": "Zizaco",
+    "location": "",
+    "join_date": "May 9, 2011",
+    "popular_repos_stars": "1622",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 549,
+    "followers": "285"
+  },
+  {
+    "url": "https://github.com/jmathai",
+    "language": "PHP",
+    "full_name": "Jaisen Mathai",
+    "username": "jmathai",
+    "location": "San Francisco / Sunnyvale, CA USA",
+    "join_date": "Apr 10, 2008",
+    "popular_repos_stars": "1508",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 297,
+    "followers": "281"
+  },
+  {
+    "url": "https://github.com/kvz",
+    "language": "PHP",
+    "full_name": "Kevin van Zonneveld",
+    "username": "kvz",
+    "location": "Amsterdam, The Netherlands",
+    "join_date": "Sep 29, 2008",
+    "popular_repos_stars": "2059",
+    "primary_languages": [
+      "JavaScript",
+      "Shell",
+      "PHP"
+    ],
+    "contributions": 807,
+    "followers": "279"
+  },
+  {
+    "url": "https://github.com/fbrnc",
+    "language": "PHP",
+    "full_name": "Fabrizio Branca",
+    "username": "fbrnc",
+    "location": "San Francisco",
+    "join_date": "Nov 5, 2010",
+    "popular_repos_stars": "288",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 39,
+    "followers": "278"
+  },
+  {
+    "url": "https://github.com/lorenzo",
+    "language": "PHP",
+    "full_name": "José Lorenzo Rodríguez",
+    "username": "lorenzo",
+    "location": "Copenhagen, Denmark",
+    "join_date": "Dec 1, 2008",
+    "popular_repos_stars": "131",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "277"
+  },
+  {
+    "url": "https://github.com/Xeoncross",
+    "language": "PHP",
+    "full_name": "David Pennington",
+    "username": "Xeoncross",
+    "location": "Dallas, Texas",
+    "join_date": "Feb 20, 2009",
+    "popular_repos_stars": "1675",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 161,
+    "followers": "275"
+  },
+  {
+    "url": "https://github.com/jasonlewis",
+    "language": "PHP",
+    "full_name": "Jason Lewis",
+    "username": "jasonlewis",
+    "location": "Australia",
+    "join_date": "Jun 4, 2011",
+    "popular_repos_stars": "749",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 466,
+    "followers": "271"
+  },
+  {
+    "url": "https://github.com/colinmollenhour",
+    "language": "PHP",
+    "full_name": "Colin Mollenhour",
+    "username": "colinmollenhour",
+    "location": "Tennessee",
+    "join_date": "Dec 6, 2008",
+    "popular_repos_stars": "969",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 212,
+    "followers": "268"
+  },
+  {
+    "url": "https://github.com/javiereguiluz",
+    "language": "PHP",
+    "full_name": "Javier Eguiluz",
+    "username": "javiereguiluz",
+    "location": "Paris (France) & Vitoria-Gasteiz (Spain)",
+    "join_date": "Apr 13, 2009",
+    "popular_repos_stars": "826",
+    "primary_languages": [
+      "PHP",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 409,
+    "followers": "267"
+  },
+  {
+    "url": "https://github.com/nateabele",
+    "language": "PHP",
+    "full_name": "Nate Abele",
+    "username": "nateabele",
+    "location": "Philadelphia, PA",
+    "join_date": "Jul 24, 2008",
+    "popular_repos_stars": "72",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 473,
+    "followers": "262"
+  },
+  {
+    "url": "https://github.com/naderman",
+    "language": "PHP",
+    "full_name": "Nils Adermann",
+    "username": "naderman",
+    "location": "Berlin, Germany",
+    "join_date": "Nov 18, 2009",
+    "popular_repos_stars": "64",
+    "primary_languages": [
+      "PHP",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 899,
+    "followers": "261"
+  },
+  {
+    "url": "https://github.com/liu21st",
+    "language": "PHP",
+    "full_name": "ThinkPHP",
+    "username": "liu21st",
+    "location": "ShangHai,China",
+    "join_date": "Oct 7, 2011",
+    "popular_repos_stars": "938",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 525,
+    "followers": "260"
+  },
+  {
+    "url": "https://github.com/tuupola",
+    "language": "PHP",
+    "full_name": "Mika Tuupola",
+    "username": "tuupola",
+    "location": "Tallinn, Estonia",
+    "join_date": "Aug 25, 2008",
+    "popular_repos_stars": "5180",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Ruby"
+    ],
+    "contributions": 238,
+    "followers": "258"
+  },
+  {
+    "url": "https://github.com/appleboy",
+    "language": "PHP",
+    "full_name": "Bo-Yi Wu",
+    "username": "appleboy",
+    "location": "Hsinchu of Taiwan",
+    "join_date": "Aug 25, 2008",
+    "popular_repos_stars": "229",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "PHP"
+    ],
+    "contributions": 2,
+    "followers": "255"
+  },
+  {
+    "url": "https://github.com/mfields",
+    "language": "PHP",
+    "full_name": "Michael Fields",
+    "username": "mfields",
+    "location": "Portland, Oregon, USA",
+    "join_date": "Nov 4, 2010",
+    "popular_repos_stars": "109",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 16,
+    "followers": "253"
+  },
+  {
+    "url": "https://github.com/panique",
+    "language": "PHP",
+    "full_name": "panique",
+    "username": "panique",
+    "location": "Berlin",
+    "join_date": "Nov 21, 2009",
+    "popular_repos_stars": "2038",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 894,
+    "followers": "253"
+  },
+  {
+    "url": "https://github.com/claudiosmweb",
+    "language": "PHP",
+    "full_name": "Claudio Sanches",
+    "username": "claudiosmweb",
+    "location": "São Paulo, Brazil",
+    "join_date": "Dec 14, 2011",
+    "popular_repos_stars": "135",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 2,
+    "followers": "252"
+  },
+  {
+    "url": "https://github.com/jlukic",
+    "language": "PHP",
+    "full_name": "Jack Lukic",
+    "username": "jlukic",
+    "location": "Brooklyn",
+    "join_date": "Sep 4, 2008",
+    "popular_repos_stars": "28",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "PHP"
+    ],
+    "contributions": 4,
+    "followers": "249"
+  },
+  {
+    "url": "https://github.com/retlehs",
+    "language": "PHP",
+    "full_name": "Ben Word",
+    "username": "retlehs",
+    "location": "",
+    "join_date": "Aug 16, 2009",
+    "popular_repos_stars": "7",
+    "primary_languages": [
+      "VimL",
+      "Shell"
+    ],
+    "contributions": 314,
+    "followers": "247"
+  },
+  {
+    "url": "https://github.com/barryvdh",
+    "language": "PHP",
+    "full_name": "Barry vd. Heuvel",
+    "username": "barryvdh",
+    "location": "Eindhoven, the Netherlands",
+    "join_date": "Aug 11, 2011",
+    "popular_repos_stars": "2596",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 958,
+    "followers": "247"
+  },
+  {
+    "url": "https://github.com/fideloper",
+    "language": "PHP",
+    "full_name": "Chris Fidao",
+    "username": "fideloper",
+    "location": "New Haven, CT",
+    "join_date": "Nov 4, 2010",
+    "popular_repos_stars": "1139",
+    "primary_languages": [
+      "PHP",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "247"
+  }
+]

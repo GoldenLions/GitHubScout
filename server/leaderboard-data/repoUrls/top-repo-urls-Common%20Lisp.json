@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/google/lisp-koans",
+    "size": 545,
+    "language": "Common Lisp"
+  },
+  {
+    "url": "https://github.com/arclanguage/anarki",
+    "size": 4746,
+    "language": "Arc"
+  },
+  {
+    "url": "https://github.com/orangeduck/BuildYourOwnLisp",
+    "size": 14666,
+    "language": "C"
+  },
+  {
+    "url": "https://github.com/rvirding/lfe",
+    "size": 4947,
+    "language": "Erlang"
+  },
+  {
+    "url": "https://github.com/kvalle/diy-lisp",
+    "size": 1095,
+    "language": "Python"
+  },
+  {
+    "url": "https://github.com/eudoxia0/corvus",
+    "size": 7669,
+    "language": "Common Lisp"
+  },
+  {
+    "url": "https://github.com/sbcl/sbcl",
+    "size": 42776,
+    "language": "Common Lisp"
+  },
+  {
+    "url": "https://github.com/whily/yalo",
+    "size": 447,
+    "language": "Common Lisp"
+  },
+  {
+    "url": "https://github.com/lantiga/ki",
+    "size": 1298,
+    "language": "JavaScript"
+  },
+  {
+    "url": "https://github.com/eudoxia0/cmacro",
+    "size": 959,
+    "language": "Common Lisp"
+  },
+  {
+    "url": "https://github.com/shinh/sedlisp",
+    "size": 226,
+    "language": "Ruby"
+  },
+  {
+    "url": "https://github.com/fukamachi/clack",
+    "size": 1714,
+    "language": "Common Lisp"
+  },
+  {
+    "url": "https://github.com/slime/slime",
+    "size": 12725,
+    "language": "Common Lisp"
+  },
+  {
+    "url": "https://github.com/santoshrajan/lispyscript",
+    "size": 832,
+    "language": "JavaScript"
+  },
+  {
+    "url": "https://github.com/JeffBezanson/femtolisp",
+    "size": 1948,
+    "language": "Scheme"
+  },
+  {
+    "url": "https://github.com/edicl/hunchentoot",
+    "size": 1986,
+    "language": "Common Lisp"
+  },
+  {
+    "url": "https://github.com/jbr/sibilant",
+    "size": 1449,
+    "language": "JavaScript"
+  },
+  {
+    "url": "https://github.com/maryrosecook/littlelisp",
+    "size": 265,
+    "language": "JavaScript"
+  },
+  {
+    "url": "https://github.com/r0man/sablono",
+    "size": 1589,
+    "language": "Clojure"
+  },
+  {
+    "url": "https://github.com/joxa/joxa",
+    "size": 8928,
+    "language": "Erlang"
+  }
+]

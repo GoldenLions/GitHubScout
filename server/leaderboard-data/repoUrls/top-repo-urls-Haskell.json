@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/jgm/pandoc",
+    "size": 38364,
+    "language": "Haskell"
+  },
+  {
+    "url": "https://github.com/elm-lang/Elm",
+    "size": 13491,
+    "language": "Haskell"
+  },
+  {
+    "url": "https://github.com/facebook/Haxl",
+    "size": 1277,
+    "language": "Haskell"
+  },
+  {
+    "url": "https://github.com/koalaman/shellcheck",
+    "size": 5856,
+    "language": "Haskell"
+  },
+  {
+    "url": "https://github.com/yesodweb/yesod",
+    "size": 22755,
+    "language": "Haskell"
+  },
+  {
+    "url": "https://github.com/faylang/fay",
+    "size": 8502,
+    "language": "Haskell"
+  },
+  {
+    "url": "https://github.com/jgm/gitit",
+    "size": 4021,
+    "language": "Haskell"
+  },
+  {
+    "url": "https://github.com/joeyh/git-annex",
+    "size": 84413,
+    "language": "Haskell"
+  },
+  {
+    "url": "https://github.com/jaspervdj/hakyll",
+    "size": 20149,
+    "language": "Haskell"
+  },
+  {
+    "url": "https://github.com/purescript/purescript",
+    "size": 11447,
+    "language": "Haskell"
+  },
+  {
+    "url": "https://github.com/ghc/ghc",
+    "size": 155424,
+    "language": "Haskell"
+  },
+  {
+    "url": "https://github.com/valderman/haste-compiler",
+    "size": 4095,
+    "language": "Haskell"
+  },
+  {
+    "url": "https://github.com/ghcjs/ghcjs",
+    "size": 7466,
+    "language": "Haskell"
+  },
+  {
+    "url": "https://github.com/yi-editor/yi",
+    "size": 35582,
+    "language": "Haskell"
+  },
+  {
+    "url": "https://github.com/gibiansky/IHaskell",
+    "size": 6817,
+    "language": "Haskell"
+  },
+  {
+    "url": "https://github.com/awgn/cgrep",
+    "size": 1786,
+    "language": "Haskell"
+  },
+  {
+    "url": "https://github.com/scotty-web/scotty",
+    "size": 1925,
+    "language": "Haskell"
+  },
+  {
+    "url": "https://github.com/xmonad/osxmonad",
+    "size": 205,
+    "language": "Haskell"
+  },
+  {
+    "url": "https://github.com/ekmett/lens",
+    "size": 40676,
+    "language": "Haskell"
+  },
+  {
+    "url": "https://github.com/bos/stanford-cs240h",
+    "size": 643,
+    "language": "Haskell"
+  }
+]

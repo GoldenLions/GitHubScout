@@ -1,0 +1,1608 @@
+[
+  {
+    "url": "https://github.com/ibdknox",
+    "language": "Clojure",
+    "full_name": "Chris Granger",
+    "username": "ibdknox",
+    "location": "",
+    "join_date": "Apr 2, 2009",
+    "popular_repos_stars": "1218",
+    "primary_languages": [
+      "Clojure",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 595,
+    "followers": "1.9k"
+  },
+  {
+    "url": "https://github.com/nathanmarz",
+    "language": "Clojure",
+    "full_name": "Nathan Marz",
+    "username": "nathanmarz",
+    "location": "San Francisco",
+    "join_date": "Sep 25, 2009",
+    "popular_repos_stars": "11035",
+    "primary_languages": [
+      "Clojure",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 24,
+    "followers": "1.9k"
+  },
+  {
+    "url": "https://github.com/richhickey",
+    "language": "Clojure",
+    "full_name": "Rich Hickey",
+    "username": "richhickey",
+    "location": "NY",
+    "join_date": "Nov 12, 2008",
+    "popular_repos_stars": "1907",
+    "primary_languages": [
+      "Clojure",
+      "Java",
+      "C"
+    ],
+    "contributions": 71,
+    "followers": "1.8k"
+  },
+  {
+    "url": "https://github.com/swannodette",
+    "language": "Clojure",
+    "full_name": "David Nolen",
+    "username": "swannodette",
+    "location": "New York",
+    "join_date": "Jun 12, 2008",
+    "popular_repos_stars": "5000",
+    "primary_languages": [
+      "Clojure",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 2,
+    "followers": "1.3k"
+  },
+  {
+    "url": "https://github.com/technomancy",
+    "language": "Clojure",
+    "full_name": "Phil Hagelberg",
+    "username": "technomancy",
+    "location": "",
+    "join_date": "Feb 4, 2008",
+    "popular_repos_stars": "6833",
+    "primary_languages": [
+      "Clojure",
+      "Emacs",
+      "Lisp",
+      "Shell"
+    ],
+    "contributions": 956,
+    "followers": "1.1k"
+  },
+  {
+    "url": "https://github.com/fogus",
+    "language": "Clojure",
+    "full_name": "Fogus",
+    "username": "fogus",
+    "location": "DC",
+    "join_date": "Jun 4, 2008",
+    "popular_repos_stars": "1012",
+    "primary_languages": [
+      "Clojure",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 1,
+    "followers": "761"
+  },
+  {
+    "url": "https://github.com/tavisrudd",
+    "language": "Clojure",
+    "full_name": "Tavis Rudd",
+    "username": "tavisrudd",
+    "location": "Vancouver",
+    "join_date": "Apr 4, 2010",
+    "popular_repos_stars": "114",
+    "primary_languages": [
+      "Shell",
+      "Clojure",
+      "Python"
+    ],
+    "contributions": 302,
+    "followers": "675"
+  },
+  {
+    "url": "https://github.com/stuarthalloway",
+    "language": "Clojure",
+    "full_name": "Stuart Halloway",
+    "username": "stuarthalloway",
+    "location": "Chapel Hill, NC",
+    "join_date": "Mar 8, 2008",
+    "popular_repos_stars": "733",
+    "primary_languages": [
+      "Clojure",
+      "Ruby",
+      "JavaScript"
+    ],
+    "contributions": 41,
+    "followers": "579"
+  },
+  {
+    "url": "https://github.com/mmcgrana",
+    "language": "Clojure",
+    "full_name": "Mark McGranaghan",
+    "username": "mmcgrana",
+    "location": "San Francisco, CA",
+    "join_date": "Mar 6, 2008",
+    "popular_repos_stars": "3266",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "Go"
+    ],
+    "contributions": 776,
+    "followers": "510"
+  },
+  {
+    "url": "https://github.com/ztellman",
+    "language": "Clojure",
+    "full_name": "Zach Tellman",
+    "username": "ztellman",
+    "location": "San Francisco, CA",
+    "join_date": "Oct 27, 2008",
+    "popular_repos_stars": "2655",
+    "primary_languages": [
+      "Clojure",
+      "Java",
+      "C"
+    ],
+    "contributions": 559,
+    "followers": "504"
+  },
+  {
+    "url": "https://github.com/weavejester",
+    "language": "Clojure",
+    "full_name": "James Reeves",
+    "username": "weavejester",
+    "location": "London, UK",
+    "join_date": "Apr 28, 2008",
+    "popular_repos_stars": "3777",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "484"
+  },
+  {
+    "url": "https://github.com/xumingming",
+    "language": "Clojure",
+    "full_name": "James Xu",
+    "username": "xumingming",
+    "location": "HangZhou, ZheJiang, China",
+    "join_date": "Aug 29, 2010",
+    "popular_repos_stars": "79",
+    "primary_languages": [
+      "Clojure",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 138,
+    "followers": "459"
+  },
+  {
+    "url": "https://github.com/pcalcado",
+    "language": "Clojure",
+    "full_name": "Phil Calçado",
+    "username": "pcalcado",
+    "location": "Berlin",
+    "join_date": "Apr 17, 2008",
+    "popular_repos_stars": "44",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 21,
+    "followers": "321"
+  },
+  {
+    "url": "https://github.com/stuartsierra",
+    "language": "Clojure",
+    "full_name": "Stuart Sierra",
+    "username": "stuartsierra",
+    "location": "New York, NY",
+    "join_date": "Jun 13, 2009",
+    "popular_repos_stars": "962",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 239,
+    "followers": "301"
+  },
+  {
+    "url": "https://github.com/cgrand",
+    "language": "Clojure",
+    "full_name": "Christophe Grand",
+    "username": "cgrand",
+    "location": "Saint-Étienne, France",
+    "join_date": "Jan 16, 2009",
+    "popular_repos_stars": "1619",
+    "primary_languages": [
+      "Clojure",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 166,
+    "followers": "292"
+  },
+  {
+    "url": "https://github.com/samaaron",
+    "language": "Clojure",
+    "full_name": "Sam Aaron",
+    "username": "samaaron",
+    "location": "Cambridge, UK",
+    "join_date": "Feb 18, 2008",
+    "popular_repos_stars": "221",
+    "primary_languages": [
+      "Clojure",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "290"
+  },
+  {
+    "url": "https://github.com/Raynes",
+    "language": "Clojure",
+    "full_name": "Anthony Grimes",
+    "username": "Raynes",
+    "location": "Los Angeles, CA",
+    "join_date": "Feb 13, 2009",
+    "popular_repos_stars": "882",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 339,
+    "followers": "284"
+  },
+  {
+    "url": "https://github.com/cemerick",
+    "language": "Clojure",
+    "full_name": "Chas Emerick",
+    "username": "cemerick",
+    "location": "Among the trees, MA",
+    "join_date": "Jan 18, 2009",
+    "popular_repos_stars": "1914",
+    "primary_languages": [
+      "Clojure",
+      "JavaScript",
+      "Java"
+    ],
+    "contributions": 597,
+    "followers": "271"
+  },
+  {
+    "url": "https://github.com/KirinDave",
+    "language": "Clojure",
+    "full_name": "Dave Fayram",
+    "username": "KirinDave",
+    "location": "San Francisco, CA",
+    "join_date": "Jan 19, 2008",
+    "popular_repos_stars": "388",
+    "primary_languages": [
+      "Ruby",
+      "Erlang",
+      "JavaScript"
+    ],
+    "contributions": 126,
+    "followers": "256"
+  },
+  {
+    "url": "https://github.com/lynaghk",
+    "language": "Clojure",
+    "full_name": "Kevin Lynagh",
+    "username": "lynaghk",
+    "location": "Portland, Oregon",
+    "join_date": "Nov 2, 2009",
+    "popular_repos_stars": "1250",
+    "primary_languages": [
+      "Clojure",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 90,
+    "followers": "244"
+  },
+  {
+    "url": "https://github.com/sunng87",
+    "language": "Clojure",
+    "full_name": "Sun Ning",
+    "username": "sunng87",
+    "location": "Beijing, China",
+    "join_date": "Mar 13, 2010",
+    "popular_repos_stars": "608",
+    "primary_languages": [
+      "Clojure",
+      "JavaScript",
+      "Java"
+    ],
+    "contributions": 548,
+    "followers": "233"
+  },
+  {
+    "url": "https://github.com/alexott",
+    "language": "Clojure",
+    "full_name": "Alex Ott",
+    "username": "alexott",
+    "location": "Paderborn, Germany",
+    "join_date": "Oct 22, 2008",
+    "popular_repos_stars": "436",
+    "primary_languages": [
+      "Clojure",
+      "Emacs",
+      "Lisp",
+      "Shell"
+    ],
+    "contributions": 340,
+    "followers": "225"
+  },
+  {
+    "url": "https://github.com/ghoseb",
+    "language": "Clojure",
+    "full_name": "Baishampayan Ghose",
+    "username": "ghoseb",
+    "location": "San Francisco, CA / Pune, India",
+    "join_date": "Feb 27, 2008",
+    "popular_repos_stars": "197",
+    "primary_languages": [
+      "Clojure",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 51,
+    "followers": "224"
+  },
+  {
+    "url": "https://github.com/seancorfield",
+    "language": "Clojure",
+    "full_name": "Sean Corfield",
+    "username": "seancorfield",
+    "location": "Bay Area, California",
+    "join_date": "Jan 2, 2009",
+    "popular_repos_stars": "105",
+    "primary_languages": [
+      "Clojure",
+      "ColdFusion",
+      "JavaScript"
+    ],
+    "contributions": 673,
+    "followers": "218"
+  },
+  {
+    "url": "https://github.com/halgari",
+    "language": "Clojure",
+    "full_name": "Timothy Baldridge",
+    "username": "halgari",
+    "location": "Denver, CO",
+    "join_date": "Mar 6, 2011",
+    "popular_repos_stars": "1164",
+    "primary_languages": [
+      "Clojure",
+      "Python",
+      "JavaScript"
+    ],
+    "contributions": 96,
+    "followers": "195"
+  },
+  {
+    "url": "https://github.com/ptaoussanis",
+    "language": "Clojure",
+    "full_name": "Peter Taoussanis",
+    "username": "ptaoussanis",
+    "location": "Chiang Mai, Thailand (via Johannesburg, South Africa)",
+    "join_date": "Nov 30, 2009",
+    "popular_repos_stars": "1668",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 1,
+    "followers": "188"
+  },
+  {
+    "url": "https://github.com/abedra",
+    "language": "Clojure",
+    "full_name": "Aaron Bedra",
+    "username": "abedra",
+    "location": "Chicago, IL",
+    "join_date": "Mar 3, 2008",
+    "popular_repos_stars": "239",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 488,
+    "followers": "187"
+  },
+  {
+    "url": "https://github.com/gigasquid",
+    "language": "Clojure",
+    "full_name": "Carin Meier",
+    "username": "gigasquid",
+    "location": "Cincinnati, OH",
+    "join_date": "Jul 21, 2010",
+    "popular_repos_stars": "298",
+    "primary_languages": [
+      "Clojure",
+      "JavaScript",
+      "Ruby"
+    ],
+    "contributions": 179,
+    "followers": "184"
+  },
+  {
+    "url": "https://github.com/Chouser",
+    "language": "Clojure",
+    "full_name": "Chris Houser",
+    "username": "Chouser",
+    "location": "",
+    "join_date": "Nov 22, 2008",
+    "popular_repos_stars": "205",
+    "primary_languages": [
+      "Clojure",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 140,
+    "followers": "182"
+  },
+  {
+    "url": "https://github.com/liebke",
+    "language": "Clojure",
+    "full_name": "David Edgar Liebke",
+    "username": "liebke",
+    "location": "Washington, D.C.",
+    "join_date": "Mar 11, 2009",
+    "popular_repos_stars": "770",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 6,
+    "followers": "168"
+  },
+  {
+    "url": "https://github.com/alandipert",
+    "language": "Clojure",
+    "full_name": "Alan Dipert",
+    "username": "alandipert",
+    "location": "Durham, NC",
+    "join_date": "Sep 23, 2008",
+    "popular_repos_stars": "662",
+    "primary_languages": [
+      "Clojure",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 312,
+    "followers": "162"
+  },
+  {
+    "url": "https://github.com/mikera",
+    "language": "Clojure",
+    "full_name": "Mike Anderson",
+    "username": "mikera",
+    "location": "UK",
+    "join_date": "Feb 27, 2010",
+    "popular_repos_stars": "632",
+    "primary_languages": [
+      "Clojure",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 3,
+    "followers": "148"
+  },
+  {
+    "url": "https://github.com/sritchie",
+    "language": "Clojure",
+    "full_name": "Sam Ritchie",
+    "username": "sritchie",
+    "location": "Boulder, CO",
+    "join_date": "Apr 1, 2009",
+    "popular_repos_stars": "151",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 582,
+    "followers": "146"
+  },
+  {
+    "url": "https://github.com/yogthos",
+    "language": "Clojure",
+    "full_name": "Dmitri Sotnikov",
+    "username": "yogthos",
+    "location": "",
+    "join_date": "Aug 30, 2009",
+    "popular_repos_stars": "767",
+    "primary_languages": [
+      "Clojure",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "146"
+  },
+  {
+    "url": "https://github.com/jamii",
+    "language": "Clojure",
+    "full_name": "Jamie Brandon",
+    "username": "jamii",
+    "location": "Nomadic",
+    "join_date": "Jul 22, 2010",
+    "popular_repos_stars": "288",
+    "primary_languages": [
+      "Clojure",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 405,
+    "followers": "144"
+  },
+  {
+    "url": "https://github.com/frenchy64",
+    "language": "Clojure",
+    "full_name": "Ambrose Bonnaire-Sergeant",
+    "username": "frenchy64",
+    "location": "Perth, Western Australia",
+    "join_date": "May 25, 2010",
+    "popular_repos_stars": "539",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "TeX"
+    ],
+    "contributions": 1,
+    "followers": "144"
+  },
+  {
+    "url": "https://github.com/aria42",
+    "language": "Clojure",
+    "full_name": "Aria Haghighi",
+    "username": "aria42",
+    "location": "San Francisco, CA",
+    "join_date": "Oct 26, 2008",
+    "popular_repos_stars": "238",
+    "primary_languages": [
+      "Clojure",
+      "Java",
+      "VimL"
+    ],
+    "contributions": 23,
+    "followers": "137"
+  },
+  {
+    "url": "https://github.com/nakkaya",
+    "language": "Clojure",
+    "full_name": "Nurullah Akkaya",
+    "username": "nakkaya",
+    "location": "Turkiye",
+    "join_date": "May 25, 2009",
+    "popular_repos_stars": "382",
+    "primary_languages": [
+      "Clojure",
+      "C",
+      "Shell"
+    ],
+    "contributions": 402,
+    "followers": "137"
+  },
+  {
+    "url": "https://github.com/marick",
+    "language": "Clojure",
+    "full_name": "Brian Marick",
+    "username": "marick",
+    "location": "Champaign, IL USA",
+    "join_date": "Apr 8, 2009",
+    "popular_repos_stars": "1185",
+    "primary_languages": [
+      "Clojure",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 49,
+    "followers": "134"
+  },
+  {
+    "url": "https://github.com/antoniogarrote",
+    "language": "Clojure",
+    "full_name": "Antonio Garrote",
+    "username": "antoniogarrote",
+    "location": "London UK / Salamanca Spain",
+    "join_date": "Apr 23, 2008",
+    "popular_repos_stars": "552",
+    "primary_languages": [
+      "Clojure",
+      "JavaScript",
+      "Ruby"
+    ],
+    "contributions": 58,
+    "followers": "133"
+  },
+  {
+    "url": "https://github.com/zachallaun",
+    "language": "Clojure",
+    "full_name": "Zach Allaun",
+    "username": "zachallaun",
+    "location": "Brooklyn, NY",
+    "join_date": "Nov 30, 2010",
+    "popular_repos_stars": "116",
+    "primary_languages": [
+      "Clojure",
+      "Python",
+      "JavaScript"
+    ],
+    "contributions": 949,
+    "followers": "133"
+  },
+  {
+    "url": "https://github.com/dakrone",
+    "language": "Clojure",
+    "full_name": "Lee Hinman",
+    "username": "dakrone",
+    "location": "Amsterdam, NL",
+    "join_date": "Jul 30, 2008",
+    "popular_repos_stars": "1543",
+    "primary_languages": [
+      "Clojure",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 845,
+    "followers": "126"
+  },
+  {
+    "url": "https://github.com/brandonbloom",
+    "language": "Clojure",
+    "full_name": "Brandon Bloom",
+    "username": "brandonbloom",
+    "location": "New York, NY",
+    "join_date": "Aug 24, 2009",
+    "popular_repos_stars": "405",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "125"
+  },
+  {
+    "url": "https://github.com/postspectacular",
+    "language": "Clojure",
+    "full_name": "Karsten Schmidt",
+    "username": "postspectacular",
+    "location": "London",
+    "join_date": "Feb 6, 2009",
+    "popular_repos_stars": "101",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "121"
+  },
+  {
+    "url": "https://github.com/myfreeweb",
+    "language": "Clojure",
+    "full_name": "Greg V",
+    "username": "myfreeweb",
+    "location": "Russia",
+    "join_date": "Feb 22, 2010",
+    "popular_repos_stars": "682",
+    "primary_languages": [
+      "JavaScript",
+      "Python",
+      "Ruby"
+    ],
+    "contributions": 904,
+    "followers": "119"
+  },
+  {
+    "url": "https://github.com/brentonashworth",
+    "language": "Clojure",
+    "full_name": "Brenton Ashworth",
+    "username": "brentonashworth",
+    "location": "Durham, North Carolina",
+    "join_date": "Dec 2, 2009",
+    "popular_repos_stars": "1063",
+    "primary_languages": [
+      "Clojure",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 184,
+    "followers": "112"
+  },
+  {
+    "url": "https://github.com/amitrathore",
+    "language": "Clojure",
+    "full_name": "Amit Rathore",
+    "username": "amitrathore",
+    "location": "Bay Area, CA",
+    "join_date": "Apr 7, 2008",
+    "popular_repos_stars": "282",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 0,
+    "followers": "111"
+  },
+  {
+    "url": "https://github.com/slagyr",
+    "language": "Clojure",
+    "full_name": "Micah Martin",
+    "username": "slagyr",
+    "location": "Libertyville, IL",
+    "join_date": "May 31, 2008",
+    "popular_repos_stars": "497",
+    "primary_languages": [
+      "Clojure",
+      "Ruby",
+      "JavaScript"
+    ],
+    "contributions": 125,
+    "followers": "106"
+  },
+  {
+    "url": "https://github.com/devn",
+    "language": "Clojure",
+    "full_name": "Devin Walters",
+    "username": "devn",
+    "location": "Madison, WI",
+    "join_date": "May 15, 2008",
+    "popular_repos_stars": "99",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 185,
+    "followers": "105"
+  },
+  {
+    "url": "https://github.com/puredanger",
+    "language": "Clojure",
+    "full_name": "Alex Miller",
+    "username": "puredanger",
+    "location": "St. Louis, MO",
+    "join_date": "Dec 22, 2009",
+    "popular_repos_stars": "33",
+    "primary_languages": [
+      "Clojure",
+      "Java",
+      "Ruby"
+    ],
+    "contributions": 387,
+    "followers": "101"
+  },
+  {
+    "url": "https://github.com/hugoduncan",
+    "language": "Clojure",
+    "full_name": "Hugo Duncan",
+    "username": "hugoduncan",
+    "location": "",
+    "join_date": "Feb 12, 2009",
+    "popular_repos_stars": "610",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "96"
+  },
+  {
+    "url": "https://github.com/tonsky",
+    "language": "Clojure",
+    "full_name": "Nikita Prokopov",
+    "username": "tonsky",
+    "location": "Novosibirsk, Russia",
+    "join_date": "May 23, 2010",
+    "popular_repos_stars": "746",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 189,
+    "followers": "96"
+  },
+  {
+    "url": "https://github.com/daveray",
+    "language": "Clojure",
+    "full_name": "Dave Ray",
+    "username": "daveray",
+    "location": "In the Redwoods, CA",
+    "join_date": "Feb 3, 2009",
+    "popular_repos_stars": "1021",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 163,
+    "followers": "95"
+  },
+  {
+    "url": "https://github.com/ninjudd",
+    "language": "Clojure",
+    "full_name": "Justin Balthrop",
+    "username": "ninjudd",
+    "location": "Los Angeles/San Francisco",
+    "join_date": "May 31, 2008",
+    "popular_repos_stars": "1599",
+    "primary_languages": [
+      "Clojure",
+      "Ruby",
+      "JavaScript"
+    ],
+    "contributions": 164,
+    "followers": "94"
+  },
+  {
+    "url": "https://github.com/ctford",
+    "language": "Clojure",
+    "full_name": "Chris Ford",
+    "username": "ctford",
+    "location": "UK",
+    "join_date": "Aug 31, 2009",
+    "popular_repos_stars": "288",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 938,
+    "followers": "92"
+  },
+  {
+    "url": "https://github.com/hraberg",
+    "language": "Clojure",
+    "full_name": "Håkan Råberg",
+    "username": "hraberg",
+    "location": "London",
+    "join_date": "Mar 29, 2010",
+    "popular_repos_stars": "667",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 15,
+    "followers": "91"
+  },
+  {
+    "url": "https://github.com/amalloy",
+    "language": "Clojure",
+    "full_name": "Alan Malloy",
+    "username": "amalloy",
+    "location": "Santa Monica, CA",
+    "join_date": "Aug 18, 2010",
+    "popular_repos_stars": "300",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 238,
+    "followers": "90"
+  },
+  {
+    "url": "https://github.com/joyofclojure",
+    "language": "Clojure",
+    "full_name": "Joy O'Clojure",
+    "username": "joyofclojure",
+    "location": "Earth",
+    "join_date": "Apr 17, 2011",
+    "popular_repos_stars": "251",
+    "primary_languages": [
+      "Clojure",
+      "JavaScript",
+      "Ruby"
+    ],
+    "contributions": 0,
+    "followers": "89"
+  },
+  {
+    "url": "https://github.com/owainlewis",
+    "language": "Clojure",
+    "full_name": "Owain Lewis",
+    "username": "owainlewis",
+    "location": "UK",
+    "join_date": "Apr 16, 2011",
+    "popular_repos_stars": "388",
+    "primary_languages": [
+      "Clojure",
+      "Haskell",
+      "Scala"
+    ],
+    "contributions": 1,
+    "followers": "89"
+  },
+  {
+    "url": "https://github.com/trptcolin",
+    "language": "Clojure",
+    "full_name": "Colin Jones",
+    "username": "trptcolin",
+    "location": "Mundelein, IL",
+    "join_date": "Jun 25, 2008",
+    "popular_repos_stars": "336",
+    "primary_languages": [
+      "Clojure",
+      "Ruby",
+      "JavaScript"
+    ],
+    "contributions": 212,
+    "followers": "87"
+  },
+  {
+    "url": "https://github.com/ifesdjeen",
+    "language": "Clojure",
+    "full_name": "αλεx π",
+    "username": "ifesdjeen",
+    "location": "Munich",
+    "join_date": "Jun 4, 2008",
+    "popular_repos_stars": "140",
+    "primary_languages": [
+      "Clojure",
+      "Ruby",
+      "JavaScript"
+    ],
+    "contributions": 865,
+    "followers": "87"
+  },
+  {
+    "url": "https://github.com/ohpauleez",
+    "language": "Clojure",
+    "full_name": "Paul deGrandis",
+    "username": "ohpauleez",
+    "location": "New Hampshire",
+    "join_date": "Nov 16, 2009",
+    "popular_repos_stars": "244",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 291,
+    "followers": "86"
+  },
+  {
+    "url": "https://github.com/pyr",
+    "language": "Clojure",
+    "full_name": "Pierre-Yves Ritschard",
+    "username": "pyr",
+    "location": "Lausanne, Switzerland",
+    "join_date": "Jul 30, 2009",
+    "popular_repos_stars": "304",
+    "primary_languages": [
+      "Clojure",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 780,
+    "followers": "83"
+  },
+  {
+    "url": "https://github.com/otfrom",
+    "language": "Clojure",
+    "full_name": "Bruce Durling",
+    "username": "otfrom",
+    "location": "London",
+    "join_date": "Mar 19, 2009",
+    "popular_repos_stars": "52",
+    "primary_languages": [
+      "Clojure",
+      "Emacs",
+      "Lisp",
+      "Ruby"
+    ],
+    "contributions": 1,
+    "followers": "82"
+  },
+  {
+    "url": "https://github.com/LauJensen",
+    "language": "Clojure",
+    "full_name": "Lau B. Jensen",
+    "username": "LauJensen",
+    "location": "Denmark",
+    "join_date": "Dec 14, 2008",
+    "popular_repos_stars": "347",
+    "primary_languages": [
+      "Clojure",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 0,
+    "followers": "80"
+  },
+  {
+    "url": "https://github.com/teropa",
+    "language": "Clojure",
+    "full_name": "Tero Parviainen",
+    "username": "teropa",
+    "location": "Helsinki, Finland",
+    "join_date": "Jan 20, 2009",
+    "popular_repos_stars": "197",
+    "primary_languages": [
+      "Clojure",
+      "JavaScript",
+      "Ruby"
+    ],
+    "contributions": 363,
+    "followers": "74"
+  },
+  {
+    "url": "https://github.com/kovasb",
+    "language": "Clojure",
+    "full_name": "",
+    "username": "kovasb",
+    "location": "",
+    "join_date": "Jan 17, 2010",
+    "popular_repos_stars": "485",
+    "primary_languages": [
+      "Clojure",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 103,
+    "followers": "73"
+  },
+  {
+    "url": "https://github.com/edtsech",
+    "language": "Clojure",
+    "full_name": "Ed Tsech",
+    "username": "edtsech",
+    "location": "Prague, Czech Republic",
+    "join_date": "Aug 21, 2009",
+    "popular_repos_stars": "290",
+    "primary_languages": [
+      "Clojure",
+      "Ruby",
+      "JavaScript"
+    ],
+    "contributions": 34,
+    "followers": "73"
+  },
+  {
+    "url": "https://github.com/cdaddr",
+    "language": "Clojure",
+    "full_name": "Brian Carper",
+    "username": "cdaddr",
+    "location": "",
+    "join_date": "Nov 8, 2008",
+    "popular_repos_stars": "344",
+    "primary_languages": [
+      "Clojure",
+      "JavaScript",
+      "VimL"
+    ],
+    "contributions": 2,
+    "followers": "69"
+  },
+  {
+    "url": "https://github.com/hiredman",
+    "language": "Clojure",
+    "full_name": "Kevin Downey",
+    "username": "hiredman",
+    "location": "Seattle, WA",
+    "join_date": "Nov 21, 2008",
+    "popular_repos_stars": "143",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 252,
+    "followers": "68"
+  },
+  {
+    "url": "https://github.com/pingles",
+    "language": "Clojure",
+    "full_name": "Paul Ingles",
+    "username": "pingles",
+    "location": "London",
+    "join_date": "Feb 27, 2008",
+    "popular_repos_stars": "208",
+    "primary_languages": [
+      "Clojure",
+      "Java",
+      "Ruby"
+    ],
+    "contributions": 191,
+    "followers": "68"
+  },
+  {
+    "url": "https://github.com/kyleburton",
+    "language": "Clojure",
+    "full_name": "Kyle Burton",
+    "username": "kyleburton",
+    "location": "Philadelphia PA, USA",
+    "join_date": "Apr 2, 2009",
+    "popular_repos_stars": "182",
+    "primary_languages": [
+      "Ruby",
+      "Shell",
+      "Clojure"
+    ],
+    "contributions": 392,
+    "followers": "68"
+  },
+  {
+    "url": "https://github.com/Quantisan",
+    "language": "Clojure",
+    "full_name": "Paul Lam",
+    "username": "Quantisan",
+    "location": "Boston, MA",
+    "join_date": "Nov 16, 2010",
+    "popular_repos_stars": "85",
+    "primary_languages": [
+      "Clojure",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 207,
+    "followers": "67"
+  },
+  {
+    "url": "https://github.com/rosejn",
+    "language": "Clojure",
+    "full_name": "Jeff Rose",
+    "username": "rosejn",
+    "location": "Bali, Indonesia",
+    "join_date": "Nov 25, 2008",
+    "popular_repos_stars": "317",
+    "primary_languages": [
+      "Clojure",
+      "Lua",
+      "Shell"
+    ],
+    "contributions": 32,
+    "followers": "67"
+  },
+  {
+    "url": "https://github.com/jonase",
+    "language": "Clojure",
+    "full_name": "Jonas Enlund",
+    "username": "jonase",
+    "location": "Finland",
+    "join_date": "Jul 2, 2009",
+    "popular_repos_stars": "1169",
+    "primary_languages": [
+      "Clojure",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 177,
+    "followers": "66"
+  },
+  {
+    "url": "https://github.com/drewr",
+    "language": "Clojure",
+    "full_name": "Drew Raines",
+    "username": "drewr",
+    "location": "Nashville, TN",
+    "join_date": "Apr 10, 2008",
+    "popular_repos_stars": "233",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "Emacs",
+      "Lisp"
+    ],
+    "contributions": 476,
+    "followers": "65"
+  },
+  {
+    "url": "https://github.com/remvee",
+    "language": "Clojure",
+    "full_name": "Remco van 't Veer",
+    "username": "remvee",
+    "location": "Amsterdam, the Netherlands",
+    "join_date": "Apr 3, 2008",
+    "popular_repos_stars": "678",
+    "primary_languages": [
+      "Clojure",
+      "Ruby",
+      "Emacs",
+      "Lisp"
+    ],
+    "contributions": 108,
+    "followers": "65"
+  },
+  {
+    "url": "https://github.com/Bronsa",
+    "language": "Clojure",
+    "full_name": "Nicola Mometto",
+    "username": "Bronsa",
+    "location": "Italy",
+    "join_date": "Nov 5, 2009",
+    "popular_repos_stars": "152",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "Emacs",
+      "Lisp"
+    ],
+    "contributions": 1,
+    "followers": "64"
+  },
+  {
+    "url": "https://github.com/sorenmacbeth",
+    "language": "Clojure",
+    "full_name": "Soren Macbeth",
+    "username": "sorenmacbeth",
+    "location": "Portland, OR",
+    "join_date": "Sep 22, 2009",
+    "popular_repos_stars": "147",
+    "primary_languages": [
+      "Clojure",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 397,
+    "followers": "63"
+  },
+  {
+    "url": "https://github.com/jaceklaskowski",
+    "language": "Clojure",
+    "full_name": "Jacek Laskowski",
+    "username": "jaceklaskowski",
+    "location": "Warszawa, Poland",
+    "join_date": "Mar 11, 2009",
+    "popular_repos_stars": "81",
+    "primary_languages": [
+      "Scala",
+      "Clojure",
+      "JavaScript"
+    ],
+    "contributions": 411,
+    "followers": "63"
+  },
+  {
+    "url": "https://github.com/michalmarczyk",
+    "language": "Clojure",
+    "full_name": "Michał Marczyk",
+    "username": "michalmarczyk",
+    "location": "",
+    "join_date": "Jan 7, 2010",
+    "popular_repos_stars": "84",
+    "primary_languages": [
+      "Clojure",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 306,
+    "followers": "61"
+  },
+  {
+    "url": "https://github.com/ato",
+    "language": "Clojure",
+    "full_name": "Alex Osborne",
+    "username": "ato",
+    "location": "Canberra, Australia",
+    "join_date": "May 16, 2008",
+    "popular_repos_stars": "235",
+    "primary_languages": [
+      "Clojure",
+      "Java",
+      "Python"
+    ],
+    "contributions": 302,
+    "followers": "61"
+  },
+  {
+    "url": "https://github.com/AlexBaranosky",
+    "language": "Clojure",
+    "full_name": "AlexBaranosky",
+    "username": "AlexBaranosky",
+    "location": "Bay Area, California",
+    "join_date": "Jan 10, 2009",
+    "popular_repos_stars": "93",
+    "primary_languages": [
+      "Clojure",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 459,
+    "followers": "60"
+  },
+  {
+    "url": "https://github.com/krukow",
+    "language": "Clojure",
+    "full_name": "Karl Krukow",
+    "username": "krukow",
+    "location": "Denmark",
+    "join_date": "Mar 22, 2008",
+    "popular_repos_stars": "207",
+    "primary_languages": [
+      "Clojure",
+      "Ruby",
+      "JavaScript"
+    ],
+    "contributions": 290,
+    "followers": "60"
+  },
+  {
+    "url": "https://github.com/levand",
+    "language": "Clojure",
+    "full_name": "Luke VanderHart",
+    "username": "levand",
+    "location": "",
+    "join_date": "Apr 5, 2009",
+    "popular_repos_stars": "599",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 222,
+    "followers": "59"
+  },
+  {
+    "url": "https://github.com/malcolmsparks",
+    "language": "Clojure",
+    "full_name": "Malcolm Sparks",
+    "username": "malcolmsparks",
+    "location": "London",
+    "join_date": "Dec 5, 2009",
+    "popular_repos_stars": "157",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "58"
+  },
+  {
+    "url": "https://github.com/jkk",
+    "language": "Clojure",
+    "full_name": "Justin Kramer",
+    "username": "jkk",
+    "location": "Rochester, NY",
+    "join_date": "Apr 4, 2008",
+    "popular_repos_stars": "538",
+    "primary_languages": [
+      "Clojure",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 30,
+    "followers": "57"
+  },
+  {
+    "url": "https://github.com/ericnormand",
+    "language": "Clojure",
+    "full_name": "Eric Normand",
+    "username": "ericnormand",
+    "location": "",
+    "join_date": "Aug 17, 2009",
+    "popular_repos_stars": "181",
+    "primary_languages": [
+      "Clojure",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 37,
+    "followers": "57"
+  },
+  {
+    "url": "https://github.com/tel",
+    "language": "Clojure",
+    "full_name": "Joseph Abrahamson",
+    "username": "tel",
+    "location": "Baltimore, MD, USA",
+    "join_date": "Feb 27, 2008",
+    "popular_repos_stars": "139",
+    "primary_languages": [
+      "Haskell",
+      "Clojure",
+      "Python"
+    ],
+    "contributions": 562,
+    "followers": "56"
+  },
+  {
+    "url": "https://github.com/cassiel",
+    "language": "Clojure",
+    "full_name": "Nick Rothwell",
+    "username": "cassiel",
+    "location": "",
+    "join_date": "Mar 8, 2011",
+    "popular_repos_stars": "58",
+    "primary_languages": [
+      "Clojure",
+      "Java",
+      "Python"
+    ],
+    "contributions": 412,
+    "followers": "55"
+  },
+  {
+    "url": "https://github.com/tomfaulhaber",
+    "language": "Clojure",
+    "full_name": "Tom Faulhaber",
+    "username": "tomfaulhaber",
+    "location": "San Francisco",
+    "join_date": "Nov 29, 2008",
+    "popular_repos_stars": "137",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 1,
+    "followers": "54"
+  },
+  {
+    "url": "https://github.com/jduey",
+    "language": "Clojure",
+    "full_name": "Jim Duey",
+    "username": "jduey",
+    "location": "",
+    "join_date": "Jan 5, 2010",
+    "popular_repos_stars": "194",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 13,
+    "followers": "53"
+  },
+  {
+    "url": "https://github.com/pepijndevos",
+    "language": "Clojure",
+    "full_name": "Pepijn de Vos",
+    "username": "pepijndevos",
+    "location": "Loenen, Gelderland, Netherlands",
+    "join_date": "Dec 16, 2009",
+    "popular_repos_stars": "131",
+    "primary_languages": [
+      "Clojure",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 215,
+    "followers": "53"
+  },
+  {
+    "url": "https://github.com/duelinmarkers",
+    "language": "Clojure",
+    "full_name": "John Hume",
+    "username": "duelinmarkers",
+    "location": "Austin, TX",
+    "join_date": "May 8, 2008",
+    "popular_repos_stars": "387",
+    "primary_languages": [
+      "Ruby",
+      "Clojure",
+      "Shell"
+    ],
+    "contributions": 230,
+    "followers": "53"
+  },
+  {
+    "url": "https://github.com/zcaudate",
+    "language": "Clojure",
+    "full_name": "Chris Zheng",
+    "username": "zcaudate",
+    "location": "Melbourne, Australia",
+    "join_date": "Feb 20, 2012",
+    "popular_repos_stars": "350",
+    "primary_languages": [
+      "Clojure",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 714,
+    "followers": "52"
+  },
+  {
+    "url": "https://github.com/KushalP",
+    "language": "Clojure",
+    "full_name": "Kushal Pisavadia",
+    "username": "KushalP",
+    "location": "London, UK",
+    "join_date": "Oct 11, 2009",
+    "popular_repos_stars": "36",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 552,
+    "followers": "52"
+  },
+  {
+    "url": "https://github.com/arrdem",
+    "language": "Clojure",
+    "full_name": "Reid D McKenzie",
+    "username": "arrdem",
+    "location": "Austin, TX",
+    "join_date": "Apr 1, 2011",
+    "popular_repos_stars": "26",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 1,
+    "followers": "51"
+  },
+  {
+    "url": "https://github.com/algernon",
+    "language": "Clojure",
+    "full_name": "Gergely Nagy",
+    "username": "algernon",
+    "location": "Budapest, Hungary",
+    "join_date": "Jul 16, 2008",
+    "popular_repos_stars": "128",
+    "primary_languages": [
+      "Python",
+      "Shell",
+      "C"
+    ],
+    "contributions": 1,
+    "followers": "50"
+  },
+  {
+    "url": "https://github.com/thattommyhall",
+    "language": "Clojure",
+    "full_name": "thattommyhall",
+    "username": "thattommyhall",
+    "location": "London",
+    "join_date": "Sep 19, 2009",
+    "popular_repos_stars": "95",
+    "primary_languages": [
+      "Ruby",
+      "Clojure",
+      "JavaScript"
+    ],
+    "contributions": 90,
+    "followers": "50"
+  },
+  {
+    "url": "https://github.com/candera",
+    "language": "Clojure",
+    "full_name": "Craig Andera",
+    "username": "candera",
+    "location": "DC Area",
+    "join_date": "Oct 11, 2008",
+    "popular_repos_stars": "237",
+    "primary_languages": [
+      "Clojure",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 229,
+    "followers": "49"
+  }
+]

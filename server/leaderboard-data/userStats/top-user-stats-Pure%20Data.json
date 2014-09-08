@@ -1,0 +1,746 @@
+[
+  {
+    "url": "https://github.com/DataTables",
+    "language": "Pure Data",
+    "full_name": "Allan Jardine",
+    "username": "DataTables",
+    "location": "",
+    "join_date": "May 16, 2010",
+    "popular_repos_stars": "2755",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "567"
+  },
+  {
+    "url": "https://github.com/datawrangling",
+    "language": "Pure Data",
+    "full_name": "Pete Skomoroch",
+    "username": "datawrangling",
+    "location": "San Francisco, CA",
+    "join_date": "Mar 6, 2009",
+    "popular_repos_stars": "497",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 0,
+    "followers": "253"
+  },
+  {
+    "url": "https://github.com/datapimp",
+    "language": "Pure Data",
+    "full_name": "Jonathan Soeder",
+    "username": "datapimp",
+    "location": "Barrington, IL",
+    "join_date": "Dec 27, 2008",
+    "popular_repos_stars": "570",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "CoffeeScript"
+    ],
+    "contributions": 266,
+    "followers": "78"
+  },
+  {
+    "url": "https://github.com/PhillyCDO",
+    "language": "Pure Data",
+    "full_name": "Philadelphia Chief Data Officer",
+    "username": "PhillyCDO",
+    "location": "Philadelphia, PA",
+    "join_date": "Sep 4, 2012",
+    "popular_repos_stars": "1",
+    "primary_languages": [
+      "C"
+    ],
+    "contributions": 0,
+    "followers": "50"
+  },
+  {
+    "url": "https://github.com/datagutt",
+    "language": "Pure Data",
+    "full_name": "Thomas Lekanger",
+    "username": "datagutt",
+    "location": "Askim, Norway",
+    "join_date": "Mar 26, 2009",
+    "popular_repos_stars": "27",
+    "primary_languages": [
+      "JavaScript",
+      "Shell",
+      "PHP"
+    ],
+    "contributions": 523,
+    "followers": "48"
+  },
+  {
+    "url": "https://github.com/DataZombies",
+    "language": "Pure Data",
+    "full_name": "Daniel J. Pinter",
+    "username": "DataZombies",
+    "location": "Freedom, PA USA",
+    "join_date": "Jun 30, 2010",
+    "popular_repos_stars": "248",
+    "primary_languages": [
+      "JavaScript",
+      "Shell",
+      "PHP"
+    ],
+    "contributions": 0,
+    "followers": "44"
+  },
+  {
+    "url": "https://github.com/DataJunkie",
+    "language": "Pure Data",
+    "full_name": "Ryan Rosario",
+    "username": "DataJunkie",
+    "location": "Mountain View, CA",
+    "join_date": "Feb 7, 2009",
+    "popular_repos_stars": "8",
+    "primary_languages": [
+      "Python"
+    ],
+    "contributions": 11,
+    "followers": "43"
+  },
+  {
+    "url": "https://github.com/datagrok",
+    "language": "Pure Data",
+    "full_name": "Michael F. Lamb",
+    "username": "datagrok",
+    "location": "Southern California",
+    "join_date": "Jan 17, 2011",
+    "popular_repos_stars": "61",
+    "primary_languages": [
+      "Python",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 134,
+    "followers": "43"
+  },
+  {
+    "url": "https://github.com/DataMinerUK",
+    "language": "Pure Data",
+    "full_name": "Nicola Hughes",
+    "username": "DataMinerUK",
+    "location": "",
+    "join_date": "Aug 31, 2011",
+    "popular_repos_stars": "34",
+    "primary_languages": [
+      "Ruby",
+      "Python",
+      "JavaScript"
+    ],
+    "contributions": 37,
+    "followers": "39"
+  },
+  {
+    "url": "https://github.com/datablend",
+    "language": "Pure Data",
+    "full_name": "Davy Suvee",
+    "username": "datablend",
+    "location": "Heist-Op-Den-Berg, Belgium",
+    "join_date": "Jun 19, 2011",
+    "popular_repos_stars": "153",
+    "primary_languages": [
+      "Java",
+      "Shell",
+      "PHP"
+    ],
+    "contributions": 8,
+    "followers": "34"
+  },
+  {
+    "url": "https://github.com/datakurre",
+    "language": "Pure Data",
+    "full_name": "Asko Soukka",
+    "username": "datakurre",
+    "location": "",
+    "join_date": "Dec 1, 2009",
+    "popular_repos_stars": "74",
+    "primary_languages": [
+      "Python",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "33"
+  },
+  {
+    "url": "https://github.com/datachomp",
+    "language": "Pure Data",
+    "full_name": "Rob Sullivan",
+    "username": "datachomp",
+    "location": "Oklahoma City",
+    "join_date": "Mar 8, 2011",
+    "popular_repos_stars": "8",
+    "primary_languages": [
+      "JavaScript",
+      "Ruby",
+      "C"
+    ],
+    "contributions": 443,
+    "followers": "23"
+  },
+  {
+    "url": "https://github.com/datamuc",
+    "language": "Pure Data",
+    "full_name": "",
+    "username": "datamuc",
+    "location": "",
+    "join_date": "Feb 3, 2009",
+    "popular_repos_stars": "38",
+    "primary_languages": [
+      "Perl",
+      "Python",
+      "CoffeeScript"
+    ],
+    "contributions": 19,
+    "followers": "22"
+  },
+  {
+    "url": "https://github.com/datastream",
+    "language": "Pure Data",
+    "full_name": "Xianjie",
+    "username": "datastream",
+    "location": "Hangzhou",
+    "join_date": "Sep 1, 2010",
+    "popular_repos_stars": "90",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 412,
+    "followers": "19"
+  },
+  {
+    "url": "https://github.com/datamafia",
+    "language": "Pure Data",
+    "full_name": "mw",
+    "username": "datamafia",
+    "location": "East Village NYC",
+    "join_date": "Dec 20, 2009",
+    "popular_repos_stars": "30",
+    "primary_languages": [
+      "PHP",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 37,
+    "followers": "17"
+  },
+  {
+    "url": "https://github.com/databyte",
+    "language": "Pure Data",
+    "full_name": "David Sommers",
+    "username": "databyte",
+    "location": "NYC",
+    "join_date": "Jun 5, 2008",
+    "popular_repos_stars": "10",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 0,
+    "followers": "15"
+  },
+  {
+    "url": "https://github.com/Datawalke",
+    "language": "Pure Data",
+    "full_name": "Jim Walker",
+    "username": "Datawalke",
+    "location": "Scranton, PA",
+    "join_date": "Sep 1, 2010",
+    "popular_repos_stars": "644",
+    "primary_languages": [
+      "PHP",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 4,
+    "followers": "15"
+  },
+  {
+    "url": "https://github.com/codedata",
+    "language": "Pure Data",
+    "full_name": "CodeData",
+    "username": "codedata",
+    "location": "",
+    "join_date": "Mar 13, 2013",
+    "popular_repos_stars": "24",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "Groovy"
+    ],
+    "contributions": 71,
+    "followers": "13"
+  },
+  {
+    "url": "https://github.com/DataDink",
+    "language": "Pure Data",
+    "full_name": "Mark Nelson",
+    "username": "DataDink",
+    "location": "Irvine, California",
+    "join_date": "Feb 12, 2012",
+    "popular_repos_stars": "23",
+    "primary_languages": [
+      "C",
+      "JavaScript",
+      "ASP"
+    ],
+    "contributions": 286,
+    "followers": "13"
+  },
+  {
+    "url": "https://github.com/datacompboy",
+    "language": "Pure Data",
+    "full_name": "Anton Fedorov",
+    "username": "datacompboy",
+    "location": "Novosibirsk, Russia",
+    "join_date": "Mar 20, 2010",
+    "popular_repos_stars": "70",
+    "primary_languages": [
+      "Erlang",
+      "Ruby",
+      "C"
+    ],
+    "contributions": 35,
+    "followers": "13"
+  },
+  {
+    "url": "https://github.com/dataflowbook",
+    "language": "Pure Data",
+    "full_name": "",
+    "username": "dataflowbook",
+    "location": "",
+    "join_date": "Nov 20, 2013",
+    "popular_repos_stars": "34",
+    "primary_languages": [
+      "Haskell"
+    ],
+    "contributions": 5,
+    "followers": "13"
+  },
+  {
+    "url": "https://github.com/dataich",
+    "language": "Pure Data",
+    "full_name": "Taichiro Yoshida",
+    "username": "dataich",
+    "location": "Nagasaki, JAPAN",
+    "join_date": "Jul 3, 2008",
+    "popular_repos_stars": "51",
+    "primary_languages": [
+      "Objective",
+      "C",
+      "Ruby",
+      "C"
+    ],
+    "contributions": 55,
+    "followers": "11"
+  },
+  {
+    "url": "https://github.com/datastory",
+    "language": "Pure Data",
+    "full_name": "Honza Cibulka",
+    "username": "datastory",
+    "location": "Prague",
+    "join_date": "Sep 7, 2012",
+    "popular_repos_stars": "5",
+    "primary_languages": [
+      "Python",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 140,
+    "followers": "11"
+  },
+  {
+    "url": "https://github.com/DataDanSandler",
+    "language": "Pure Data",
+    "full_name": "",
+    "username": "DataDanSandler",
+    "location": "Boston, MA",
+    "join_date": "Mar 16, 2013",
+    "popular_repos_stars": "16",
+    "primary_languages": [
+      "Java",
+      "PHP"
+    ],
+    "contributions": 1,
+    "followers": "11"
+  },
+  {
+    "url": "https://github.com/dataBaseError",
+    "language": "Pure Data",
+    "full_name": "Joseph Heron",
+    "username": "dataBaseError",
+    "location": "",
+    "join_date": "May 7, 2012",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "Ruby",
+      "Java",
+      "C"
+    ],
+    "contributions": 617,
+    "followers": "10"
+  },
+  {
+    "url": "https://github.com/dataswitch",
+    "language": "Pure Data",
+    "full_name": "Dataswitch",
+    "username": "dataswitch",
+    "location": "",
+    "join_date": "Jan 29, 2011",
+    "popular_repos_stars": "3",
+    "primary_languages": [
+      "Java"
+    ],
+    "contributions": 0,
+    "followers": "10"
+  },
+  {
+    "url": "https://github.com/datachomper",
+    "language": "Pure Data",
+    "full_name": "Russ Meyerriecks",
+    "username": "datachomper",
+    "location": "Huntsville",
+    "join_date": "Sep 17, 2009",
+    "popular_repos_stars": "12",
+    "primary_languages": [
+      "Python",
+      "C",
+      "JavaScript"
+    ],
+    "contributions": 27,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/dataduke",
+    "language": "Pure Data",
+    "full_name": "Benjamin",
+    "username": "dataduke",
+    "location": "Munich, Germany",
+    "join_date": "Oct 26, 2012",
+    "popular_repos_stars": "81",
+    "primary_languages": [
+      "JavaScript",
+      "Perl",
+      "Objective",
+      "C"
+    ],
+    "contributions": 26,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/dataxpress",
+    "language": "Pure Data",
+    "full_name": "Tim Gostony",
+    "username": "dataxpress",
+    "location": "Pasadena, CA",
+    "join_date": "May 21, 2012",
+    "popular_repos_stars": "168",
+    "primary_languages": [
+      "Objective",
+      "C",
+      "Ruby",
+      "C"
+    ],
+    "contributions": 135,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/datashaman",
+    "language": "Pure Data",
+    "full_name": "datashaman",
+    "username": "datashaman",
+    "location": "Cape Town, South Africa",
+    "join_date": "Mar 2, 2009",
+    "popular_repos_stars": "25",
+    "primary_languages": [
+      "JavaScript",
+      "PHP",
+      "Ruby"
+    ],
+    "contributions": 164,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/DataMarket",
+    "language": "Pure Data",
+    "full_name": "DataMarket",
+    "username": "DataMarket",
+    "location": "",
+    "join_date": "Mar 16, 2010",
+    "popular_repos_stars": "27",
+    "primary_languages": [
+      "Python",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 0,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/Databates",
+    "language": "Pure Data",
+    "full_name": "Ian Bates",
+    "username": "Databates",
+    "location": "",
+    "join_date": "Jul 6, 2013",
+    "popular_repos_stars": "4",
+    "primary_languages": [
+      "Ruby",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 201,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/datasaur",
+    "language": "Pure Data",
+    "full_name": "Matt Keranen",
+    "username": "datasaur",
+    "location": "Central FL US",
+    "join_date": "Oct 11, 2010",
+    "popular_repos_stars": "23",
+    "primary_languages": [
+      "Python",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 13,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/datadave",
+    "language": "Pure Data",
+    "full_name": "",
+    "username": "datadave",
+    "location": "",
+    "join_date": "Mar 14, 2014",
+    "popular_repos_stars": "14",
+    "primary_languages": [
+      "Python",
+      "CSS",
+      "nesC"
+    ],
+    "contributions": 382,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/ddsbook",
+    "language": "Pure Data",
+    "full_name": "Data Driven Security",
+    "username": "ddsbook",
+    "location": "Cyberspace",
+    "join_date": "Oct 5, 2013",
+    "popular_repos_stars": "7",
+    "primary_languages": [
+      "R",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 10,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/datanalysis15m",
+    "language": "Pure Data",
+    "full_name": "DatAnalysis15M",
+    "username": "datanalysis15m",
+    "location": "Global",
+    "join_date": "Jun 16, 2013",
+    "popular_repos_stars": "5",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/Datanizze",
+    "language": "Pure Data",
+    "full_name": "Johan Liljegren",
+    "username": "Datanizze",
+    "location": "",
+    "join_date": "Nov 1, 2011",
+    "popular_repos_stars": "4",
+    "primary_languages": [
+      "JavaScript",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 44,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/srw",
+    "language": "Pure Data",
+    "full_name": "Nektra Advanced Computing & Data Big Bang",
+    "username": "srw",
+    "location": "",
+    "join_date": "Oct 19, 2009",
+    "popular_repos_stars": "16",
+    "primary_languages": [
+      "Python",
+      "C",
+      "C"
+    ],
+    "contributions": 18,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/datatheism",
+    "language": "Pure Data",
+    "full_name": "datatheism",
+    "username": "datatheism",
+    "location": "Berlin",
+    "join_date": "May 16, 2012",
+    "popular_repos_stars": "5128",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/datamgmt",
+    "language": "Pure Data",
+    "full_name": "",
+    "username": "datamgmt",
+    "location": "",
+    "join_date": "Jun 3, 2012",
+    "popular_repos_stars": "52",
+    "primary_languages": [
+      "R"
+    ],
+    "contributions": 0,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/datacharmer",
+    "language": "Pure Data",
+    "full_name": "Giuseppe Maxia",
+    "username": "datacharmer",
+    "location": "virtual",
+    "join_date": "Jul 28, 2010",
+    "popular_repos_stars": "7",
+    "primary_languages": [],
+    "contributions": 1,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/databeast",
+    "language": "Pure Data",
+    "full_name": "CP Constantine",
+    "username": "databeast",
+    "location": "Rhode Island",
+    "join_date": "Aug 14, 2011",
+    "popular_repos_stars": "10",
+    "primary_languages": [
+      "Python",
+      "JavaScript",
+      "Lua"
+    ],
+    "contributions": 12,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/datalocale",
+    "language": "Pure Data",
+    "full_name": "portail de données ouvertes datalocale.fr",
+    "username": "datalocale",
+    "location": "Bordeaux, Gironde, France",
+    "join_date": "Jan 16, 2012",
+    "popular_repos_stars": "7",
+    "primary_languages": [
+      "JavaScript",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 6,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/datariot",
+    "language": "Pure Data",
+    "full_name": "David W. Allen",
+    "username": "datariot",
+    "location": "Boulder, CO",
+    "join_date": "Jun 21, 2010",
+    "popular_repos_stars": "59",
+    "primary_languages": [
+      "JavaScript",
+      "Java",
+      "Python"
+    ],
+    "contributions": 24,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/datatelling",
+    "language": "Pure Data",
+    "full_name": "",
+    "username": "datatelling",
+    "location": "",
+    "join_date": "Oct 8, 2011",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "CSS",
+      "PHP",
+      "C"
+    ],
+    "contributions": 78,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/CaryOpenDataDay",
+    "language": "Pure Data",
+    "full_name": "Cary Open Data Day",
+    "username": "CaryOpenDataDay",
+    "location": "Cary, North Carolina",
+    "join_date": "Jan 28, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "C",
+      "ASP",
+      "JavaScript"
+    ],
+    "contributions": 0,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/dataspora",
+    "language": "Pure Data",
+    "full_name": "",
+    "username": "dataspora",
+    "location": "",
+    "join_date": "Oct 29, 2009",
+    "popular_repos_stars": "15",
+    "primary_languages": [
+      "Perl",
+      "Python",
+      "R"
+    ],
+    "contributions": 0,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/puertoricodb",
+    "language": "Pure Data",
+    "full_name": "Puerto Rico Data Bank",
+    "username": "puertoricodb",
+    "location": "",
+    "join_date": "Jan 16, 2012",
+    "popular_repos_stars": "2",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "6"
+  }
+]

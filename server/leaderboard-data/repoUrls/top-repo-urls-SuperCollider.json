@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/rfwatson/supercollider-tmbundle",
+    "size": 401,
+    "language": "SuperCollider"
+  },
+  {
+    "url": "https://github.com/earslap/SCThings",
+    "size": 189,
+    "language": "SuperCollider"
+  },
+  {
+    "url": "https://github.com/rukano/scprivatepool",
+    "size": 1102,
+    "language": "SuperCollider"
+  },
+  {
+    "url": "https://github.com/fpsunflower/sunflow",
+    "size": 17529,
+    "language": "SuperCollider"
+  },
+  {
+    "url": "https://github.com/acarabott/roundhouse-synth-design-course-2014",
+    "size": 4044,
+    "language": "SuperCollider"
+  },
+  {
+    "url": "https://github.com/ModalityTeam/Modality-toolkit",
+    "size": 2441,
+    "language": "SuperCollider"
+  },
+  {
+    "url": "https://github.com/thormagnusson/ixilang",
+    "size": 764,
+    "language": "SuperCollider"
+  },
+  {
+    "url": "https://github.com/lijon/ScDoc",
+    "size": 13437,
+    "language": "SuperCollider"
+  },
+  {
+    "url": "https://github.com/jamshark70/hadron",
+    "size": 487,
+    "language": "SuperCollider"
+  },
+  {
+    "url": "https://github.com/lijon/AlgoScore2",
+    "size": 312,
+    "language": "SuperCollider"
+  },
+  {
+    "url": "https://github.com/kitefishlabs/cbpsc",
+    "size": 18894,
+    "language": "SuperCollider"
+  },
+  {
+    "url": "https://github.com/earslap/Hadron",
+    "size": 144,
+    "language": "SuperCollider"
+  },
+  {
+    "url": "https://github.com/gusano/sc_work",
+    "size": 332,
+    "language": "SuperCollider"
+  },
+  {
+    "url": "https://github.com/jesusgollonet/NanoKontrol.sc",
+    "size": 106,
+    "language": "SuperCollider"
+  },
+  {
+    "url": "https://github.com/yaolet/mztx06a",
+    "size": 708,
+    "language": "SuperCollider"
+  },
+  {
+    "url": "https://github.com/smoge/superfomus",
+    "size": 132,
+    "language": "SuperCollider"
+  },
+  {
+    "url": "https://github.com/rfwatson/live-loop-tool",
+    "size": 440,
+    "language": "SuperCollider"
+  },
+  {
+    "url": "https://github.com/danstowell/Quarks2",
+    "size": 210,
+    "language": "SuperCollider"
+  },
+  {
+    "url": "https://github.com/acarabott/GenLoop",
+    "size": 5472,
+    "language": "SuperCollider"
+  },
+  {
+    "url": "https://github.com/iani/SC",
+    "size": 36599,
+    "language": "C++"
+  }
+]

@@ -1,0 +1,1604 @@
+[
+  {
+    "url": "https://github.com/tpope",
+    "language": "VimL",
+    "full_name": "Tim Pope",
+    "username": "tpope",
+    "location": "Brooklyn, NY",
+    "join_date": "Feb 18, 2008",
+    "popular_repos_stars": "15457",
+    "primary_languages": [
+      "VimL",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "5.1k"
+  },
+  {
+    "url": "https://github.com/vim-scripts",
+    "language": "VimL",
+    "full_name": "",
+    "username": "vim-scripts",
+    "location": "",
+    "join_date": "Oct 18, 2010",
+    "popular_repos_stars": "940",
+    "primary_languages": [
+      "VimL",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 25,
+    "followers": "2.3k"
+  },
+  {
+    "url": "https://github.com/mattn",
+    "language": "VimL",
+    "full_name": "mattn",
+    "username": "mattn",
+    "location": "Osaka, Japan",
+    "join_date": "May 12, 2008",
+    "popular_repos_stars": "4471",
+    "primary_languages": [
+      "VimL",
+      "Go",
+      "C"
+    ],
+    "contributions": 2,
+    "followers": "1.2k"
+  },
+  {
+    "url": "https://github.com/Shougo",
+    "language": "VimL",
+    "full_name": "Shougo",
+    "username": "Shougo",
+    "location": "Japan",
+    "join_date": "Dec 18, 2008",
+    "popular_repos_stars": "4930",
+    "primary_languages": [
+      "VimL",
+      "Shell",
+      "C"
+    ],
+    "contributions": 2,
+    "followers": "1.2k"
+  },
+  {
+    "url": "https://github.com/scrooloose",
+    "language": "VimL",
+    "full_name": "Martin Grenfell",
+    "username": "scrooloose",
+    "location": "UK",
+    "join_date": "Feb 28, 2008",
+    "popular_repos_stars": "9795",
+    "primary_languages": [
+      "Ruby",
+      "VimL",
+      "JavaScript"
+    ],
+    "contributions": 64,
+    "followers": "688"
+  },
+  {
+    "url": "https://github.com/spf13",
+    "language": "VimL",
+    "full_name": "Steve Francia",
+    "username": "spf13",
+    "location": "NYC",
+    "join_date": "Dec 28, 2009",
+    "popular_repos_stars": "6462",
+    "primary_languages": [
+      "VimL",
+      "Go",
+      "JavaScript"
+    ],
+    "contributions": 662,
+    "followers": "551"
+  },
+  {
+    "url": "https://github.com/kana",
+    "language": "VimL",
+    "full_name": "Kana Natsuno",
+    "username": "kana",
+    "location": "Tokyo, Japan",
+    "join_date": "Feb 29, 2008",
+    "popular_repos_stars": "784",
+    "primary_languages": [
+      "VimL",
+      "Ruby",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "451"
+  },
+  {
+    "url": "https://github.com/Lokaltog",
+    "language": "VimL",
+    "full_name": "Kim Silkebækken",
+    "username": "Lokaltog",
+    "location": "Oslo, Norway",
+    "join_date": "Apr 27, 2009",
+    "popular_repos_stars": "8673",
+    "primary_languages": [
+      "Shell",
+      "VimL",
+      "JavaScript"
+    ],
+    "contributions": 996,
+    "followers": "401"
+  },
+  {
+    "url": "https://github.com/amix",
+    "language": "VimL",
+    "full_name": "Amir Salihefendic",
+    "username": "amix",
+    "location": "The World",
+    "join_date": "Jan 18, 2010",
+    "popular_repos_stars": "2307",
+    "primary_languages": [
+      "VimL",
+      "Shell",
+      "CoffeeScript"
+    ],
+    "contributions": 132,
+    "followers": "386"
+  },
+  {
+    "url": "https://github.com/thinca",
+    "language": "VimL",
+    "full_name": "thinca",
+    "username": "thinca",
+    "location": "",
+    "join_date": "Aug 12, 2008",
+    "popular_repos_stars": "542",
+    "primary_languages": [
+      "VimL",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 479,
+    "followers": "318"
+  },
+  {
+    "url": "https://github.com/tyru",
+    "language": "VimL",
+    "full_name": "tyru",
+    "username": "tyru",
+    "location": "",
+    "join_date": "Jan 20, 2009",
+    "popular_repos_stars": "211",
+    "primary_languages": [
+      "VimL",
+      "Perl",
+      "Shell"
+    ],
+    "contributions": 426,
+    "followers": "312"
+  },
+  {
+    "url": "https://github.com/andyque",
+    "language": "VimL",
+    "full_name": "子龙山人",
+    "username": "andyque",
+    "location": "Xiamen, Fujian, China",
+    "join_date": "May 13, 2011",
+    "popular_repos_stars": "235",
+    "primary_languages": [
+      "C",
+      "C",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "292"
+  },
+  {
+    "url": "https://github.com/Valloric",
+    "language": "VimL",
+    "full_name": "Val Markovic",
+    "username": "Valloric",
+    "location": "Mountain View, CA",
+    "join_date": "Jul 16, 2011",
+    "popular_repos_stars": "5795",
+    "primary_languages": [
+      "VimL",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 924,
+    "followers": "288"
+  },
+  {
+    "url": "https://github.com/travisjeffery",
+    "language": "VimL",
+    "full_name": "Travis Jeffery",
+    "username": "travisjeffery",
+    "location": "36 chambers, slums of shaolin",
+    "join_date": "Jun 26, 2008",
+    "popular_repos_stars": "2714",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "Objective",
+      "C"
+    ],
+    "contributions": 1,
+    "followers": "219"
+  },
+  {
+    "url": "https://github.com/vgod",
+    "language": "VimL",
+    "full_name": "Tsung-Hsiang Chang",
+    "username": "vgod",
+    "location": "Cambridge, MA",
+    "join_date": "Oct 5, 2010",
+    "popular_repos_stars": "596",
+    "primary_languages": [
+      "Shell",
+      "Python",
+      "VimL"
+    ],
+    "contributions": 4,
+    "followers": "198"
+  },
+  {
+    "url": "https://github.com/AndrewRadev",
+    "language": "VimL",
+    "full_name": "Andrew Radev",
+    "username": "AndrewRadev",
+    "location": "Berlin, Germany",
+    "join_date": "Sep 7, 2009",
+    "popular_repos_stars": "631",
+    "primary_languages": [
+      "VimL",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 489,
+    "followers": "163"
+  },
+  {
+    "url": "https://github.com/skwp",
+    "language": "VimL",
+    "full_name": "Yan Pritzker",
+    "username": "skwp",
+    "location": "Chicago",
+    "join_date": "Feb 29, 2008",
+    "popular_repos_stars": "3264",
+    "primary_languages": [
+      "VimL",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 150,
+    "followers": "146"
+  },
+  {
+    "url": "https://github.com/xolox",
+    "language": "VimL",
+    "full_name": "Peter Odding",
+    "username": "xolox",
+    "location": "Netherlands",
+    "join_date": "Jul 1, 2009",
+    "popular_repos_stars": "1154",
+    "primary_languages": [
+      "Python",
+      "VimL",
+      "Shell"
+    ],
+    "contributions": 393,
+    "followers": "136"
+  },
+  {
+    "url": "https://github.com/MarcWeber",
+    "language": "VimL",
+    "full_name": "Marc Weber",
+    "username": "MarcWeber",
+    "location": "",
+    "join_date": "Nov 12, 2008",
+    "popular_repos_stars": "574",
+    "primary_languages": [
+      "VimL",
+      "Haxe",
+      "Shell"
+    ],
+    "contributions": 424,
+    "followers": "133"
+  },
+  {
+    "url": "https://github.com/kien",
+    "language": "VimL",
+    "full_name": "",
+    "username": "kien",
+    "location": "",
+    "join_date": "Dec 29, 2010",
+    "popular_repos_stars": "4013",
+    "primary_languages": [
+      "VimL"
+    ],
+    "contributions": 0,
+    "followers": "125"
+  },
+  {
+    "url": "https://github.com/w0ng",
+    "language": "VimL",
+    "full_name": "Andrew Wong",
+    "username": "w0ng",
+    "location": "Sydney, Australia",
+    "join_date": "Aug 5, 2011",
+    "popular_repos_stars": "1046",
+    "primary_languages": [
+      "Shell",
+      "VimL",
+      "Python"
+    ],
+    "contributions": 264,
+    "followers": "114"
+  },
+  {
+    "url": "https://github.com/walu",
+    "language": "VimL",
+    "full_name": "walu",
+    "username": "walu",
+    "location": "China",
+    "join_date": "Feb 24, 2011",
+    "popular_repos_stars": "526",
+    "primary_languages": [
+      "PHP",
+      "Go",
+      "C"
+    ],
+    "contributions": 136,
+    "followers": "100"
+  },
+  {
+    "url": "https://github.com/lunny",
+    "language": "VimL",
+    "full_name": "Lunny Xiao",
+    "username": "lunny",
+    "location": "Shanghai, China",
+    "join_date": "May 4, 2009",
+    "popular_repos_stars": "35",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 971,
+    "followers": "100"
+  },
+  {
+    "url": "https://github.com/glidenote",
+    "language": "VimL",
+    "full_name": "Akira Maeda",
+    "username": "glidenote",
+    "location": "Tokyo",
+    "join_date": "Apr 8, 2011",
+    "popular_repos_stars": "201",
+    "primary_languages": [
+      "Shell",
+      "VimL",
+      "Ruby"
+    ],
+    "contributions": 300,
+    "followers": "93"
+  },
+  {
+    "url": "https://github.com/jordwalke",
+    "language": "VimL",
+    "full_name": "Jordan W",
+    "username": "jordwalke",
+    "location": "",
+    "join_date": "Aug 12, 2011",
+    "popular_repos_stars": "142",
+    "primary_languages": [
+      "VimL",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 253,
+    "followers": "91"
+  },
+  {
+    "url": "https://github.com/rhysd",
+    "language": "VimL",
+    "full_name": "Linda_pp",
+    "username": "rhysd",
+    "location": "Tokyo, Japan",
+    "join_date": "Jun 1, 2011",
+    "popular_repos_stars": "276",
+    "primary_languages": [
+      "VimL",
+      "Ruby",
+      "C"
+    ],
+    "contributions": 2,
+    "followers": "91"
+  },
+  {
+    "url": "https://github.com/ervandew",
+    "language": "VimL",
+    "full_name": "Eric Van Dewoestine",
+    "username": "ervandew",
+    "location": "Hurricane, Utah",
+    "join_date": "Apr 16, 2009",
+    "popular_repos_stars": "1880",
+    "primary_languages": [
+      "VimL",
+      "Python",
+      "Java"
+    ],
+    "contributions": 301,
+    "followers": "89"
+  },
+  {
+    "url": "https://github.com/benmills",
+    "language": "VimL",
+    "full_name": "Ben Mills",
+    "username": "benmills",
+    "location": "San Francisco",
+    "join_date": "Feb 19, 2009",
+    "popular_repos_stars": "1024",
+    "primary_languages": [
+      "JavaScript",
+      "Shell",
+      "VimL"
+    ],
+    "contributions": 120,
+    "followers": "89"
+  },
+  {
+    "url": "https://github.com/pipitu",
+    "language": "VimL",
+    "full_name": "Wang Yue",
+    "username": "pipitu",
+    "location": "Beijing",
+    "join_date": "Sep 20, 2009",
+    "popular_repos_stars": "23",
+    "primary_languages": [
+      "VimL",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 0,
+    "followers": "87"
+  },
+  {
+    "url": "https://github.com/osyo-manga",
+    "language": "VimL",
+    "full_name": "osyo-manga",
+    "username": "osyo-manga",
+    "location": "",
+    "join_date": "Mar 2, 2010",
+    "popular_repos_stars": "370",
+    "primary_languages": [
+      "VimL",
+      "Ruby",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "86"
+  },
+  {
+    "url": "https://github.com/tomtom",
+    "language": "VimL",
+    "full_name": "Tom Link",
+    "username": "tomtom",
+    "location": "EU",
+    "join_date": "Dec 8, 2008",
+    "popular_repos_stars": "698",
+    "primary_languages": [
+      "VimL",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "82"
+  },
+  {
+    "url": "https://github.com/manjuraj",
+    "language": "VimL",
+    "full_name": "Manju Rajashekhar",
+    "username": "manjuraj",
+    "location": "San Francisco",
+    "join_date": "Jul 30, 2010",
+    "popular_repos_stars": "4",
+    "primary_languages": [
+      "Shell",
+      "Python",
+      "Java"
+    ],
+    "contributions": 82,
+    "followers": "82"
+  },
+  {
+    "url": "https://github.com/tokorom",
+    "language": "VimL",
+    "full_name": "tokorom",
+    "username": "tokorom",
+    "location": "Tokyo",
+    "join_date": "Feb 21, 2011",
+    "popular_repos_stars": "476",
+    "primary_languages": [
+      "Objective",
+      "C",
+      "VimL",
+      "Ruby"
+    ],
+    "contributions": 435,
+    "followers": "78"
+  },
+  {
+    "url": "https://github.com/tejr",
+    "language": "VimL",
+    "full_name": "Tom Ryder",
+    "username": "tejr",
+    "location": "New Zealand",
+    "join_date": "Oct 13, 2010",
+    "popular_repos_stars": "98",
+    "primary_languages": [
+      "VimL",
+      "Perl",
+      "Shell"
+    ],
+    "contributions": 394,
+    "followers": "74"
+  },
+  {
+    "url": "https://github.com/felipero",
+    "language": "VimL",
+    "full_name": "Felipe Rodrigues de Almeida",
+    "username": "felipero",
+    "location": "Brasil",
+    "join_date": "Aug 24, 2008",
+    "popular_repos_stars": "24",
+    "primary_languages": [
+      "Ruby",
+      "Python",
+      "Groovy"
+    ],
+    "contributions": 39,
+    "followers": "73"
+  },
+  {
+    "url": "https://github.com/dimpurr",
+    "language": "VimL",
+    "full_name": "Dimpurr",
+    "username": "dimpurr",
+    "location": "China Guangdong Huizhou",
+    "join_date": "Aug 6, 2013",
+    "popular_repos_stars": "27",
+    "primary_languages": [
+      "CSS",
+      "PHP",
+      "JavaScript"
+    ],
+    "contributions": 127,
+    "followers": "73"
+  },
+  {
+    "url": "https://github.com/dahu",
+    "language": "VimL",
+    "full_name": "Barry Arthur",
+    "username": "dahu",
+    "location": "China",
+    "join_date": "May 22, 2010",
+    "popular_repos_stars": "342",
+    "primary_languages": [
+      "VimL",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 288,
+    "followers": "71"
+  },
+  {
+    "url": "https://github.com/t9md",
+    "language": "VimL",
+    "full_name": "t9md",
+    "username": "t9md",
+    "location": "Japan",
+    "join_date": "Nov 18, 2009",
+    "popular_repos_stars": "368",
+    "primary_languages": [
+      "VimL",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 808,
+    "followers": "71"
+  },
+  {
+    "url": "https://github.com/dccmx",
+    "language": "VimL",
+    "full_name": "dccmx",
+    "username": "dccmx",
+    "location": "Beijing",
+    "join_date": "Mar 15, 2010",
+    "popular_repos_stars": "79",
+    "primary_languages": [
+      "Python",
+      "C",
+      "VimL"
+    ],
+    "contributions": 40,
+    "followers": "71"
+  },
+  {
+    "url": "https://github.com/thoughtstream",
+    "language": "VimL",
+    "full_name": "",
+    "username": "thoughtstream",
+    "location": "",
+    "join_date": "Jul 31, 2011",
+    "popular_repos_stars": "279",
+    "primary_languages": [
+      "Perl",
+      "Shell",
+      "VimL"
+    ],
+    "contributions": 17,
+    "followers": "70"
+  },
+  {
+    "url": "https://github.com/noprompt",
+    "language": "VimL",
+    "full_name": "Joel Holdbrooks",
+    "username": "noprompt",
+    "location": "Fresno, CA",
+    "join_date": "Dec 30, 2010",
+    "popular_repos_stars": "1237",
+    "primary_languages": [
+      "Clojure",
+      "Ruby",
+      "VimL"
+    ],
+    "contributions": 606,
+    "followers": "70"
+  },
+  {
+    "url": "https://github.com/AtsushiM",
+    "language": "VimL",
+    "full_name": "Mizoue Atsushi",
+    "username": "AtsushiM",
+    "location": "Tokyo. Japan.",
+    "join_date": "May 6, 2011",
+    "popular_repos_stars": "48",
+    "primary_languages": [
+      "JavaScript",
+      "VimL",
+      "Ruby"
+    ],
+    "contributions": 34,
+    "followers": "68"
+  },
+  {
+    "url": "https://github.com/jigish",
+    "language": "VimL",
+    "full_name": "Jigish Patel",
+    "username": "jigish",
+    "location": "Sunnyvale, CA",
+    "join_date": "May 1, 2011",
+    "popular_repos_stars": "4264",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "VimL"
+    ],
+    "contributions": 499,
+    "followers": "67"
+  },
+  {
+    "url": "https://github.com/einars",
+    "language": "VimL",
+    "full_name": "Einar Lielmanis",
+    "username": "einars",
+    "location": "Ligatne, Latvia",
+    "join_date": "Dec 3, 2008",
+    "popular_repos_stars": "38",
+    "primary_languages": [
+      "OCaml",
+      "PHP",
+      "Python"
+    ],
+    "contributions": 115,
+    "followers": "66"
+  },
+  {
+    "url": "https://github.com/godlygeek",
+    "language": "VimL",
+    "full_name": "Matt Wozniski",
+    "username": "godlygeek",
+    "location": "Philadelphia, PA",
+    "join_date": "Oct 16, 2008",
+    "popular_repos_stars": "1002",
+    "primary_languages": [
+      "VimL",
+      "Shell",
+      "C"
+    ],
+    "contributions": 2,
+    "followers": "65"
+  },
+  {
+    "url": "https://github.com/tobyS",
+    "language": "VimL",
+    "full_name": "Tobias Schlitt",
+    "username": "tobyS",
+    "location": "Germany, Dinslaken",
+    "join_date": "Jan 21, 2010",
+    "popular_repos_stars": "188",
+    "primary_languages": [
+      "PHP",
+      "VimL",
+      "Shell"
+    ],
+    "contributions": 2,
+    "followers": "65"
+  },
+  {
+    "url": "https://github.com/twerth",
+    "language": "VimL",
+    "full_name": "Todd Werth",
+    "username": "twerth",
+    "location": "San Francisco, CA, USA",
+    "join_date": "Apr 25, 2008",
+    "popular_repos_stars": "348",
+    "primary_languages": [
+      "Ruby",
+      "VimL",
+      "Shell"
+    ],
+    "contributions": 154,
+    "followers": "65"
+  },
+  {
+    "url": "https://github.com/mukiwu",
+    "language": "VimL",
+    "full_name": "MUKi",
+    "username": "mukiwu",
+    "location": "Tapiei, Taiwan",
+    "join_date": "Mar 6, 2013",
+    "popular_repos_stars": "13",
+    "primary_languages": [
+      "CSS",
+      "VimL",
+      "JavaScript"
+    ],
+    "contributions": 61,
+    "followers": "65"
+  },
+  {
+    "url": "https://github.com/sbwhitecap",
+    "language": "VimL",
+    "full_name": "Kazuki Shigemichi",
+    "username": "sbwhitecap",
+    "location": "Tottori, Japan",
+    "join_date": "Oct 15, 2011",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "Go",
+      "Haskell",
+      "Python"
+    ],
+    "contributions": 20,
+    "followers": "63"
+  },
+  {
+    "url": "https://github.com/mutewinter",
+    "language": "VimL",
+    "full_name": "Jeremy Mack",
+    "username": "mutewinter",
+    "location": "Ohio",
+    "join_date": "Jun 15, 2010",
+    "popular_repos_stars": "606",
+    "primary_languages": [
+      "Ruby",
+      "VimL",
+      "JavaScript"
+    ],
+    "contributions": 798,
+    "followers": "63"
+  },
+  {
+    "url": "https://github.com/codito",
+    "language": "VimL",
+    "full_name": "",
+    "username": "codito",
+    "location": "",
+    "join_date": "Oct 13, 2008",
+    "popular_repos_stars": "309",
+    "primary_languages": [
+      "Python",
+      "C",
+      "VimL"
+    ],
+    "contributions": 140,
+    "followers": "61"
+  },
+  {
+    "url": "https://github.com/gmunkhbaatarmn",
+    "language": "VimL",
+    "full_name": "Munkhbaatar",
+    "username": "gmunkhbaatarmn",
+    "location": "Mongolia",
+    "join_date": "Mar 26, 2009",
+    "popular_repos_stars": "5",
+    "primary_languages": [
+      "CoffeeScript",
+      "JavaScript",
+      "VimL"
+    ],
+    "contributions": 462,
+    "followers": "60"
+  },
+  {
+    "url": "https://github.com/hdni",
+    "language": "VimL",
+    "full_name": "",
+    "username": "hdni",
+    "location": "",
+    "join_date": "Jan 3, 2013",
+    "popular_repos_stars": "228",
+    "primary_languages": [
+      "CSS",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 27,
+    "followers": "57"
+  },
+  {
+    "url": "https://github.com/wlue",
+    "language": "VimL",
+    "full_name": "Wen-Hao Lue",
+    "username": "wlue",
+    "location": "Canada",
+    "join_date": "Feb 9, 2010",
+    "popular_repos_stars": "13",
+    "primary_languages": [
+      "Ruby",
+      "Objective",
+      "C",
+      "Shell"
+    ],
+    "contributions": 37,
+    "followers": "57"
+  },
+  {
+    "url": "https://github.com/thiderman",
+    "language": "VimL",
+    "full_name": "Lowe Thiderman",
+    "username": "thiderman",
+    "location": "Stockholm, Sweden",
+    "join_date": "Nov 19, 2009",
+    "popular_repos_stars": "574",
+    "primary_languages": [
+      "VimL",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 992,
+    "followers": "56"
+  },
+  {
+    "url": "https://github.com/dyng",
+    "language": "VimL",
+    "full_name": "Ye Ding",
+    "username": "dyng",
+    "location": "Yokohama",
+    "join_date": "Mar 2, 2012",
+    "popular_repos_stars": "139",
+    "primary_languages": [
+      "VimL",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 209,
+    "followers": "56"
+  },
+  {
+    "url": "https://github.com/isa",
+    "language": "VimL",
+    "full_name": "Isa Goksu",
+    "username": "isa",
+    "location": "San Francisco, CA",
+    "join_date": "Aug 12, 2008",
+    "popular_repos_stars": "54",
+    "primary_languages": [
+      "Ruby",
+      "Python",
+      "CoffeeScript"
+    ],
+    "contributions": 179,
+    "followers": "55"
+  },
+  {
+    "url": "https://github.com/heavenshell",
+    "language": "VimL",
+    "full_name": "heavenshell",
+    "username": "heavenshell",
+    "location": "Hyogo, Japan",
+    "join_date": "Feb 21, 2009",
+    "popular_repos_stars": "60",
+    "primary_languages": [
+      "VimL",
+      "Python",
+      "PHP"
+    ],
+    "contributions": 108,
+    "followers": "54"
+  },
+  {
+    "url": "https://github.com/alpaca-tc",
+    "language": "VimL",
+    "full_name": "alpaca-tc",
+    "username": "alpaca-tc",
+    "location": "Yoyogi",
+    "join_date": "Apr 28, 2012",
+    "popular_repos_stars": "50",
+    "primary_languages": [
+      "VimL",
+      "Ruby",
+      "JavaScript"
+    ],
+    "contributions": 900,
+    "followers": "54"
+  },
+  {
+    "url": "https://github.com/basyura",
+    "language": "VimL",
+    "full_name": "basyura",
+    "username": "basyura",
+    "location": "japan",
+    "join_date": "Dec 25, 2008",
+    "popular_repos_stars": "148",
+    "primary_languages": [
+      "Ruby",
+      "VimL",
+      "JavaScript"
+    ],
+    "contributions": 304,
+    "followers": "53"
+  },
+  {
+    "url": "https://github.com/Remchi",
+    "language": "VimL",
+    "full_name": "Rem",
+    "username": "Remchi",
+    "location": "",
+    "join_date": "Nov 11, 2009",
+    "popular_repos_stars": "63",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 77,
+    "followers": "51"
+  },
+  {
+    "url": "https://github.com/cocopon",
+    "language": "VimL",
+    "full_name": "cocopon",
+    "username": "cocopon",
+    "location": "Japan",
+    "join_date": "Feb 6, 2011",
+    "popular_repos_stars": "358",
+    "primary_languages": [
+      "VimL",
+      "JavaScript",
+      "Objective",
+      "C"
+    ],
+    "contributions": 683,
+    "followers": "51"
+  },
+  {
+    "url": "https://github.com/drewbarontini",
+    "language": "VimL",
+    "full_name": "Drew Barontini",
+    "username": "drewbarontini",
+    "location": "Orlando, FL",
+    "join_date": "Oct 21, 2008",
+    "popular_repos_stars": "48",
+    "primary_languages": [
+      "CSS",
+      "Ruby",
+      "CoffeeScript"
+    ],
+    "contributions": 2,
+    "followers": "50"
+  },
+  {
+    "url": "https://github.com/soundkitchen",
+    "language": "VimL",
+    "full_name": "イズカワタカノブ",
+    "username": "soundkitchen",
+    "location": "",
+    "join_date": "Feb 11, 2009",
+    "popular_repos_stars": "7",
+    "primary_languages": [
+      "Shell",
+      "Python",
+      "VimL"
+    ],
+    "contributions": 16,
+    "followers": "50"
+  },
+  {
+    "url": "https://github.com/akineko",
+    "language": "VimL",
+    "full_name": "akineko",
+    "username": "akineko",
+    "location": "",
+    "join_date": "Mar 4, 2009",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "Shell",
+      "Perl",
+      "VimL"
+    ],
+    "contributions": 0,
+    "followers": "49"
+  },
+  {
+    "url": "https://github.com/ImtiazMajeed",
+    "language": "VimL",
+    "full_name": "Imtiaz Majeed",
+    "username": "ImtiazMajeed",
+    "location": "San Francisco, CA",
+    "join_date": "Jun 26, 2012",
+    "popular_repos_stars": "1",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "Shell"
+    ],
+    "contributions": 183,
+    "followers": "49"
+  },
+  {
+    "url": "https://github.com/arrelid",
+    "language": "VimL",
+    "full_name": "Mattias Arrelid",
+    "username": "arrelid",
+    "location": "Stockholm",
+    "join_date": "Feb 12, 2009",
+    "popular_repos_stars": "4",
+    "primary_languages": [
+      "Shell",
+      "JavaScript",
+      "VimL"
+    ],
+    "contributions": 11,
+    "followers": "48"
+  },
+  {
+    "url": "https://github.com/shelhamer",
+    "language": "VimL",
+    "full_name": "Evan Shelhamer",
+    "username": "shelhamer",
+    "location": "Berkeley, CA, USA",
+    "join_date": "Jun 21, 2010",
+    "popular_repos_stars": "21",
+    "primary_languages": [
+      "Shell",
+      "Python",
+      "VimL"
+    ],
+    "contributions": 868,
+    "followers": "48"
+  },
+  {
+    "url": "https://github.com/avakhov",
+    "language": "VimL",
+    "full_name": "Alexey Vakhov",
+    "username": "avakhov",
+    "location": "Russia, Moscow",
+    "join_date": "Jun 6, 2009",
+    "popular_repos_stars": "21",
+    "primary_languages": [
+      "VimL",
+      "Ruby",
+      "CSS"
+    ],
+    "contributions": 14,
+    "followers": "47"
+  },
+  {
+    "url": "https://github.com/acotie",
+    "language": "VimL",
+    "full_name": "Akiko Yokoyama",
+    "username": "acotie",
+    "location": "Tokyo, Japan",
+    "join_date": "Apr 22, 2009",
+    "popular_repos_stars": "7",
+    "primary_languages": [
+      "VimL"
+    ],
+    "contributions": 0,
+    "followers": "47"
+  },
+  {
+    "url": "https://github.com/bmpvieira",
+    "language": "VimL",
+    "full_name": "Bruno Vieira",
+    "username": "bmpvieira",
+    "location": "London",
+    "join_date": "May 3, 2010",
+    "popular_repos_stars": "14",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "Shell"
+    ],
+    "contributions": 408,
+    "followers": "46"
+  },
+  {
+    "url": "https://github.com/reedes",
+    "language": "VimL",
+    "full_name": "Reed Esau",
+    "username": "reedes",
+    "location": "Golden, Colorado",
+    "join_date": "Dec 2, 2013",
+    "popular_repos_stars": "304",
+    "primary_languages": [
+      "VimL",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 172,
+    "followers": "46"
+  },
+  {
+    "url": "https://github.com/soasme",
+    "language": "VimL",
+    "full_name": "Soasme",
+    "username": "soasme",
+    "location": "China",
+    "join_date": "Aug 18, 2010",
+    "popular_repos_stars": "26",
+    "primary_languages": [
+      "Python",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 674,
+    "followers": "46"
+  },
+  {
+    "url": "https://github.com/guns",
+    "language": "VimL",
+    "full_name": "Sung Pae",
+    "username": "guns",
+    "location": "",
+    "join_date": "Feb 18, 2009",
+    "popular_repos_stars": "574",
+    "primary_languages": [
+      "VimL",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "45"
+  },
+  {
+    "url": "https://github.com/sahchandler",
+    "language": "VimL",
+    "full_name": "Tres Walsh",
+    "username": "sahchandler",
+    "location": "Santa Ana, CA",
+    "join_date": "Mar 13, 2009",
+    "popular_repos_stars": "8",
+    "primary_languages": [
+      "VimL",
+      "Python",
+      "PowerShell"
+    ],
+    "contributions": 441,
+    "followers": "44"
+  },
+  {
+    "url": "https://github.com/silky",
+    "language": "VimL",
+    "full_name": "Noon Silk",
+    "username": "silky",
+    "location": "Melbourne, Australia",
+    "join_date": "Sep 21, 2009",
+    "popular_repos_stars": "7",
+    "primary_languages": [
+      "Python",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 508,
+    "followers": "44"
+  },
+  {
+    "url": "https://github.com/belltoy",
+    "language": "VimL",
+    "full_name": "",
+    "username": "belltoy",
+    "location": "",
+    "join_date": "Mar 18, 2010",
+    "popular_repos_stars": "16",
+    "primary_languages": [
+      "JavaScript",
+      "Erlang",
+      "Elixir"
+    ],
+    "contributions": 21,
+    "followers": "43"
+  },
+  {
+    "url": "https://github.com/ben-lin",
+    "language": "VimL",
+    "full_name": "ben",
+    "username": "ben-lin",
+    "location": "Taipei, Taiwan",
+    "join_date": "Jan 29, 2012",
+    "popular_repos_stars": "5",
+    "primary_languages": [
+      "PHP",
+      "VimL",
+      "Ruby"
+    ],
+    "contributions": 544,
+    "followers": "43"
+  },
+  {
+    "url": "https://github.com/tsukkee",
+    "language": "VimL",
+    "full_name": "Takayuki Tsukitani",
+    "username": "tsukkee",
+    "location": "Kanagawa, Japan",
+    "join_date": "May 8, 2008",
+    "popular_repos_stars": "117",
+    "primary_languages": [
+      "VimL",
+      "JavaScript",
+      "Ruby"
+    ],
+    "contributions": 0,
+    "followers": "42"
+  },
+  {
+    "url": "https://github.com/Raimondi",
+    "language": "VimL",
+    "full_name": "Israel Chauca Fuentes",
+    "username": "Raimondi",
+    "location": "",
+    "join_date": "Jan 4, 2009",
+    "popular_repos_stars": "687",
+    "primary_languages": [
+      "VimL",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 52,
+    "followers": "41"
+  },
+  {
+    "url": "https://github.com/supermomonga",
+    "language": "VimL",
+    "full_name": "supermomonga",
+    "username": "supermomonga",
+    "location": "Tokyo",
+    "join_date": "Aug 26, 2010",
+    "popular_repos_stars": "27",
+    "primary_languages": [
+      "Ruby",
+      "VimL",
+      "JavaScript"
+    ],
+    "contributions": 358,
+    "followers": "41"
+  },
+  {
+    "url": "https://github.com/moacirosa",
+    "language": "VimL",
+    "full_name": "Moacir Rosa",
+    "username": "moacirosa",
+    "location": "Pelotas, Brazil",
+    "join_date": "Dec 12, 2009",
+    "popular_repos_stars": "7",
+    "primary_languages": [
+      "PHP",
+      "Python",
+      "Ruby"
+    ],
+    "contributions": 7,
+    "followers": "41"
+  },
+  {
+    "url": "https://github.com/zhaocai",
+    "language": "VimL",
+    "full_name": "Zhao Cai",
+    "username": "zhaocai",
+    "location": "",
+    "join_date": "Jul 22, 2010",
+    "popular_repos_stars": "470",
+    "primary_languages": [
+      "VimL",
+      "Ruby",
+      "Python"
+    ],
+    "contributions": 170,
+    "followers": "40"
+  },
+  {
+    "url": "https://github.com/clvv",
+    "language": "VimL",
+    "full_name": "Wei Dai",
+    "username": "clvv",
+    "location": "Santa Barbara, CA",
+    "join_date": "Feb 10, 2010",
+    "popular_repos_stars": "1251",
+    "primary_languages": [
+      "Shell",
+      "VimL",
+      "JavaScript"
+    ],
+    "contributions": 0,
+    "followers": "40"
+  },
+  {
+    "url": "https://github.com/tzwm",
+    "language": "VimL",
+    "full_name": "Junzhe Wang",
+    "username": "tzwm",
+    "location": "Shanghai",
+    "join_date": "Jun 3, 2011",
+    "popular_repos_stars": "5",
+    "primary_languages": [
+      "JavaScript",
+      "Java",
+      "CSS"
+    ],
+    "contributions": 338,
+    "followers": "40"
+  },
+  {
+    "url": "https://github.com/suzaku",
+    "language": "VimL",
+    "full_name": "satoru",
+    "username": "suzaku",
+    "location": "Nowhere",
+    "join_date": "Aug 18, 2009",
+    "popular_repos_stars": "7",
+    "primary_languages": [
+      "Python",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 91,
+    "followers": "40"
+  },
+  {
+    "url": "https://github.com/mattsacks",
+    "language": "VimL",
+    "full_name": "Matt Sacks",
+    "username": "mattsacks",
+    "location": "",
+    "join_date": "Feb 2, 2010",
+    "popular_repos_stars": "98",
+    "primary_languages": [
+      "JavaScript",
+      "VimL",
+      "CoffeeScript"
+    ],
+    "contributions": 71,
+    "followers": "40"
+  },
+  {
+    "url": "https://github.com/haya14busa",
+    "language": "VimL",
+    "full_name": "haya14busa",
+    "username": "haya14busa",
+    "location": "Kyoto, Japan",
+    "join_date": "Mar 7, 2013",
+    "popular_repos_stars": "63",
+    "primary_languages": [
+      "VimL",
+      "Python",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "40"
+  },
+  {
+    "url": "https://github.com/ynkdir",
+    "language": "VimL",
+    "full_name": "Yukihiro Nakadaira",
+    "username": "ynkdir",
+    "location": "",
+    "join_date": "Oct 20, 2009",
+    "popular_repos_stars": "73",
+    "primary_languages": [
+      "VimL",
+      "Python",
+      "C"
+    ],
+    "contributions": 106,
+    "followers": "39"
+  },
+  {
+    "url": "https://github.com/Greduan",
+    "language": "VimL",
+    "full_name": "",
+    "username": "Greduan",
+    "location": "",
+    "join_date": "Sep 9, 2012",
+    "popular_repos_stars": "30",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "Emacs",
+      "Lisp"
+    ],
+    "contributions": 714,
+    "followers": "38"
+  },
+  {
+    "url": "https://github.com/rbtnn",
+    "language": "VimL",
+    "full_name": "rbtnn",
+    "username": "rbtnn",
+    "location": "Japan",
+    "join_date": "Apr 1, 2012",
+    "popular_repos_stars": "104",
+    "primary_languages": [
+      "VimL",
+      "JavaScript",
+      "C"
+    ],
+    "contributions": 364,
+    "followers": "38"
+  },
+  {
+    "url": "https://github.com/justinmk",
+    "language": "VimL",
+    "full_name": "Justin M. Keyes",
+    "username": "justinmk",
+    "location": "Tampa, FL",
+    "join_date": "Jan 20, 2012",
+    "popular_repos_stars": "482",
+    "primary_languages": [
+      "VimL",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 1,
+    "followers": "38"
+  },
+  {
+    "url": "https://github.com/gibiansky",
+    "language": "VimL",
+    "full_name": "Andrew Gibiansky",
+    "username": "gibiansky",
+    "location": "",
+    "join_date": "Jun 18, 2012",
+    "popular_repos_stars": "597",
+    "primary_languages": [
+      "Shell",
+      "Python",
+      "Haskell"
+    ],
+    "contributions": 787,
+    "followers": "37"
+  },
+  {
+    "url": "https://github.com/easwy",
+    "language": "VimL",
+    "full_name": "Easwy",
+    "username": "easwy",
+    "location": "",
+    "join_date": "Apr 9, 2010",
+    "popular_repos_stars": "67",
+    "primary_languages": [
+      "VimL",
+      "Shell",
+      "PHP"
+    ],
+    "contributions": 0,
+    "followers": "36"
+  },
+  {
+    "url": "https://github.com/lauritzthamsen",
+    "language": "VimL",
+    "full_name": "Lauritz Thamsen",
+    "username": "lauritzthamsen",
+    "location": "Berlin, Germany",
+    "join_date": "Jan 10, 2011",
+    "popular_repos_stars": "12",
+    "primary_languages": [
+      "Shell",
+      "TeX",
+      "Ruby"
+    ],
+    "contributions": 649,
+    "followers": "36"
+  },
+  {
+    "url": "https://github.com/kawa-xxx",
+    "language": "VimL",
+    "full_name": "Tatsuya KAWAMURA",
+    "username": "kawa-xxx",
+    "location": "Japan",
+    "join_date": "Jun 5, 2010",
+    "popular_repos_stars": "3",
+    "primary_languages": [
+      "JavaScript",
+      "VimL",
+      "Shell"
+    ],
+    "contributions": 21,
+    "followers": "36"
+  },
+  {
+    "url": "https://github.com/leemars",
+    "language": "VimL",
+    "full_name": "Jun Huang",
+    "username": "leemars",
+    "location": "Shenzhen, Guangdong, China",
+    "join_date": "Sep 7, 2008",
+    "popular_repos_stars": "6",
+    "primary_languages": [
+      "Python",
+      "C",
+      "C"
+    ],
+    "contributions": 273,
+    "followers": "35"
+  },
+  {
+    "url": "https://github.com/dhruvasagar",
+    "language": "VimL",
+    "full_name": "Dhruva Sagar",
+    "username": "dhruvasagar",
+    "location": "Bangalore, India",
+    "join_date": "May 25, 2009",
+    "popular_repos_stars": "257",
+    "primary_languages": [
+      "VimL",
+      "Ruby",
+      "JavaScript"
+    ],
+    "contributions": 520,
+    "followers": "35"
+  },
+  {
+    "url": "https://github.com/glacials",
+    "language": "VimL",
+    "full_name": "Ben Carlsson",
+    "username": "glacials",
+    "location": "San Francisco, CA",
+    "join_date": "Oct 13, 2010",
+    "popular_repos_stars": "28",
+    "primary_languages": [
+      "CSS",
+      "Shell",
+      "PHP"
+    ],
+    "contributions": 571,
+    "followers": "35"
+  },
+  {
+    "url": "https://github.com/gregsexton",
+    "language": "VimL",
+    "full_name": "Greg Sexton",
+    "username": "gregsexton",
+    "location": "United Kingdom",
+    "join_date": "Nov 9, 2009",
+    "popular_repos_stars": "724",
+    "primary_languages": [
+      "VimL",
+      "Clojure",
+      "Emacs",
+      "Lisp"
+    ],
+    "contributions": 163,
+    "followers": "35"
+  }
+]

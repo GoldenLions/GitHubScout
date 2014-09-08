@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/chad-thompson/vagrantpress",
+    "size": 1158,
+    "language": "Puppet"
+  },
+  {
+    "url": "https://github.com/patrickdlee/vagrant-examples",
+    "size": 357,
+    "language": "Shell"
+  },
+  {
+    "url": "https://github.com/zfcampus/zf-apigility-skeleton",
+    "size": 2362,
+    "language": "Puppet"
+  },
+  {
+    "url": "https://github.com/dirkaholic/vagrant-php-dev-box",
+    "size": 266,
+    "language": "Puppet"
+  },
+  {
+    "url": "https://github.com/jordansissel/puppet-examples",
+    "size": 213,
+    "language": "Puppet"
+  },
+  {
+    "url": "https://github.com/blt04/puppet-rvm",
+    "size": 374,
+    "language": "Puppet"
+  },
+  {
+    "url": "https://github.com/Aboalarm/devbox",
+    "size": 2618,
+    "language": "Puppet"
+  },
+  {
+    "url": "https://github.com/elasticdog/puppet-sandbox",
+    "size": 346,
+    "language": "Puppet"
+  },
+  {
+    "url": "https://github.com/irmantas/symfony2-vagrant",
+    "size": 214,
+    "language": "Puppet"
+  },
+  {
+    "url": "https://github.com/TryGhost/Ghost-Vagrant",
+    "size": 13435,
+    "language": "Puppet"
+  },
+  {
+    "url": "https://github.com/example42/puppi",
+    "size": 1229,
+    "language": "Puppet"
+  },
+  {
+    "url": "https://github.com/alup/puppet-rbenv",
+    "size": 549,
+    "language": "Puppet"
+  },
+  {
+    "url": "https://github.com/hilverd/vagrant-ubuntu-oracle-xe",
+    "size": 319,
+    "language": "Puppet"
+  },
+  {
+    "url": "https://github.com/stackforge/puppet-openstack",
+    "size": 4591,
+    "language": "Puppet"
+  },
+  {
+    "url": "https://github.com/amaia/rails-starter-box",
+    "size": 148,
+    "language": "Puppet"
+  },
+  {
+    "url": "https://github.com/MarcelloDuarte/hexagonal-symfony",
+    "size": 524,
+    "language": "Puppet"
+  },
+  {
+    "url": "https://github.com/stankevich/puppet-python",
+    "size": 1473,
+    "language": "Puppet"
+  },
+  {
+    "url": "https://github.com/AnthonyNystrom/python-dev-bootstrap",
+    "size": 15301,
+    "language": "Puppet"
+  },
+  {
+    "url": "https://github.com/garethr/pentesting-playground",
+    "size": 202,
+    "language": "Puppet"
+  },
+  {
+    "url": "https://github.com/camptocamp/puppet-tomcat",
+    "size": 1799,
+    "language": "Puppet"
+  }
+]

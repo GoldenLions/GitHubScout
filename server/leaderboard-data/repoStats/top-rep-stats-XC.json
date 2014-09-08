@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/xcore/sc_ethernet",
+    "size": 3355,
+    "language": "XC",
+    "commits": "539",
+    "stars": "26",
+    "forks": "29",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/xcore/sc_i2c",
+    "size": 1367,
+    "language": "XC",
+    "commits": "251",
+    "stars": "17",
+    "forks": "19",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/xcore/sc_spi",
+    "size": 1488,
+    "language": "C",
+    "commits": "145",
+    "stars": "12",
+    "forks": "11",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/xcore/sc_dsp_filters",
+    "size": 2189,
+    "language": "XC",
+    "commits": "143",
+    "stars": "11",
+    "forks": "6",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/xcore/sc_pwm",
+    "size": 2286,
+    "language": "XC",
+    "commits": "194",
+    "stars": "9",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/Omegaice/WOTTankRanges",
+    "size": 19450,
+    "language": "Python",
+    "commits": "87",
+    "stars": "7",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/xcore/sc_i2s",
+    "size": 1288,
+    "language": "XC",
+    "commits": "174",
+    "stars": "7",
+    "forks": "8",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/xcore/sc_jtag",
+    "size": 216,
+    "language": "XC",
+    "commits": "33",
+    "stars": "6",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/xcore/sc_capacitive_sensing",
+    "size": 2652,
+    "language": "XC",
+    "commits": "23",
+    "stars": "5",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/xcore/sw_audio_analyzer",
+    "size": 728,
+    "language": "XC",
+    "commits": "119",
+    "stars": "5",
+    "forks": "7",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/xcore/sc_can",
+    "size": 16831,
+    "language": "XC",
+    "commits": "106",
+    "stars": "4",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/xcore/doc_tips_and_tricks",
+    "size": 859,
+    "language": "XC",
+    "commits": "68",
+    "stars": "4",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/xcore/sc_crypto",
+    "size": 626,
+    "language": "XC",
+    "commits": "49",
+    "stars": "4",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/xcore/sw_display_controller",
+    "size": 10939,
+    "language": "XC",
+    "commits": "184",
+    "stars": "4",
+    "forks": "4",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/xcore/hw_slicekit_system",
+    "size": 53067,
+    "language": "XC",
+    "commits": "83",
+    "stars": "3",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/synapticon/sc_sncn_motorcontrol",
+    "size": 17978,
+    "language": "XC",
+    "commits": "609",
+    "stars": "3",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/clsv/wot-mods",
+    "size": 76307,
+    "language": "XC",
+    "commits": "57",
+    "stars": "3",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/xcore/sc_modbus_rtu",
+    "size": 3008,
+    "language": "XC",
+    "commits": "30",
+    "stars": "3",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/teachop/xcore_neopixel_buffered",
+    "size": 368,
+    "language": "XC",
+    "commits": "34",
+    "stars": "3",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/stevekerrison/sw_swallow_etherboot",
+    "size": 388,
+    "language": "C++",
+    "commits": "3",
+    "stars": "3",
+    "forks": "1",
+    "contributors": ""
+  }
+]

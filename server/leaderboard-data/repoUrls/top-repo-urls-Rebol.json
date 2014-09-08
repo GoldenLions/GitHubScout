@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/rebolsource/rebol-test",
+    "size": 1314,
+    "language": "Rebol"
+  },
+  {
+    "url": "https://github.com/opower/rbundler",
+    "size": 475,
+    "language": "Rebol"
+  },
+  {
+    "url": "https://github.com/rebolsource/rebol-syntax",
+    "size": 115,
+    "language": "Rebol"
+  },
+  {
+    "url": "https://github.com/gchiu/Rebol3",
+    "size": 1311,
+    "language": "Rebol"
+  },
+  {
+    "url": "https://github.com/gchiu/rebolbot",
+    "size": 495,
+    "language": "Rebol"
+  },
+  {
+    "url": "https://github.com/hostilefork/rebmu",
+    "size": 1090,
+    "language": "Rebol"
+  },
+  {
+    "url": "https://github.com/saphirion/r3-gui",
+    "size": 500,
+    "language": "Rebol"
+  },
+  {
+    "url": "https://github.com/earl/rebol3",
+    "size": 159,
+    "language": "Rebol"
+  },
+  {
+    "url": "https://github.com/greggirwin/OpenME",
+    "size": 1413,
+    "language": "Rebol"
+  },
+  {
+    "url": "https://github.com/BrianHawley/rebol-patches",
+    "size": 190,
+    "language": "Rebol"
+  },
+  {
+    "url": "https://github.com/hadley/memoise",
+    "size": 179,
+    "language": "Rebol"
+  },
+  {
+    "url": "https://github.com/saphirion/documentation",
+    "size": 944,
+    "language": "Rebol"
+  },
+  {
+    "url": "https://github.com/rgchris/QuarterMaster",
+    "size": 414,
+    "language": "Rebol"
+  },
+  {
+    "url": "https://github.com/dockimbel/curecode",
+    "size": 1856,
+    "language": "Rebol"
+  },
+  {
+    "url": "https://github.com/gchiu/Rebol2",
+    "size": 273,
+    "language": "Rebol"
+  },
+  {
+    "url": "https://github.com/henrikmk/VID-Extension-Kit",
+    "size": 1124,
+    "language": "Rebol"
+  },
+  {
+    "url": "https://github.com/hostilefork/rubol",
+    "size": 220,
+    "language": "Rebol"
+  },
+  {
+    "url": "https://github.com/zsx/mysql-r3",
+    "size": 232,
+    "language": "Rebol"
+  },
+  {
+    "url": "https://github.com/PeterWAWood/UnicodeOutOfTheBoxTests",
+    "size": 960,
+    "language": "Rebol"
+  },
+  {
+    "url": "https://github.com/cyphre/tls-prototype",
+    "size": 109,
+    "language": "Rebol"
+  }
+]

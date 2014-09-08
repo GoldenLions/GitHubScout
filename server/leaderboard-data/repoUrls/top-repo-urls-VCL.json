@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/mattiasgeniar/varnish-3.0-configuration-templates",
+    "size": 303,
+    "language": "VCL"
+  },
+  {
+    "url": "https://github.com/nicolargo/varnish-nginx-wordpress",
+    "size": 236,
+    "language": "VCL"
+  },
+  {
+    "url": "https://github.com/mattiasgeniar/varnish-4.0-configuration-templates",
+    "size": 177,
+    "language": "VCL"
+  },
+  {
+    "url": "https://github.com/willemk/varnish-mobiletranslate",
+    "size": 318,
+    "language": "VCL"
+  },
+  {
+    "url": "https://github.com/M4nu/ansible",
+    "size": 918,
+    "language": "VCL"
+  },
+  {
+    "url": "https://github.com/mmcgrath-openshift/openshift-cartridge-varnish",
+    "size": 787,
+    "language": "VCL"
+  },
+  {
+    "url": "https://github.com/CajuCLC/ansible-magento-lamp-single",
+    "size": 355,
+    "language": "VCL"
+  },
+  {
+    "url": "https://github.com/zenoamaro/ansible-varnish",
+    "size": 184,
+    "language": "VCL"
+  },
+  {
+    "url": "https://github.com/enricocavalli/geocdn",
+    "size": 284,
+    "language": "VCL"
+  },
+  {
+    "url": "https://github.com/kdb/ding-deploy",
+    "size": 694,
+    "language": "VCL"
+  },
+  {
+    "url": "https://github.com/lostin8/ubuntu-nginx-happiness",
+    "size": 519,
+    "language": "VCL"
+  },
+  {
+    "url": "https://github.com/hummingbird-me/ansible-deploy",
+    "size": 298,
+    "language": "VCL"
+  },
+  {
+    "url": "https://github.com/moegirlwiki/varnish",
+    "size": 391,
+    "language": "VCL"
+  },
+  {
+    "url": "https://github.com/CajuCLC/ansible-rax-magento-lamp-single",
+    "size": 336,
+    "language": "VCL"
+  },
+  {
+    "url": "https://github.com/aahan/server-config-wordpress",
+    "size": 724,
+    "language": "VCL"
+  },
+  {
+    "url": "https://github.com/phawk/ansible-server-setup",
+    "size": 0,
+    "language": "VCL"
+  },
+  {
+    "url": "https://github.com/ukgaz/VarnishWordpress",
+    "size": 156,
+    "language": "VCL"
+  },
+  {
+    "url": "https://github.com/andrewoke/Docker-D7-Apache",
+    "size": 112,
+    "language": "VCL"
+  },
+  {
+    "url": "https://github.com/CubicMushroom/cm-fb",
+    "size": 212,
+    "language": "VCL"
+  },
+  {
+    "url": "https://github.com/sklav/varnish4-drupal-vcl",
+    "size": 140,
+    "language": "VCL"
+  }
+]

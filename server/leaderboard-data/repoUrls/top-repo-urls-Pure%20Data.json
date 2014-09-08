@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/meteor/meteor",
+    "size": 120388,
+    "language": "JavaScript"
+  },
+  {
+    "url": "https://github.com/ivaynberg/select2",
+    "size": 15513,
+    "language": "JavaScript"
+  },
+  {
+    "url": "https://github.com/antirez/redis",
+    "size": 51613,
+    "language": "C"
+  },
+  {
+    "url": "https://github.com/browserstate/history.js",
+    "size": 7269,
+    "language": "JavaScript"
+  },
+  {
+    "url": "https://github.com/magicalpanda/MagicalRecord",
+    "size": 17023,
+    "language": "Objective-C"
+  },
+  {
+    "url": "https://github.com/PredictionIO/PredictionIO",
+    "size": 14948,
+    "language": "Scala"
+  },
+  {
+    "url": "https://github.com/sferik/rails_admin",
+    "size": 33059,
+    "language": "Ruby"
+  },
+  {
+    "url": "https://github.com/fzaninotto/Faker",
+    "size": 8231,
+    "language": "PHP"
+  },
+  {
+    "url": "https://github.com/thoughtbot/factory_girl",
+    "size": 6009,
+    "language": "Ruby"
+  },
+  {
+    "url": "https://github.com/stig/json-framework",
+    "size": 8351,
+    "language": "Objective-C"
+  },
+  {
+    "url": "https://github.com/pydata/pandas",
+    "size": 88780,
+    "language": "Python"
+  },
+  {
+    "url": "https://github.com/nicklockwood/iCarousel",
+    "size": 6153,
+    "language": "Objective-C"
+  },
+  {
+    "url": "https://github.com/square/PonyDebugger",
+    "size": 3150,
+    "language": "Objective-C"
+  },
+  {
+    "url": "https://github.com/maxogden/dat",
+    "size": 7248,
+    "language": "JavaScript"
+  },
+  {
+    "url": "https://github.com/mattt/TTTAttributedLabel",
+    "size": 3030,
+    "language": "Objective-C"
+  },
+  {
+    "url": "https://github.com/facebookarchive/scribe",
+    "size": 2265,
+    "language": "C++"
+  },
+  {
+    "url": "https://github.com/airblade/paper_trail",
+    "size": 5150,
+    "language": "Ruby"
+  },
+  {
+    "url": "https://github.com/Marak/Faker.js",
+    "size": 2725,
+    "language": "JavaScript"
+  },
+  {
+    "url": "https://github.com/facebook/presto",
+    "size": 58696,
+    "language": "Java"
+  },
+  {
+    "url": "https://github.com/facebook/immutable-js",
+    "size": 16050,
+    "language": "JavaScript"
+  }
+]

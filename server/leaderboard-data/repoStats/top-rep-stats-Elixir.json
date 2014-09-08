@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/elixir-lang/elixir",
+    "size": 54101,
+    "language": "Elixir",
+    "commits": "7,998",
+    "stars": "2,708",
+    "forks": "408",
+    "contributors": "184"
+  },
+  {
+    "url": "https://github.com/dynamo/dynamo",
+    "size": 3410,
+    "language": "Elixir",
+    "commits": "698",
+    "stars": "858",
+    "forks": "151",
+    "contributors": "61"
+  },
+  {
+    "url": "https://github.com/phoenixframework/phoenix",
+    "size": 7382,
+    "language": "Elixir",
+    "commits": "790",
+    "stars": "744",
+    "forks": "80",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/elixir-lang/ecto",
+    "size": 6608,
+    "language": "Elixir",
+    "commits": "695",
+    "stars": "389",
+    "forks": "68",
+    "contributors": "36"
+  },
+  {
+    "url": "https://github.com/elixir-web/weber",
+    "size": 4020,
+    "language": "Elixir",
+    "commits": "618",
+    "stars": "296",
+    "forks": "40",
+    "contributors": "26"
+  },
+  {
+    "url": "https://github.com/edgurgel/poxa",
+    "size": 1873,
+    "language": "Elixir",
+    "commits": "225",
+    "stars": "248",
+    "forks": "13",
+    "contributors": "3"
+  },
+  {
+    "url": "https://github.com/seven1m/30-days-of-elixir",
+    "size": 811,
+    "language": "Elixir",
+    "commits": "128",
+    "stars": "194",
+    "forks": "18",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/myfreeweb/httpotion",
+    "size": 668,
+    "language": "Elixir",
+    "commits": "118",
+    "stars": "147",
+    "forks": "37",
+    "contributors": "15"
+  },
+  {
+    "url": "https://github.com/elixir-lang/plug",
+    "size": 2735,
+    "language": "Elixir",
+    "commits": "262",
+    "stars": "147",
+    "forks": "43",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/chrismccord/atlas",
+    "size": 947,
+    "language": "Elixir",
+    "commits": "121",
+    "stars": "126",
+    "forks": "8",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/josephwilk/amrita",
+    "size": 4004,
+    "language": "Elixir",
+    "commits": "599",
+    "stars": "117",
+    "forks": "22",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/oreillymedia/etudes-for-elixir",
+    "size": 3625,
+    "language": "Elixir",
+    "commits": "139",
+    "stars": "111",
+    "forks": "34",
+    "contributors": "10"
+  },
+  {
+    "url": "https://github.com/HashNuke/hound",
+    "size": 1494,
+    "language": "Elixir",
+    "commits": "302",
+    "stars": "102",
+    "forks": "8",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/sasa1977/exactor",
+    "size": 887,
+    "language": "Elixir",
+    "commits": "148",
+    "stars": "100",
+    "forks": "7",
+    "contributors": "5"
+  },
+  {
+    "url": "https://github.com/ShaneWilton/dissentr",
+    "size": 170,
+    "language": "Elixir",
+    "commits": "20",
+    "stars": "99",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/meh/elixir-socket",
+    "size": 1139,
+    "language": "Elixir",
+    "commits": "223",
+    "stars": "93",
+    "forks": "17",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/sugar-framework/sugar",
+    "size": 1297,
+    "language": "Elixir",
+    "commits": "172",
+    "stars": "93",
+    "forks": "7",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/meh/amnesia",
+    "size": 1567,
+    "language": "Elixir",
+    "commits": "232",
+    "stars": "90",
+    "forks": "21",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/roundscope/tirexs",
+    "size": 1269,
+    "language": "Elixir",
+    "commits": "274",
+    "stars": "83",
+    "forks": "11",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/talentdeficit/jsex",
+    "size": 962,
+    "language": "Elixir",
+    "commits": "148",
+    "stars": "78",
+    "forks": "11",
+    "contributors": "7"
+  }
+]

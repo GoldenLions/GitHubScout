@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/MLstate/opalang",
+    "size": 71689,
+    "language": "OCaml"
+  },
+  {
+    "url": "https://github.com/BYVoid/Batsh",
+    "size": 1104,
+    "language": "OCaml"
+  },
+  {
+    "url": "https://github.com/facebook/pfff",
+    "size": 181160,
+    "language": "OCaml"
+  },
+  {
+    "url": "https://github.com/tomprimozic/type-systems",
+    "size": 537,
+    "language": "OCaml"
+  },
+  {
+    "url": "https://github.com/ocaml/opam",
+    "size": 35873,
+    "language": "OCaml"
+  },
+  {
+    "url": "https://github.com/astrada/google-drive-ocamlfuse",
+    "size": 2272,
+    "language": "OCaml"
+  },
+  {
+    "url": "https://github.com/artagnon/rhine",
+    "size": 1336,
+    "language": "OCaml"
+  },
+  {
+    "url": "https://github.com/mirage/mirage",
+    "size": 26806,
+    "language": "OCaml"
+  },
+  {
+    "url": "https://github.com/ocaml/ocaml",
+    "size": 138754,
+    "language": "OCaml"
+  },
+  {
+    "url": "https://github.com/ocaml-batteries-team/batteries-included",
+    "size": 25686,
+    "language": "OCaml"
+  },
+  {
+    "url": "https://github.com/janestreet/core",
+    "size": 3845,
+    "language": "OCaml"
+  },
+  {
+    "url": "https://github.com/pikatchu/LinearML",
+    "size": 8603,
+    "language": "OCaml"
+  },
+  {
+    "url": "https://github.com/xapi-project/xen-api",
+    "size": 35276,
+    "language": "OCaml"
+  },
+  {
+    "url": "https://github.com/coq/coq",
+    "size": 69853,
+    "language": "OCaml"
+  },
+  {
+    "url": "https://github.com/mirage/irmin",
+    "size": 4268,
+    "language": "OCaml"
+  },
+  {
+    "url": "https://github.com/the-lambda-church/merlin",
+    "size": 16281,
+    "language": "OCaml"
+  },
+  {
+    "url": "https://github.com/alavrik/piqi",
+    "size": 4041,
+    "language": "OCaml"
+  },
+  {
+    "url": "https://github.com/g2p/git-fs",
+    "size": 203,
+    "language": "OCaml"
+  },
+  {
+    "url": "https://github.com/diml/utop",
+    "size": 1415,
+    "language": "OCaml"
+  },
+  {
+    "url": "https://github.com/technomancy/grenchman",
+    "size": 288,
+    "language": "OCaml"
+  }
+]

@@ -1,0 +1,667 @@
+[
+  {
+    "url": "https://github.com/Simmesimme",
+    "language": "Vala",
+    "full_name": "Simon Schneegans",
+    "username": "Simmesimme",
+    "location": "",
+    "join_date": "Jun 4, 2011",
+    "popular_repos_stars": "154",
+    "primary_languages": [
+      "Shell",
+      "C",
+      "Vala"
+    ],
+    "contributions": 266,
+    "followers": "71"
+  },
+  {
+    "url": "https://github.com/p-e-w",
+    "language": "Vala",
+    "full_name": "Philipp Emanuel Weidmann",
+    "username": "p-e-w",
+    "location": "",
+    "join_date": "Nov 1, 2012",
+    "popular_repos_stars": "4117",
+    "primary_languages": [
+      "Python",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 91,
+    "followers": "51"
+  },
+  {
+    "url": "https://github.com/satya164",
+    "language": "Vala",
+    "full_name": "Satyajit Sahoo",
+    "username": "satya164",
+    "location": "",
+    "join_date": "Nov 5, 2011",
+    "popular_repos_stars": "285",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "Shell"
+    ],
+    "contributions": 2,
+    "followers": "49"
+  },
+  {
+    "url": "https://github.com/sindhus",
+    "language": "Vala",
+    "full_name": "Sindhu S",
+    "username": "sindhus",
+    "location": "Bangalore, India",
+    "join_date": "Apr 29, 2013",
+    "popular_repos_stars": "8",
+    "primary_languages": [
+      "Shell",
+      "Python",
+      "C"
+    ],
+    "contributions": 112,
+    "followers": "37"
+  },
+  {
+    "url": "https://github.com/simonsj",
+    "language": "Vala",
+    "full_name": "Jon Simons",
+    "username": "simonsj",
+    "location": "",
+    "join_date": "Aug 22, 2009",
+    "popular_repos_stars": "7",
+    "primary_languages": [
+      "Shell",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 63,
+    "followers": "33"
+  },
+  {
+    "url": "https://github.com/Shabolda",
+    "language": "Vala",
+    "full_name": "",
+    "username": "Shabolda",
+    "location": "",
+    "join_date": "Aug 1, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "28"
+  },
+  {
+    "url": "https://github.com/Arkantoss",
+    "language": "Vala",
+    "full_name": "",
+    "username": "Arkantoss",
+    "location": "",
+    "join_date": "Jul 30, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "23"
+  },
+  {
+    "url": "https://github.com/BoyWithGreenHair",
+    "language": "Vala",
+    "full_name": "",
+    "username": "BoyWithGreenHair",
+    "location": "",
+    "join_date": "Aug 1, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "23"
+  },
+  {
+    "url": "https://github.com/Kafay",
+    "language": "Vala",
+    "full_name": "",
+    "username": "Kafay",
+    "location": "",
+    "join_date": "Aug 1, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "22"
+  },
+  {
+    "url": "https://github.com/Plemyasha",
+    "language": "Vala",
+    "full_name": "",
+    "username": "Plemyasha",
+    "location": "",
+    "join_date": "Aug 2, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "21"
+  },
+  {
+    "url": "https://github.com/Keltset",
+    "language": "Vala",
+    "full_name": "",
+    "username": "Keltset",
+    "location": "",
+    "join_date": "Jul 31, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "20"
+  },
+  {
+    "url": "https://github.com/luxiaoyu",
+    "language": "Vala",
+    "full_name": "Xiaoyu Lu",
+    "username": "luxiaoyu",
+    "location": "",
+    "join_date": "Feb 14, 2012",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "Java",
+      "C",
+      "Shell"
+    ],
+    "contributions": 48,
+    "followers": "19"
+  },
+  {
+    "url": "https://github.com/Dumbaka",
+    "language": "Vala",
+    "full_name": "",
+    "username": "Dumbaka",
+    "location": "",
+    "join_date": "Jul 31, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "18"
+  },
+  {
+    "url": "https://github.com/ol4eg",
+    "language": "Vala",
+    "full_name": "",
+    "username": "ol4eg",
+    "location": "",
+    "join_date": "Aug 1, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "18"
+  },
+  {
+    "url": "https://github.com/KriG46",
+    "language": "Vala",
+    "full_name": "",
+    "username": "KriG46",
+    "location": "",
+    "join_date": "Aug 1, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "17"
+  },
+  {
+    "url": "https://github.com/DworinSpoiler",
+    "language": "Vala",
+    "full_name": "",
+    "username": "DworinSpoiler",
+    "location": "",
+    "join_date": "Aug 3, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "17"
+  },
+  {
+    "url": "https://github.com/kreiser",
+    "language": "Vala",
+    "full_name": "",
+    "username": "kreiser",
+    "location": "",
+    "join_date": "Jul 31, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "16"
+  },
+  {
+    "url": "https://github.com/darius777",
+    "language": "Vala",
+    "full_name": "",
+    "username": "darius777",
+    "location": "",
+    "join_date": "Aug 2, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "16"
+  },
+  {
+    "url": "https://github.com/linvinus",
+    "language": "Vala",
+    "full_name": "",
+    "username": "linvinus",
+    "location": "",
+    "join_date": "Sep 12, 2011",
+    "popular_repos_stars": "35",
+    "primary_languages": [
+      "C",
+      "Shell",
+      "Vala"
+    ],
+    "contributions": 112,
+    "followers": "16"
+  },
+  {
+    "url": "https://github.com/Driwe",
+    "language": "Vala",
+    "full_name": "",
+    "username": "Driwe",
+    "location": "",
+    "join_date": "Aug 3, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "15"
+  },
+  {
+    "url": "https://github.com/RobbenZe",
+    "language": "Vala",
+    "full_name": "",
+    "username": "RobbenZe",
+    "location": "",
+    "join_date": "Aug 1, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "15"
+  },
+  {
+    "url": "https://github.com/voldyman",
+    "language": "Vala",
+    "full_name": "Akshay Shekher",
+    "username": "voldyman",
+    "location": "India",
+    "join_date": "Sep 19, 2012",
+    "popular_repos_stars": "19",
+    "primary_languages": [
+      "Python",
+      "Vala",
+      "Go"
+    ],
+    "contributions": 97,
+    "followers": "15"
+  },
+  {
+    "url": "https://github.com/Landsknekht",
+    "language": "Vala",
+    "full_name": "",
+    "username": "Landsknekht",
+    "location": "",
+    "join_date": "Aug 2, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "14"
+  },
+  {
+    "url": "https://github.com/sgringwe",
+    "language": "Vala",
+    "full_name": "Scott Ringwelski",
+    "username": "sgringwe",
+    "location": "Houghton, MI",
+    "join_date": "Sep 17, 2012",
+    "popular_repos_stars": "76",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "CoffeeScript"
+    ],
+    "contributions": 205,
+    "followers": "14"
+  },
+  {
+    "url": "https://github.com/Gnoi",
+    "language": "Vala",
+    "full_name": "",
+    "username": "Gnoi",
+    "location": "",
+    "join_date": "Aug 3, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "13"
+  },
+  {
+    "url": "https://github.com/freesteph",
+    "language": "Vala",
+    "full_name": "Stéphane Maniaci",
+    "username": "freesteph",
+    "location": "London, United Kingdom",
+    "join_date": "Jul 22, 2009",
+    "popular_repos_stars": "29",
+    "primary_languages": [
+      "Vala",
+      "Shell",
+      "C"
+    ],
+    "contributions": 16,
+    "followers": "13"
+  },
+  {
+    "url": "https://github.com/JayFoxRox",
+    "language": "Vala",
+    "full_name": "Jannik Vogel",
+    "username": "JayFoxRox",
+    "location": "Germany",
+    "join_date": "Aug 10, 2010",
+    "popular_repos_stars": "28",
+    "primary_languages": [
+      "C",
+      "C",
+      "Shell"
+    ],
+    "contributions": 50,
+    "followers": "13"
+  },
+  {
+    "url": "https://github.com/dotovr",
+    "language": "Vala",
+    "full_name": "Mahyuddin Idram Ahmad",
+    "username": "dotovr",
+    "location": "Banda Aceh, Aceh - Indonesia",
+    "join_date": "May 30, 2012",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "Shell",
+      "Vala",
+      "CSS"
+    ],
+    "contributions": 50,
+    "followers": "13"
+  },
+  {
+    "url": "https://github.com/sakjur",
+    "language": "Vala",
+    "full_name": "Emil Tullstedt",
+    "username": "sakjur",
+    "location": "Enskede, Sweden",
+    "join_date": "Jun 7, 2010",
+    "popular_repos_stars": "7",
+    "primary_languages": [
+      "Python",
+      "JavaScript",
+      "C"
+    ],
+    "contributions": 101,
+    "followers": "12"
+  },
+  {
+    "url": "https://github.com/gnome-globalmenu",
+    "language": "Vala",
+    "full_name": "",
+    "username": "gnome-globalmenu",
+    "location": "",
+    "join_date": "Oct 10, 2009",
+    "popular_repos_stars": "59",
+    "primary_languages": [
+      "C",
+      "C",
+      "Vala"
+    ],
+    "contributions": 0,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/VagnerLOVE",
+    "language": "Vala",
+    "full_name": "",
+    "username": "VagnerLOVE",
+    "location": "",
+    "join_date": "Aug 1, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/tjol",
+    "language": "Vala",
+    "full_name": "Thomas Jollans",
+    "username": "tjol",
+    "location": "Oxford",
+    "join_date": "May 5, 2011",
+    "popular_repos_stars": "31",
+    "primary_languages": [
+      "Python",
+      "C",
+      "Shell"
+    ],
+    "contributions": 3,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/sre",
+    "language": "Vala",
+    "full_name": "Sebastian Reichel",
+    "username": "sre",
+    "location": "Germany",
+    "join_date": "Jan 5, 2012",
+    "popular_repos_stars": "5",
+    "primary_languages": [
+      "Shell",
+      "Vala",
+      "Python"
+    ],
+    "contributions": 273,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/apmasell",
+    "language": "Vala",
+    "full_name": "Andre Masella",
+    "username": "apmasell",
+    "location": "Toronto, Ontario, Canada",
+    "join_date": "May 10, 2010",
+    "popular_repos_stars": "19",
+    "primary_languages": [
+      "C",
+      "Vala",
+      "Shell"
+    ],
+    "contributions": 601,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/IIng",
+    "language": "Vala",
+    "full_name": "",
+    "username": "IIng",
+    "location": "",
+    "join_date": "Aug 2, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/joshtriplett",
+    "language": "Vala",
+    "full_name": "Josh Triplett",
+    "username": "joshtriplett",
+    "location": "",
+    "join_date": "Dec 5, 2009",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "Python",
+      "C",
+      "Assembly"
+    ],
+    "contributions": 186,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/grejppi",
+    "language": "Vala",
+    "full_name": "",
+    "username": "grejppi",
+    "location": "Finland",
+    "join_date": "May 6, 2011",
+    "popular_repos_stars": "8",
+    "primary_languages": [
+      "C",
+      "Python",
+      "C"
+    ],
+    "contributions": 228,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/baedert",
+    "language": "Vala",
+    "full_name": "",
+    "username": "baedert",
+    "location": "Germany",
+    "join_date": "Jun 30, 2011",
+    "popular_repos_stars": "122",
+    "primary_languages": [
+      "Vala",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 1,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/rastersoft",
+    "language": "Vala",
+    "full_name": "Sergio Costas",
+    "username": "rastersoft",
+    "location": "spain",
+    "join_date": "Apr 2, 2011",
+    "popular_repos_stars": "104",
+    "primary_languages": [
+      "Vala",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 9,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/abic",
+    "language": "Vala",
+    "full_name": "Jeffrey Peckham",
+    "username": "abic",
+    "location": "",
+    "join_date": "Nov 26, 2011",
+    "popular_repos_stars": "3",
+    "primary_languages": [
+      "Shell",
+      "Ruby",
+      "Go"
+    ],
+    "contributions": 99,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/coneman",
+    "language": "Vala",
+    "full_name": "Kurniawan Haikal",
+    "username": "coneman",
+    "location": "",
+    "join_date": "Apr 12, 2010",
+    "popular_repos_stars": "8",
+    "primary_languages": [
+      "Vala",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 0,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/abhinavsv3",
+    "language": "Vala",
+    "full_name": "Abhinav S V",
+    "username": "abhinavsv3",
+    "location": "Thanjavur",
+    "join_date": "Jun 1, 2013",
+    "popular_repos_stars": "5",
+    "primary_languages": [
+      "Java",
+      "C",
+      "JavaScript"
+    ],
+    "contributions": 97,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/Sanva",
+    "language": "Vala",
+    "full_name": "Valentín Barros",
+    "username": "Sanva",
+    "location": "Galicia, Spain",
+    "join_date": "Jul 12, 2011",
+    "popular_repos_stars": "16",
+    "primary_languages": [
+      "Shell",
+      "Vala",
+      "Java"
+    ],
+    "contributions": 8,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/Nano77",
+    "language": "Vala",
+    "full_name": "Nelson Da Silva",
+    "username": "Nano77",
+    "location": "France",
+    "join_date": "Jun 26, 2011",
+    "popular_repos_stars": "55",
+    "primary_languages": [
+      "Python",
+      "Shell",
+      "Vala"
+    ],
+    "contributions": 85,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/swilmet",
+    "language": "Vala",
+    "full_name": "Sébastien Wilmet",
+    "username": "swilmet",
+    "location": "Belgium",
+    "join_date": "Jun 19, 2010",
+    "popular_repos_stars": "4",
+    "primary_languages": [
+      "C",
+      "C",
+      "Shell"
+    ],
+    "contributions": 481,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/tom95",
+    "language": "Vala",
+    "full_name": "Tom Beckmann",
+    "username": "tom95",
+    "location": "",
+    "join_date": "May 1, 2013",
+    "popular_repos_stars": "8",
+    "primary_languages": [
+      "Vala",
+      "Shell",
+      "C"
+    ],
+    "contributions": 21,
+    "followers": "6"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/KesterTong/idris2048",
+    "size": 432,
+    "language": "Idris"
+  },
+  {
+    "url": "https://github.com/puffnfresh/iridium",
+    "size": 551,
+    "language": "Idris"
+  },
+  {
+    "url": "https://github.com/idris-hackers/idris-crypto",
+    "size": 387,
+    "language": "Idris"
+  },
+  {
+    "url": "https://github.com/edwinb/idris-demos",
+    "size": 306,
+    "language": "Idris"
+  },
+  {
+    "url": "https://github.com/timjb/quantities",
+    "size": 1150,
+    "language": "Idris"
+  },
+  {
+    "url": "https://github.com/ziman/lightyear",
+    "size": 534,
+    "language": "Idris"
+  },
+  {
+    "url": "https://github.com/idris-hackers/idris-koans",
+    "size": 232,
+    "language": "Idris"
+  },
+  {
+    "url": "https://github.com/david-christiansen/idris-type-providers",
+    "size": 204,
+    "language": "Idris"
+  },
+  {
+    "url": "https://github.com/SimonJF/IdrisNet2",
+    "size": 821,
+    "language": "Idris"
+  },
+  {
+    "url": "https://github.com/idris-hackers/iQuery",
+    "size": 306,
+    "language": "Idris"
+  },
+  {
+    "url": "https://github.com/david-christiansen/idris-quickcheck",
+    "size": 196,
+    "language": "Idris"
+  },
+  {
+    "url": "https://github.com/edwinb/SDL-idris",
+    "size": 305,
+    "language": "Idris"
+  },
+  {
+    "url": "https://github.com/andyarvanitis/IdrisObjCExperiment",
+    "size": 122,
+    "language": "Idris"
+  },
+  {
+    "url": "https://github.com/idris-hackers/idris-cph-exercises",
+    "size": 139,
+    "language": "Idris"
+  },
+  {
+    "url": "https://github.com/edwinb/WS-idr",
+    "size": 172,
+    "language": "Idris"
+  },
+  {
+    "url": "https://github.com/david-christiansen/IdrisSqlite",
+    "size": 252,
+    "language": "Idris"
+  },
+  {
+    "url": "https://github.com/edwinb/Eff-new",
+    "size": 160,
+    "language": "Idris"
+  },
+  {
+    "url": "https://github.com/ajhager/idris-canvas",
+    "size": 440,
+    "language": "Idris"
+  },
+  {
+    "url": "https://github.com/stepcut/idris-blink",
+    "size": 116,
+    "language": "Idris"
+  },
+  {
+    "url": "https://github.com/reynir/Verified",
+    "size": 176,
+    "language": "Idris"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/Fuco1/litable",
+    "size": 340,
+    "language": "Emacs Lisp"
+  },
+  {
+    "url": "https://github.com/hober/html5-el",
+    "size": 236,
+    "language": "Emacs Lisp"
+  },
+  {
+    "url": "https://github.com/stanaka/dash-at-point",
+    "size": 250,
+    "language": "Emacs Lisp"
+  },
+  {
+    "url": "https://github.com/kiwanami/emacs-edbi",
+    "size": 265,
+    "language": "Emacs Lisp"
+  },
+  {
+    "url": "https://github.com/kiwanami/emacs-deferred",
+    "size": 765,
+    "language": "Emacs Lisp"
+  },
+  {
+    "url": "https://github.com/tkf/emacs-request",
+    "size": 829,
+    "language": "Emacs Lisp"
+  },
+  {
+    "url": "https://github.com/quelpa/quelpa",
+    "size": 2419,
+    "language": "Emacs Lisp"
+  },
+  {
+    "url": "https://github.com/larsbrinkhoff/emacs-cl",
+    "size": 374,
+    "language": "Emacs Lisp"
+  },
+  {
+    "url": "https://github.com/ShingoFukuyama/ov.el",
+    "size": 606,
+    "language": "Emacs Lisp"
+  },
+  {
+    "url": "https://github.com/kiwanami/emacs-epc",
+    "size": 530,
+    "language": "Emacs Lisp"
+  },
+  {
+    "url": "https://github.com/yinwang0/ydiff",
+    "size": 1198,
+    "language": "Emacs Lisp"
+  },
+  {
+    "url": "https://github.com/abo-abo/lispy",
+    "size": 10525,
+    "language": "Emacs Lisp"
+  },
+  {
+    "url": "https://github.com/purcell/elisp-slime-nav",
+    "size": 215,
+    "language": "Emacs Lisp"
+  },
+  {
+    "url": "https://github.com/redraiment/wechat.el",
+    "size": 356,
+    "language": "Emacs Lisp"
+  },
+  {
+    "url": "https://github.com/m2ym/mongo-el",
+    "size": 163,
+    "language": "Emacs Lisp"
+  },
+  {
+    "url": "https://github.com/eschulte/emacs-web-server",
+    "size": 911,
+    "language": "Emacs Lisp"
+  },
+  {
+    "url": "https://github.com/nicferrier/elmarmalade",
+    "size": 1899,
+    "language": "Emacs Lisp"
+  },
+  {
+    "url": "https://github.com/chrisbarrett/elisp-namespaces",
+    "size": 460,
+    "language": "Emacs Lisp"
+  },
+  {
+    "url": "https://github.com/redraiment/edbc",
+    "size": 316,
+    "language": "Emacs Lisp"
+  },
+  {
+    "url": "https://github.com/jwiegley/emacs-chess",
+    "size": 8306,
+    "language": "Emacs Lisp"
+  }
+]

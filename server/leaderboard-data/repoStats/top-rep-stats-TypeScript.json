@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/bitcoin/bitcoin",
+    "size": 104924,
+    "language": "TypeScript",
+    "commits": "6,692",
+    "stars": "5,799",
+    "forks": "4,177",
+    "contributors": "241"
+  },
+  {
+    "url": "https://github.com/turbulenz/turbulenz_engine",
+    "size": 36598,
+    "language": "TypeScript",
+    "commits": "1,533",
+    "stars": "2,072",
+    "forks": "305",
+    "contributors": "13"
+  },
+  {
+    "url": "https://github.com/dogecoin/dogecoin",
+    "size": 110123,
+    "language": "TypeScript",
+    "commits": "6,107",
+    "stars": "991",
+    "forks": "435",
+    "contributors": "218"
+  },
+  {
+    "url": "https://github.com/tomahawk-player/tomahawk",
+    "size": 105694,
+    "language": "TypeScript",
+    "commits": "9,575",
+    "stars": "692",
+    "forks": "158",
+    "contributors": "59"
+  },
+  {
+    "url": "https://github.com/plasma-umass/doppio",
+    "size": 81244,
+    "language": "TypeScript",
+    "commits": "2,355",
+    "stars": "631",
+    "forks": "60",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/torvalds/subsurface",
+    "size": 39281,
+    "language": "TypeScript",
+    "commits": "5,935",
+    "stars": "613",
+    "forks": "149",
+    "contributors": "71"
+  },
+  {
+    "url": "https://github.com/mumble-voip/mumble",
+    "size": 31603,
+    "language": "TypeScript",
+    "commits": "4,985",
+    "stars": "549",
+    "forks": "224",
+    "contributors": "63"
+  },
+  {
+    "url": "https://github.com/qbittorrent/qBittorrent",
+    "size": 109203,
+    "language": "TypeScript",
+    "commits": "5,092",
+    "stars": "508",
+    "forks": "190",
+    "contributors": "46"
+  },
+  {
+    "url": "https://github.com/qgis/QGIS",
+    "size": 904499,
+    "language": "TypeScript",
+    "commits": "24,476",
+    "stars": "492",
+    "forks": "459",
+    "contributors": "134"
+  },
+  {
+    "url": "https://github.com/goldendict/goldendict",
+    "size": 45801,
+    "language": "TypeScript",
+    "commits": "1,804",
+    "stars": "407",
+    "forks": "124",
+    "contributors": "29"
+  },
+  {
+    "url": "https://github.com/Emdek/otter",
+    "size": 14084,
+    "language": "TypeScript",
+    "commits": "1,087",
+    "stars": "382",
+    "forks": "81",
+    "contributors": "26"
+  },
+  {
+    "url": "https://github.com/musescore/MuseScore",
+    "size": 305469,
+    "language": "TypeScript",
+    "commits": "6,600",
+    "stars": "377",
+    "forks": "275",
+    "contributors": "46"
+  },
+  {
+    "url": "https://github.com/egret-labs/egret-core",
+    "size": 38845,
+    "language": "TypeScript",
+    "commits": "1,699",
+    "stars": "370",
+    "forks": "77",
+    "contributors": "15"
+  },
+  {
+    "url": "https://github.com/owncloud/mirall",
+    "size": 84350,
+    "language": "TypeScript",
+    "commits": "6,151",
+    "stars": "352",
+    "forks": "185",
+    "contributors": "43"
+  },
+  {
+    "url": "https://github.com/MythTV/mythtv",
+    "size": 358120,
+    "language": "TypeScript",
+    "commits": "31,773",
+    "stars": "344",
+    "forks": "169",
+    "contributors": "128"
+  },
+  {
+    "url": "https://github.com/QupZilla/qupzilla",
+    "size": 55139,
+    "language": "TypeScript",
+    "commits": "3,188",
+    "stars": "311",
+    "forks": "108",
+    "contributors": "46"
+  },
+  {
+    "url": "https://github.com/ezsystems/ezpublish-legacy",
+    "size": 314059,
+    "language": "TypeScript",
+    "commits": "20,646",
+    "stars": "259",
+    "forks": "216",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/MaartenBaert/ssr",
+    "size": 7400,
+    "language": "TypeScript",
+    "commits": "413",
+    "stars": "249",
+    "forks": "44",
+    "contributors": "11"
+  },
+  {
+    "url": "https://github.com/xinyu198736/htmljs",
+    "size": 149691,
+    "language": "TypeScript",
+    "commits": "1,407",
+    "stars": "224",
+    "forks": "56",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/LibreCAD/LibreCAD",
+    "size": 68648,
+    "language": "TypeScript",
+    "commits": "2,786",
+    "stars": "217",
+    "forks": "130",
+    "contributors": ""
+  }
+]

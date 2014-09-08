@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/bitcoin/bitcoin",
+    "size": 104924,
+    "language": "TypeScript"
+  },
+  {
+    "url": "https://github.com/turbulenz/turbulenz_engine",
+    "size": 36598,
+    "language": "TypeScript"
+  },
+  {
+    "url": "https://github.com/dogecoin/dogecoin",
+    "size": 110123,
+    "language": "TypeScript"
+  },
+  {
+    "url": "https://github.com/tomahawk-player/tomahawk",
+    "size": 105694,
+    "language": "TypeScript"
+  },
+  {
+    "url": "https://github.com/plasma-umass/doppio",
+    "size": 81244,
+    "language": "TypeScript"
+  },
+  {
+    "url": "https://github.com/torvalds/subsurface",
+    "size": 39281,
+    "language": "TypeScript"
+  },
+  {
+    "url": "https://github.com/mumble-voip/mumble",
+    "size": 31603,
+    "language": "TypeScript"
+  },
+  {
+    "url": "https://github.com/qbittorrent/qBittorrent",
+    "size": 109203,
+    "language": "TypeScript"
+  },
+  {
+    "url": "https://github.com/qgis/QGIS",
+    "size": 904499,
+    "language": "TypeScript"
+  },
+  {
+    "url": "https://github.com/goldendict/goldendict",
+    "size": 45801,
+    "language": "TypeScript"
+  },
+  {
+    "url": "https://github.com/Emdek/otter",
+    "size": 14084,
+    "language": "TypeScript"
+  },
+  {
+    "url": "https://github.com/musescore/MuseScore",
+    "size": 305469,
+    "language": "TypeScript"
+  },
+  {
+    "url": "https://github.com/egret-labs/egret-core",
+    "size": 38845,
+    "language": "TypeScript"
+  },
+  {
+    "url": "https://github.com/owncloud/mirall",
+    "size": 84350,
+    "language": "TypeScript"
+  },
+  {
+    "url": "https://github.com/MythTV/mythtv",
+    "size": 358120,
+    "language": "TypeScript"
+  },
+  {
+    "url": "https://github.com/QupZilla/qupzilla",
+    "size": 55139,
+    "language": "TypeScript"
+  },
+  {
+    "url": "https://github.com/ezsystems/ezpublish-legacy",
+    "size": 314059,
+    "language": "TypeScript"
+  },
+  {
+    "url": "https://github.com/MaartenBaert/ssr",
+    "size": 7400,
+    "language": "TypeScript"
+  },
+  {
+    "url": "https://github.com/xinyu198736/htmljs",
+    "size": 149691,
+    "language": "TypeScript"
+  },
+  {
+    "url": "https://github.com/LibreCAD/LibreCAD",
+    "size": 68648,
+    "language": "TypeScript"
+  }
+]

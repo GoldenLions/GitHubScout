@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/tobiasahlin/SpinKit",
+    "size": 720,
+    "language": null,
+    "commits": "94",
+    "stars": "6,878",
+    "forks": "622",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/fgnass/spin.js",
+    "size": 32335,
+    "language": "JavaScript",
+    "commits": "220",
+    "stars": "6,591",
+    "forks": "696",
+    "contributors": "15"
+  },
+  {
+    "url": "https://github.com/spine/spine",
+    "size": 5862,
+    "language": "JavaScript",
+    "commits": "826",
+    "stars": "2,759",
+    "forks": "352",
+    "contributors": "64"
+  },
+  {
+    "url": "https://github.com/LeaVerou/prism",
+    "size": 4595,
+    "language": "JavaScript",
+    "commits": "605",
+    "stars": "1,638",
+    "forks": "235",
+    "contributors": "74"
+  },
+  {
+    "url": "https://github.com/EsotericSoftware/spine-runtimes",
+    "size": 28657,
+    "language": "JavaScript",
+    "commits": "1,105",
+    "stars": "672",
+    "forks": "655",
+    "contributors": "49"
+  },
+  {
+    "url": "https://github.com/meskyanichi/hirefire",
+    "size": 230,
+    "language": "Ruby",
+    "commits": "75",
+    "stars": "629",
+    "forks": "63",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/jh3y/-cs-spinner",
+    "size": 1460,
+    "language": "CSS",
+    "commits": "21",
+    "stars": "536",
+    "forks": "54",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/codegram/spinach",
+    "size": 2582,
+    "language": "Ruby",
+    "commits": "657",
+    "stars": "411",
+    "forks": "48",
+    "contributors": "32"
+  },
+  {
+    "url": "https://github.com/raymondjavaxx/SpinKit-ObjC",
+    "size": 466,
+    "language": "Objective-C",
+    "commits": "45",
+    "stars": "410",
+    "forks": "45",
+    "contributors": "5"
+  },
+  {
+    "url": "https://github.com/jstorimer/spin",
+    "size": 444,
+    "language": "Ruby",
+    "commits": "179",
+    "stars": "393",
+    "forks": "62",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/maccman/spine.todos",
+    "size": 1183,
+    "language": "JavaScript",
+    "commits": "29",
+    "stars": "238",
+    "forks": "81",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/Dejal/DejalActivityView",
+    "size": 254,
+    "language": "Objective-C",
+    "commits": "16",
+    "stars": "232",
+    "forks": "63",
+    "contributors": "4"
+  },
+  {
+    "url": "https://github.com/urish/angular-spinner",
+    "size": 707,
+    "language": "JavaScript",
+    "commits": "74",
+    "stars": "193",
+    "forks": "52",
+    "contributors": "7"
+  },
+  {
+    "url": "https://github.com/spine/spine-rails",
+    "size": 474,
+    "language": "Ruby",
+    "commits": "117",
+    "stars": "192",
+    "forks": "46",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/maccman/spine.contacts",
+    "size": 332,
+    "language": "CoffeeScript",
+    "commits": "33",
+    "stars": "185",
+    "forks": "64",
+    "contributors": "5"
+  },
+  {
+    "url": "https://github.com/ai212983/android-spinnerwheel",
+    "size": 540,
+    "language": "Java",
+    "commits": "84",
+    "stars": "181",
+    "forks": "92",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/maccman/spine.rails3",
+    "size": 311,
+    "language": "Ruby",
+    "commits": "34",
+    "stars": "147",
+    "forks": "20",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/btburnett3/jquery.ui.spinner",
+    "size": 213,
+    "language": "JavaScript",
+    "commits": "16",
+    "stars": "144",
+    "forks": "54",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/adad184/MMSpinImageView",
+    "size": 4309,
+    "language": "Objective-C",
+    "commits": "14",
+    "stars": "140",
+    "forks": "35",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/everpeace/vagrant-mesos",
+    "size": 747,
+    "language": "Ruby",
+    "commits": "89",
+    "stars": "132",
+    "forks": "32",
+    "contributors": "4"
+  }
+]

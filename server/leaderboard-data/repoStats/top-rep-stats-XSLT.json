@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/wakaleo/game-of-life",
+    "size": 49624,
+    "language": "XSLT",
+    "commits": "414",
+    "stars": "1,475",
+    "forks": "4,416",
+    "contributors": "3"
+  },
+  {
+    "url": "https://github.com/schacon/git-scribe",
+    "size": 2350,
+    "language": "XSLT",
+    "commits": "96",
+    "stars": "1,082",
+    "forks": "111",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/blynn/gitmagic",
+    "size": 2874,
+    "language": "XSLT",
+    "commits": "748",
+    "stars": "738",
+    "forks": "391",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/http2/http2-spec",
+    "size": 27731,
+    "language": "XSLT",
+    "commits": "1,721",
+    "stars": "677",
+    "forks": "98",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/oreillymedia/HTMLBook",
+    "size": 6816,
+    "language": "XSLT",
+    "commits": "693",
+    "stars": "298",
+    "forks": "44",
+    "contributors": "4"
+  },
+  {
+    "url": "https://github.com/ianw/bottomupcs",
+    "size": 124,
+    "language": "XSLT",
+    "commits": "187",
+    "stars": "277",
+    "forks": "41",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/net-commons/common-logging",
+    "size": 24028,
+    "language": "XSLT",
+    "commits": "277",
+    "stars": "186",
+    "forks": "73",
+    "contributors": "9"
+  },
+  {
+    "url": "https://github.com/vogellacompany/vogella",
+    "size": 267597,
+    "language": "XSLT",
+    "commits": "316",
+    "stars": "172",
+    "forks": "360",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/ironbee/ironbee",
+    "size": 59857,
+    "language": "XSLT",
+    "commits": "7,277",
+    "stars": "150",
+    "forks": "29",
+    "contributors": "9"
+  },
+  {
+    "url": "https://github.com/jquery/api.jquery.com",
+    "size": 9144,
+    "language": "XSLT",
+    "commits": "605",
+    "stars": "139",
+    "forks": "156",
+    "contributors": "68"
+  },
+  {
+    "url": "https://github.com/spring-projects/spring-data-keyvalue-examples",
+    "size": 576,
+    "language": "XSLT",
+    "commits": "83",
+    "stars": "124",
+    "forks": "81",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/ceylon/ceylon-spec",
+    "size": 31481,
+    "language": "XSLT",
+    "commits": "7,422",
+    "stars": "111",
+    "forks": "34",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/sebastianbergmann/phpunit-documentation",
+    "size": 62234,
+    "language": "XSLT",
+    "commits": "1,125",
+    "stars": "90",
+    "forks": "97",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/activitystreams/json-activity",
+    "size": 4523,
+    "language": "XSLT",
+    "commits": "298",
+    "stars": "80",
+    "forks": "10",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/ironbee/waf-research",
+    "size": 8083,
+    "language": "XSLT",
+    "commits": "45",
+    "stars": "73",
+    "forks": "20",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/jdevalk/XML-Sitemap-PHP-Script",
+    "size": 105,
+    "language": "XSLT",
+    "commits": "11",
+    "stars": "72",
+    "forks": "31",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/dita-ot/dita-ot",
+    "size": 111234,
+    "language": "XSLT",
+    "commits": "2,300",
+    "stars": "71",
+    "forks": "38",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/bramstein/xsltjson",
+    "size": 5958,
+    "language": "XSLT",
+    "commits": "57",
+    "stars": "69",
+    "forks": "21",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/innoq/ROCA",
+    "size": 588,
+    "language": "Ruby",
+    "commits": "98",
+    "stars": "65",
+    "forks": "15",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/pkainulainen/maven-examples",
+    "size": 472,
+    "language": "XSLT",
+    "commits": "41",
+    "stars": "59",
+    "forks": "129",
+    "contributors": ""
+  }
+]

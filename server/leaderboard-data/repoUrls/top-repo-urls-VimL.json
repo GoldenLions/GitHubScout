@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/neovim/neovim",
+    "size": 56836,
+    "language": "VimL"
+  },
+  {
+    "url": "https://github.com/mathiasbynens/dotfiles",
+    "size": 25105,
+    "language": "VimL"
+  },
+  {
+    "url": "https://github.com/gmarik/Vundle.vim",
+    "size": 5233,
+    "language": "VimL"
+  },
+  {
+    "url": "https://github.com/altercation/solarized",
+    "size": 36641,
+    "language": "VimL"
+  },
+  {
+    "url": "https://github.com/carlhuda/janus",
+    "size": 2455,
+    "language": "VimL"
+  },
+  {
+    "url": "https://github.com/tpope/vim-pathogen",
+    "size": 705,
+    "language": "VimL"
+  },
+  {
+    "url": "https://github.com/tpope/vim-fugitive",
+    "size": 3578,
+    "language": "VimL"
+  },
+  {
+    "url": "https://github.com/bling/vim-airline",
+    "size": 5855,
+    "language": "VimL"
+  },
+  {
+    "url": "https://github.com/scrooloose/syntastic",
+    "size": 16642,
+    "language": "VimL"
+  },
+  {
+    "url": "https://github.com/scrooloose/nerdtree",
+    "size": 2678,
+    "language": "VimL"
+  },
+  {
+    "url": "https://github.com/spf13/spf13-vim",
+    "size": 7614,
+    "language": "VimL"
+  },
+  {
+    "url": "https://github.com/kien/ctrlp.vim",
+    "size": 1172,
+    "language": "VimL"
+  },
+  {
+    "url": "https://github.com/terryma/vim-multiple-cursors",
+    "size": 1273,
+    "language": "VimL"
+  },
+  {
+    "url": "https://github.com/tpope/vim-rails",
+    "size": 4626,
+    "language": "VimL"
+  },
+  {
+    "url": "https://github.com/altercation/vim-colors-solarized",
+    "size": 294,
+    "language": "VimL"
+  },
+  {
+    "url": "https://github.com/thinkpixellab/flatland",
+    "size": 1984,
+    "language": "VimL"
+  },
+  {
+    "url": "https://github.com/airblade/vim-gitgutter",
+    "size": 1715,
+    "language": "VimL"
+  },
+  {
+    "url": "https://github.com/Lokaltog/vim-powerline",
+    "size": 2177,
+    "language": "VimL"
+  },
+  {
+    "url": "https://github.com/tpope/vim-surround",
+    "size": 545,
+    "language": "VimL"
+  },
+  {
+    "url": "https://github.com/amix/vimrc",
+    "size": 7247,
+    "language": "VimL"
+  }
+]

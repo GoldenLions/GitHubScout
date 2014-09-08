@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/JuliaLang/julia",
+    "size": 165048,
+    "language": "Julia"
+  },
+  {
+    "url": "https://github.com/JuliaLang/IJulia.jl",
+    "size": 2257,
+    "language": "Julia"
+  },
+  {
+    "url": "https://github.com/dcjones/Gadfly.jl",
+    "size": 7077,
+    "language": "Julia"
+  },
+  {
+    "url": "https://github.com/JuliaStats/DataFrames.jl",
+    "size": 15185,
+    "language": "Julia"
+  },
+  {
+    "url": "https://github.com/stevengj/PyCall.jl",
+    "size": 1307,
+    "language": "Julia"
+  },
+  {
+    "url": "https://github.com/JuliaOpt/JuMP.jl",
+    "size": 9677,
+    "language": "Julia"
+  },
+  {
+    "url": "https://github.com/hackerschool/webstack.jl",
+    "size": 654,
+    "language": "Julia"
+  },
+  {
+    "url": "https://github.com/JuliaLang/julia-tutorial",
+    "size": 1748,
+    "language": "Julia"
+  },
+  {
+    "url": "https://github.com/forio/GeneticAlgorithms.jl",
+    "size": 327,
+    "language": "Julia"
+  },
+  {
+    "url": "https://github.com/JuliaOpt/Optim.jl",
+    "size": 1554,
+    "language": "Julia"
+  },
+  {
+    "url": "https://github.com/JuliaWeb/Morsel.jl",
+    "size": 410,
+    "language": "Julia"
+  },
+  {
+    "url": "https://github.com/nolta/Winston.jl",
+    "size": 2248,
+    "language": "Julia"
+  },
+  {
+    "url": "https://github.com/JuliaStats/GLM.jl",
+    "size": 1459,
+    "language": "Julia"
+  },
+  {
+    "url": "https://github.com/JuliaStats/Distributions.jl",
+    "size": 4932,
+    "language": "Julia"
+  },
+  {
+    "url": "https://github.com/adambom/dictionary",
+    "size": 41046,
+    "language": "Julia"
+  },
+  {
+    "url": "https://github.com/JuliaLang/Graphs.jl",
+    "size": 1795,
+    "language": "Julia"
+  },
+  {
+    "url": "https://github.com/JuliaLang/METADATA.jl",
+    "size": 25554,
+    "language": "Julia"
+  },
+  {
+    "url": "https://github.com/JuliaGPU/OpenCL.jl",
+    "size": 8403,
+    "language": "Julia"
+  },
+  {
+    "url": "https://github.com/JuliaStats/MCMC.jl",
+    "size": 1517,
+    "language": "Julia"
+  },
+  {
+    "url": "https://github.com/johnmyleswhite/JuliaVsR",
+    "size": 2312,
+    "language": "R"
+  }
+]

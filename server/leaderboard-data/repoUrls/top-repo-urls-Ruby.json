@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/rails/rails",
+    "size": 379011,
+    "language": "Ruby"
+  },
+  {
+    "url": "https://github.com/Homebrew/homebrew",
+    "size": 1197731,
+    "language": "Ruby"
+  },
+  {
+    "url": "https://github.com/jekyll/jekyll",
+    "size": 85990,
+    "language": "Ruby"
+  },
+  {
+    "url": "https://github.com/gitlabhq/gitlabhq",
+    "size": 145971,
+    "language": "Ruby"
+  },
+  {
+    "url": "https://github.com/discourse/discourse",
+    "size": 147360,
+    "language": "Ruby"
+  },
+  {
+    "url": "https://github.com/plataformatec/devise",
+    "size": 37137,
+    "language": "Ruby"
+  },
+  {
+    "url": "https://github.com/diaspora/diaspora",
+    "size": 314780,
+    "language": "Ruby"
+  },
+  {
+    "url": "https://github.com/imathis/octopress",
+    "size": 126687,
+    "language": "Ruby"
+  },
+  {
+    "url": "https://github.com/cantino/huginn",
+    "size": 14265,
+    "language": "Ruby"
+  },
+  {
+    "url": "https://github.com/mitchellh/vagrant",
+    "size": 47707,
+    "language": "Ruby"
+  },
+  {
+    "url": "https://github.com/bbatsov/ruby-style-guide",
+    "size": 3921,
+    "language": "Ruby"
+  },
+  {
+    "url": "https://github.com/thoughtbot/paperclip",
+    "size": 14592,
+    "language": "Ruby"
+  },
+  {
+    "url": "https://github.com/resque/resque",
+    "size": 12239,
+    "language": "Ruby"
+  },
+  {
+    "url": "https://github.com/capistrano/capistrano",
+    "size": 14722,
+    "language": "Ruby"
+  },
+  {
+    "url": "https://github.com/ruby/ruby",
+    "size": 257776,
+    "language": "Ruby"
+  },
+  {
+    "url": "https://github.com/ryanb/cancan",
+    "size": 8361,
+    "language": "Ruby"
+  },
+  {
+    "url": "https://github.com/spree/spree",
+    "size": 128657,
+    "language": "Ruby"
+  },
+  {
+    "url": "https://github.com/jnicklas/capybara",
+    "size": 13580,
+    "language": "Ruby"
+  },
+  {
+    "url": "https://github.com/activeadmin/activeadmin",
+    "size": 24636,
+    "language": "Ruby"
+  },
+  {
+    "url": "https://github.com/carrierwaveuploader/carrierwave",
+    "size": 12134,
+    "language": "Ruby"
+  }
+]

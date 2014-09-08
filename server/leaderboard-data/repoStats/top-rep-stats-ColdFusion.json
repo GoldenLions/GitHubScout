@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/framework-one/fw1",
+    "size": 12049,
+    "language": "ColdFusion",
+    "commits": "641",
+    "stars": "298",
+    "forks": "100",
+    "contributors": "24"
+  },
+  {
+    "url": "https://github.com/blueriver/MuraCMS",
+    "size": 76199,
+    "language": "ColdFusion",
+    "commits": "9,245",
+    "stars": "195",
+    "forks": "116",
+    "contributors": "42"
+  },
+  {
+    "url": "https://github.com/ColdBox/coldbox-platform",
+    "size": 82569,
+    "language": "ColdFusion",
+    "commits": "4,097",
+    "stars": "148",
+    "forks": "100",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/atuttle/Taffy",
+    "size": 10557,
+    "language": "ColdFusion",
+    "commits": "696",
+    "stars": "139",
+    "forks": "51",
+    "contributors": "18"
+  },
+  {
+    "url": "https://github.com/cfwheels/cfwheels",
+    "size": 18065,
+    "language": "ColdFusion",
+    "commits": "2,478",
+    "stars": "137",
+    "forks": "67",
+    "contributors": "14"
+  },
+  {
+    "url": "https://github.com/aarongreenlee/Hoth",
+    "size": 2069,
+    "language": "ColdFusion",
+    "commits": "137",
+    "stars": "124",
+    "forks": "24",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/framework-one/di1",
+    "size": 1122,
+    "language": "ColdFusion",
+    "commits": "112",
+    "stars": "101",
+    "forks": "33",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/ten24/Slatwall",
+    "size": 61646,
+    "language": "ColdFusion",
+    "commits": "9,520",
+    "stars": "93",
+    "forks": "58",
+    "contributors": "27"
+  },
+  {
+    "url": "https://github.com/DominicWatson/cfstatic",
+    "size": 9316,
+    "language": "ColdFusion",
+    "commits": "274",
+    "stars": "85",
+    "forks": "25",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/mxunit/mxunit",
+    "size": 30631,
+    "language": "ColdFusion",
+    "commits": "359",
+    "stars": "75",
+    "forks": "45",
+    "contributors": "16"
+  },
+  {
+    "url": "https://github.com/TheRealAgentK/facebook-cf-sdk",
+    "size": 2569,
+    "language": "ColdFusion",
+    "commits": "236",
+    "stars": "73",
+    "forks": "22",
+    "contributors": "8"
+  },
+  {
+    "url": "https://github.com/bittersweetryan/ColdFusion-Koans",
+    "size": 11867,
+    "language": "ColdFusion",
+    "commits": "142",
+    "stars": "63",
+    "forks": "29",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/teamcfadvance/CFSelenium",
+    "size": 146739,
+    "language": "ColdFusion",
+    "commits": "90",
+    "stars": "63",
+    "forks": "15",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/simonbingham/xindi",
+    "size": 10704,
+    "language": "ColdFusion",
+    "commits": "727",
+    "stars": "63",
+    "forks": "30",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/cfjedimaster/ColdFusion-UI-the-Right-Way",
+    "size": 14049,
+    "language": "ColdFusion",
+    "commits": "116",
+    "stars": "59",
+    "forks": "18",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/jeffdupont/bootstrap-data-table",
+    "size": 680,
+    "language": "ColdFusion",
+    "commits": "67",
+    "stars": "59",
+    "forks": "54",
+    "contributors": "5"
+  },
+  {
+    "url": "https://github.com/oarevalo/BugLogHQ",
+    "size": 3440,
+    "language": "ColdFusion",
+    "commits": "524",
+    "stars": "57",
+    "forks": "37",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/misterdai/cftracker",
+    "size": 7037,
+    "language": "ColdFusion",
+    "commits": "215",
+    "stars": "56",
+    "forks": "11",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/Ortus-Solutions/ContentBox",
+    "size": 244812,
+    "language": "ColdFusion",
+    "commits": "1,664",
+    "stars": "55",
+    "forks": "40",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/CFCommunity/CFScript-Community-Components",
+    "size": 152,
+    "language": "ColdFusion",
+    "commits": "41",
+    "stars": "55",
+    "forks": "14",
+    "contributors": "5"
+  }
+]

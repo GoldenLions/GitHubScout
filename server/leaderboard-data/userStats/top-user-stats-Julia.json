@@ -1,0 +1,530 @@
+[
+  {
+    "url": "https://github.com/johnmyleswhite",
+    "language": "Julia",
+    "full_name": "John Myles White",
+    "username": "johnmyleswhite",
+    "location": "San Francisco, CA",
+    "join_date": "Aug 26, 2008",
+    "popular_repos_stars": "2268",
+    "primary_languages": [
+      "Julia",
+      "R",
+      "Shell"
+    ],
+    "contributions": 682,
+    "followers": "722"
+  },
+  {
+    "url": "https://github.com/StefanKarpinski",
+    "language": "Julia",
+    "full_name": "Stefan Karpinski",
+    "username": "StefanKarpinski",
+    "location": "New York, NY",
+    "join_date": "Nov 15, 2009",
+    "popular_repos_stars": "48",
+    "primary_languages": [
+      "Julia",
+      "Shell",
+      "C"
+    ],
+    "contributions": 1,
+    "followers": "183"
+  },
+  {
+    "url": "https://github.com/lindahua",
+    "language": "Julia",
+    "full_name": "Dahua Lin",
+    "username": "lindahua",
+    "location": "Hong Kong",
+    "join_date": "Jun 27, 2012",
+    "popular_repos_stars": "131",
+    "primary_languages": [
+      "Julia",
+      "C",
+      "C"
+    ],
+    "contributions": 1,
+    "followers": "168"
+  },
+  {
+    "url": "https://github.com/dmbates",
+    "language": "Julia",
+    "full_name": "Douglas Bates",
+    "username": "dmbates",
+    "location": "Madison, WI, U.S.A.",
+    "join_date": "Aug 20, 2010",
+    "popular_repos_stars": "44",
+    "primary_languages": [
+      "Julia",
+      "R",
+      "C"
+    ],
+    "contributions": 498,
+    "followers": "84"
+  },
+  {
+    "url": "https://github.com/dcjones",
+    "language": "Julia",
+    "full_name": "Daniel Jones",
+    "username": "dcjones",
+    "location": "Seattle, WA, USA",
+    "join_date": "Feb 24, 2010",
+    "popular_repos_stars": "544",
+    "primary_languages": [
+      "Julia",
+      "C",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "59"
+  },
+  {
+    "url": "https://github.com/stevengj",
+    "language": "Julia",
+    "full_name": "Steven G. Johnson",
+    "username": "stevengj",
+    "location": "",
+    "join_date": "Nov 28, 2012",
+    "popular_repos_stars": "379",
+    "primary_languages": [
+      "Julia",
+      "Shell",
+      "C"
+    ],
+    "contributions": 754,
+    "followers": "58"
+  },
+  {
+    "url": "https://github.com/IainNZ",
+    "language": "Julia",
+    "full_name": "Iain Dunning",
+    "username": "IainNZ",
+    "location": "Cambridge, MA, USA",
+    "join_date": "Mar 26, 2011",
+    "popular_repos_stars": "69",
+    "primary_languages": [
+      "Julia",
+      "Python",
+      "JavaScript"
+    ],
+    "contributions": 2,
+    "followers": "45"
+  },
+  {
+    "url": "https://github.com/milktrader",
+    "language": "Julia",
+    "full_name": "",
+    "username": "milktrader",
+    "location": "",
+    "join_date": "Jul 6, 2010",
+    "popular_repos_stars": "27",
+    "primary_languages": [
+      "Julia",
+      "R",
+      "Ruby"
+    ],
+    "contributions": 1,
+    "followers": "44"
+  },
+  {
+    "url": "https://github.com/timholy",
+    "language": "Julia",
+    "full_name": "Tim Holy",
+    "username": "timholy",
+    "location": "",
+    "join_date": "Mar 11, 2012",
+    "popular_repos_stars": "116",
+    "primary_languages": [
+      "Julia",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "33"
+  },
+  {
+    "url": "https://github.com/simonster",
+    "language": "Julia",
+    "full_name": "Simon Kornblith",
+    "username": "simonster",
+    "location": "Cambridge, MA",
+    "join_date": "Nov 7, 2010",
+    "popular_repos_stars": "47",
+    "primary_languages": [
+      "Julia",
+      "Python",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "30"
+  },
+  {
+    "url": "https://github.com/nolta",
+    "language": "Julia",
+    "full_name": "Mike Nolta",
+    "username": "nolta",
+    "location": "Toronto",
+    "join_date": "Feb 10, 2010",
+    "popular_repos_stars": "77",
+    "primary_languages": [
+      "Julia",
+      "C",
+      "Python"
+    ],
+    "contributions": 477,
+    "followers": "23"
+  },
+  {
+    "url": "https://github.com/doobwa",
+    "language": "Julia",
+    "full_name": "Chris DuBois",
+    "username": "doobwa",
+    "location": "Irvine, CA",
+    "join_date": "Apr 30, 2009",
+    "popular_repos_stars": "25",
+    "primary_languages": [
+      "R",
+      "Julia",
+      "Python"
+    ],
+    "contributions": 2,
+    "followers": "20"
+  },
+  {
+    "url": "https://github.com/mlubin",
+    "language": "Julia",
+    "full_name": "Miles Lubin",
+    "username": "mlubin",
+    "location": "Cambridge, MA",
+    "join_date": "May 12, 2012",
+    "popular_repos_stars": "16",
+    "primary_languages": [
+      "Julia",
+      "Python",
+      "C"
+    ],
+    "contributions": 1,
+    "followers": "20"
+  },
+  {
+    "url": "https://github.com/vtjnash",
+    "language": "Julia",
+    "full_name": "Jameson Nash",
+    "username": "vtjnash",
+    "location": "",
+    "join_date": "Jul 13, 2010",
+    "popular_repos_stars": "8",
+    "primary_languages": [
+      "Julia",
+      "C",
+      "Python"
+    ],
+    "contributions": 633,
+    "followers": "17"
+  },
+  {
+    "url": "https://github.com/muratg",
+    "language": "Julia",
+    "full_name": "Murat Girgin",
+    "username": "muratg",
+    "location": "Seattle, WA",
+    "join_date": "Jun 1, 2012",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "C",
+      "JavaScript",
+      "Assembly"
+    ],
+    "contributions": 19,
+    "followers": "15"
+  },
+  {
+    "url": "https://github.com/tanmaykm",
+    "language": "Julia",
+    "full_name": "Tanmay Mohapatra",
+    "username": "tanmaykm",
+    "location": "Bangalore, India",
+    "join_date": "Aug 28, 2011",
+    "popular_repos_stars": "38",
+    "primary_languages": [
+      "Julia",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 917,
+    "followers": "15"
+  },
+  {
+    "url": "https://github.com/aviks",
+    "language": "Julia",
+    "full_name": "Avik Sengupta",
+    "username": "aviks",
+    "location": "",
+    "join_date": "Aug 28, 2010",
+    "popular_repos_stars": "29",
+    "primary_languages": [
+      "Julia",
+      "Python",
+      "Ruby"
+    ],
+    "contributions": 316,
+    "followers": "14"
+  },
+  {
+    "url": "https://github.com/WestleyArgentum",
+    "language": "Julia",
+    "full_name": "Westley Argentum Hennigh",
+    "username": "WestleyArgentum",
+    "location": "New York, NY",
+    "join_date": "Jun 27, 2012",
+    "popular_repos_stars": "18",
+    "primary_languages": [
+      "Julia",
+      "JavaScript",
+      "Python"
+    ],
+    "contributions": 907,
+    "followers": "14"
+  },
+  {
+    "url": "https://github.com/andreasnoack",
+    "language": "Julia",
+    "full_name": "Andreas Noack",
+    "username": "andreasnoack",
+    "location": "Copenhagen",
+    "join_date": "Dec 1, 2010",
+    "popular_repos_stars": "6",
+    "primary_languages": [
+      "Julia",
+      "CSS",
+      "R"
+    ],
+    "contributions": 407,
+    "followers": "13"
+  },
+  {
+    "url": "https://github.com/quinnj",
+    "language": "Julia",
+    "full_name": "Jacob Quinn",
+    "username": "quinnj",
+    "location": "",
+    "join_date": "Nov 26, 2012",
+    "popular_repos_stars": "93",
+    "primary_languages": [
+      "Julia",
+      "Python",
+      "JavaScript"
+    ],
+    "contributions": 742,
+    "followers": "13"
+  },
+  {
+    "url": "https://github.com/carlobaldassi",
+    "language": "Julia",
+    "full_name": "Carlo Baldassi",
+    "username": "carlobaldassi",
+    "location": "",
+    "join_date": "Mar 16, 2010",
+    "popular_repos_stars": "17",
+    "primary_languages": [
+      "Julia",
+      "VimL",
+      "Python"
+    ],
+    "contributions": 494,
+    "followers": "13"
+  },
+  {
+    "url": "https://github.com/ihnorton",
+    "language": "Julia",
+    "full_name": "Isaiah",
+    "username": "ihnorton",
+    "location": "Boston, MA",
+    "join_date": "Jul 9, 2010",
+    "popular_repos_stars": "21",
+    "primary_languages": [
+      "Julia",
+      "C",
+      "C"
+    ],
+    "contributions": 610,
+    "followers": "12"
+  },
+  {
+    "url": "https://github.com/SimonDanisch",
+    "language": "Julia",
+    "full_name": "Sdanisch",
+    "username": "SimonDanisch",
+    "location": "",
+    "join_date": "Aug 28, 2011",
+    "popular_repos_stars": "12",
+    "primary_languages": [
+      "Julia",
+      "C"
+    ],
+    "contributions": 493,
+    "followers": "10"
+  },
+  {
+    "url": "https://github.com/kmsquire",
+    "language": "Julia",
+    "full_name": "Kevin Squire",
+    "username": "kmsquire",
+    "location": "Los Angeles",
+    "join_date": "Mar 15, 2010",
+    "popular_repos_stars": "27",
+    "primary_languages": [
+      "Julia",
+      "Python",
+      "C"
+    ],
+    "contributions": 721,
+    "followers": "10"
+  },
+  {
+    "url": "https://github.com/lgautier",
+    "language": "Julia",
+    "full_name": "Laurent Gautier",
+    "username": "lgautier",
+    "location": "",
+    "join_date": "Mar 4, 2011",
+    "popular_repos_stars": "33",
+    "primary_languages": [
+      "C",
+      "Python",
+      "C"
+    ],
+    "contributions": 51,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/andrioni",
+    "language": "Julia",
+    "full_name": "Alessandro Andrioni",
+    "username": "andrioni",
+    "location": "Campinas, Brasil",
+    "join_date": "Nov 28, 2009",
+    "popular_repos_stars": "17",
+    "primary_languages": [
+      "Julia",
+      "C",
+      "Python"
+    ],
+    "contributions": 93,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/thirdwing",
+    "language": "Julia",
+    "full_name": "Qiang Kou",
+    "username": "thirdwing",
+    "location": "",
+    "join_date": "Mar 17, 2012",
+    "popular_repos_stars": "23",
+    "primary_languages": [
+      "R",
+      "Shell",
+      "C"
+    ],
+    "contributions": 398,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/schenker",
+    "language": "Julia",
+    "full_name": "Thomas Schenker",
+    "username": "schenker",
+    "location": "",
+    "join_date": "Jul 1, 2011",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "JavaScript",
+      "Julia",
+      "Go"
+    ],
+    "contributions": 2,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/rennis250",
+    "language": "Julia",
+    "full_name": "Robert J. Ennis",
+    "username": "rennis250",
+    "location": "Giessen, Germany",
+    "join_date": "May 27, 2012",
+    "popular_repos_stars": "35",
+    "primary_languages": [
+      "Julia",
+      "Shell",
+      "C"
+    ],
+    "contributions": 152,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/blakejohnson",
+    "language": "Julia",
+    "full_name": "Blake Johnson",
+    "username": "blakejohnson",
+    "location": "Somerville, MA",
+    "join_date": "Jun 22, 2011",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "Julia",
+      "Python",
+      "Ruby"
+    ],
+    "contributions": 176,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/huangtc",
+    "language": "Julia",
+    "full_name": "Tristan Huang",
+    "username": "huangtc",
+    "location": "Beijing, China",
+    "join_date": "Jul 13, 2011",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "Julia",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 29,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/diegozea",
+    "language": "Julia",
+    "full_name": "Diego Javier Zea",
+    "username": "diegozea",
+    "location": "Buenos Aires, Argentina",
+    "join_date": "Nov 17, 2012",
+    "popular_repos_stars": "15",
+    "primary_languages": [
+      "Julia",
+      "Python",
+      "JavaScript"
+    ],
+    "contributions": 80,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/bensadeghi",
+    "language": "Julia",
+    "full_name": "Ben Sadeghi",
+    "username": "bensadeghi",
+    "location": "Singapore",
+    "join_date": "Mar 18, 2012",
+    "popular_repos_stars": "27",
+    "primary_languages": [
+      "Julia",
+      "Matlab",
+      "Objective",
+      "C"
+    ],
+    "contributions": 49,
+    "followers": "6"
+  }
+]

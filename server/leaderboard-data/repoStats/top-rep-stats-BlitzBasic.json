@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/dv1/meta-gstreamer1.0",
+    "size": 379,
+    "language": "BlitzBasic",
+    "commits": "76",
+    "stars": "233",
+    "forks": "224",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/openembedded/openembedded",
+    "size": 185834,
+    "language": "BlitzBasic",
+    "commits": "54,622",
+    "stars": "64",
+    "forks": "60",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/openembedded/meta-oe",
+    "size": 27953,
+    "language": "BlitzBasic",
+    "commits": "4,972",
+    "stars": "56",
+    "forks": "95",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/Freescale/meta-fsl-arm",
+    "size": 40178,
+    "language": "BlitzBasic",
+    "commits": "1,239",
+    "stars": "48",
+    "forks": "37",
+    "contributors": "39"
+  },
+  {
+    "url": "https://github.com/openembedded/oe-core",
+    "size": 107465,
+    "language": "BlitzBasic",
+    "commits": "25,262",
+    "stars": "46",
+    "forks": "72",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/bmwcarit/meta-ros",
+    "size": 3816,
+    "language": "BlitzBasic",
+    "commits": "822",
+    "stars": "42",
+    "forks": "24",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/openwebos/meta-webos",
+    "size": 11664,
+    "language": "BlitzBasic",
+    "commits": "1,132",
+    "stars": "23",
+    "forks": "37",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/Angstrom-distribution/meta-ti",
+    "size": 11666,
+    "language": "BlitzBasic",
+    "commits": "794",
+    "stars": "22",
+    "forks": "18",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/meta-qt5/meta-qt5",
+    "size": 4124,
+    "language": "BlitzBasic",
+    "commits": "401",
+    "stars": "19",
+    "forks": "45",
+    "contributors": "28"
+  },
+  {
+    "url": "https://github.com/oe-alliance/oe-alliance-core",
+    "size": 141493,
+    "language": "BlitzBasic",
+    "commits": "6,064",
+    "stars": "18",
+    "forks": "36",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/woglinde/meta-java",
+    "size": 1572,
+    "language": "BlitzBasic",
+    "commits": "229",
+    "stars": "18",
+    "forks": "20",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/Freescale/meta-fsl-arm-extra",
+    "size": 2932,
+    "language": "BlitzBasic",
+    "commits": "257",
+    "stars": "16",
+    "forks": "19",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/E2OpenPlugins/e2openplugins",
+    "size": 366,
+    "language": "BlitzBasic",
+    "commits": "101",
+    "stars": "15",
+    "forks": "12",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/ebutera/meta-sunxi",
+    "size": 718,
+    "language": "BlitzBasic",
+    "commits": "199",
+    "stars": "13",
+    "forks": "25",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/openpandora/meta-openpandora",
+    "size": 16462,
+    "language": "BlitzBasic",
+    "commits": "537",
+    "stars": "11",
+    "forks": "10",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/oe-alliance/build-enviroment",
+    "size": 24979,
+    "language": "BlitzBasic",
+    "commits": "3,482",
+    "stars": "11",
+    "forks": "17",
+    "contributors": "18"
+  },
+  {
+    "url": "https://github.com/ebutera/meta-igep",
+    "size": 401,
+    "language": "BlitzBasic",
+    "commits": "64",
+    "stars": "10",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/balister/meta-ettus",
+    "size": 406,
+    "language": "BlitzBasic",
+    "commits": "118",
+    "stars": "9",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/Freescale/meta-fsl-demos",
+    "size": 734,
+    "language": "BlitzBasic",
+    "commits": "140",
+    "stars": "8",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/openembedded/meta-openembedded",
+    "size": 22684,
+    "language": "BlitzBasic",
+    "commits": "4,972",
+    "stars": "7",
+    "forks": "13",
+    "contributors": ""
+  }
+]

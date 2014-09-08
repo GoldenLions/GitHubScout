@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/nathanmarz/storm",
+    "size": 27015,
+    "language": "Java"
+  },
+  {
+    "url": "https://github.com/elasticsearch/elasticsearch",
+    "size": 259176,
+    "language": "Java"
+  },
+  {
+    "url": "https://github.com/jfeinstein10/SlidingMenu",
+    "size": 28459,
+    "language": "Java"
+  },
+  {
+    "url": "https://github.com/JakeWharton/ActionBarSherlock",
+    "size": 16243,
+    "language": "Java"
+  },
+  {
+    "url": "https://github.com/nostra13/Android-Universal-Image-Loader",
+    "size": 23808,
+    "language": "Java"
+  },
+  {
+    "url": "https://github.com/github/android",
+    "size": 13110,
+    "language": "Java"
+  },
+  {
+    "url": "https://github.com/libgdx/libgdx",
+    "size": 933921,
+    "language": "Java"
+  },
+  {
+    "url": "https://github.com/loopj/android-async-http",
+    "size": 6822,
+    "language": "Java"
+  },
+  {
+    "url": "https://github.com/JakeWharton/Android-ViewPagerIndicator",
+    "size": 5790,
+    "language": "Java"
+  },
+  {
+    "url": "https://github.com/google/iosched",
+    "size": 19325,
+    "language": "Java"
+  },
+  {
+    "url": "https://github.com/spring-projects/spring-framework",
+    "size": 244861,
+    "language": "Java"
+  },
+  {
+    "url": "https://github.com/chrisbanes/Android-PullToRefresh",
+    "size": 3441,
+    "language": "Java"
+  },
+  {
+    "url": "https://github.com/excilys/androidannotations",
+    "size": 43796,
+    "language": "Java"
+  },
+  {
+    "url": "https://github.com/netty/netty",
+    "size": 114210,
+    "language": "Java"
+  },
+  {
+    "url": "https://github.com/square/picasso",
+    "size": 12075,
+    "language": "Java"
+  },
+  {
+    "url": "https://github.com/clojure/clojure",
+    "size": 16647,
+    "language": "Java"
+  },
+  {
+    "url": "https://github.com/Bearded-Hen/Android-Bootstrap",
+    "size": 10838,
+    "language": "Java"
+  },
+  {
+    "url": "https://github.com/ReactiveX/RxJava",
+    "size": 613646,
+    "language": "Java"
+  },
+  {
+    "url": "https://github.com/eclipse/vert.x",
+    "size": 378791,
+    "language": "Java"
+  },
+  {
+    "url": "https://github.com/AndroidBootstrap/android-bootstrap",
+    "size": 2609,
+    "language": "Java"
+  }
+]

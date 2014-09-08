@@ -1,0 +1,64 @@
+[
+  {
+    "url": "https://github.com/dianedouglas",
+    "language": "Max/MSP",
+    "full_name": "Diane Douglas",
+    "username": "dianedouglas",
+    "location": "United States",
+    "join_date": "Feb 20, 2014",
+    "popular_repos_stars": "1",
+    "primary_languages": [
+      "Ruby",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 182,
+    "followers": "27"
+  },
+  {
+    "url": "https://github.com/xsimov",
+    "language": "Max/MSP",
+    "full_name": "xsimov",
+    "username": "xsimov",
+    "location": "Barcelona",
+    "join_date": "May 23, 2014",
+    "popular_repos_stars": "1",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 244,
+    "followers": "12"
+  },
+  {
+    "url": "https://github.com/navid",
+    "language": "Max/MSP",
+    "full_name": "Navid",
+    "username": "navid",
+    "location": "Montreal",
+    "join_date": "Oct 28, 2009",
+    "popular_repos_stars": "6",
+    "primary_languages": [
+      "Max",
+      "C",
+      "C"
+    ],
+    "contributions": 59,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/trentgill",
+    "language": "Max/MSP",
+    "full_name": "trent",
+    "username": "trentgill",
+    "location": "",
+    "join_date": "Mar 15, 2009",
+    "popular_repos_stars": "24",
+    "primary_languages": [
+      "Max"
+    ],
+    "contributions": 82,
+    "followers": "8"
+  }
+]

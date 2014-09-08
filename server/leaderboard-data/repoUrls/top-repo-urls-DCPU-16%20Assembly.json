@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/nemasu/asmttpd",
+    "size": 419,
+    "language": "Assembly"
+  },
+  {
+    "url": "https://github.com/Overv/MineAssemble",
+    "size": 675,
+    "language": "Assembly"
+  },
+  {
+    "url": "https://github.com/ReturnInfinity/BareMetal-OS",
+    "size": 2589,
+    "language": "Assembly"
+  },
+  {
+    "url": "https://github.com/Fody/Fody",
+    "size": 10458,
+    "language": "C#"
+  },
+  {
+    "url": "https://github.com/ChrisZieba/LogicPull",
+    "size": 12547,
+    "language": "JavaScript"
+  },
+  {
+    "url": "https://github.com/ynh/cpp-to-assembly",
+    "size": 189,
+    "language": "CoffeeScript"
+  },
+  {
+    "url": "https://github.com/ICTeam28/PiFox",
+    "size": 1646,
+    "language": "Assembly"
+  },
+  {
+    "url": "https://github.com/jawb/JSVM",
+    "size": 276,
+    "language": "CSS"
+  },
+  {
+    "url": "https://github.com/vsergeev/apfcp",
+    "size": 28993,
+    "language": "Assembly"
+  },
+  {
+    "url": "https://github.com/bixo/bixo",
+    "size": 409201,
+    "language": "Arc"
+  },
+  {
+    "url": "https://github.com/Dman95/SASM",
+    "size": 338302,
+    "language": "Python"
+  },
+  {
+    "url": "https://github.com/mikehadlow/AsmSpy",
+    "size": 233,
+    "language": "C#"
+  },
+  {
+    "url": "https://github.com/nunit/nunit-framework",
+    "size": 25176,
+    "language": "C#"
+  },
+  {
+    "url": "https://github.com/Barliesque/EasyAGAL",
+    "size": 2965,
+    "language": "ActionScript"
+  },
+  {
+    "url": "https://github.com/richardjrossiii/iOSAppInAssembly",
+    "size": 169,
+    "language": "Assembly"
+  },
+  {
+    "url": "https://github.com/jlongster/dcpu-lisp",
+    "size": 2569,
+    "language": "JavaScript"
+  },
+  {
+    "url": "https://github.com/edma2/asmscan",
+    "size": 128,
+    "language": "Assembly"
+  },
+  {
+    "url": "https://github.com/mysociety/theyworkforyou",
+    "size": 91548,
+    "language": "Python"
+  },
+  {
+    "url": "https://github.com/cidadania/e-cidadania",
+    "size": 21148,
+    "language": "JavaScript"
+  },
+  {
+    "url": "https://github.com/domenic/understanding-node",
+    "size": 1858,
+    "language": "JavaScript"
+  }
+]

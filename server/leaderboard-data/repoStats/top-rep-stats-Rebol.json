@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/rebolsource/rebol-test",
+    "size": 1314,
+    "language": "Rebol",
+    "commits": "327",
+    "stars": "18",
+    "forks": "8",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/opower/rbundler",
+    "size": 475,
+    "language": "Rebol",
+    "commits": "72",
+    "stars": "16",
+    "forks": "6",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/rebolsource/rebol-syntax",
+    "size": 115,
+    "language": "Rebol",
+    "commits": "45",
+    "stars": "14",
+    "forks": "6",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/gchiu/Rebol3",
+    "size": 1311,
+    "language": "Rebol",
+    "commits": "72",
+    "stars": "13",
+    "forks": "7",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/gchiu/rebolbot",
+    "size": 495,
+    "language": "Rebol",
+    "commits": "109",
+    "stars": "11",
+    "forks": "4",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/hostilefork/rebmu",
+    "size": 1090,
+    "language": "Rebol",
+    "commits": "92",
+    "stars": "10",
+    "forks": "4",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/saphirion/r3-gui",
+    "size": 500,
+    "language": "Rebol",
+    "commits": "21",
+    "stars": "10",
+    "forks": "9",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/earl/rebol3",
+    "size": 159,
+    "language": "Rebol",
+    "commits": "16",
+    "stars": "10",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/greggirwin/OpenME",
+    "size": 1413,
+    "language": "Rebol",
+    "commits": "14",
+    "stars": "9",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/BrianHawley/rebol-patches",
+    "size": 190,
+    "language": "Rebol",
+    "commits": "4",
+    "stars": "9",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/hadley/memoise",
+    "size": 179,
+    "language": "Rebol",
+    "commits": "20",
+    "stars": "8",
+    "forks": "6",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/saphirion/documentation",
+    "size": 944,
+    "language": "Rebol",
+    "commits": "33",
+    "stars": "8",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/rgchris/QuarterMaster",
+    "size": 414,
+    "language": "Rebol",
+    "commits": "33",
+    "stars": "7",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/dockimbel/curecode",
+    "size": 1856,
+    "language": "Rebol",
+    "commits": "11",
+    "stars": "7",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/gchiu/Rebol2",
+    "size": 273,
+    "language": "Rebol",
+    "commits": "21",
+    "stars": "7",
+    "forks": "4",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/henrikmk/VID-Extension-Kit",
+    "size": 1124,
+    "language": "Rebol",
+    "commits": "151",
+    "stars": "6",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/hostilefork/rubol",
+    "size": 220,
+    "language": "Rebol",
+    "commits": "21",
+    "stars": "6",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/zsx/mysql-r3",
+    "size": 232,
+    "language": "Rebol",
+    "commits": "49",
+    "stars": "5",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/PeterWAWood/UnicodeOutOfTheBoxTests",
+    "size": 960,
+    "language": "Rebol",
+    "commits": "103",
+    "stars": "5",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/cyphre/tls-prototype",
+    "size": 109,
+    "language": "Rebol",
+    "commits": "2",
+    "stars": "4",
+    "forks": "2",
+    "contributors": ""
+  }
+]

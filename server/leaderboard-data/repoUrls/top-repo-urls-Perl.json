@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/sitaramc/gitolite",
+    "size": 7224,
+    "language": "Perl"
+  },
+  {
+    "url": "https://github.com/coreyti/showdown",
+    "size": 342,
+    "language": "Perl"
+  },
+  {
+    "url": "https://github.com/major/MySQLTuner-perl",
+    "size": 760,
+    "language": "Perl"
+  },
+  {
+    "url": "https://github.com/kraih/mojo",
+    "size": 50491,
+    "language": "Perl"
+  },
+  {
+    "url": "https://github.com/tobie/ua-parser",
+    "size": 7545,
+    "language": "Perl"
+  },
+  {
+    "url": "https://github.com/openresty/lua-nginx-module",
+    "size": 21306,
+    "language": "Perl"
+  },
+  {
+    "url": "https://github.com/rails/rails-dev-box",
+    "size": 668,
+    "language": "Perl"
+  },
+  {
+    "url": "https://github.com/onyxfish/csvkit",
+    "size": 22478,
+    "language": "Perl"
+  },
+  {
+    "url": "https://github.com/petdance/ack",
+    "size": 2474,
+    "language": "Perl"
+  },
+  {
+    "url": "https://github.com/creaktive/rainbarf",
+    "size": 804,
+    "language": "Perl"
+  },
+  {
+    "url": "https://github.com/prey/prey-bash-client",
+    "size": 18545,
+    "language": "Perl"
+  },
+  {
+    "url": "https://github.com/lulzlabs/AirChat",
+    "size": 919,
+    "language": "Perl"
+  },
+  {
+    "url": "https://github.com/k4rthik/git-cal",
+    "size": 451,
+    "language": "Perl"
+  },
+  {
+    "url": "https://github.com/munin-monitoring/contrib",
+    "size": 8181,
+    "language": "Perl"
+  },
+  {
+    "url": "https://github.com/petdance/ack2",
+    "size": 4829,
+    "language": "Perl"
+  },
+  {
+    "url": "https://github.com/PerlDancer/Dancer",
+    "size": 14727,
+    "language": "Perl"
+  },
+  {
+    "url": "https://github.com/openresty/ngx_openresty",
+    "size": 4952,
+    "language": "Perl"
+  },
+  {
+    "url": "https://github.com/brendangregg/FlameGraph",
+    "size": 1245,
+    "language": "Perl"
+  },
+  {
+    "url": "https://github.com/openresty/nginx-tutorials",
+    "size": 920,
+    "language": "Perl"
+  },
+  {
+    "url": "https://github.com/duckduckgo/duckduckgo",
+    "size": 6220,
+    "language": "Perl"
+  }
+]

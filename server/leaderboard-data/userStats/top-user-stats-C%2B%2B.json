@@ -1,0 +1,1618 @@
+[
+  {
+    "url": "https://github.com/chenshuo",
+    "language": "C++",
+    "full_name": "Shuo Chen",
+    "username": "chenshuo",
+    "location": "China",
+    "join_date": "Mar 26, 2010",
+    "popular_repos_stars": "1459",
+    "primary_languages": [
+      "C",
+      "C",
+      "Shell"
+    ],
+    "contributions": 202,
+    "followers": "1.4k"
+  },
+  {
+    "url": "https://github.com/kylemcdonald",
+    "language": "C++",
+    "full_name": "Kyle McDonald",
+    "username": "kylemcdonald",
+    "location": "Brooklyn, New York",
+    "join_date": "Nov 23, 2009",
+    "popular_repos_stars": "1025",
+    "primary_languages": [
+      "C",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 762,
+    "followers": "941"
+  },
+  {
+    "url": "https://github.com/ariya",
+    "language": "C++",
+    "full_name": "Ariya Hidayat",
+    "username": "ariya",
+    "location": "",
+    "join_date": "Apr 14, 2008",
+    "popular_repos_stars": "13801",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "C"
+    ],
+    "contributions": 347,
+    "followers": "924"
+  },
+  {
+    "url": "https://github.com/rogerwang",
+    "language": "C++",
+    "full_name": "Roger Wang",
+    "username": "rogerwang",
+    "location": "Shanghai, China",
+    "join_date": "Dec 9, 2009",
+    "popular_repos_stars": "15704",
+    "primary_languages": [
+      "C",
+      "Python",
+      "C"
+    ],
+    "contributions": 716,
+    "followers": "886"
+  },
+  {
+    "url": "https://github.com/kripken",
+    "language": "C++",
+    "full_name": "Alon Zakai",
+    "username": "kripken",
+    "location": "",
+    "join_date": "Dec 29, 2009",
+    "popular_repos_stars": "9629",
+    "primary_languages": [
+      "JavaScript",
+      "C",
+      "C"
+    ],
+    "contributions": 3,
+    "followers": "815"
+  },
+  {
+    "url": "https://github.com/vczh",
+    "language": "C++",
+    "full_name": "Zihan Chen",
+    "username": "vczh",
+    "location": "Beijing, China",
+    "join_date": "May 7, 2011",
+    "popular_repos_stars": "555",
+    "primary_languages": [
+      "C",
+      "C",
+      "CSS"
+    ],
+    "contributions": 361,
+    "followers": "781"
+  },
+  {
+    "url": "https://github.com/memo",
+    "language": "C++",
+    "full_name": "Memo Akten",
+    "username": "memo",
+    "location": "London",
+    "join_date": "Oct 24, 2009",
+    "popular_repos_stars": "192",
+    "primary_languages": [
+      "C",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 71,
+    "followers": "753"
+  },
+  {
+    "url": "https://github.com/geohot",
+    "language": "C++",
+    "full_name": "George Hotz",
+    "username": "geohot",
+    "location": "Glen Rock, NJ",
+    "join_date": "Apr 11, 2009",
+    "popular_repos_stars": "95",
+    "primary_languages": [
+      "Shell",
+      "C",
+      "C"
+    ],
+    "contributions": 159,
+    "followers": "519"
+  },
+  {
+    "url": "https://github.com/ladyada",
+    "language": "C++",
+    "full_name": "Limor \"Ladyada\" Fried",
+    "username": "ladyada",
+    "location": "New York, NY",
+    "join_date": "Nov 22, 2011",
+    "popular_repos_stars": "18",
+    "primary_languages": [
+      "C",
+      "Arduino",
+      "Python"
+    ],
+    "contributions": 378,
+    "followers": "499"
+  },
+  {
+    "url": "https://github.com/fordream",
+    "language": "C++",
+    "full_name": "xiaosunabc",
+    "username": "fordream",
+    "location": "guangzhou",
+    "join_date": "Feb 25, 2013",
+    "popular_repos_stars": "8",
+    "primary_languages": [
+      "C"
+    ],
+    "contributions": 20,
+    "followers": "461"
+  },
+  {
+    "url": "https://github.com/ofZach",
+    "language": "C++",
+    "full_name": "",
+    "username": "ofZach",
+    "location": "",
+    "join_date": "Oct 21, 2009",
+    "popular_repos_stars": "124",
+    "primary_languages": [
+      "C",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 288,
+    "followers": "442"
+  },
+  {
+    "url": "https://github.com/arturoc",
+    "language": "C++",
+    "full_name": "arturo",
+    "username": "arturoc",
+    "location": "",
+    "join_date": "Jan 21, 2009",
+    "popular_repos_stars": "376",
+    "primary_languages": [
+      "C",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 799,
+    "followers": "403"
+  },
+  {
+    "url": "https://github.com/evilsocket",
+    "language": "C++",
+    "full_name": "Simone Margaritelli",
+    "username": "evilsocket",
+    "location": "Rome, Italy",
+    "join_date": "May 20, 2009",
+    "popular_repos_stars": "1128",
+    "primary_languages": [
+      "C",
+      "C",
+      "Python"
+    ],
+    "contributions": 798,
+    "followers": "392"
+  },
+  {
+    "url": "https://github.com/cinder",
+    "language": "C++",
+    "full_name": "",
+    "username": "cinder",
+    "location": "",
+    "join_date": "Nov 17, 2009",
+    "popular_repos_stars": "1952",
+    "primary_languages": [
+      "C",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 0,
+    "followers": "388"
+  },
+  {
+    "url": "https://github.com/obviousjim",
+    "language": "C++",
+    "full_name": "James George",
+    "username": "obviousjim",
+    "location": "Brooklyn, New York",
+    "join_date": "Jul 2, 2010",
+    "popular_repos_stars": "322",
+    "primary_languages": [
+      "C",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 2,
+    "followers": "355"
+  },
+  {
+    "url": "https://github.com/flight404",
+    "language": "C++",
+    "full_name": "Robert Hodgin",
+    "username": "flight404",
+    "location": "San Francisco",
+    "join_date": "Apr 3, 2010",
+    "popular_repos_stars": "207",
+    "primary_languages": [
+      "C",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 0,
+    "followers": "353"
+  },
+  {
+    "url": "https://github.com/watashi",
+    "language": "C++",
+    "full_name": "Zejun Wu",
+    "username": "watashi",
+    "location": "Hangzhou, China",
+    "join_date": "Oct 6, 2011",
+    "popular_repos_stars": "185",
+    "primary_languages": [
+      "Ruby",
+      "Shell",
+      "C"
+    ],
+    "contributions": 65,
+    "followers": "302"
+  },
+  {
+    "url": "https://github.com/kennytm",
+    "language": "C++",
+    "full_name": "",
+    "username": "kennytm",
+    "location": "Hong Kong",
+    "join_date": "Jul 8, 2009",
+    "popular_repos_stars": "1018",
+    "primary_languages": [
+      "Python",
+      "Shell",
+      "C"
+    ],
+    "contributions": 128,
+    "followers": "293"
+  },
+  {
+    "url": "https://github.com/arco",
+    "language": "C++",
+    "full_name": "Arne Coucheron",
+    "username": "arco",
+    "location": "",
+    "join_date": "Dec 11, 2010",
+    "popular_repos_stars": "180",
+    "primary_languages": [
+      "C",
+      "C",
+      "Shell"
+    ],
+    "contributions": 276,
+    "followers": "284"
+  },
+  {
+    "url": "https://github.com/satoruhiga",
+    "language": "C++",
+    "full_name": "Satoru Higa",
+    "username": "satoruhiga",
+    "location": "Tokyo",
+    "join_date": "Dec 28, 2008",
+    "popular_repos_stars": "151",
+    "primary_languages": [
+      "C",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 190,
+    "followers": "263"
+  },
+  {
+    "url": "https://github.com/elliotwoods",
+    "language": "C++",
+    "full_name": "Elliot Woods",
+    "username": "elliotwoods",
+    "location": "International",
+    "join_date": "Jul 10, 2010",
+    "popular_repos_stars": "130",
+    "primary_languages": [
+      "C",
+      "C",
+      "C"
+    ],
+    "contributions": 792,
+    "followers": "263"
+  },
+  {
+    "url": "https://github.com/patriciogonzalezvivo",
+    "language": "C++",
+    "full_name": "Patricio Gonzalez Vivo",
+    "username": "patriciogonzalezvivo",
+    "location": "Manhattan, New York",
+    "join_date": "Jul 28, 2010",
+    "popular_repos_stars": "301",
+    "primary_languages": [
+      "C",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 590,
+    "followers": "262"
+  },
+  {
+    "url": "https://github.com/ideawu",
+    "language": "C++",
+    "full_name": "ideawu",
+    "username": "ideawu",
+    "location": "Beijing, China",
+    "join_date": "Jan 6, 2013",
+    "popular_repos_stars": "1883",
+    "primary_languages": [
+      "C",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 310,
+    "followers": "262"
+  },
+  {
+    "url": "https://github.com/OpenNI",
+    "language": "C++",
+    "full_name": "Ziv Hendel",
+    "username": "OpenNI",
+    "location": "Israel",
+    "join_date": "Dec 8, 2010",
+    "popular_repos_stars": "1007",
+    "primary_languages": [
+      "C",
+      "C",
+      "Python"
+    ],
+    "contributions": 0,
+    "followers": "258"
+  },
+  {
+    "url": "https://github.com/liuliu",
+    "language": "C++",
+    "full_name": "Liu Liu",
+    "username": "liuliu",
+    "location": "Mountain View",
+    "join_date": "Sep 16, 2009",
+    "popular_repos_stars": "3939",
+    "primary_languages": [
+      "C",
+      "C",
+      "Python"
+    ],
+    "contributions": 419,
+    "followers": "256"
+  },
+  {
+    "url": "https://github.com/kentonv",
+    "language": "C++",
+    "full_name": "Kenton Varda",
+    "username": "kentonv",
+    "location": "Palo Alto, CA",
+    "join_date": "Mar 28, 2013",
+    "popular_repos_stars": "2094",
+    "primary_languages": [
+      "JavaScript",
+      "C",
+      "CSS"
+    ],
+    "contributions": 806,
+    "followers": "253"
+  },
+  {
+    "url": "https://github.com/garrynewman",
+    "language": "C++",
+    "full_name": "",
+    "username": "garrynewman",
+    "location": "",
+    "join_date": "Jul 20, 2011",
+    "popular_repos_stars": "442",
+    "primary_languages": [
+      "Lua",
+      "C",
+      "C"
+    ],
+    "contributions": 111,
+    "followers": "236"
+  },
+  {
+    "url": "https://github.com/alljoyn",
+    "language": "C++",
+    "full_name": "AllJoyn Open Source Project",
+    "username": "alljoyn",
+    "location": "",
+    "join_date": "Jan 7, 2011",
+    "popular_repos_stars": "10",
+    "primary_languages": [
+      "CSS"
+    ],
+    "contributions": 1,
+    "followers": "228"
+  },
+  {
+    "url": "https://github.com/situkangsayur",
+    "language": "C++",
+    "full_name": "Hendri Karisma",
+    "username": "situkangsayur",
+    "location": "Bandung",
+    "join_date": "Jun 13, 2011",
+    "popular_repos_stars": "14",
+    "primary_languages": [
+      "C",
+      "D",
+      "Java"
+    ],
+    "contributions": 92,
+    "followers": "223"
+  },
+  {
+    "url": "https://github.com/aras-p",
+    "language": "C++",
+    "full_name": "Aras Pranckevičius",
+    "username": "aras-p",
+    "location": "Kaunas, Lithuania",
+    "join_date": "Jul 29, 2010",
+    "popular_repos_stars": "637",
+    "primary_languages": [
+      "C",
+      "C",
+      "Shell"
+    ],
+    "contributions": 214,
+    "followers": "211"
+  },
+  {
+    "url": "https://github.com/practicalarduino",
+    "language": "C++",
+    "full_name": "Practical Arduino - The Book",
+    "username": "practicalarduino",
+    "location": "Australia",
+    "join_date": "May 24, 2009",
+    "popular_repos_stars": "205",
+    "primary_languages": [
+      "Java",
+      "C"
+    ],
+    "contributions": 0,
+    "followers": "210"
+  },
+  {
+    "url": "https://github.com/bcantrill",
+    "language": "C++",
+    "full_name": "Bryan Cantrill",
+    "username": "bcantrill",
+    "location": "",
+    "join_date": "Jul 10, 2010",
+    "popular_repos_stars": "125",
+    "primary_languages": [
+      "JavaScript",
+      "C",
+      "Python"
+    ],
+    "contributions": 69,
+    "followers": "199"
+  },
+  {
+    "url": "https://github.com/zodttd",
+    "language": "C++",
+    "full_name": "zodttd",
+    "username": "zodttd",
+    "location": "ZodLand",
+    "join_date": "Mar 8, 2008",
+    "popular_repos_stars": "196",
+    "primary_languages": [
+      "Objective",
+      "C",
+      "C",
+      "C"
+    ],
+    "contributions": 0,
+    "followers": "195"
+  },
+  {
+    "url": "https://github.com/qdot",
+    "language": "C++",
+    "full_name": "Kyle Machulis",
+    "username": "qdot",
+    "location": "Berkeley, CA",
+    "join_date": "Nov 14, 2008",
+    "popular_repos_stars": "231",
+    "primary_languages": [
+      "Python",
+      "C",
+      "C"
+    ],
+    "contributions": 603,
+    "followers": "192"
+  },
+  {
+    "url": "https://github.com/wengxt",
+    "language": "C++",
+    "full_name": "Weng Xuetian",
+    "username": "wengxt",
+    "location": "Beijing, China",
+    "join_date": "Apr 29, 2010",
+    "popular_repos_stars": "38",
+    "primary_languages": [
+      "C",
+      "Shell",
+      "C"
+    ],
+    "contributions": 173,
+    "followers": "182"
+  },
+  {
+    "url": "https://github.com/tado",
+    "language": "C++",
+    "full_name": "Atsushi Tadokoro",
+    "username": "tado",
+    "location": "Tokyo",
+    "join_date": "Aug 13, 2010",
+    "popular_repos_stars": "113",
+    "primary_languages": [
+      "C",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 359,
+    "followers": "180"
+  },
+  {
+    "url": "https://github.com/gmaxwell",
+    "language": "C++",
+    "full_name": "Gregory Maxwell",
+    "username": "gmaxwell",
+    "location": "",
+    "join_date": "Jun 18, 2011",
+    "popular_repos_stars": "6",
+    "primary_languages": [
+      "CSS",
+      "Python",
+      "Gnuplot"
+    ],
+    "contributions": 109,
+    "followers": "179"
+  },
+  {
+    "url": "https://github.com/miloyip",
+    "language": "C++",
+    "full_name": "Milo Yip",
+    "username": "miloyip",
+    "location": "Hong Kong, China",
+    "join_date": "Nov 14, 2011",
+    "popular_repos_stars": "377",
+    "primary_languages": [
+      "C",
+      "Shell",
+      "C"
+    ],
+    "contributions": 1,
+    "followers": "176"
+  },
+  {
+    "url": "https://github.com/bjorn",
+    "language": "C++",
+    "full_name": "Thorbjørn Lindeijer",
+    "username": "bjorn",
+    "location": "Germany",
+    "join_date": "Dec 21, 2010",
+    "popular_repos_stars": "2399",
+    "primary_languages": [
+      "C",
+      "C",
+      "Shell"
+    ],
+    "contributions": 502,
+    "followers": "176"
+  },
+  {
+    "url": "https://github.com/joshuajnoble",
+    "language": "C++",
+    "full_name": "joshua noble",
+    "username": "joshuajnoble",
+    "location": "",
+    "join_date": "Apr 5, 2010",
+    "popular_repos_stars": "134",
+    "primary_languages": [
+      "C",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 368,
+    "followers": "174"
+  },
+  {
+    "url": "https://github.com/YCAMInterlab",
+    "language": "C++",
+    "full_name": "YCAMInterLab",
+    "username": "YCAMInterlab",
+    "location": "Yamaguchi City, Japan",
+    "join_date": "Oct 6, 2011",
+    "popular_repos_stars": "619",
+    "primary_languages": [
+      "C",
+      "C",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "174"
+  },
+  {
+    "url": "https://github.com/sipa",
+    "language": "C++",
+    "full_name": "Pieter Wuille",
+    "username": "sipa",
+    "location": "",
+    "join_date": "Jan 5, 2011",
+    "popular_repos_stars": "82",
+    "primary_languages": [
+      "C",
+      "Shell",
+      "C"
+    ],
+    "contributions": 337,
+    "followers": "172"
+  },
+  {
+    "url": "https://github.com/field",
+    "language": "C++",
+    "full_name": "FIELD",
+    "username": "field",
+    "location": "London, UK",
+    "join_date": "Feb 25, 2010",
+    "popular_repos_stars": "154",
+    "primary_languages": [
+      "C",
+      "C",
+      "CoffeeScript"
+    ],
+    "contributions": 126,
+    "followers": "170"
+  },
+  {
+    "url": "https://github.com/BloodAxe",
+    "language": "C++",
+    "full_name": "BloodAxe",
+    "username": "BloodAxe",
+    "location": "Odessa, Ukraine",
+    "join_date": "Dec 21, 2010",
+    "popular_repos_stars": "560",
+    "primary_languages": [
+      "C",
+      "JavaScript",
+      "Objective",
+      "C"
+    ],
+    "contributions": 190,
+    "followers": "168"
+  },
+  {
+    "url": "https://github.com/bytefish",
+    "language": "C++",
+    "full_name": "Philipp Wagner",
+    "username": "bytefish",
+    "location": "",
+    "join_date": "Apr 8, 2010",
+    "popular_repos_stars": "606",
+    "primary_languages": [
+      "C",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 62,
+    "followers": "166"
+  },
+  {
+    "url": "https://github.com/David20321",
+    "language": "C++",
+    "full_name": "",
+    "username": "David20321",
+    "location": "",
+    "join_date": "Sep 20, 2011",
+    "popular_repos_stars": "416",
+    "primary_languages": [
+      "C",
+      "JavaScript",
+      "C"
+    ],
+    "contributions": 2,
+    "followers": "165"
+  },
+  {
+    "url": "https://github.com/rygorous",
+    "language": "C++",
+    "full_name": "Fabian 'ryg' Giesen",
+    "username": "rygorous",
+    "location": "",
+    "join_date": "Sep 24, 2011",
+    "popular_repos_stars": "117",
+    "primary_languages": [
+      "C",
+      "C",
+      "Shell"
+    ],
+    "contributions": 58,
+    "followers": "164"
+  },
+  {
+    "url": "https://github.com/v8",
+    "language": "C++",
+    "full_name": "",
+    "username": "v8",
+    "location": "",
+    "join_date": "Aug 10, 2009",
+    "popular_repos_stars": "2043",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "Python"
+    ],
+    "contributions": 4,
+    "followers": "163"
+  },
+  {
+    "url": "https://github.com/JohnLangford",
+    "language": "C++",
+    "full_name": "John",
+    "username": "JohnLangford",
+    "location": "",
+    "join_date": "Apr 30, 2009",
+    "popular_repos_stars": "1583",
+    "primary_languages": [
+      "C",
+      "Shell",
+      "C"
+    ],
+    "contributions": 373,
+    "followers": "161"
+  },
+  {
+    "url": "https://github.com/jdeng",
+    "language": "C++",
+    "full_name": "Jack",
+    "username": "jdeng",
+    "location": "New York",
+    "join_date": "Feb 4, 2010",
+    "popular_repos_stars": "325",
+    "primary_languages": [
+      "C",
+      "C",
+      "Shell"
+    ],
+    "contributions": 25,
+    "followers": "155"
+  },
+  {
+    "url": "https://github.com/zachlatta",
+    "language": "C++",
+    "full_name": "Zach Latta",
+    "username": "zachlatta",
+    "location": "San Francisco",
+    "join_date": "Aug 19, 2011",
+    "popular_repos_stars": "744",
+    "primary_languages": [
+      "Go",
+      "JavaScript",
+      "Ruby"
+    ],
+    "contributions": 2,
+    "followers": "153"
+  },
+  {
+    "url": "https://github.com/hrydgard",
+    "language": "C++",
+    "full_name": "Henrik Rydgård",
+    "username": "hrydgard",
+    "location": "Stockholm, Sweden",
+    "join_date": "Sep 24, 2009",
+    "popular_repos_stars": "1318",
+    "primary_languages": [
+      "C",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 3,
+    "followers": "152"
+  },
+  {
+    "url": "https://github.com/keithw",
+    "language": "C++",
+    "full_name": "Keith Winstein",
+    "username": "keithw",
+    "location": "Cambridge, MA",
+    "join_date": "Feb 22, 2010",
+    "popular_repos_stars": "3749",
+    "primary_languages": [
+      "C",
+      "Perl",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "150"
+  },
+  {
+    "url": "https://github.com/lg",
+    "language": "C++",
+    "full_name": "Larry Gadea",
+    "username": "lg",
+    "location": "San Francisco, CA",
+    "join_date": "Jan 12, 2010",
+    "popular_repos_stars": "2002",
+    "primary_languages": [
+      "C",
+      "C",
+      "Python"
+    ],
+    "contributions": 0,
+    "followers": "146"
+  },
+  {
+    "url": "https://github.com/danomatika",
+    "language": "C++",
+    "full_name": "Dan Wilcox",
+    "username": "danomatika",
+    "location": "Pittsburgh, PA",
+    "join_date": "Nov 13, 2010",
+    "popular_repos_stars": "308",
+    "primary_languages": [
+      "C",
+      "C",
+      "Shell"
+    ],
+    "contributions": 414,
+    "followers": "146"
+  },
+  {
+    "url": "https://github.com/golanlevin",
+    "language": "C++",
+    "full_name": "Golan Levin",
+    "username": "golanlevin",
+    "location": "Pittsburgh",
+    "join_date": "May 28, 2010",
+    "popular_repos_stars": "84",
+    "primary_languages": [
+      "C",
+      "C",
+      "Java"
+    ],
+    "contributions": 102,
+    "followers": "145"
+  },
+  {
+    "url": "https://github.com/bakercp",
+    "language": "C++",
+    "full_name": "Christopher Baker",
+    "username": "bakercp",
+    "location": "Chicago, Illinois USA",
+    "join_date": "Jun 8, 2010",
+    "popular_repos_stars": "96",
+    "primary_languages": [
+      "C",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 2,
+    "followers": "142"
+  },
+  {
+    "url": "https://github.com/coffeemug",
+    "language": "C++",
+    "full_name": "Slava Akhmechet",
+    "username": "coffeemug",
+    "location": "",
+    "join_date": "Jan 21, 2009",
+    "popular_repos_stars": "28",
+    "primary_languages": [
+      "Shell",
+      "Python",
+      "Ruby"
+    ],
+    "contributions": 819,
+    "followers": "141"
+  },
+  {
+    "url": "https://github.com/andrewfb",
+    "language": "C++",
+    "full_name": "Andrew Bell",
+    "username": "andrewfb",
+    "location": "New York, NY",
+    "join_date": "Mar 20, 2010",
+    "popular_repos_stars": "22",
+    "primary_languages": [
+      "C",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 156,
+    "followers": "136"
+  },
+  {
+    "url": "https://github.com/stealth",
+    "language": "C++",
+    "full_name": "Sebastian",
+    "username": "stealth",
+    "location": "Switzerland",
+    "join_date": "Nov 29, 2011",
+    "popular_repos_stars": "341",
+    "primary_languages": [
+      "C",
+      "C",
+      "Perl"
+    ],
+    "contributions": 120,
+    "followers": "132"
+  },
+  {
+    "url": "https://github.com/FellowTraveler",
+    "language": "C++",
+    "full_name": "FellowTraveler",
+    "username": "FellowTraveler",
+    "location": "",
+    "join_date": "Jul 20, 2010",
+    "popular_repos_stars": "530",
+    "primary_languages": [
+      "C",
+      "C",
+      "Perl"
+    ],
+    "contributions": 839,
+    "followers": "132"
+  },
+  {
+    "url": "https://github.com/dennis714",
+    "language": "C++",
+    "full_name": "Dennis Yurichev",
+    "username": "dennis714",
+    "location": "Kiev, Ukraine",
+    "join_date": "Jul 25, 2012",
+    "popular_repos_stars": "2719",
+    "primary_languages": [
+      "C",
+      "C",
+      "Shell"
+    ],
+    "contributions": 665,
+    "followers": "131"
+  },
+  {
+    "url": "https://github.com/rasbt",
+    "language": "C++",
+    "full_name": "Sebastian Raschka",
+    "username": "rasbt",
+    "location": "East Lansing, Michigan",
+    "join_date": "Oct 5, 2013",
+    "popular_repos_stars": "1869",
+    "primary_languages": [
+      "Python",
+      "Shell",
+      "R"
+    ],
+    "contributions": 1,
+    "followers": "129"
+  },
+  {
+    "url": "https://github.com/mblondel",
+    "language": "C++",
+    "full_name": "Mathieu Blondel",
+    "username": "mblondel",
+    "location": "Kyoto, Japan",
+    "join_date": "Mar 30, 2010",
+    "popular_repos_stars": "147",
+    "primary_languages": [
+      "Python",
+      "C",
+      "Shell"
+    ],
+    "contributions": 182,
+    "followers": "128"
+  },
+  {
+    "url": "https://github.com/opensource-apple",
+    "language": "C++",
+    "full_name": "Apple OpenSource",
+    "username": "opensource-apple",
+    "location": "",
+    "join_date": "Aug 13, 2012",
+    "popular_repos_stars": "186",
+    "primary_languages": [
+      "C",
+      "Shell",
+      "C"
+    ],
+    "contributions": 0,
+    "followers": "128"
+  },
+  {
+    "url": "https://github.com/Moosader",
+    "language": "C++",
+    "full_name": "Rachel J. Morris",
+    "username": "Moosader",
+    "location": "Olathe, KS",
+    "join_date": "May 7, 2012",
+    "popular_repos_stars": "36",
+    "primary_languages": [
+      "C",
+      "Lua",
+      "Python"
+    ],
+    "contributions": 483,
+    "followers": "127"
+  },
+  {
+    "url": "https://github.com/sustrik",
+    "language": "C++",
+    "full_name": "",
+    "username": "sustrik",
+    "location": "Bratislava",
+    "join_date": "Jun 15, 2010",
+    "popular_repos_stars": "94",
+    "primary_languages": [
+      "Shell",
+      "C",
+      "C"
+    ],
+    "contributions": 825,
+    "followers": "126"
+  },
+  {
+    "url": "https://github.com/llvm-mirror",
+    "language": "C++",
+    "full_name": "Unofficial Automated Mirror of LLVM",
+    "username": "llvm-mirror",
+    "location": "",
+    "join_date": "Jan 27, 2012",
+    "popular_repos_stars": "842",
+    "primary_languages": [
+      "Shell",
+      "C",
+      "C"
+    ],
+    "contributions": 0,
+    "followers": "126"
+  },
+  {
+    "url": "https://github.com/quantombone",
+    "language": "C++",
+    "full_name": "Tomasz Malisiewicz",
+    "username": "quantombone",
+    "location": "Boston, MA",
+    "join_date": "May 21, 2010",
+    "popular_repos_stars": "210",
+    "primary_languages": [
+      "C",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 10,
+    "followers": "126"
+  },
+  {
+    "url": "https://github.com/jefftimesten",
+    "language": "C++",
+    "full_name": "Jeff Crouse",
+    "username": "jefftimesten",
+    "location": "Brooklyn",
+    "join_date": "Jun 28, 2008",
+    "popular_repos_stars": "262",
+    "primary_languages": [
+      "C",
+      "C",
+      "JavaScript"
+    ],
+    "contributions": 182,
+    "followers": "121"
+  },
+  {
+    "url": "https://github.com/mikehearn",
+    "language": "C++",
+    "full_name": "Mike Hearn",
+    "username": "mikehearn",
+    "location": "Switzerland",
+    "join_date": "Aug 10, 2011",
+    "popular_repos_stars": "36",
+    "primary_languages": [
+      "Java",
+      "Shell",
+      "C"
+    ],
+    "contributions": 655,
+    "followers": "121"
+  },
+  {
+    "url": "https://github.com/RehabMan",
+    "language": "C++",
+    "full_name": "",
+    "username": "RehabMan",
+    "location": "",
+    "join_date": "Sep 1, 2012",
+    "popular_repos_stars": "165",
+    "primary_languages": [
+      "C",
+      "C",
+      "Shell"
+    ],
+    "contributions": 212,
+    "followers": "120"
+  },
+  {
+    "url": "https://github.com/OwlFonk",
+    "language": "C++",
+    "full_name": "Owl",
+    "username": "OwlFonk",
+    "location": "",
+    "join_date": "Jun 26, 2012",
+    "popular_repos_stars": "2719",
+    "primary_languages": [
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 161,
+    "followers": "119"
+  },
+  {
+    "url": "https://github.com/gedelumbung",
+    "language": "C++",
+    "full_name": "Gede Lumbung",
+    "username": "gedelumbung",
+    "location": "/home/lumbung",
+    "join_date": "Mar 14, 2013",
+    "popular_repos_stars": "18",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "Java"
+    ],
+    "contributions": 38,
+    "followers": "118"
+  },
+  {
+    "url": "https://github.com/XhmikosR",
+    "language": "C++",
+    "full_name": "",
+    "username": "XhmikosR",
+    "location": "Hellas (Greece)",
+    "join_date": "Jul 30, 2010",
+    "popular_repos_stars": "230",
+    "primary_languages": [
+      "JavaScript",
+      "C",
+      "CSS"
+    ],
+    "contributions": 4,
+    "followers": "115"
+  },
+  {
+    "url": "https://github.com/derekmolloy",
+    "language": "C++",
+    "full_name": "Derek Molloy",
+    "username": "derekmolloy",
+    "location": "Dublin, Ireland",
+    "join_date": "Jan 30, 2013",
+    "popular_repos_stars": "160",
+    "primary_languages": [
+      "C",
+      "Shell",
+      "C"
+    ],
+    "contributions": 22,
+    "followers": "114"
+  },
+  {
+    "url": "https://github.com/maniacbug",
+    "language": "C++",
+    "full_name": "",
+    "username": "maniacbug",
+    "location": "Seattle, WA",
+    "join_date": "Feb 24, 2011",
+    "popular_repos_stars": "607",
+    "primary_languages": [
+      "C",
+      "C",
+      "Java"
+    ],
+    "contributions": 8,
+    "followers": "113"
+  },
+  {
+    "url": "https://github.com/xlvector",
+    "language": "C++",
+    "full_name": "Xiang Liang",
+    "username": "xlvector",
+    "location": "Beijing, China",
+    "join_date": "Jun 29, 2009",
+    "popular_repos_stars": "231",
+    "primary_languages": [
+      "Go",
+      "Python",
+      "CSS"
+    ],
+    "contributions": 643,
+    "followers": "113"
+  },
+  {
+    "url": "https://github.com/pichenettes",
+    "language": "C++",
+    "full_name": "olivier gillet",
+    "username": "pichenettes",
+    "location": "Paris",
+    "join_date": "Aug 21, 2009",
+    "popular_repos_stars": "167",
+    "primary_languages": [
+      "Python",
+      "C",
+      "C"
+    ],
+    "contributions": 214,
+    "followers": "112"
+  },
+  {
+    "url": "https://github.com/vinjn",
+    "language": "C++",
+    "full_name": "Vinjn Zhang",
+    "username": "vinjn",
+    "location": "Shanghai, China",
+    "join_date": "Jan 11, 2011",
+    "popular_repos_stars": "85",
+    "primary_languages": [
+      "C",
+      "C",
+      "Shell"
+    ],
+    "contributions": 390,
+    "followers": "111"
+  },
+  {
+    "url": "https://github.com/felis",
+    "language": "C++",
+    "full_name": "Oleg Mazurov",
+    "username": "felis",
+    "location": "Louisville, Colorado, USA",
+    "join_date": "Apr 22, 2009",
+    "popular_repos_stars": "590",
+    "primary_languages": [
+      "C",
+      "C",
+      "Java"
+    ],
+    "contributions": 29,
+    "followers": "109"
+  },
+  {
+    "url": "https://github.com/postwait",
+    "language": "C++",
+    "full_name": "Theo Schlossnagle",
+    "username": "postwait",
+    "location": "Maryland",
+    "join_date": "Jul 18, 2010",
+    "popular_repos_stars": "952",
+    "primary_languages": [
+      "JavaScript",
+      "C",
+      "C"
+    ],
+    "contributions": 468,
+    "followers": "107"
+  },
+  {
+    "url": "https://github.com/daitomanabe",
+    "language": "C++",
+    "full_name": "Daito Manabe",
+    "username": "daitomanabe",
+    "location": "Tokyo",
+    "join_date": "Apr 9, 2009",
+    "popular_repos_stars": "12",
+    "primary_languages": [
+      "C",
+      "C",
+      "Python"
+    ],
+    "contributions": 7,
+    "followers": "107"
+  },
+  {
+    "url": "https://github.com/Subash",
+    "language": "C++",
+    "full_name": "Subash Pathak",
+    "username": "Subash",
+    "location": "",
+    "join_date": "Feb 4, 2013",
+    "popular_repos_stars": "1595",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "CoffeeScript"
+    ],
+    "contributions": 136,
+    "followers": "107"
+  },
+  {
+    "url": "https://github.com/lexdene",
+    "language": "C++",
+    "full_name": "刘项",
+    "username": "lexdene",
+    "location": "中国，辽宁，大连",
+    "join_date": "Mar 27, 2011",
+    "popular_repos_stars": "50",
+    "primary_languages": [
+      "C",
+      "Python",
+      "Emacs",
+      "Lisp"
+    ],
+    "contributions": 201,
+    "followers": "107"
+  },
+  {
+    "url": "https://github.com/doublec",
+    "language": "C++",
+    "full_name": "Chris Double",
+    "username": "doublec",
+    "location": "",
+    "join_date": "Jul 9, 2008",
+    "popular_repos_stars": "191",
+    "primary_languages": [
+      "C",
+      "C",
+      "Shell"
+    ],
+    "contributions": 118,
+    "followers": "106"
+  },
+  {
+    "url": "https://github.com/julapy",
+    "language": "C++",
+    "full_name": "lukasz karluk",
+    "username": "julapy",
+    "location": "sydney, australia",
+    "join_date": "Jul 13, 2010",
+    "popular_repos_stars": "157",
+    "primary_languages": [
+      "C",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 291,
+    "followers": "106"
+  },
+  {
+    "url": "https://github.com/wagerlabs",
+    "language": "C++",
+    "full_name": "Joel Reymont",
+    "username": "wagerlabs",
+    "location": "Tenerife, Canary Islands, Spain",
+    "join_date": "Jul 29, 2008",
+    "popular_repos_stars": "43",
+    "primary_languages": [
+      "C",
+      "JavaScript",
+      "Go"
+    ],
+    "contributions": 21,
+    "followers": "106"
+  },
+  {
+    "url": "https://github.com/vanderlin",
+    "language": "C++",
+    "full_name": "Vanderlin",
+    "username": "vanderlin",
+    "location": "Cambridge MA",
+    "join_date": "Nov 6, 2009",
+    "popular_repos_stars": "193",
+    "primary_languages": [
+      "C",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 39,
+    "followers": "105"
+  },
+  {
+    "url": "https://github.com/BanTheRewind",
+    "language": "C++",
+    "full_name": "Stephen Schieberl",
+    "username": "BanTheRewind",
+    "location": "Estacada, Oregon",
+    "join_date": "Aug 2, 2011",
+    "popular_repos_stars": "143",
+    "primary_languages": [
+      "C",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 224,
+    "followers": "104"
+  },
+  {
+    "url": "https://github.com/MagicalTux",
+    "language": "C++",
+    "full_name": "Mark Karpeles",
+    "username": "MagicalTux",
+    "location": "Tokyo, Japan",
+    "join_date": "Jul 15, 2010",
+    "popular_repos_stars": "26",
+    "primary_languages": [
+      "Shell",
+      "C",
+      "PHP"
+    ],
+    "contributions": 142,
+    "followers": "104"
+  },
+  {
+    "url": "https://github.com/rescrv",
+    "language": "C++",
+    "full_name": "Robert Escriva",
+    "username": "rescrv",
+    "location": "Ithaca, NY",
+    "join_date": "Feb 20, 2012",
+    "popular_repos_stars": "1282",
+    "primary_languages": [
+      "C",
+      "C",
+      "Python"
+    ],
+    "contributions": 704,
+    "followers": "103"
+  },
+  {
+    "url": "https://github.com/neilmendoza",
+    "language": "C++",
+    "full_name": "Neil Mendoza",
+    "username": "neilmendoza",
+    "location": "London",
+    "join_date": "May 30, 2011",
+    "popular_repos_stars": "216",
+    "primary_languages": [
+      "C",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 296,
+    "followers": "102"
+  },
+  {
+    "url": "https://github.com/vsenger",
+    "language": "C++",
+    "full_name": "Vinicius Senger",
+    "username": "vsenger",
+    "location": "Brazil",
+    "join_date": "May 25, 2009",
+    "popular_repos_stars": "45",
+    "primary_languages": [
+      "C",
+      "Java",
+      "Arduino"
+    ],
+    "contributions": 7,
+    "followers": "102"
+  },
+  {
+    "url": "https://github.com/miguelfreitas",
+    "language": "C++",
+    "full_name": "",
+    "username": "miguelfreitas",
+    "location": "",
+    "join_date": "Oct 28, 2013",
+    "popular_repos_stars": "904",
+    "primary_languages": [
+      "C",
+      "C",
+      "Shell"
+    ],
+    "contributions": 354,
+    "followers": "102"
+  },
+  {
+    "url": "https://github.com/bolero-MURAKAMI",
+    "language": "C++",
+    "full_name": "Bolero MURAKAMI",
+    "username": "bolero-MURAKAMI",
+    "location": "Japan (日本)",
+    "join_date": "Apr 3, 2011",
+    "popular_repos_stars": "154",
+    "primary_languages": [
+      "C",
+      "C"
+    ],
+    "contributions": 359,
+    "followers": "98"
+  },
+  {
+    "url": "https://github.com/jvcleave",
+    "language": "C++",
+    "full_name": "Jason Van Cleave",
+    "username": "jvcleave",
+    "location": "",
+    "join_date": "Nov 6, 2009",
+    "popular_repos_stars": "103",
+    "primary_languages": [
+      "C",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 433,
+    "followers": "99"
+  },
+  {
+    "url": "https://github.com/chrisoshea",
+    "language": "C++",
+    "full_name": "Chris O'Shea",
+    "username": "chrisoshea",
+    "location": "London",
+    "join_date": "Jul 14, 2009",
+    "popular_repos_stars": "12",
+    "primary_languages": [
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 2,
+    "followers": "97"
+  },
+  {
+    "url": "https://github.com/bkaradzic",
+    "language": "C++",
+    "full_name": "Branimir Karadžić",
+    "username": "bkaradzic",
+    "location": "Seattle, WA",
+    "join_date": "May 27, 2011",
+    "popular_repos_stars": "653",
+    "primary_languages": [
+      "C",
+      "C",
+      "Shell"
+    ],
+    "contributions": 711,
+    "followers": "97"
+  },
+  {
+    "url": "https://github.com/alexgarrett",
+    "language": "C++",
+    "full_name": "Alex Garrett",
+    "username": "alexgarrett",
+    "location": "London",
+    "join_date": "Apr 30, 2012",
+    "popular_repos_stars": "18",
+    "primary_languages": [
+      "PHP",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 79,
+    "followers": "96"
+  }
+]

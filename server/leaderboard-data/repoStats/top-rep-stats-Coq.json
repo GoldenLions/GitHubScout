@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/HoTT/HoTT",
+    "size": 66485,
+    "language": "Coq",
+    "commits": "1,537",
+    "stars": "213",
+    "forks": "51",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/vladimirias/Foundations",
+    "size": 4139,
+    "language": "Coq",
+    "commits": "59",
+    "stars": "112",
+    "forks": "14",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/namin/dot",
+    "size": 3572,
+    "language": "Coq",
+    "commits": "1,030",
+    "stars": "48",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/jonleivent/mindless-coding",
+    "size": 581,
+    "language": "Coq",
+    "commits": "48",
+    "stars": "41",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/sfja/sfja",
+    "size": 3447,
+    "language": "Coq",
+    "commits": "220",
+    "stars": "38",
+    "forks": "9",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/tcarstens/verlang",
+    "size": 130,
+    "language": "Coq",
+    "commits": "9",
+    "stars": "31",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/cmeiklejohn/distributed-data-structures",
+    "size": 462,
+    "language": "Coq",
+    "commits": "77",
+    "stars": "29",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/jwiegley/category-theory",
+    "size": 1008,
+    "language": "Coq",
+    "commits": "122",
+    "stars": "29",
+    "forks": "4",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/math-classes/math-classes",
+    "size": 2908,
+    "language": "Coq",
+    "commits": "538",
+    "stars": "26",
+    "forks": "16",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/trun/fpgaboy",
+    "size": 2517,
+    "language": "Coq",
+    "commits": "46",
+    "stars": "15",
+    "forks": "4",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/coq-ext-lib/coq-ext-lib",
+    "size": 1908,
+    "language": "Coq",
+    "commits": "306",
+    "stars": "15",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/finrod/System-T",
+    "size": 118,
+    "language": "Coq",
+    "commits": "10",
+    "stars": "13",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/UniMath/UniMath",
+    "size": 5948,
+    "language": "Coq",
+    "commits": "762",
+    "stars": "13",
+    "forks": "6",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/sergei-romanenko/agda-simple-scp",
+    "size": 412,
+    "language": "Coq",
+    "commits": "53",
+    "stars": "13",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/wouter-swierstra/xmonad",
+    "size": 313,
+    "language": "Coq",
+    "commits": "67",
+    "stars": "13",
+    "forks": "4",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/pi8027/lambda-calculus",
+    "size": 1543,
+    "language": "Coq",
+    "commits": "200",
+    "stars": "12",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/ekmett/comonad-transformers",
+    "size": 238,
+    "language": "Coq",
+    "commits": "91",
+    "stars": "10",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/tmiya/coq",
+    "size": 5727,
+    "language": "Coq",
+    "commits": "15",
+    "stars": "10",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/haklabbeograd/software-foundations-coq-workshop",
+    "size": 284,
+    "language": "Coq",
+    "commits": "45",
+    "stars": "8",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/pi8027/formalized-postscript",
+    "size": 584,
+    "language": "Coq",
+    "commits": "196",
+    "stars": "8",
+    "forks": "1",
+    "contributors": ""
+  }
+]
