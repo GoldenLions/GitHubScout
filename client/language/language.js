@@ -5,18 +5,7 @@ angular.module('githubscout.language', ['nvd3ChartDirectives',
 
   .controller('LanguageController', ['$scope', 'ChartsUtil', 'LanguageData', '$location', '$state', '$stateParams', function($scope, ChartsUtil, LanguageData, $location, $state, $stateParams){
 
-    $scope.data = {};
-    $scope.data.currentLanguages = LanguageData.currentLanguages;
-    $scope.data.allLanguages = LanguageData.allLanguages;
-    $scope.data.leaderboard = {};
-    $scope.data.leaderboard.repos = LanguageData.leaderboard.repos;
-    $scope.data.leaderboard.users = LanguageData.leaderboard.users;
-
-    //console.log('LanguageController')
-    $scope.commits = LanguageData.commits;
-    $scope.creates = LanguageData.creates;
-    $scope.public_repos = LanguageData.public_repos;
-    $scope.pushes = LanguageData.pushes;
+    $scope.data = LanguageData;
 
     $scope.cleanUrl = function(url) {
       var i = url.lastIndexOf('com/');
