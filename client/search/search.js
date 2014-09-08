@@ -21,6 +21,8 @@ angular.module('githubscout.search', [])
     LanguageData.currentLanguages = [];
     LanguageData.currentLanguages.push($scope.input.language);
 
+    // If leaderboard data for the current language is not already cached,
+    // POST to the server's leaderboard endpoints and cache them.
     if (!LanguageData.leaderboard.repos[$scope.input.language] || !LanguageData.leaderboard.users[$scope.input.language]) {    
       $http({
         method: 'POST',
@@ -28,6 +30,8 @@ angular.module('githubscout.search', [])
         data: {language: $scope.input.language}
       })
       .then(function(result) {
+        // We sort by repo stars here. It would be better to let the user dynamically sort the table
+        // by what criteria we want. 
         LanguageData.leaderboard.users[$scope.input.language] = result.data.sort(function(a,b) {
           return parseInt(b.popular_repos_stars) > parseInt(a.popular_repos_stars) ? 1 : -1;
         }).slice(0,20);
