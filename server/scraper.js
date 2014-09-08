@@ -234,7 +234,7 @@ var scraper = {
 // scraper.updateUserUrlsJSON();
 // scraper.updateProfileStatsJSON();
 // scraper.updateRepoUrlsJSON();
-scraper.updateRepoStatsJSON();
+// scraper.updateRepoStatsJSON();
 
 
 module.exports = scraper;
