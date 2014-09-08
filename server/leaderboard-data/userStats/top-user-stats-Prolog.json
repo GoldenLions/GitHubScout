@@ -41,11 +41,11 @@
     "popular_repos_stars": "50",
     "primary_languages": [
       "Prolog",
-      "Perl",
-      "CSS"
+      "CSS",
+      "Perl"
     ],
     "contributions": 248,
-    "followers": "34"
+    "followers": "35"
   },
   {
     "url": "https://github.com/hakank",
@@ -77,7 +77,7 @@
       "Prolog"
     ],
     "contributions": 566,
-    "followers": "22"
+    "followers": "23"
   },
   {
     "url": "https://github.com/cwoodall",
@@ -141,7 +141,7 @@
       "IDL",
       "TeX"
     ],
-    "contributions": 460,
+    "contributions": 458,
     "followers": "16"
   },
   {
@@ -173,7 +173,7 @@
       "Agda",
       "Shell"
     ],
-    "contributions": 56,
+    "contributions": 55,
     "followers": "15"
   },
   {
@@ -294,14 +294,14 @@
     "username": "JanWielemaker",
     "location": "Amsterdam",
     "join_date": "Dec 18, 2012",
-    "popular_repos_stars": "7",
+    "popular_repos_stars": "10",
     "primary_languages": [
       "Prolog",
-      "Perl",
-      "CSS"
+      "CSS",
+      "Perl"
     ],
-    "contributions": 507,
-    "followers": "10"
+    "contributions": 513,
+    "followers": "11"
   },
   {
     "url": "https://github.com/jeff-jenness",
@@ -500,11 +500,11 @@
     "join_date": "Sep 16, 2012",
     "popular_repos_stars": "0",
     "primary_languages": [
-      "TeX",
-      "Python",
+      "CoffeeScript",
+      "JavaScript",
       "Shell"
     ],
-    "contributions": 129,
+    "contributions": 132,
     "followers": "7"
   },
   {
@@ -520,7 +520,7 @@
       "Shell",
       "CSS"
     ],
-    "contributions": 257,
+    "contributions": 259,
     "followers": "7"
   },
   {

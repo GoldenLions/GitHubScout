@@ -6,14 +6,14 @@
     "username": "xNotch",
     "location": "Stockholm, Sweden",
     "join_date": "Jun 13, 2012",
-    "popular_repos_stars": "233",
+    "popular_repos_stars": "235",
     "primary_languages": [
       "C",
       "Dart",
       "CSS"
     ],
-    "contributions": 15,
-    "followers": "423"
+    "contributions": 16,
+    "followers": "431"
   },
   {
     "url": "https://github.com/kevmoo",
@@ -54,7 +54,7 @@
     "username": "Scarygami",
     "location": "Vienna, Austria",
     "join_date": "May 25, 2011",
-    "popular_repos_stars": "434",
+    "popular_repos_stars": "435",
     "primary_languages": [
       "JavaScript",
       "CSS",
@@ -77,7 +77,7 @@
       "JavaScript"
     ],
     "contributions": 983,
-    "followers": "121"
+    "followers": "122"
   },
   {
     "url": "https://github.com/johnmccutchan",
@@ -156,7 +156,7 @@
       "Shell",
       "Smalltalk"
     ],
-    "contributions": 345,
+    "contributions": 343,
     "followers": "43"
   },
   {
@@ -204,7 +204,7 @@
       "CSS",
       "Shell"
     ],
-    "contributions": 614,
+    "contributions": 613,
     "followers": "32"
   },
   {
@@ -220,7 +220,7 @@
       "CSS",
       "JavaScript"
     ],
-    "contributions": 533,
+    "contributions": 534,
     "followers": "30"
   },
   {
@@ -428,7 +428,7 @@
       "CSS",
       "Python"
     ],
-    "contributions": 68,
+    "contributions": 66,
     "followers": "14"
   },
   {
@@ -508,7 +508,7 @@
       "CSS",
       "Shell"
     ],
-    "contributions": 174,
+    "contributions": 177,
     "followers": "12"
   },
   {
@@ -524,7 +524,7 @@
       "JavaScript",
       "CSS"
     ],
-    "contributions": 657,
+    "contributions": 658,
     "followers": "12"
   },
   {
@@ -572,7 +572,7 @@
       "JavaScript",
       "CSS"
     ],
-    "contributions": 244,
+    "contributions": 241,
     "followers": "11"
   },
   {
@@ -582,7 +582,7 @@
     "username": "akserg",
     "location": "Cape Town, South Africa",
     "join_date": "Feb 1, 2012",
-    "popular_repos_stars": "154",
+    "popular_repos_stars": "155",
     "primary_languages": [
       "Dart",
       "CSS",
@@ -620,7 +620,7 @@
       "JavaScript",
       "CSS"
     ],
-    "contributions": 470,
+    "contributions": 471,
     "followers": "10"
   },
   {
@@ -636,7 +636,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 161,
+    "contributions": 162,
     "followers": "10"
   },
   {
@@ -652,7 +652,7 @@
       "Shell",
       "CSS"
     ],
-    "contributions": 558,
+    "contributions": 584,
     "followers": "10"
   },
   {
@@ -668,7 +668,7 @@
       "CSS",
       "JavaScript"
     ],
-    "contributions": 88,
+    "contributions": 87,
     "followers": "10"
   },
   {
@@ -901,7 +901,7 @@
     "primary_languages": [
       "Dart",
       "Shell",
-      "Groovy"
+      "Java"
     ],
     "contributions": 139,
     "followers": "7"
@@ -951,7 +951,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 268,
+    "contributions": 271,
     "followers": "6"
   },
   {
@@ -966,7 +966,7 @@
       "Dart",
       "CSS"
     ],
-    "contributions": 163,
+    "contributions": 162,
     "followers": "6"
   },
   {
@@ -1045,7 +1045,7 @@
       "Dart",
       "JavaScript"
     ],
-    "contributions": 841,
+    "contributions": 849,
     "followers": "6"
   }
 ]

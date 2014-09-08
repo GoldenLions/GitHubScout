@@ -42,7 +42,7 @@
     "commits": "80",
     "stars": "48",
     "forks": "4",
-    "contributors": ""
+    "contributors": "2"
   },
   {
     "url": "https://github.com/ziman/lightyear",
@@ -51,7 +51,7 @@
     "commits": "80",
     "stars": "39",
     "forks": "10",
-    "contributors": "5"
+    "contributors": ""
   },
   {
     "url": "https://github.com/idris-hackers/idris-koans",
@@ -87,7 +87,7 @@
     "commits": "28",
     "stars": "21",
     "forks": "8",
-    "contributors": ""
+    "contributors": "7"
   },
   {
     "url": "https://github.com/david-christiansen/idris-quickcheck",

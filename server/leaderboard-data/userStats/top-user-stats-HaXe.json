@@ -6,7 +6,7 @@
     "username": "ncannasse",
     "location": "Bordeaux, France",
     "join_date": "Sep 2, 2011",
-    "popular_repos_stars": "405",
+    "popular_repos_stars": "408",
     "primary_languages": [
       "Haxe",
       "CSS",
@@ -69,13 +69,13 @@
     "username": "aduros",
     "location": "San Francisco",
     "join_date": "Sep 4, 2008",
-    "popular_repos_stars": "602",
+    "popular_repos_stars": "601",
     "primary_languages": [
       "Haxe",
       "Shell",
       "JavaScript"
     ],
-    "contributions": 282,
+    "contributions": 281,
     "followers": "109"
   },
   {
@@ -117,7 +117,7 @@
     "username": "Beeblerox",
     "location": "Russia, Astrakhan",
     "join_date": "Jun 17, 2011",
-    "popular_repos_stars": "115",
+    "popular_repos_stars": "116",
     "primary_languages": [
       "Haxe",
       "ActionScript",
@@ -155,7 +155,7 @@
       "JavaScript",
       "CoffeeScript"
     ],
-    "contributions": 103,
+    "contributions": 105,
     "followers": "73"
   },
   {
@@ -171,7 +171,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 725,
+    "contributions": 727,
     "followers": "70"
   },
   {
@@ -200,8 +200,8 @@
     "popular_repos_stars": "81",
     "primary_languages": [
       "Haxe",
-      "Shell",
-      "CSS"
+      "CSS",
+      "Shell"
     ],
     "contributions": 2,
     "followers": "63"
@@ -213,7 +213,7 @@
     "username": "clemos",
     "location": "Paris",
     "join_date": "Nov 6, 2008",
-    "popular_repos_stars": "326",
+    "popular_repos_stars": "328",
     "primary_languages": [
       "Haxe",
       "JavaScript",
@@ -315,8 +315,8 @@
       "VimL",
       "Shell"
     ],
-    "contributions": 553,
-    "followers": "44"
+    "contributions": 554,
+    "followers": "45"
   },
   {
     "url": "https://github.com/sergey-miryanov",
@@ -363,7 +363,7 @@
       "PHP",
       "JavaScript"
     ],
-    "contributions": 166,
+    "contributions": 165,
     "followers": "37"
   },
   {
@@ -538,7 +538,7 @@
     "primary_languages": [
       "Haxe",
       "Shell",
-      "Nemerle"
+      "JavaScript"
     ],
     "contributions": 52,
     "followers": "25"
@@ -566,7 +566,7 @@
     "username": "ianharrigan",
     "location": "Barcelona",
     "join_date": "Dec 12, 2012",
-    "popular_repos_stars": "227",
+    "popular_repos_stars": "228",
     "primary_languages": [
       "Haxe",
       "Shell",
@@ -582,7 +582,7 @@
     "username": "ProG4mr",
     "location": "",
     "join_date": "Aug 6, 2012",
-    "popular_repos_stars": "152",
+    "popular_repos_stars": "153",
     "primary_languages": [
       "Haxe",
       "Shell",
@@ -652,7 +652,7 @@
       "Groovy",
       "Haxe"
     ],
-    "contributions": 672,
+    "contributions": 606,
     "followers": "24"
   },
   {
@@ -731,8 +731,8 @@
       "Haxe",
       "CSS"
     ],
-    "contributions": 817,
-    "followers": "22"
+    "contributions": 815,
+    "followers": "23"
   },
   {
     "url": "https://github.com/domrein",
@@ -764,7 +764,7 @@
       "Shell"
     ],
     "contributions": 841,
-    "followers": "21"
+    "followers": "22"
   },
   {
     "url": "https://github.com/theRemix",
@@ -859,7 +859,7 @@
       "C",
       "JavaScript"
     ],
-    "contributions": 140,
+    "contributions": 138,
     "followers": "17"
   },
   {
@@ -936,7 +936,7 @@
       "JavaScript",
       "CSS"
     ],
-    "contributions": 86,
+    "contributions": 85,
     "followers": "14"
   },
   {
@@ -1033,7 +1033,7 @@
       "PHP"
     ],
     "contributions": 0,
-    "followers": "12"
+    "followers": "13"
   },
   {
     "url": "https://github.com/po8rewq",
@@ -1205,7 +1205,7 @@
       "JavaScript",
       "C"
     ],
-    "contributions": 226,
+    "contributions": 223,
     "followers": "10"
   },
   {
@@ -1302,7 +1302,7 @@
       "Shell"
     ],
     "contributions": 21,
-    "followers": "10"
+    "followers": "11"
   },
   {
     "url": "https://github.com/grumpytoad",
@@ -1570,7 +1570,7 @@
       "JavaScript",
       "CSS"
     ],
-    "contributions": 299,
+    "contributions": 297,
     "followers": "8"
   },
   {
@@ -1580,7 +1580,7 @@
     "username": "ianmart1n",
     "location": "",
     "join_date": "May 2, 2013",
-    "popular_repos_stars": "27744",
+    "popular_repos_stars": "27755",
     "primary_languages": [],
     "contributions": 15,
     "followers": "8"

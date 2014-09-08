@@ -6,7 +6,7 @@
     "username": "tpope",
     "location": "Brooklyn, NY",
     "join_date": "Feb 18, 2008",
-    "popular_repos_stars": "15457",
+    "popular_repos_stars": "15466",
     "primary_languages": [
       "VimL",
       "Ruby",
@@ -38,7 +38,7 @@
     "username": "mattn",
     "location": "Osaka, Japan",
     "join_date": "May 12, 2008",
-    "popular_repos_stars": "4471",
+    "popular_repos_stars": "4479",
     "primary_languages": [
       "VimL",
       "Go",
@@ -54,7 +54,7 @@
     "username": "Shougo",
     "location": "Japan",
     "join_date": "Dec 18, 2008",
-    "popular_repos_stars": "4930",
+    "popular_repos_stars": "4933",
     "primary_languages": [
       "VimL",
       "Shell",
@@ -70,14 +70,14 @@
     "username": "scrooloose",
     "location": "UK",
     "join_date": "Feb 28, 2008",
-    "popular_repos_stars": "9795",
+    "popular_repos_stars": "9797",
     "primary_languages": [
       "Ruby",
       "VimL",
       "JavaScript"
     ],
     "contributions": 64,
-    "followers": "688"
+    "followers": "689"
   },
   {
     "url": "https://github.com/spf13",
@@ -86,13 +86,13 @@
     "username": "spf13",
     "location": "NYC",
     "join_date": "Dec 28, 2009",
-    "popular_repos_stars": "6462",
+    "popular_repos_stars": "6472",
     "primary_languages": [
       "VimL",
       "Go",
       "JavaScript"
     ],
-    "contributions": 662,
+    "contributions": 663,
     "followers": "551"
   },
   {
@@ -109,7 +109,7 @@
       "JavaScript"
     ],
     "contributions": 1,
-    "followers": "451"
+    "followers": "453"
   },
   {
     "url": "https://github.com/Lokaltog",
@@ -118,7 +118,7 @@
     "username": "Lokaltog",
     "location": "Oslo, Norway",
     "join_date": "Apr 27, 2009",
-    "popular_repos_stars": "8673",
+    "popular_repos_stars": "8677",
     "primary_languages": [
       "Shell",
       "VimL",
@@ -134,7 +134,7 @@
     "username": "amix",
     "location": "The World",
     "join_date": "Jan 18, 2010",
-    "popular_repos_stars": "2307",
+    "popular_repos_stars": "2309",
     "primary_languages": [
       "VimL",
       "Shell",
@@ -156,7 +156,7 @@
       "Shell",
       "Ruby"
     ],
-    "contributions": 479,
+    "contributions": 478,
     "followers": "318"
   },
   {
@@ -173,7 +173,7 @@
       "Shell"
     ],
     "contributions": 426,
-    "followers": "312"
+    "followers": "313"
   },
   {
     "url": "https://github.com/andyque",
@@ -198,13 +198,13 @@
     "username": "Valloric",
     "location": "Mountain View, CA",
     "join_date": "Jul 16, 2011",
-    "popular_repos_stars": "5795",
+    "popular_repos_stars": "5797",
     "primary_languages": [
       "VimL",
       "Python",
       "Shell"
     ],
-    "contributions": 924,
+    "contributions": 923,
     "followers": "288"
   },
   {
@@ -253,7 +253,7 @@
       "Ruby",
       "Shell"
     ],
-    "contributions": 489,
+    "contributions": 491,
     "followers": "163"
   },
   {
@@ -263,7 +263,7 @@
     "username": "skwp",
     "location": "Chicago",
     "join_date": "Feb 29, 2008",
-    "popular_repos_stars": "3264",
+    "popular_repos_stars": "3267",
     "primary_languages": [
       "VimL",
       "Ruby",
@@ -285,7 +285,7 @@
       "VimL",
       "Shell"
     ],
-    "contributions": 393,
+    "contributions": 391,
     "followers": "136"
   },
   {
@@ -363,7 +363,7 @@
       "Shell",
       "CSS"
     ],
-    "contributions": 971,
+    "contributions": 973,
     "followers": "100"
   },
   {
@@ -379,7 +379,7 @@
       "VimL",
       "Ruby"
     ],
-    "contributions": 300,
+    "contributions": 301,
     "followers": "93"
   },
   {
@@ -412,7 +412,7 @@
       "C"
     ],
     "contributions": 2,
-    "followers": "91"
+    "followers": "92"
   },
   {
     "url": "https://github.com/ervandew",
@@ -437,13 +437,13 @@
     "username": "benmills",
     "location": "San Francisco",
     "join_date": "Feb 19, 2009",
-    "popular_repos_stars": "1024",
+    "popular_repos_stars": "1026",
     "primary_languages": [
       "JavaScript",
       "Shell",
       "VimL"
     ],
-    "contributions": 120,
+    "contributions": 119,
     "followers": "89"
   },
   {
@@ -469,7 +469,7 @@
     "username": "osyo-manga",
     "location": "",
     "join_date": "Mar 2, 2010",
-    "popular_repos_stars": "370",
+    "popular_repos_stars": "371",
     "primary_languages": [
       "VimL",
       "Ruby",
@@ -485,14 +485,14 @@
     "username": "tomtom",
     "location": "EU",
     "join_date": "Dec 8, 2008",
-    "popular_repos_stars": "698",
+    "popular_repos_stars": "699",
     "primary_languages": [
       "VimL",
       "Ruby",
       "Shell"
     ],
     "contributions": 1,
-    "followers": "82"
+    "followers": "81"
   },
   {
     "url": "https://github.com/manjuraj",
@@ -540,7 +540,7 @@
       "Perl",
       "Shell"
     ],
-    "contributions": 394,
+    "contributions": 393,
     "followers": "74"
   },
   {
@@ -598,7 +598,7 @@
     "username": "t9md",
     "location": "Japan",
     "join_date": "Nov 18, 2009",
-    "popular_repos_stars": "368",
+    "popular_repos_stars": "369",
     "primary_languages": [
       "VimL",
       "Ruby",
@@ -630,7 +630,7 @@
     "username": "thoughtstream",
     "location": "",
     "join_date": "Jul 31, 2011",
-    "popular_repos_stars": "279",
+    "popular_repos_stars": "280",
     "primary_languages": [
       "Perl",
       "Shell",
@@ -652,7 +652,7 @@
       "Ruby",
       "VimL"
     ],
-    "contributions": 606,
+    "contributions": 604,
     "followers": "70"
   },
   {
@@ -678,13 +678,13 @@
     "username": "jigish",
     "location": "Sunnyvale, CA",
     "join_date": "May 1, 2011",
-    "popular_repos_stars": "4264",
+    "popular_repos_stars": "4268",
     "primary_languages": [
       "Go",
       "Shell",
       "VimL"
     ],
-    "contributions": 499,
+    "contributions": 501,
     "followers": "67"
   },
   {
@@ -710,7 +710,7 @@
     "username": "godlygeek",
     "location": "Philadelphia, PA",
     "join_date": "Oct 16, 2008",
-    "popular_repos_stars": "1002",
+    "popular_repos_stars": "1003",
     "primary_languages": [
       "VimL",
       "Shell",
@@ -765,7 +765,7 @@
       "JavaScript"
     ],
     "contributions": 61,
-    "followers": "65"
+    "followers": "66"
   },
   {
     "url": "https://github.com/sbwhitecap",
@@ -790,13 +790,13 @@
     "username": "mutewinter",
     "location": "Ohio",
     "join_date": "Jun 15, 2010",
-    "popular_repos_stars": "606",
+    "popular_repos_stars": "607",
     "primary_languages": [
       "Ruby",
       "VimL",
       "JavaScript"
     ],
-    "contributions": 798,
+    "contributions": 791,
     "followers": "63"
   },
   {
@@ -838,7 +838,7 @@
     "username": "hdni",
     "location": "",
     "join_date": "Jan 3, 2013",
-    "popular_repos_stars": "228",
+    "popular_repos_stars": "230",
     "primary_languages": [
       "CSS",
       "Shell",
@@ -877,7 +877,7 @@
       "Python",
       "Shell"
     ],
-    "contributions": 992,
+    "contributions": 974,
     "followers": "56"
   },
   {
@@ -893,7 +893,7 @@
       "Ruby",
       "Shell"
     ],
-    "contributions": 209,
+    "contributions": 206,
     "followers": "56"
   },
   {
@@ -903,14 +903,14 @@
     "username": "isa",
     "location": "San Francisco, CA",
     "join_date": "Aug 12, 2008",
-    "popular_repos_stars": "54",
+    "popular_repos_stars": "55",
     "primary_languages": [
       "Ruby",
       "Python",
       "CoffeeScript"
     ],
     "contributions": 179,
-    "followers": "55"
+    "followers": "56"
   },
   {
     "url": "https://github.com/heavenshell",
@@ -925,7 +925,7 @@
       "Python",
       "PHP"
     ],
-    "contributions": 108,
+    "contributions": 109,
     "followers": "54"
   },
   {
@@ -941,7 +941,7 @@
       "Ruby",
       "JavaScript"
     ],
-    "contributions": 900,
+    "contributions": 898,
     "followers": "54"
   },
   {
@@ -957,7 +957,7 @@
       "VimL",
       "JavaScript"
     ],
-    "contributions": 304,
+    "contributions": 293,
     "followers": "53"
   },
   {
@@ -1054,7 +1054,7 @@
       "CSS",
       "Shell"
     ],
-    "contributions": 183,
+    "contributions": 185,
     "followers": "49"
   },
   {
@@ -1086,7 +1086,7 @@
       "Python",
       "VimL"
     ],
-    "contributions": 868,
+    "contributions": 874,
     "followers": "48"
   },
   {
@@ -1164,7 +1164,7 @@
       "Ruby",
       "Shell"
     ],
-    "contributions": 674,
+    "contributions": 695,
     "followers": "46"
   },
   {
@@ -1270,7 +1270,7 @@
     "username": "Raimondi",
     "location": "",
     "join_date": "Jan 4, 2009",
-    "popular_repos_stars": "687",
+    "popular_repos_stars": "686",
     "primary_languages": [
       "VimL",
       "Shell",
@@ -1292,7 +1292,7 @@
       "VimL",
       "JavaScript"
     ],
-    "contributions": 358,
+    "contributions": 368,
     "followers": "41"
   },
   {
@@ -1318,13 +1318,13 @@
     "username": "zhaocai",
     "location": "",
     "join_date": "Jul 22, 2010",
-    "popular_repos_stars": "470",
+    "popular_repos_stars": "471",
     "primary_languages": [
       "VimL",
       "Ruby",
       "Python"
     ],
-    "contributions": 170,
+    "contributions": 171,
     "followers": "40"
   },
   {
@@ -1420,7 +1420,7 @@
       "Python",
       "C"
     ],
-    "contributions": 106,
+    "contributions": 102,
     "followers": "39"
   },
   {
@@ -1437,7 +1437,7 @@
       "Emacs",
       "Lisp"
     ],
-    "contributions": 714,
+    "contributions": 712,
     "followers": "38"
   },
   {
@@ -1463,7 +1463,7 @@
     "username": "justinmk",
     "location": "Tampa, FL",
     "join_date": "Jan 20, 2012",
-    "popular_repos_stars": "482",
+    "popular_repos_stars": "487",
     "primary_languages": [
       "VimL",
       "Shell",
@@ -1485,7 +1485,7 @@
       "Python",
       "Haskell"
     ],
-    "contributions": 787,
+    "contributions": 785,
     "followers": "37"
   },
   {
@@ -1559,7 +1559,7 @@
     "username": "dhruvasagar",
     "location": "Bangalore, India",
     "join_date": "May 25, 2009",
-    "popular_repos_stars": "257",
+    "popular_repos_stars": "258",
     "primary_languages": [
       "VimL",
       "Ruby",
@@ -1581,7 +1581,7 @@
       "Shell",
       "PHP"
     ],
-    "contributions": 571,
+    "contributions": 572,
     "followers": "35"
   },
   {
@@ -1598,7 +1598,7 @@
       "Emacs",
       "Lisp"
     ],
-    "contributions": 163,
+    "contributions": 156,
     "followers": "35"
   }
 ]

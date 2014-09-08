@@ -6,7 +6,7 @@
     "username": "DataTables",
     "location": "",
     "join_date": "May 16, 2010",
-    "popular_repos_stars": "2755",
+    "popular_repos_stars": "2758",
     "primary_languages": [
       "JavaScript",
       "CSS",
@@ -22,7 +22,7 @@
     "username": "datawrangling",
     "location": "San Francisco, CA",
     "join_date": "Mar 6, 2009",
-    "popular_repos_stars": "497",
+    "popular_repos_stars": "496",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -74,7 +74,7 @@
       "Shell",
       "PHP"
     ],
-    "contributions": 523,
+    "contributions": 535,
     "followers": "48"
   },
   {
@@ -296,7 +296,7 @@
       "JavaScript",
       "ASP"
     ],
-    "contributions": 286,
+    "contributions": 271,
     "followers": "13"
   },
   {
@@ -604,7 +604,7 @@
     "username": "datatheism",
     "location": "Berlin",
     "join_date": "May 16, 2012",
-    "popular_repos_stars": "5128",
+    "popular_repos_stars": "5132",
     "primary_languages": [],
     "contributions": 0,
     "followers": "7"

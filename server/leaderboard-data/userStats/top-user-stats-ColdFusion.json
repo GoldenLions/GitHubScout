@@ -13,7 +13,7 @@
       "CSS"
     ],
     "contributions": 427,
-    "followers": "451"
+    "followers": "453"
   },
   {
     "url": "https://github.com/mhenke",
@@ -44,7 +44,7 @@
       "ColdFusion",
       "CSS"
     ],
-    "contributions": 486,
+    "contributions": 485,
     "followers": "75"
   },
   {
@@ -122,7 +122,7 @@
     "primary_languages": [
       "ColdFusion",
       "JavaScript",
-      "Java"
+      "Shell"
     ],
     "contributions": 5,
     "followers": "56"
@@ -272,7 +272,7 @@
     "username": "atomi",
     "location": "42nd District, California",
     "join_date": "May 10, 2009",
-    "popular_repos_stars": "166963",
+    "popular_repos_stars": "167043",
     "primary_languages": [],
     "contributions": 4,
     "followers": "24"
@@ -290,7 +290,7 @@
       "CSS",
       "JavaScript"
     ],
-    "contributions": 355,
+    "contributions": 356,
     "followers": "24"
   },
   {
@@ -403,7 +403,7 @@
       "Ruby"
     ],
     "contributions": 7,
-    "followers": "18"
+    "followers": "17"
   },
   {
     "url": "https://github.com/mpwoodward",
@@ -482,7 +482,7 @@
       "Groovy",
       "ColdFusion"
     ],
-    "contributions": 265,
+    "contributions": 292,
     "followers": "17"
   },
   {
@@ -733,7 +733,7 @@
       "JavaScript",
       "CSS"
     ],
-    "contributions": 489,
+    "contributions": 490,
     "followers": "12"
   },
   {
@@ -765,7 +765,7 @@
       "ColdFusion",
       "Ruby"
     ],
-    "contributions": 134,
+    "contributions": 138,
     "followers": "11"
   },
   {
@@ -797,7 +797,7 @@
       "ColdFusion",
       "Ruby"
     ],
-    "contributions": 71,
+    "contributions": 70,
     "followers": "11"
   },
   {
@@ -879,18 +879,14 @@
   {
     "url": "https://github.com/sparky300",
     "language": "ColdFusion",
-    "full_name": "Glyn Jackson",
-    "username": "sparky300",
-    "location": "Manchester, UK",
-    "join_date": "Oct 4, 2010",
-    "popular_repos_stars": "10",
-    "primary_languages": [
-      "Python",
-      "JavaScript",
-      "Shell"
-    ],
-    "contributions": 41,
-    "followers": "10"
+    "full_name": "",
+    "username": "",
+    "location": "",
+    "join_date": "",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": null,
+    "followers": ""
   },
   {
     "url": "https://github.com/perdjurner",
@@ -1000,7 +996,7 @@
       "CSS",
       "JavaScript"
     ],
-    "contributions": 26,
+    "contributions": 27,
     "followers": "9"
   },
   {
@@ -1058,7 +1054,7 @@
     "username": "oarevalo",
     "location": "Portland, OR, US",
     "join_date": "Oct 28, 2009",
-    "popular_repos_stars": "64",
+    "popular_repos_stars": "65",
     "primary_languages": [
       "JavaScript",
       "ColdFusion",
@@ -1080,7 +1076,7 @@
       "JavaScript",
       "CSS"
     ],
-    "contributions": 400,
+    "contributions": 407,
     "followers": "8"
   },
   {
@@ -1109,8 +1105,8 @@
     "popular_repos_stars": "7",
     "primary_languages": [
       "ColdFusion",
-      "JavaScript",
-      "Ruby"
+      "Ruby",
+      "JavaScript"
     ],
     "contributions": 1,
     "followers": "8"
@@ -1371,7 +1367,7 @@
       "ColdFusion"
     ],
     "contributions": 0,
-    "followers": "6"
+    "followers": "5"
   },
   {
     "url": "https://github.com/stevenerat",

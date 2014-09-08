@@ -22,7 +22,7 @@
     "username": "p-e-w",
     "location": "",
     "join_date": "Nov 1, 2012",
-    "popular_repos_stars": "4117",
+    "popular_repos_stars": "4119",
     "primary_languages": [
       "Python",
       "JavaScript",
@@ -45,7 +45,7 @@
       "Shell"
     ],
     "contributions": 2,
-    "followers": "49"
+    "followers": "50"
   },
   {
     "url": "https://github.com/sindhus",
@@ -381,7 +381,7 @@
       "Vala",
       "CSS"
     ],
-    "contributions": 50,
+    "contributions": 60,
     "followers": "13"
   },
   {
@@ -473,7 +473,7 @@
       "Vala",
       "Shell"
     ],
-    "contributions": 601,
+    "contributions": 598,
     "followers": "9"
   },
   {
@@ -501,7 +501,7 @@
       "C",
       "Assembly"
     ],
-    "contributions": 186,
+    "contributions": 185,
     "followers": "8"
   },
   {
@@ -527,7 +527,7 @@
     "username": "baedert",
     "location": "Germany",
     "join_date": "Jun 30, 2011",
-    "popular_repos_stars": "122",
+    "popular_repos_stars": "123",
     "primary_languages": [
       "Vala",
       "Shell",
@@ -645,7 +645,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 481,
+    "contributions": 479,
     "followers": "6"
   },
   {

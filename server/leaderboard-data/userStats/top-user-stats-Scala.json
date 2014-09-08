@@ -22,13 +22,13 @@
     "username": "al3x",
     "location": "Cascadia",
     "join_date": "Feb 6, 2008",
-    "popular_repos_stars": "3976",
+    "popular_repos_stars": "4008",
     "primary_languages": [
       "Python",
       "Shell",
       "Ruby"
     ],
-    "contributions": 235,
+    "contributions": 236,
     "followers": "954"
   },
   {
@@ -44,7 +44,7 @@
       "Java",
       "Shell"
     ],
-    "contributions": 100,
+    "contributions": 98,
     "followers": "504"
   },
   {
@@ -61,7 +61,7 @@
       "Java"
     ],
     "contributions": 33,
-    "followers": "483"
+    "followers": "484"
   },
   {
     "url": "https://github.com/robey",
@@ -76,7 +76,7 @@
       "Scala",
       "JavaScript"
     ],
-    "contributions": 442,
+    "contributions": 441,
     "followers": "463"
   },
   {
@@ -86,14 +86,14 @@
     "username": "paulp",
     "location": "Bend, OR",
     "join_date": "May 2, 2008",
-    "popular_repos_stars": "874",
+    "popular_repos_stars": "896",
     "primary_languages": [
       "Scala",
       "Shell",
       "Java"
     ],
     "contributions": 972,
-    "followers": "418"
+    "followers": "424"
   },
   {
     "url": "https://github.com/dpp",
@@ -118,14 +118,14 @@
     "username": "yuroyoro",
     "location": "Tokyo",
     "join_date": "Jul 27, 2008",
-    "popular_repos_stars": "616",
+    "popular_repos_stars": "620",
     "primary_languages": [
       "Scala",
       "Ruby",
       "Shell"
     ],
     "contributions": 374,
-    "followers": "345"
+    "followers": "346"
   },
   {
     "url": "https://github.com/odersky",
@@ -141,7 +141,7 @@
       "Java"
     ],
     "contributions": 1,
-    "followers": "345"
+    "followers": "346"
   },
   {
     "url": "https://github.com/rxin",
@@ -150,11 +150,11 @@
     "username": "rxin",
     "location": "Berkeley, CA",
     "join_date": "Jul 5, 2010",
-    "popular_repos_stars": "2967",
+    "popular_repos_stars": "2986",
     "primary_languages": [
       "Shell",
-      "Python",
-      "Scala"
+      "Scala",
+      "Python"
     ],
     "contributions": 1,
     "followers": "344"
@@ -166,13 +166,13 @@
     "username": "n8han",
     "location": "New York",
     "join_date": "Jul 7, 2009",
-    "popular_repos_stars": "1085",
+    "popular_repos_stars": "1088",
     "primary_languages": [
       "Scala",
       "JavaScript",
       "Java"
     ],
-    "contributions": 328,
+    "contributions": 318,
     "followers": "322"
   },
   {
@@ -189,7 +189,7 @@
       "JavaScript"
     ],
     "contributions": 1,
-    "followers": "301"
+    "followers": "302"
   },
   {
     "url": "https://github.com/namin",
@@ -220,7 +220,7 @@
       "Shell",
       "Java"
     ],
-    "contributions": 717,
+    "contributions": 701,
     "followers": "259"
   },
   {
@@ -285,7 +285,7 @@
       "CSS"
     ],
     "contributions": 792,
-    "followers": "220"
+    "followers": "219"
   },
   {
     "url": "https://github.com/harrah",
@@ -310,14 +310,14 @@
     "username": "mgonto",
     "location": "Buenos Aires, Argentina",
     "join_date": "Apr 11, 2011",
-    "popular_repos_stars": "5106",
+    "popular_repos_stars": "5108",
     "primary_languages": [
       "JavaScript",
       "CSS",
       "Ruby"
     ],
     "contributions": 1,
-    "followers": "208"
+    "followers": "209"
   },
   {
     "url": "https://github.com/debasishg",
@@ -333,7 +333,7 @@
       "Clojure"
     ],
     "contributions": 32,
-    "followers": "196"
+    "followers": "197"
   },
   {
     "url": "https://github.com/retronym",
@@ -349,7 +349,7 @@
       "Java"
     ],
     "contributions": 1,
-    "followers": "193"
+    "followers": "194"
   },
   {
     "url": "https://github.com/stevej",
@@ -390,14 +390,14 @@
     "username": "takezoe",
     "location": "",
     "join_date": "Oct 1, 2011",
-    "popular_repos_stars": "3405",
+    "popular_repos_stars": "3410",
     "primary_languages": [
       "Scala",
       "Shell",
       "Java"
     ],
     "contributions": 1,
-    "followers": "179"
+    "followers": "178"
   },
   {
     "url": "https://github.com/caniszczyk",
@@ -428,7 +428,7 @@
       "Java",
       "Shell"
     ],
-    "contributions": 638,
+    "contributions": 643,
     "followers": "174"
   },
   {
@@ -486,7 +486,7 @@
     "username": "hseeberger",
     "location": "Germany",
     "join_date": "Dec 21, 2008",
-    "popular_repos_stars": "118",
+    "popular_repos_stars": "119",
     "primary_languages": [
       "Scala",
       "Java",
@@ -518,7 +518,7 @@
     "username": "jorgeortiz85",
     "location": "New York, NY",
     "join_date": "Apr 7, 2008",
-    "popular_repos_stars": "437",
+    "popular_repos_stars": "438",
     "primary_languages": [
       "Scala",
       "Java",
@@ -557,7 +557,7 @@
       "Java"
     ],
     "contributions": 230,
-    "followers": "147"
+    "followers": "148"
   },
   {
     "url": "https://github.com/viktorklang",
@@ -566,14 +566,14 @@
     "username": "viktorklang",
     "location": "",
     "join_date": "May 20, 2008",
-    "popular_repos_stars": "8",
+    "popular_repos_stars": "5",
     "primary_languages": [
-      "Scala",
       "Java",
+      "Scala",
       "Shell"
     ],
     "contributions": 148,
-    "followers": "141"
+    "followers": "142"
   },
   {
     "url": "https://github.com/shadaj",
@@ -646,7 +646,7 @@
     "username": "non",
     "location": "Providence / Philly / NYC",
     "join_date": "Mar 7, 2010",
-    "popular_repos_stars": "795",
+    "popular_repos_stars": "797",
     "primary_languages": [
       "Scala",
       "Shell",
@@ -710,13 +710,13 @@
     "username": "janm399",
     "location": "Oxford, UK",
     "join_date": "May 18, 2009",
-    "popular_repos_stars": "86",
+    "popular_repos_stars": "85",
     "primary_languages": [
       "Scala",
       "Java",
       "JavaScript"
     ],
-    "contributions": 773,
+    "contributions": 772,
     "followers": "121"
   },
   {
@@ -732,8 +732,8 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 770,
-    "followers": "121"
+    "contributions": 768,
+    "followers": "120"
   },
   {
     "url": "https://github.com/deanwampler",
@@ -764,8 +764,8 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 899,
-    "followers": "119"
+    "contributions": 897,
+    "followers": "120"
   },
   {
     "url": "https://github.com/danluu",
@@ -780,7 +780,7 @@
       "Shell",
       "Python"
     ],
-    "contributions": 750,
+    "contributions": 733,
     "followers": "119"
   },
   {
@@ -790,14 +790,14 @@
     "username": "seratch",
     "location": "Tokyo, Japan",
     "join_date": "Aug 5, 2008",
-    "popular_repos_stars": "401",
+    "popular_repos_stars": "405",
     "primary_languages": [
       "Scala",
       "Shell",
       "Java"
     ],
     "contributions": 2,
-    "followers": "118"
+    "followers": "119"
   },
   {
     "url": "https://github.com/Atry",
@@ -828,7 +828,7 @@
       "Java",
       "Shell"
     ],
-    "contributions": 280,
+    "contributions": 283,
     "followers": "112"
   },
   {
@@ -844,7 +844,7 @@
       "Shell",
       "Java"
     ],
-    "contributions": 455,
+    "contributions": 454,
     "followers": "107"
   },
   {
@@ -924,7 +924,7 @@
       "Shell",
       "Java"
     ],
-    "contributions": 11,
+    "contributions": 12,
     "followers": "96"
   },
   {
@@ -972,7 +972,7 @@
       "Shell",
       "Ruby"
     ],
-    "contributions": 119,
+    "contributions": 116,
     "followers": "89"
   },
   {
@@ -1020,7 +1020,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 13,
+    "contributions": 14,
     "followers": "87"
   },
   {
@@ -1036,7 +1036,7 @@
       "Java",
       "Shell"
     ],
-    "contributions": 772,
+    "contributions": 781,
     "followers": "83"
   },
   {
@@ -1046,14 +1046,14 @@
     "username": "rkuhn",
     "location": "Uppsala, Sweden",
     "join_date": "Nov 6, 2010",
-    "popular_repos_stars": "29",
+    "popular_repos_stars": "30",
     "primary_languages": [
       "Scala",
       "Java",
       "Shell"
     ],
-    "contributions": 431,
-    "followers": "83"
+    "contributions": 434,
+    "followers": "84"
   },
   {
     "url": "https://github.com/xeno-by",
@@ -1124,7 +1124,7 @@
     "language": "Scala",
     "full_name": "Nilanjan Raychaudhuri",
     "username": "nraychaudhuri",
-    "location": "Columbus, OH",
+    "location": "Berlin, Germany",
     "join_date": "Dec 18, 2008",
     "popular_repos_stars": "138",
     "primary_languages": [
@@ -1133,7 +1133,7 @@
       "JavaScript"
     ],
     "contributions": 66,
-    "followers": "75"
+    "followers": "76"
   },
   {
     "url": "https://github.com/fujohnwang",
@@ -1158,13 +1158,13 @@
     "username": "edgurgel",
     "location": "Auckland, New Zealand",
     "join_date": "Oct 24, 2008",
-    "popular_repos_stars": "439",
+    "popular_repos_stars": "440",
     "primary_languages": [
       "Elixir",
       "Ruby",
       "Erlang"
     ],
-    "contributions": 778,
+    "contributions": 780,
     "followers": "74"
   },
   {
@@ -1174,13 +1174,13 @@
     "username": "jdegoes",
     "location": "Boulder, CO",
     "join_date": "Nov 22, 2009",
-    "popular_repos_stars": "771",
+    "popular_repos_stars": "772",
     "primary_languages": [
       "Scala",
       "Shell",
       "JavaScript"
     ],
-    "contributions": 883,
+    "contributions": 884,
     "followers": "73"
   },
   {
@@ -1228,7 +1228,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 477,
+    "contributions": 479,
     "followers": "68"
   },
   {
@@ -1238,14 +1238,14 @@
     "username": "wsargent",
     "location": "San Francisco",
     "join_date": "Apr 6, 2009",
-    "popular_repos_stars": "666",
+    "popular_repos_stars": "677",
     "primary_languages": [
       "Scala",
       "Java",
       "Shell"
     ],
-    "contributions": 382,
-    "followers": "68"
+    "contributions": 377,
+    "followers": "70"
   },
   {
     "url": "https://github.com/Sciss",
@@ -1286,7 +1286,7 @@
     "username": "jonifreeman",
     "location": "Finland",
     "join_date": "Feb 13, 2009",
-    "popular_repos_stars": "234",
+    "popular_repos_stars": "233",
     "primary_languages": [
       "Scala",
       "JavaScript",
@@ -1308,7 +1308,7 @@
       "Shell",
       "Java"
     ],
-    "contributions": 580,
+    "contributions": 574,
     "followers": "67"
   },
   {
@@ -1324,7 +1324,7 @@
       "Shell",
       "CSS"
     ],
-    "contributions": 292,
+    "contributions": 291,
     "followers": "66"
   },
   {
@@ -1388,7 +1388,7 @@
       "Shell",
       "Java"
     ],
-    "contributions": 172,
+    "contributions": 174,
     "followers": "64"
   },
   {
@@ -1398,7 +1398,7 @@
     "username": "HouzuoGuo",
     "location": "Hamburg, Deutschland",
     "join_date": "Jan 13, 2011",
-    "popular_repos_stars": "1145",
+    "popular_repos_stars": "1146",
     "primary_languages": [
       "Scala",
       "Java",
@@ -1420,7 +1420,7 @@
       "Shell",
       "Python"
     ],
-    "contributions": 637,
+    "contributions": 622,
     "followers": "64"
   },
   {
@@ -1436,7 +1436,7 @@
       "Shell",
       "Java"
     ],
-    "contributions": 506,
+    "contributions": 505,
     "followers": "63"
   },
   {
@@ -1446,7 +1446,7 @@
     "username": "notnoop",
     "location": "Boston, MA",
     "join_date": "Oct 7, 2009",
-    "popular_repos_stars": "855",
+    "popular_repos_stars": "856",
     "primary_languages": [
       "Scala",
       "Shell",
@@ -1564,7 +1564,7 @@
       "Shell",
       "Ruby"
     ],
-    "contributions": 342,
+    "contributions": 340,
     "followers": "57"
   },
   {
@@ -1580,7 +1580,7 @@
       "Shell",
       "Java"
     ],
-    "contributions": 462,
+    "contributions": 480,
     "followers": "57"
   },
   {

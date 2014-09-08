@@ -28,7 +28,7 @@
       "Rust",
       "Python"
     ],
-    "contributions": 392,
+    "contributions": 391,
     "followers": "83"
   },
   {
@@ -54,7 +54,7 @@
     "username": "bjz",
     "location": "Melbourne, Australia",
     "join_date": "Mar 28, 2011",
-    "popular_repos_stars": "318",
+    "popular_repos_stars": "319",
     "primary_languages": [
       "Rust",
       "D",
@@ -106,10 +106,10 @@
     "primary_languages": [
       "Shell",
       "Rust",
-      "C"
+      "Python"
     ],
     "contributions": 0,
-    "followers": "44"
+    "followers": "43"
   },
   {
     "url": "https://github.com/erickt",
@@ -156,7 +156,7 @@
       "Haskell",
       "CSS"
     ],
-    "contributions": 115,
+    "contributions": 114,
     "followers": "31"
   },
   {
@@ -259,7 +259,7 @@
     "username": "jeremyletang",
     "location": "Bordeaux",
     "join_date": "May 5, 2013",
-    "popular_repos_stars": "181",
+    "popular_repos_stars": "182",
     "primary_languages": [
       "Rust",
       "C",
@@ -325,13 +325,13 @@
     "username": "AngryLawyer",
     "location": "United Kingdom",
     "join_date": "Jan 25, 2012",
-    "popular_repos_stars": "122",
+    "popular_repos_stars": "124",
     "primary_languages": [
       "Shell",
       "Rust",
       "Tcl"
     ],
-    "contributions": 606,
+    "contributions": 609,
     "followers": "12"
   },
   {
@@ -347,7 +347,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 663,
+    "contributions": 666,
     "followers": "11"
   },
   {
@@ -387,7 +387,7 @@
       "C",
       "Perl"
     ],
-    "contributions": 566,
+    "contributions": 585,
     "followers": "10"
   },
   {
@@ -403,7 +403,7 @@
       "Shell",
       "Clojure"
     ],
-    "contributions": 138,
+    "contributions": 139,
     "followers": "9"
   },
   {

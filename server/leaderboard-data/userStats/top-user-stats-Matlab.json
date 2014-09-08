@@ -38,7 +38,7 @@
     "username": "rbgirshick",
     "location": "",
     "join_date": "Nov 12, 2011",
-    "popular_repos_stars": "284",
+    "popular_repos_stars": "290",
     "primary_languages": [
       "Matlab",
       "C",
@@ -76,7 +76,7 @@
       "C"
     ],
     "contributions": 142,
-    "followers": "59"
+    "followers": "60"
   },
   {
     "url": "https://github.com/hallas",
@@ -220,7 +220,7 @@
       "Matlab",
       "M"
     ],
-    "contributions": 105,
+    "contributions": 91,
     "followers": "25"
   },
   {
@@ -269,7 +269,7 @@
       "Shell"
     ],
     "contributions": 0,
-    "followers": "23"
+    "followers": "24"
   },
   {
     "url": "https://github.com/zihaolucky",
@@ -284,7 +284,7 @@
       "C",
       "C"
     ],
-    "contributions": 193,
+    "contributions": 190,
     "followers": "23"
   },
   {
@@ -362,7 +362,7 @@
       "C"
     ],
     "contributions": 24,
-    "followers": "21"
+    "followers": "22"
   },
   {
     "url": "https://github.com/Kimmiko",
@@ -420,7 +420,7 @@
       "VimL",
       "CSS"
     ],
-    "contributions": 180,
+    "contributions": 181,
     "followers": "17"
   },
   {
@@ -468,7 +468,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 32,
+    "contributions": 30,
     "followers": "14"
   },
   {
@@ -543,7 +543,7 @@
     "username": "alexkarpenko",
     "location": "Stanford, CA, USA",
     "join_date": "Jul 23, 2011",
-    "popular_repos_stars": "15497",
+    "popular_repos_stars": "15510",
     "primary_languages": [],
     "contributions": 0,
     "followers": "12"
@@ -657,8 +657,8 @@
       "C",
       "Shell"
     ],
-    "contributions": 246,
-    "followers": "11"
+    "contributions": 247,
+    "followers": "12"
   },
   {
     "url": "https://github.com/lucktroy",
@@ -929,7 +929,7 @@
       "C",
       "Arduino"
     ],
-    "contributions": 813,
+    "contributions": 812,
     "followers": "8"
   },
   {
@@ -955,7 +955,7 @@
     "username": "oreillyj",
     "location": "",
     "join_date": "Jan 6, 2011",
-    "popular_repos_stars": "15499",
+    "popular_repos_stars": "15514",
     "primary_languages": [],
     "contributions": 0,
     "followers": "8"
@@ -973,7 +973,7 @@
       "Matlab",
       "Python"
     ],
-    "contributions": 624,
+    "contributions": 623,
     "followers": "8"
   },
   {
@@ -989,7 +989,7 @@
       "JavaScript",
       "LiveScript"
     ],
-    "contributions": 142,
+    "contributions": 144,
     "followers": "8"
   },
   {
@@ -1099,8 +1099,8 @@
       "CSS",
       "JavaScript"
     ],
-    "contributions": 300,
-    "followers": "7"
+    "contributions": 301,
+    "followers": "8"
   },
   {
     "url": "https://github.com/varunbpatil",
@@ -1146,7 +1146,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 190,
+    "contributions": 191,
     "followers": "7"
   },
   {
@@ -1178,7 +1178,7 @@
       "M",
       "Mercury"
     ],
-    "contributions": 358,
+    "contributions": 355,
     "followers": "7"
   },
   {

@@ -6,7 +6,7 @@
     "username": "hadley",
     "location": "Houston, TX",
     "join_date": "Apr 1, 2008",
-    "popular_repos_stars": "2878",
+    "popular_repos_stars": "2882",
     "primary_languages": [
       "R",
       "C",
@@ -38,14 +38,14 @@
     "username": "jtleek",
     "location": "Baltimore,MD",
     "join_date": "Mar 24, 2012",
-    "popular_repos_stars": "1345",
+    "popular_repos_stars": "1346",
     "primary_languages": [
       "R",
       "JavaScript",
       "CSS"
     ],
     "contributions": 728,
-    "followers": "967"
+    "followers": "975"
   },
   {
     "url": "https://github.com/rdpeng",
@@ -61,7 +61,7 @@
       "JavaScript"
     ],
     "contributions": 932,
-    "followers": "603"
+    "followers": "605"
   },
   {
     "url": "https://github.com/bcaffo",
@@ -70,14 +70,14 @@
     "username": "bcaffo",
     "location": "Baltimore, MD, USA",
     "join_date": "May 29, 2012",
-    "popular_repos_stars": "489",
+    "popular_repos_stars": "490",
     "primary_languages": [
       "R",
       "CSS",
       "JavaScript"
     ],
-    "contributions": 483,
-    "followers": "447"
+    "contributions": 484,
+    "followers": "450"
   },
   {
     "url": "https://github.com/RevolutionAnalytics",
@@ -93,7 +93,7 @@
       "Shell"
     ],
     "contributions": 125,
-    "followers": "221"
+    "followers": "222"
   },
   {
     "url": "https://github.com/karthik",
@@ -109,7 +109,7 @@
       "JavaScript"
     ],
     "contributions": 3,
-    "followers": "181"
+    "followers": "182"
   },
   {
     "url": "https://github.com/cboettig",
@@ -125,7 +125,7 @@
       "TeX"
     ],
     "contributions": 2,
-    "followers": "171"
+    "followers": "172"
   },
   {
     "url": "https://github.com/sckott",
@@ -141,7 +141,7 @@
       "CSS"
     ],
     "contributions": 3,
-    "followers": "157"
+    "followers": "158"
   },
   {
     "url": "https://github.com/wch",
@@ -157,7 +157,7 @@
       "Shell"
     ],
     "contributions": 1,
-    "followers": "150"
+    "followers": "151"
   },
   {
     "url": "https://github.com/kbroman",
@@ -237,7 +237,7 @@
       "Shell"
     ],
     "contributions": 1,
-    "followers": "101"
+    "followers": "102"
   },
   {
     "url": "https://github.com/ncarchedi",
@@ -253,7 +253,7 @@
       "CSS"
     ],
     "contributions": 973,
-    "followers": "97"
+    "followers": "99"
   },
   {
     "url": "https://github.com/abelsonlive",
@@ -327,11 +327,11 @@
     "popular_repos_stars": "68",
     "primary_languages": [
       "R",
-      "Shell",
-      "C"
+      "C",
+      "Shell"
     ],
     "contributions": 421,
-    "followers": "83"
+    "followers": "84"
   },
   {
     "url": "https://github.com/jeromyanglim",
@@ -392,7 +392,7 @@
       "Shell",
       "SAS"
     ],
-    "contributions": 424,
+    "contributions": 437,
     "followers": "69"
   },
   {
@@ -408,8 +408,8 @@
       "R",
       "CSS"
     ],
-    "contributions": 665,
-    "followers": "62"
+    "contributions": 661,
+    "followers": "63"
   },
   {
     "url": "https://github.com/hilaryparker",
@@ -440,7 +440,7 @@
       "CSS",
       "JavaScript"
     ],
-    "contributions": 206,
+    "contributions": 195,
     "followers": "62"
   },
   {
@@ -456,7 +456,7 @@
       "TeX",
       "CSS"
     ],
-    "contributions": 363,
+    "contributions": 371,
     "followers": "61"
   },
   {
@@ -473,7 +473,7 @@
       "F"
     ],
     "contributions": 1,
-    "followers": "60"
+    "followers": "61"
   },
   {
     "url": "https://github.com/mewo2",
@@ -498,11 +498,11 @@
     "username": "christophergandrud",
     "location": "Germany",
     "join_date": "Dec 25, 2011",
-    "popular_repos_stars": "155",
+    "popular_repos_stars": "156",
     "primary_languages": [
       "R",
       "TeX",
-      "JavaScript"
+      "CSS"
     ],
     "contributions": 1,
     "followers": "58"
@@ -584,7 +584,7 @@
       "CSS",
       "JavaScript"
     ],
-    "contributions": 474,
+    "contributions": 469,
     "followers": "56"
   },
   {
@@ -633,7 +633,7 @@
       "JavaScript"
     ],
     "contributions": 102,
-    "followers": "53"
+    "followers": "54"
   },
   {
     "url": "https://github.com/zmjones",
@@ -642,7 +642,7 @@
     "username": "zmjones",
     "location": "State College, PA",
     "join_date": "Oct 9, 2011",
-    "popular_repos_stars": "29",
+    "popular_repos_stars": "30",
     "primary_languages": [
       "R",
       "Python",
@@ -776,7 +776,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 385,
+    "contributions": 387,
     "followers": "42"
   },
   {
@@ -792,7 +792,7 @@
       "JavaScript",
       "Ruby"
     ],
-    "contributions": 407,
+    "contributions": 398,
     "followers": "42"
   },
   {
@@ -808,7 +808,7 @@
       "CSS",
       "JavaScript"
     ],
-    "contributions": 81,
+    "contributions": 82,
     "followers": "42"
   },
   {
@@ -824,7 +824,7 @@
       "CSS",
       "JavaScript"
     ],
-    "contributions": 301,
+    "contributions": 295,
     "followers": "42"
   },
   {
@@ -888,7 +888,7 @@
       "Shell",
       "Python"
     ],
-    "contributions": 604,
+    "contributions": 606,
     "followers": "40"
   },
   {
@@ -917,8 +917,8 @@
     "popular_repos_stars": "29",
     "primary_languages": [
       "R",
-      "Python",
-      "Rebol"
+      "JavaScript",
+      "Python"
     ],
     "contributions": 333,
     "followers": "37"
@@ -936,7 +936,7 @@
       "Shell",
       "CSS"
     ],
-    "contributions": 145,
+    "contributions": 147,
     "followers": "37"
   },
   {
@@ -1016,8 +1016,8 @@
       "Python",
       "CSS"
     ],
-    "contributions": 304,
-    "followers": "35"
+    "contributions": 307,
+    "followers": "36"
   },
   {
     "url": "https://github.com/woobe",
@@ -1032,7 +1032,7 @@
       "CSS",
       "JavaScript"
     ],
-    "contributions": 325,
+    "contributions": 330,
     "followers": "35"
   },
   {
@@ -1044,11 +1044,11 @@
     "join_date": "Jan 23, 2011",
     "popular_repos_stars": "40",
     "primary_languages": [
-      "Python",
       "R",
+      "Python",
       "TeX"
     ],
-    "contributions": 916,
+    "contributions": 917,
     "followers": "35"
   },
   {
@@ -1112,7 +1112,7 @@
       "Python",
       "Shell"
     ],
-    "contributions": 521,
+    "contributions": 517,
     "followers": "34"
   },
   {
@@ -1158,7 +1158,7 @@
       "Shell",
       "Python"
     ],
-    "contributions": 128,
+    "contributions": 126,
     "followers": "33"
   },
   {
@@ -1184,13 +1184,13 @@
     "username": "JulianHill",
     "location": "Cologne",
     "join_date": "Jul 26, 2013",
-    "popular_repos_stars": "36",
+    "popular_repos_stars": "38",
     "primary_languages": [
       "R",
       "JavaScript",
       "CSS"
     ],
-    "contributions": 122,
+    "contributions": 124,
     "followers": "32"
   },
   {
@@ -1332,7 +1332,7 @@
       "C",
       "C"
     ],
-    "contributions": 37,
+    "contributions": 36,
     "followers": "28"
   },
   {
@@ -1348,7 +1348,7 @@
       "Shell",
       "CSS"
     ],
-    "contributions": 424,
+    "contributions": 426,
     "followers": "28"
   },
   {
@@ -1391,7 +1391,7 @@
     "popular_repos_stars": "11",
     "primary_languages": [
       "R",
-      "Shell",
+      "JavaScript",
       "Python"
     ],
     "contributions": 123,
@@ -1443,7 +1443,7 @@
       "JavaScript",
       "TeX"
     ],
-    "contributions": 302,
+    "contributions": 298,
     "followers": "26"
   },
   {
@@ -1453,7 +1453,7 @@
     "username": "oscarperpinan",
     "location": "",
     "join_date": "Jan 11, 2012",
-    "popular_repos_stars": "66",
+    "popular_repos_stars": "67",
     "primary_languages": [
       "R",
       "TeX",
@@ -1476,7 +1476,7 @@
       "C"
     ],
     "contributions": 1,
-    "followers": "26"
+    "followers": "27"
   },
   {
     "url": "https://github.com/SaraVarela",
@@ -1539,7 +1539,7 @@
       "TeX",
       "Python"
     ],
-    "contributions": 288,
+    "contributions": 285,
     "followers": "25"
   },
   {
@@ -1571,7 +1571,7 @@
       "C",
       "C"
     ],
-    "contributions": 640,
+    "contributions": 638,
     "followers": "25"
   },
   {

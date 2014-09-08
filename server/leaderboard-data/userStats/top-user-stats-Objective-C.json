@@ -6,14 +6,14 @@
     "username": "soffes",
     "location": "San Francisco",
     "join_date": "Feb 8, 2009",
-    "popular_repos_stars": "5972",
+    "popular_repos_stars": "5975",
     "primary_languages": [
       "Ruby",
       "Objective",
       "C",
       "C"
     ],
-    "contributions": 825,
+    "contributions": 817,
     "followers": "2.1k"
   },
   {
@@ -40,7 +40,7 @@
     "username": "steipete",
     "location": "Vienna, Austria",
     "join_date": "Feb 27, 2009",
-    "popular_repos_stars": "6108",
+    "popular_repos_stars": "6118",
     "primary_languages": [
       "Objective",
       "C",
@@ -57,14 +57,14 @@
     "username": "nicklockwood",
     "location": "UK",
     "join_date": "Jan 4, 2011",
-    "popular_repos_stars": "9907",
+    "popular_repos_stars": "9917",
     "primary_languages": [
       "Objective",
       "C",
       "Ruby",
       "C"
     ],
-    "contributions": 829,
+    "contributions": 828,
     "followers": "1.6k"
   },
   {
@@ -74,14 +74,14 @@
     "username": "marcoarment",
     "location": "",
     "join_date": "Aug 16, 2010",
-    "popular_repos_stars": "3618",
+    "popular_repos_stars": "3625",
     "primary_languages": [
       "Ruby",
       "Objective",
       "C",
       "C"
     ],
-    "contributions": 217,
+    "contributions": 218,
     "followers": "1.2k"
   },
   {
@@ -91,7 +91,7 @@
     "username": "mattgemmell",
     "location": "Edinburgh, Scotland (UK)",
     "join_date": "Oct 26, 2009",
-    "popular_repos_stars": "4451",
+    "popular_repos_stars": "4452",
     "primary_languages": [
       "Objective",
       "C",
@@ -108,14 +108,14 @@
     "username": "onevcat",
     "location": "Kawasaki, Japan",
     "join_date": "Sep 1, 2011",
-    "popular_repos_stars": "3114",
+    "popular_repos_stars": "3115",
     "primary_languages": [
       "Objective",
       "C",
       "Ruby",
       "JavaScript"
     ],
-    "contributions": 754,
+    "contributions": 758,
     "followers": "1.2k"
   },
   {
@@ -125,7 +125,7 @@
     "username": "samvermette",
     "location": "Montréal",
     "join_date": "May 5, 2010",
-    "popular_repos_stars": "3506",
+    "popular_repos_stars": "3508",
     "primary_languages": [
       "Objective",
       "C",
@@ -142,7 +142,7 @@
     "username": "mikeash",
     "location": "",
     "join_date": "Jul 31, 2010",
-    "popular_repos_stars": "1546",
+    "popular_repos_stars": "1545",
     "primary_languages": [
       "Objective",
       "C",
@@ -159,7 +159,7 @@
     "username": "mxcl",
     "location": "Chicago",
     "join_date": "Feb 28, 2009",
-    "popular_repos_stars": "2666",
+    "popular_repos_stars": "2668",
     "primary_languages": [
       "Objective",
       "C",
@@ -167,7 +167,7 @@
       "C"
     ],
     "contributions": 1,
-    "followers": "974"
+    "followers": "975"
   },
   {
     "url": "https://github.com/robbiehanson",
@@ -176,7 +176,7 @@
     "username": "robbiehanson",
     "location": "Bend, Oregon",
     "join_date": "Jun 14, 2010",
-    "popular_repos_stars": "8158",
+    "popular_repos_stars": "8162",
     "primary_languages": [
       "Objective",
       "C",
@@ -210,14 +210,14 @@
     "username": "jverkoey",
     "location": "San Francisco, CA",
     "join_date": "Jan 10, 2009",
-    "popular_repos_stars": "6523",
+    "popular_repos_stars": "6526",
     "primary_languages": [
       "Objective",
       "C",
       "C",
       "JavaScript"
     ],
-    "contributions": 533,
+    "contributions": 532,
     "followers": "864"
   },
   {
@@ -227,15 +227,15 @@
     "username": "romaonthego",
     "location": "San Francisco Bay Area",
     "join_date": "Nov 14, 2010",
-    "popular_repos_stars": "7251",
+    "popular_repos_stars": "7257",
     "primary_languages": [
       "Objective",
       "C",
       "Ruby",
       "C"
     ],
-    "contributions": 779,
-    "followers": "862"
+    "contributions": 778,
+    "followers": "863"
   },
   {
     "url": "https://github.com/MugunthKumar",
@@ -244,7 +244,7 @@
     "username": "MugunthKumar",
     "location": "Singapore",
     "join_date": "Sep 21, 2009",
-    "popular_repos_stars": "4550",
+    "popular_repos_stars": "4552",
     "primary_languages": [
       "Objective",
       "C",
@@ -278,7 +278,7 @@
     "username": "jspahrsummers",
     "location": "San Francisco, CA",
     "join_date": "Oct 8, 2010",
-    "popular_repos_stars": "2735",
+    "popular_repos_stars": "2739",
     "primary_languages": [
       "Objective",
       "C",
@@ -286,7 +286,7 @@
       "C"
     ],
     "contributions": 1,
-    "followers": "767"
+    "followers": "768"
   },
   {
     "url": "https://github.com/rentzsch",
@@ -295,7 +295,7 @@
     "username": "rentzsch",
     "location": "Chicagoland+WI",
     "join_date": "Mar 12, 2008",
-    "popular_repos_stars": "4388",
+    "popular_repos_stars": "4390",
     "primary_languages": [
       "Objective",
       "C",
@@ -354,7 +354,7 @@
       "Shell"
     ],
     "contributions": 791,
-    "followers": "659"
+    "followers": "661"
   },
   {
     "url": "https://github.com/AshFurrow",
@@ -363,7 +363,7 @@
     "username": "AshFurrow",
     "location": "Amsterdam",
     "join_date": "Nov 26, 2010",
-    "popular_repos_stars": "1604",
+    "popular_repos_stars": "1612",
     "primary_languages": [
       "Objective",
       "C",
@@ -371,7 +371,7 @@
       "Swift"
     ],
     "contributions": 1,
-    "followers": "656"
+    "followers": "657"
   },
   {
     "url": "https://github.com/tangqiaoboy",
@@ -380,7 +380,7 @@
     "username": "tangqiaoboy",
     "location": "Beijing, China",
     "join_date": "Apr 16, 2011",
-    "popular_repos_stars": "1135",
+    "popular_repos_stars": "1137",
     "primary_languages": [
       "Objective",
       "C",
@@ -388,7 +388,7 @@
       "JavaScript"
     ],
     "contributions": 7,
-    "followers": "597"
+    "followers": "598"
   },
   {
     "url": "https://github.com/rs",
@@ -397,7 +397,7 @@
     "username": "rs",
     "location": "Sunnyvale, California, USA",
     "join_date": "Mar 28, 2009",
-    "popular_repos_stars": "8744",
+    "popular_repos_stars": "8753",
     "primary_languages": [
       "Objective",
       "C",
@@ -405,7 +405,7 @@
       "Python"
     ],
     "contributions": 238,
-    "followers": "594"
+    "followers": "595"
   },
   {
     "url": "https://github.com/equus12",
@@ -431,7 +431,7 @@
     "username": "levey",
     "location": "Hong Kong",
     "join_date": "Feb 20, 2011",
-    "popular_repos_stars": "3945",
+    "popular_repos_stars": "3948",
     "primary_languages": [
       "Objective",
       "C",
@@ -439,7 +439,7 @@
       "JavaScript"
     ],
     "contributions": 35,
-    "followers": "545"
+    "followers": "544"
   },
   {
     "url": "https://github.com/omz",
@@ -448,7 +448,7 @@
     "username": "omz",
     "location": "Berlin, Germany",
     "join_date": "May 8, 2009",
-    "popular_repos_stars": "5794",
+    "popular_repos_stars": "5796",
     "primary_languages": [
       "Objective",
       "C",
@@ -465,7 +465,7 @@
     "username": "0xced",
     "location": "Geneva, Switzerland",
     "join_date": "Feb 3, 2009",
-    "popular_repos_stars": "3585",
+    "popular_repos_stars": "3586",
     "primary_languages": [
       "Objective",
       "C",
@@ -473,7 +473,7 @@
       "Ruby"
     ],
     "contributions": 394,
-    "followers": "514"
+    "followers": "515"
   },
   {
     "url": "https://github.com/schwa",
@@ -489,7 +489,7 @@
       "Python",
       "C"
     ],
-    "contributions": 438,
+    "contributions": 441,
     "followers": "512"
   },
   {
@@ -499,14 +499,14 @@
     "username": "BradLarson",
     "location": "Madison, WI USA",
     "join_date": "Aug 2, 2011",
-    "popular_repos_stars": "6909",
+    "popular_repos_stars": "6915",
     "primary_languages": [
       "Objective",
       "C",
       "C",
       "Shell"
     ],
-    "contributions": 120,
+    "contributions": 113,
     "followers": "503"
   },
   {
@@ -516,7 +516,7 @@
     "username": "orta",
     "location": "Manchester / NYC",
     "join_date": "Jan 24, 2009",
-    "popular_repos_stars": "1423",
+    "popular_repos_stars": "1426",
     "primary_languages": [
       "Objective",
       "C",
@@ -524,7 +524,7 @@
       "C"
     ],
     "contributions": 2,
-    "followers": "500"
+    "followers": "502"
   },
   {
     "url": "https://github.com/MartianZ",
@@ -549,7 +549,7 @@
     "username": "indragiek",
     "location": "Edmonton, AB",
     "join_date": "Aug 3, 2010",
-    "popular_repos_stars": "1810",
+    "popular_repos_stars": "1811",
     "primary_languages": [
       "Objective",
       "C",
@@ -608,7 +608,7 @@
       "C"
     ],
     "contributions": 126,
-    "followers": "483"
+    "followers": "484"
   },
   {
     "url": "https://github.com/supermarin",
@@ -624,8 +624,8 @@
       "C",
       "Shell"
     ],
-    "contributions": 878,
-    "followers": "483"
+    "contributions": 876,
+    "followers": "484"
   },
   {
     "url": "https://github.com/DHowett",
@@ -641,7 +641,7 @@
       "C",
       "Go"
     ],
-    "contributions": 329,
+    "contributions": 332,
     "followers": "479"
   },
   {
@@ -651,7 +651,7 @@
     "username": "kishikawakatsumi",
     "location": "Tokyo",
     "join_date": "Dec 15, 2008",
-    "popular_repos_stars": "2514",
+    "popular_repos_stars": "2513",
     "primary_languages": [
       "Objective",
       "C",
@@ -668,7 +668,7 @@
     "username": "stevestreza",
     "location": "",
     "join_date": "Oct 11, 2008",
-    "popular_repos_stars": "991",
+    "popular_repos_stars": "992",
     "primary_languages": [
       "Objective",
       "C",
@@ -693,7 +693,7 @@
       "Ruby"
     ],
     "contributions": 59,
-    "followers": "463"
+    "followers": "464"
   },
   {
     "url": "https://github.com/jamztang",
@@ -702,7 +702,7 @@
     "username": "jamztang",
     "location": "Hong Kong",
     "join_date": "Jun 15, 2011",
-    "popular_repos_stars": "3754",
+    "popular_repos_stars": "3757",
     "primary_languages": [
       "Objective",
       "C",
@@ -710,7 +710,7 @@
       "C"
     ],
     "contributions": 393,
-    "followers": "447"
+    "followers": "449"
   },
   {
     "url": "https://github.com/lexrus",
@@ -719,14 +719,14 @@
     "username": "lexrus",
     "location": "Shanghai China",
     "join_date": "Mar 10, 2010",
-    "popular_repos_stars": "2381",
+    "popular_repos_stars": "2383",
     "primary_languages": [
       "Objective",
       "C",
       "Ruby",
       "Shell"
     ],
-    "contributions": 256,
+    "contributions": 255,
     "followers": "441"
   },
   {
@@ -753,15 +753,15 @@
     "username": "ccgus",
     "location": "Everett, WA",
     "join_date": "Mar 4, 2009",
-    "popular_repos_stars": "6073",
+    "popular_repos_stars": "6077",
     "primary_languages": [
       "Objective",
       "C",
       "C",
       "Python"
     ],
-    "contributions": 202,
-    "followers": "405"
+    "contributions": 203,
+    "followers": "406"
   },
   {
     "url": "https://github.com/nst",
@@ -770,7 +770,7 @@
     "username": "nst",
     "location": "Lausanne, Switzerland",
     "join_date": "Feb 3, 2009",
-    "popular_repos_stars": "4316",
+    "popular_repos_stars": "4320",
     "primary_languages": [
       "Objective",
       "C",
@@ -805,7 +805,7 @@
     "username": "myell0w",
     "location": "Vienna",
     "join_date": "Oct 23, 2009",
-    "popular_repos_stars": "2947",
+    "popular_repos_stars": "2945",
     "primary_languages": [
       "Objective",
       "C",
@@ -822,7 +822,7 @@
     "username": "ole",
     "location": "Berlin",
     "join_date": "Apr 4, 2008",
-    "popular_repos_stars": "1598",
+    "popular_repos_stars": "1599",
     "primary_languages": [
       "Objective",
       "C",
@@ -856,7 +856,7 @@
     "username": "xhzengAIB",
     "location": "China GuangDong (广州)",
     "join_date": "Jul 13, 2012",
-    "popular_repos_stars": "1099",
+    "popular_repos_stars": "1113",
     "primary_languages": [
       "Objective",
       "C",
@@ -864,7 +864,7 @@
       "C"
     ],
     "contributions": 2,
-    "followers": "353"
+    "followers": "354"
   },
   {
     "url": "https://github.com/shu223",
@@ -873,14 +873,14 @@
     "username": "shu223",
     "location": "",
     "join_date": "Jan 27, 2011",
-    "popular_repos_stars": "4473",
+    "popular_repos_stars": "4475",
     "primary_languages": [
       "Objective",
       "C",
       "C",
       "Ruby"
     ],
-    "contributions": 30,
+    "contributions": 31,
     "followers": "341"
   },
   {
@@ -890,7 +890,7 @@
     "username": "timburks",
     "location": "Palo Alto, CA",
     "join_date": "Feb 18, 2008",
-    "popular_repos_stars": "2142",
+    "popular_repos_stars": "2143",
     "primary_languages": [
       "Objective",
       "C",
@@ -919,7 +919,7 @@
     "username": "blakewatters",
     "location": "New York City, NY / San Francisco, CA",
     "join_date": "Apr 24, 2008",
-    "popular_repos_stars": "484",
+    "popular_repos_stars": "485",
     "primary_languages": [
       "Ruby",
       "Objective",
@@ -936,7 +936,7 @@
     "username": "JaviSoto",
     "location": "San Francisco",
     "join_date": "Mar 13, 2011",
-    "popular_repos_stars": "1073",
+    "popular_repos_stars": "1074",
     "primary_languages": [
       "Objective",
       "C",
@@ -953,7 +953,7 @@
     "username": "krzysztofzablocki",
     "location": "",
     "join_date": "Feb 24, 2012",
-    "popular_repos_stars": "2079",
+    "popular_repos_stars": "2080",
     "primary_languages": [
       "Objective",
       "C",
@@ -970,7 +970,7 @@
     "username": "akosma",
     "location": "",
     "join_date": "Feb 17, 2009",
-    "popular_repos_stars": "2002",
+    "popular_repos_stars": "2001",
     "primary_languages": [
       "Objective",
       "C",
@@ -1029,7 +1029,7 @@
       "C"
     ],
     "contributions": 90,
-    "followers": "299"
+    "followers": "300"
   },
   {
     "url": "https://github.com/psychs",
@@ -1038,7 +1038,7 @@
     "username": "psychs",
     "location": "Santa Clara, CA",
     "join_date": "Mar 15, 2008",
-    "popular_repos_stars": "1144",
+    "popular_repos_stars": "1146",
     "primary_languages": [
       "Objective",
       "C",
@@ -1080,7 +1080,7 @@
       "C"
     ],
     "contributions": 66,
-    "followers": "283"
+    "followers": "284"
   },
   {
     "url": "https://github.com/haqu",
@@ -1089,7 +1089,7 @@
     "username": "haqu",
     "location": "",
     "join_date": "Apr 28, 2009",
-    "popular_repos_stars": "1615",
+    "popular_repos_stars": "1617",
     "primary_languages": [
       "C",
       "Objective",
@@ -1130,7 +1130,7 @@
       "C"
     ],
     "contributions": 2,
-    "followers": "272"
+    "followers": "273"
   },
   {
     "url": "https://github.com/iosdeveloper",
@@ -1163,8 +1163,8 @@
       "Ruby",
       "Shell"
     ],
-    "contributions": 125,
-    "followers": "270"
+    "contributions": 105,
+    "followers": "271"
   },
   {
     "url": "https://github.com/gaosboy",
@@ -1273,14 +1273,14 @@
     "username": "mwaterfall",
     "location": "Milton Keynes, UK",
     "join_date": "Sep 28, 2009",
-    "popular_repos_stars": "3845",
+    "popular_repos_stars": "3846",
     "primary_languages": [
       "Python",
       "Objective",
       "C",
       "Ruby"
     ],
-    "contributions": 166,
+    "contributions": 165,
     "followers": "256"
   },
   {
@@ -1290,7 +1290,7 @@
     "username": "TheRealKerni",
     "location": "Germany",
     "join_date": "Dec 22, 2008",
-    "popular_repos_stars": "3125",
+    "popular_repos_stars": "3126",
     "primary_languages": [
       "Objective",
       "C",
@@ -1307,7 +1307,7 @@
     "username": "johnezang",
     "location": "",
     "join_date": "May 1, 2009",
-    "popular_repos_stars": "4479",
+    "popular_repos_stars": "4481",
     "primary_languages": [
       "Objective",
       "C",
@@ -1324,15 +1324,15 @@
     "username": "ohdarling",
     "location": "Hangzhou, China",
     "join_date": "Aug 27, 2009",
-    "popular_repos_stars": "1137",
+    "popular_repos_stars": "1140",
     "primary_languages": [
       "JavaScript",
       "Objective",
       "C",
       "Shell"
     ],
-    "contributions": 30,
-    "followers": "252"
+    "contributions": 29,
+    "followers": "253"
   },
   {
     "url": "https://github.com/modocache",
@@ -1341,7 +1341,7 @@
     "username": "modocache",
     "location": "Brooklyn, NY",
     "join_date": "Jan 7, 2011",
-    "popular_repos_stars": "1680",
+    "popular_repos_stars": "1684",
     "primary_languages": [
       "Objective",
       "C",
@@ -1349,7 +1349,7 @@
       "C"
     ],
     "contributions": 526,
-    "followers": "251"
+    "followers": "252"
   },
   {
     "url": "https://github.com/AliSoftware",
@@ -1358,7 +1358,7 @@
     "username": "AliSoftware",
     "location": "Rennes, France",
     "join_date": "Mar 4, 2010",
-    "popular_repos_stars": "2626",
+    "popular_repos_stars": "2629",
     "primary_languages": [
       "Objective",
       "C",
@@ -1375,7 +1375,7 @@
     "username": "danielamitay",
     "location": "New York, NY",
     "join_date": "Mar 2, 2011",
-    "popular_repos_stars": "3967",
+    "popular_repos_stars": "3968",
     "primary_languages": [
       "Objective",
       "C",
@@ -1392,7 +1392,7 @@
     "username": "kstenerud",
     "location": "San Francisco",
     "join_date": "Apr 16, 2010",
-    "popular_repos_stars": "3750",
+    "popular_repos_stars": "3749",
     "primary_languages": [
       "Objective",
       "C",
@@ -1450,7 +1450,7 @@
       "C",
       "Python"
     ],
-    "contributions": 444,
+    "contributions": 439,
     "followers": "235"
   },
   {
@@ -1460,7 +1460,7 @@
     "username": "michaeltyson",
     "location": "",
     "join_date": "Jan 17, 2010",
-    "popular_repos_stars": "2370",
+    "popular_repos_stars": "2372",
     "primary_languages": [
       "Objective",
       "C",
@@ -1545,7 +1545,7 @@
     "username": "gavinkwoe",
     "location": "Beijing, china",
     "join_date": "Jun 26, 2011",
-    "popular_repos_stars": "1792",
+    "popular_repos_stars": "1793",
     "primary_languages": [
       "Ruby",
       "Objective",
@@ -1562,7 +1562,7 @@
     "username": "jdg",
     "location": "Wichita, KS",
     "join_date": "Apr 11, 2008",
-    "popular_repos_stars": "6136",
+    "popular_repos_stars": "6141",
     "primary_languages": [
       "Ruby",
       "Objective",
@@ -1601,7 +1601,7 @@
       "Objective",
       "C",
       "Ruby",
-      "Shell"
+      "C"
     ],
     "contributions": 116,
     "followers": "218"
@@ -1619,7 +1619,7 @@
       "C",
       "Ruby"
     ],
-    "contributions": 106,
+    "contributions": 105,
     "followers": "215"
   },
   {
@@ -1646,7 +1646,7 @@
     "username": "alikaragoz",
     "location": "Paris, France",
     "join_date": "Dec 24, 2011",
-    "popular_repos_stars": "2897",
+    "popular_repos_stars": "2903",
     "primary_languages": [
       "Objective",
       "C",
@@ -1670,7 +1670,7 @@
       "Shell",
       "Scala"
     ],
-    "contributions": 478,
+    "contributions": 477,
     "followers": "213"
   },
   {
@@ -1680,7 +1680,7 @@
     "username": "Inferis",
     "location": "Broechem, Belgium, Europe, Earth, Solar System, Milky Way, Universe",
     "join_date": "Apr 22, 2008",
-    "popular_repos_stars": "4313",
+    "popular_repos_stars": "4316",
     "primary_languages": [
       "Objective",
       "C",

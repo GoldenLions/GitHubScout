@@ -60,7 +60,7 @@
     "commits": "76",
     "stars": "114",
     "forks": "24",
-    "contributors": "2"
+    "contributors": ""
   },
   {
     "url": "https://github.com/OpenBCI/OpenBCI",
@@ -78,7 +78,7 @@
     "commits": "226",
     "stars": "98",
     "forks": "31",
-    "contributors": "4"
+    "contributors": ""
   },
   {
     "url": "https://github.com/generative-design/Code-Package-Processing-2.x",
@@ -132,7 +132,7 @@
     "commits": "80",
     "stars": "64",
     "forks": "12",
-    "contributors": ""
+    "contributors": "2"
   },
   {
     "url": "https://github.com/AmnonOwed/P5_CanTut_GeometryTexturesShaders2B8",
@@ -177,6 +177,6 @@
     "commits": "5",
     "stars": "51",
     "forks": "8",
-    "contributors": "1"
+    "contributors": ""
   }
 ]

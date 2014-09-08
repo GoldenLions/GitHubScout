@@ -5,7 +5,7 @@
     "language": "Julia",
     "commits": "20,087",
     "stars": "4,289",
-    "forks": "873",
+    "forks": "874",
     "contributors": "275"
   },
   {
@@ -42,7 +42,7 @@
     "commits": "245",
     "stars": "122",
     "forks": "24",
-    "contributors": ""
+    "contributors": "15"
   },
   {
     "url": "https://github.com/JuliaOpt/JuMP.jl",
@@ -147,9 +147,9 @@
     "url": "https://github.com/JuliaLang/METADATA.jl",
     "size": 25554,
     "language": "Julia",
-    "commits": "5,024",
+    "commits": "5,026",
     "stars": "48",
-    "forks": "187",
+    "forks": "186",
     "contributors": "160"
   },
   {
@@ -159,7 +159,7 @@
     "commits": "429",
     "stars": "45",
     "forks": "5",
-    "contributors": ""
+    "contributors": "4"
   },
   {
     "url": "https://github.com/JuliaStats/MCMC.jl",
@@ -168,7 +168,7 @@
     "commits": "243",
     "stars": "44",
     "forks": "11",
-    "contributors": "10"
+    "contributors": ""
   },
   {
     "url": "https://github.com/johnmyleswhite/JuliaVsR",

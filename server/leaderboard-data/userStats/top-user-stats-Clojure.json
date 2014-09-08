@@ -22,7 +22,7 @@
     "username": "nathanmarz",
     "location": "San Francisco",
     "join_date": "Sep 25, 2009",
-    "popular_repos_stars": "11035",
+    "popular_repos_stars": "11037",
     "primary_languages": [
       "Clojure",
       "Java",
@@ -54,14 +54,14 @@
     "username": "swannodette",
     "location": "New York",
     "join_date": "Jun 12, 2008",
-    "popular_repos_stars": "5000",
+    "popular_repos_stars": "5002",
     "primary_languages": [
       "Clojure",
       "JavaScript",
       "Shell"
     ],
     "contributions": 2,
-    "followers": "1.3k"
+    "followers": "1.4k"
   },
   {
     "url": "https://github.com/technomancy",
@@ -70,7 +70,7 @@
     "username": "technomancy",
     "location": "",
     "join_date": "Feb 4, 2008",
-    "popular_repos_stars": "6833",
+    "popular_repos_stars": "6834",
     "primary_languages": [
       "Clojure",
       "Emacs",
@@ -135,13 +135,13 @@
     "username": "mmcgrana",
     "location": "San Francisco, CA",
     "join_date": "Mar 6, 2008",
-    "popular_repos_stars": "3266",
+    "popular_repos_stars": "3267",
     "primary_languages": [
       "Clojure",
       "Shell",
       "Go"
     ],
-    "contributions": 776,
+    "contributions": 775,
     "followers": "510"
   },
   {
@@ -157,7 +157,7 @@
       "Java",
       "C"
     ],
-    "contributions": 559,
+    "contributions": 563,
     "followers": "504"
   },
   {
@@ -206,7 +206,7 @@
       "Ruby"
     ],
     "contributions": 21,
-    "followers": "321"
+    "followers": "322"
   },
   {
     "url": "https://github.com/stuartsierra",
@@ -215,7 +215,7 @@
     "username": "stuartsierra",
     "location": "New York, NY",
     "join_date": "Jun 13, 2009",
-    "popular_repos_stars": "962",
+    "popular_repos_stars": "963",
     "primary_languages": [
       "Clojure",
       "Shell",
@@ -231,7 +231,7 @@
     "username": "cgrand",
     "location": "Saint-Étienne, France",
     "join_date": "Jan 16, 2009",
-    "popular_repos_stars": "1619",
+    "popular_repos_stars": "1618",
     "primary_languages": [
       "Clojure",
       "Java",
@@ -247,7 +247,7 @@
     "username": "samaaron",
     "location": "Cambridge, UK",
     "join_date": "Feb 18, 2008",
-    "popular_repos_stars": "221",
+    "popular_repos_stars": "223",
     "primary_languages": [
       "Clojure",
       "Ruby",
@@ -279,7 +279,7 @@
     "username": "cemerick",
     "location": "Among the trees, MA",
     "join_date": "Jan 18, 2009",
-    "popular_repos_stars": "1914",
+    "popular_repos_stars": "1916",
     "primary_languages": [
       "Clojure",
       "JavaScript",
@@ -301,7 +301,7 @@
       "Erlang",
       "JavaScript"
     ],
-    "contributions": 126,
+    "contributions": 122,
     "followers": "256"
   },
   {
@@ -311,14 +311,14 @@
     "username": "lynaghk",
     "location": "Portland, Oregon",
     "join_date": "Nov 2, 2009",
-    "popular_repos_stars": "1250",
+    "popular_repos_stars": "1251",
     "primary_languages": [
       "Clojure",
       "JavaScript",
       "Shell"
     ],
     "contributions": 90,
-    "followers": "244"
+    "followers": "245"
   },
   {
     "url": "https://github.com/sunng87",
@@ -350,7 +350,7 @@
       "Lisp",
       "Shell"
     ],
-    "contributions": 340,
+    "contributions": 337,
     "followers": "225"
   },
   {
@@ -376,13 +376,13 @@
     "username": "seancorfield",
     "location": "Bay Area, California",
     "join_date": "Jan 2, 2009",
-    "popular_repos_stars": "105",
+    "popular_repos_stars": "107",
     "primary_languages": [
       "Clojure",
       "ColdFusion",
       "JavaScript"
     ],
-    "contributions": 673,
+    "contributions": 658,
     "followers": "218"
   },
   {
@@ -430,7 +430,7 @@
       "Shell",
       "Ruby"
     ],
-    "contributions": 488,
+    "contributions": 495,
     "followers": "187"
   },
   {
@@ -446,7 +446,7 @@
       "JavaScript",
       "Ruby"
     ],
-    "contributions": 179,
+    "contributions": 178,
     "followers": "184"
   },
   {
@@ -462,7 +462,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 140,
+    "contributions": 138,
     "followers": "182"
   },
   {
@@ -504,7 +504,7 @@
     "username": "mikera",
     "location": "UK",
     "join_date": "Feb 27, 2010",
-    "popular_repos_stars": "632",
+    "popular_repos_stars": "633",
     "primary_languages": [
       "Clojure",
       "Java",
@@ -526,7 +526,7 @@
       "Shell",
       "Java"
     ],
-    "contributions": 582,
+    "contributions": 571,
     "followers": "146"
   },
   {
@@ -536,7 +536,7 @@
     "username": "yogthos",
     "location": "",
     "join_date": "Aug 30, 2009",
-    "popular_repos_stars": "767",
+    "popular_repos_stars": "772",
     "primary_languages": [
       "Clojure",
       "CSS",
@@ -632,7 +632,7 @@
     "username": "antoniogarrote",
     "location": "London UK / Salamanca Spain",
     "join_date": "Apr 23, 2008",
-    "popular_repos_stars": "552",
+    "popular_repos_stars": "553",
     "primary_languages": [
       "Clojure",
       "JavaScript",
@@ -654,7 +654,7 @@
       "Python",
       "JavaScript"
     ],
-    "contributions": 949,
+    "contributions": 952,
     "followers": "133"
   },
   {
@@ -664,13 +664,13 @@
     "username": "dakrone",
     "location": "Amsterdam, NL",
     "join_date": "Jul 30, 2008",
-    "popular_repos_stars": "1543",
+    "popular_repos_stars": "1546",
     "primary_languages": [
       "Clojure",
       "Ruby",
       "Shell"
     ],
-    "contributions": 845,
+    "contributions": 846,
     "followers": "126"
   },
   {
@@ -696,10 +696,10 @@
     "username": "postspectacular",
     "location": "London",
     "join_date": "Feb 6, 2009",
-    "popular_repos_stars": "101",
+    "popular_repos_stars": "103",
     "primary_languages": [
-      "Clojure",
       "Shell",
+      "Clojure",
       "JavaScript"
     ],
     "contributions": 1,
@@ -712,13 +712,13 @@
     "username": "myfreeweb",
     "location": "Russia",
     "join_date": "Feb 22, 2010",
-    "popular_repos_stars": "682",
+    "popular_repos_stars": "684",
     "primary_languages": [
       "JavaScript",
       "Python",
       "Ruby"
     ],
-    "contributions": 904,
+    "contributions": 896,
     "followers": "119"
   },
   {
@@ -728,7 +728,7 @@
     "username": "brentonashworth",
     "location": "Durham, North Carolina",
     "join_date": "Dec 2, 2009",
-    "popular_repos_stars": "1063",
+    "popular_repos_stars": "1064",
     "primary_languages": [
       "Clojure",
       "JavaScript",
@@ -760,7 +760,7 @@
     "username": "slagyr",
     "location": "Libertyville, IL",
     "join_date": "May 31, 2008",
-    "popular_repos_stars": "497",
+    "popular_repos_stars": "496",
     "primary_languages": [
       "Clojure",
       "Ruby",
@@ -824,7 +824,7 @@
     "username": "tonsky",
     "location": "Novosibirsk, Russia",
     "join_date": "May 23, 2010",
-    "popular_repos_stars": "746",
+    "popular_repos_stars": "749",
     "primary_languages": [
       "Clojure",
       "Shell",
@@ -878,7 +878,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 938,
+    "contributions": 931,
     "followers": "92"
   },
   {
@@ -888,7 +888,7 @@
     "username": "hraberg",
     "location": "London",
     "join_date": "Mar 29, 2010",
-    "popular_repos_stars": "667",
+    "popular_repos_stars": "668",
     "primary_languages": [
       "Clojure",
       "Shell",
@@ -942,7 +942,7 @@
       "Haskell",
       "Scala"
     ],
-    "contributions": 1,
+    "contributions": 2,
     "followers": "89"
   },
   {
@@ -974,7 +974,7 @@
       "Ruby",
       "JavaScript"
     ],
-    "contributions": 865,
+    "contributions": 862,
     "followers": "87"
   },
   {
@@ -1006,7 +1006,7 @@
       "Ruby",
       "Shell"
     ],
-    "contributions": 780,
+    "contributions": 781,
     "followers": "83"
   },
   {
@@ -1016,7 +1016,7 @@
     "username": "otfrom",
     "location": "London",
     "join_date": "Mar 19, 2009",
-    "popular_repos_stars": "52",
+    "popular_repos_stars": "53",
     "primary_languages": [
       "Clojure",
       "Emacs",
@@ -1081,7 +1081,7 @@
     "username": "edtsech",
     "location": "Prague, Czech Republic",
     "join_date": "Aug 21, 2009",
-    "popular_repos_stars": "290",
+    "popular_repos_stars": "291",
     "primary_languages": [
       "Clojure",
       "Ruby",
@@ -1151,7 +1151,7 @@
       "Shell",
       "Clojure"
     ],
-    "contributions": 392,
+    "contributions": 387,
     "followers": "68"
   },
   {
@@ -1233,7 +1233,7 @@
       "Emacs",
       "Lisp"
     ],
-    "contributions": 108,
+    "contributions": 110,
     "followers": "65"
   },
   {
@@ -1266,7 +1266,7 @@
       "Java",
       "Shell"
     ],
-    "contributions": 397,
+    "contributions": 398,
     "followers": "63"
   },
   {
@@ -1282,7 +1282,7 @@
       "Clojure",
       "JavaScript"
     ],
-    "contributions": 411,
+    "contributions": 413,
     "followers": "63"
   },
   {
@@ -1346,7 +1346,7 @@
       "Ruby",
       "JavaScript"
     ],
-    "contributions": 290,
+    "contributions": 282,
     "followers": "60"
   },
   {
@@ -1426,7 +1426,7 @@
       "Clojure",
       "Python"
     ],
-    "contributions": 562,
+    "contributions": 559,
     "followers": "56"
   },
   {
@@ -1490,7 +1490,7 @@
       "Python",
       "Shell"
     ],
-    "contributions": 215,
+    "contributions": 219,
     "followers": "53"
   },
   {
@@ -1538,7 +1538,7 @@
       "Shell",
       "Ruby"
     ],
-    "contributions": 552,
+    "contributions": 553,
     "followers": "52"
   },
   {

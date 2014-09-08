@@ -31,8 +31,8 @@
     "size": 252813,
     "language": "C",
     "commits": "37,447",
-    "stars": "6,642",
-    "forks": "4,002",
+    "stars": "6,643",
+    "forks": "4,001",
     "contributors": "816"
   },
   {
@@ -40,7 +40,7 @@
     "size": 47782,
     "language": "C",
     "commits": "2,706",
-    "stars": "5,794",
+    "stars": "5,795",
     "forks": "690",
     "contributors": "131"
   },
@@ -57,7 +57,7 @@
     "url": "https://github.com/php/php-src",
     "size": 1217756,
     "language": "C",
-    "commits": "84,600",
+    "commits": "84,606",
     "stars": "4,667",
     "forks": "1,608",
     "contributors": "192"
@@ -78,7 +78,7 @@
     "commits": "3,381",
     "stars": "4,509",
     "forks": "2,139",
-    "contributors": "96"
+    "contributors": ""
   },
   {
     "url": "https://github.com/mjolnir-io/mjolnir",
@@ -130,9 +130,9 @@
     "size": 117272,
     "language": "C",
     "commits": "17,080",
-    "stars": "4,015",
+    "stars": "4,016",
     "forks": "2,150",
-    "contributors": "293"
+    "contributors": ""
   },
   {
     "url": "https://github.com/liuliu/ccv",
@@ -141,7 +141,7 @@
     "commits": "753",
     "stars": "3,828",
     "forks": "642",
-    "contributors": "3"
+    "contributors": ""
   },
   {
     "url": "https://github.com/drone/drone",
@@ -158,7 +158,7 @@
     "language": "C",
     "commits": "2,277",
     "stars": "3,193",
-    "forks": "2,251",
+    "forks": "2,252",
     "contributors": "59"
   },
   {

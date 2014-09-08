@@ -6,7 +6,7 @@
     "username": "yinwang0",
     "location": "",
     "join_date": "Sep 11, 2010",
-    "popular_repos_stars": "2387",
+    "popular_repos_stars": "2388",
     "primary_languages": [
       "CSS",
       "Scheme",
@@ -28,7 +28,7 @@
       "Shell",
       "Scheme"
     ],
-    "contributions": 271,
+    "contributions": 276,
     "followers": "153"
   },
   {
@@ -38,13 +38,13 @@
     "username": "shirok",
     "location": "Honolulu, HI",
     "join_date": "Jan 26, 2010",
-    "popular_repos_stars": "202",
+    "popular_repos_stars": "204",
     "primary_languages": [
       "Scheme",
       "Shell",
       "Perl"
     ],
-    "contributions": 564,
+    "contributions": 563,
     "followers": "134"
   },
   {
@@ -155,7 +155,7 @@
       "Python",
       "Java"
     ],
-    "contributions": 886,
+    "contributions": 888,
     "followers": "52"
   },
   {
@@ -203,7 +203,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 464,
+    "contributions": 472,
     "followers": "41"
   },
   {
@@ -317,7 +317,7 @@
       "Emacs",
       "Lisp"
     ],
-    "contributions": 210,
+    "contributions": 203,
     "followers": "28"
   },
   {
@@ -343,13 +343,13 @@
     "username": "klutometis",
     "location": "",
     "join_date": "May 18, 2009",
-    "popular_repos_stars": "148",
+    "popular_repos_stars": "149",
     "primary_languages": [
       "Scheme",
       "Clojure",
       "Shell"
     ],
-    "contributions": 240,
+    "contributions": 239,
     "followers": "24"
   },
   {
@@ -567,7 +567,7 @@
       "C",
       "Scheme"
     ],
-    "contributions": 818,
+    "contributions": 809,
     "followers": "16"
   },
   {
@@ -584,7 +584,7 @@
       "Shell",
       "Scheme"
     ],
-    "contributions": 324,
+    "contributions": 323,
     "followers": "15"
   },
   {
@@ -710,11 +710,11 @@
     "join_date": "Jan 30, 2013",
     "popular_repos_stars": "18",
     "primary_languages": [
-      "CSS",
       "Python",
+      "CSS",
       "C"
     ],
-    "contributions": 743,
+    "contributions": 747,
     "followers": "13"
   },
   {
@@ -789,8 +789,8 @@
     "join_date": "Jul 2, 2010",
     "popular_repos_stars": "63",
     "primary_languages": [
-      "Python",
       "Shell",
+      "Python",
       "JavaScript"
     ],
     "contributions": 59,
@@ -825,7 +825,7 @@
       "Ruby",
       "Racket"
     ],
-    "contributions": 7,
+    "contributions": 8,
     "followers": "12"
   },
   {
@@ -946,7 +946,7 @@
     "username": "ibuler",
     "location": "",
     "join_date": "Nov 21, 2013",
-    "popular_repos_stars": "72",
+    "popular_repos_stars": "73",
     "primary_languages": [
       "Python",
       "CSS",
@@ -1065,7 +1065,7 @@
       "JavaScript",
       "C"
     ],
-    "contributions": 93,
+    "contributions": 99,
     "followers": "9"
   },
   {
@@ -1350,7 +1350,7 @@
       "CSS",
       "Scheme"
     ],
-    "contributions": 128,
+    "contributions": 129,
     "followers": "7"
   },
   {
@@ -1428,7 +1428,7 @@
       "Ruby",
       "Erlang"
     ],
-    "contributions": 21,
+    "contributions": 22,
     "followers": "6"
   },
   {
@@ -1461,7 +1461,7 @@
       "Perl",
       "C"
     ],
-    "contributions": 141,
+    "contributions": 146,
     "followers": "6"
   },
   {
@@ -1525,7 +1525,7 @@
       "C",
       "Perl"
     ],
-    "contributions": 26,
+    "contributions": 25,
     "followers": "6"
   },
   {

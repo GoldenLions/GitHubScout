@@ -68,7 +68,7 @@
     "language": "Perl",
     "commits": "825",
     "stars": "936",
-    "forks": "154",
+    "forks": "155",
     "contributors": "40"
   },
   {
@@ -105,7 +105,7 @@
     "commits": "10",
     "stars": "773",
     "forks": "104",
-    "contributors": ""
+    "contributors": "4"
   },
   {
     "url": "https://github.com/k4rthik/git-cal",
@@ -141,7 +141,7 @@
     "commits": "4,892",
     "stars": "693",
     "forks": "230",
-    "contributors": "121"
+    "contributors": ""
   },
   {
     "url": "https://github.com/openresty/ngx_openresty",
@@ -150,7 +150,7 @@
     "commits": "860",
     "stars": "676",
     "forks": "105",
-    "contributors": ""
+    "contributors": "5"
   },
   {
     "url": "https://github.com/brendangregg/FlameGraph",
@@ -159,7 +159,7 @@
     "commits": "84",
     "stars": "646",
     "forks": "75",
-    "contributors": ""
+    "contributors": "11"
   },
   {
     "url": "https://github.com/openresty/nginx-tutorials",
@@ -177,6 +177,6 @@
     "commits": "415",
     "stars": "609",
     "forks": "86",
-    "contributors": ""
+    "contributors": "20"
   }
 ]

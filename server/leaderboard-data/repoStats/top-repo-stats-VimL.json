@@ -24,7 +24,7 @@
     "commits": "564",
     "stars": "6,174",
     "forks": "633",
-    "contributors": "41"
+    "contributors": ""
   },
   {
     "url": "https://github.com/altercation/solarized",
@@ -40,9 +40,9 @@
     "size": 2455,
     "language": "VimL",
     "commits": "866",
-    "stars": "5,587",
+    "stars": "5,586",
     "forks": "723",
-    "contributors": "109"
+    "contributors": ""
   },
   {
     "url": "https://github.com/tpope/vim-pathogen",
@@ -85,7 +85,7 @@
     "size": 2678,
     "language": "VimL",
     "commits": "701",
-    "stars": "3,714",
+    "stars": "3,713",
     "forks": "428",
     "contributors": "43"
   },
@@ -94,8 +94,8 @@
     "size": 7614,
     "language": "VimL",
     "commits": "816",
-    "stars": "3,702",
-    "forks": "1,184",
+    "stars": "3,701",
+    "forks": "1,183",
     "contributors": "105"
   },
   {
@@ -103,7 +103,7 @@
     "size": 1172,
     "language": "VimL",
     "commits": "448",
-    "stars": "3,540",
+    "stars": "3,539",
     "forks": "205",
     "contributors": "13"
   },
@@ -112,7 +112,7 @@
     "size": 1273,
     "language": "VimL",
     "commits": "47",
-    "stars": "2,649",
+    "stars": "2,650",
     "forks": "97",
     "contributors": "5"
   },
@@ -148,7 +148,7 @@
     "size": 1715,
     "language": "VimL",
     "commits": "217",
-    "stars": "2,458",
+    "stars": "2,457",
     "forks": "82",
     "contributors": "23"
   },
@@ -166,7 +166,7 @@
     "size": 545,
     "language": "VimL",
     "commits": "89",
-    "stars": "2,211",
+    "stars": "2,212",
     "forks": "130",
     "contributors": "7"
   },
@@ -175,7 +175,7 @@
     "size": 7247,
     "language": "VimL",
     "commits": "105",
-    "stars": "2,150",
+    "stars": "2,151",
     "forks": "771",
     "contributors": "5"
   }

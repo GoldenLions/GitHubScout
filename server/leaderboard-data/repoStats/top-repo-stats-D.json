@@ -33,7 +33,7 @@
     "commits": "46",
     "stars": "321",
     "forks": "20",
-    "contributors": "5"
+    "contributors": ""
   },
   {
     "url": "https://github.com/D-Programming-Language/druntime",
@@ -60,7 +60,7 @@
     "commits": "926",
     "stars": "214",
     "forks": "59",
-    "contributors": ""
+    "contributors": "5"
   },
   {
     "url": "https://github.com/D-Programming-GDC/GDC",
@@ -114,13 +114,13 @@
     "commits": "294",
     "stars": "146",
     "forks": "36",
-    "contributors": ""
+    "contributors": "1"
   },
   {
     "url": "https://github.com/D-Programming-Language/dlang.org",
     "size": 15494,
     "language": "D",
-    "commits": "2,413",
+    "commits": "2,415",
     "stars": "141",
     "forks": "164",
     "contributors": "97"
@@ -150,7 +150,7 @@
     "commits": "453",
     "stars": "107",
     "forks": "75",
-    "contributors": "4"
+    "contributors": ""
   },
   {
     "url": "https://github.com/JakobOvrum/LuaD",

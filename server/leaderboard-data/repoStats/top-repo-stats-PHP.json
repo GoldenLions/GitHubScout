@@ -4,7 +4,7 @@
     "size": 26720,
     "language": "PHP",
     "commits": "3,942",
-    "stars": "11,733",
+    "stars": "11,737",
     "forks": "3,798",
     "contributors": "224"
   },
@@ -12,8 +12,8 @@
     "url": "https://github.com/symfony/symfony",
     "size": 172725,
     "language": "PHP",
-    "commits": "18,156",
-    "stars": "8,871",
+    "commits": "18,160",
+    "stars": "8,870",
     "forks": "3,419",
     "contributors": "987"
   },
@@ -32,7 +32,7 @@
     "language": "PHP",
     "commits": "1,248",
     "stars": "6,240",
-    "forks": "1,067",
+    "forks": "1,066",
     "contributors": "75"
   },
   {
@@ -41,7 +41,7 @@
     "language": "PHP",
     "commits": "17,175",
     "stars": "5,106",
-    "forks": "2,210",
+    "forks": "2,211",
     "contributors": "280"
   },
   {
@@ -86,7 +86,7 @@
     "language": "PHP",
     "commits": "4,399",
     "stars": "4,394",
-    "forks": "1,165",
+    "forks": "1,164",
     "contributors": "334"
   },
   {
@@ -94,7 +94,7 @@
     "size": 189458,
     "language": "PHP",
     "commits": "27,141",
-    "stars": "4,382",
+    "stars": "4,383",
     "forks": "2,071",
     "contributors": "15"
   },
@@ -130,7 +130,7 @@
     "size": 13149,
     "language": "PHP",
     "commits": "1,350",
-    "stars": "3,954",
+    "stars": "3,953",
     "forks": "680",
     "contributors": "73"
   },
@@ -167,7 +167,7 @@
     "language": "PHP",
     "commits": "649",
     "stars": "3,870",
-    "forks": "1,364",
+    "forks": "1,365",
     "contributors": "79"
   },
   {
@@ -175,8 +175,8 @@
     "size": 3863,
     "language": "PHP",
     "commits": "449",
-    "stars": "3,678",
+    "stars": "3,680",
     "forks": "296",
-    "contributors": "46"
+    "contributors": "47"
   }
 ]

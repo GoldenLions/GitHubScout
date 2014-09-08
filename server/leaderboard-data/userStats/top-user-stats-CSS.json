@@ -20,13 +20,13 @@
     "username": "octocat",
     "location": "San Francisco",
     "join_date": "Jan 25, 2011",
-    "popular_repos_stars": "11202",
+    "popular_repos_stars": "11201",
     "primary_languages": [
       "CSS",
       "JavaScript"
     ],
     "contributions": 23,
-    "followers": "713"
+    "followers": "714"
   },
   {
     "url": "https://github.com/yisibl",
@@ -128,7 +128,7 @@
     "join_date": "Sep 26, 2012",
     "popular_repos_stars": "2",
     "primary_languages": [],
-    "contributions": 206,
+    "contributions": 207,
     "followers": "69"
   },
   {
@@ -144,7 +144,7 @@
       "CSS",
       "Shell"
     ],
-    "contributions": 649,
+    "contributions": 650,
     "followers": "61"
   },
   {
@@ -187,7 +187,7 @@
     "username": "bootflat",
     "location": "",
     "join_date": "Mar 5, 2014",
-    "popular_repos_stars": "2954",
+    "popular_repos_stars": "2956",
     "primary_languages": [
       "JavaScript",
       "CSS"
@@ -250,7 +250,7 @@
     "username": "audreywatters",
     "location": "Hermosa Beach, CA",
     "join_date": "Oct 23, 2010",
-    "popular_repos_stars": "47",
+    "popular_repos_stars": "48",
     "primary_languages": [
       "CSS",
       "JavaScript"
@@ -297,7 +297,7 @@
     "username": "dcloudio",
     "location": "Beijing,China",
     "join_date": "Sep 18, 2013",
-    "popular_repos_stars": "137",
+    "popular_repos_stars": "138",
     "primary_languages": [
       "JavaScript",
       "CSS",
@@ -509,7 +509,7 @@
       "CSS",
       "Ruby"
     ],
-    "contributions": 101,
+    "contributions": 102,
     "followers": "41"
   },
   {
@@ -663,7 +663,7 @@
     "popular_repos_stars": "0",
     "primary_languages": [],
     "contributions": 173,
-    "followers": "38"
+    "followers": "39"
   },
   {
     "url": "https://github.com/bezreyhan",
@@ -914,7 +914,7 @@
       "CSS"
     ],
     "contributions": 173,
-    "followers": "33"
+    "followers": "34"
   },
   {
     "url": "https://github.com/jhendley25",
@@ -1067,7 +1067,7 @@
       "JavaScript",
       "Ruby"
     ],
-    "contributions": 54,
+    "contributions": 77,
     "followers": "31"
   },
   {
@@ -1083,7 +1083,7 @@
       "JavaScript",
       "Ruby"
     ],
-    "contributions": 97,
+    "contributions": 104,
     "followers": "30"
   },
   {
@@ -1190,8 +1190,8 @@
       "JavaScript",
       "Ruby"
     ],
-    "contributions": 120,
-    "followers": "29"
+    "contributions": 136,
+    "followers": "30"
   },
   {
     "url": "https://github.com/eganpg",
@@ -1207,7 +1207,7 @@
       "Ruby"
     ],
     "contributions": 186,
-    "followers": "29"
+    "followers": "30"
   },
   {
     "url": "https://github.com/brantphoto",
@@ -1222,7 +1222,7 @@
       "JavaScript",
       "CSS"
     ],
-    "contributions": 179,
+    "contributions": 191,
     "followers": "28"
   },
   {
@@ -1239,7 +1239,7 @@
       "Ruby"
     ],
     "contributions": 205,
-    "followers": "28"
+    "followers": "29"
   },
   {
     "url": "https://github.com/kmdjs",
@@ -1354,7 +1354,7 @@
     "username": "oppei",
     "location": "Tokyo",
     "join_date": "Jan 8, 2009",
-    "popular_repos_stars": "39264",
+    "popular_repos_stars": "39290",
     "primary_languages": [],
     "contributions": 0,
     "followers": "27"
@@ -1403,8 +1403,8 @@
       "C",
       "JavaScript"
     ],
-    "contributions": 979,
-    "followers": "27"
+    "contributions": 983,
+    "followers": "26"
   },
   {
     "url": "https://github.com/xypalmer",
@@ -1419,8 +1419,8 @@
       "CSS",
       "Ruby"
     ],
-    "contributions": 130,
-    "followers": "27"
+    "contributions": 144,
+    "followers": "28"
   },
   {
     "url": "https://github.com/fehler",

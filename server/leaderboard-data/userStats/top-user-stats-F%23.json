@@ -28,7 +28,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 405,
+    "contributions": 394,
     "followers": "125"
   },
   {
@@ -54,14 +54,14 @@
     "username": "fholm",
     "location": "Sweden",
     "join_date": "Oct 19, 2009",
-    "popular_repos_stars": "792",
+    "popular_repos_stars": "793",
     "primary_languages": [
       "C",
       "F",
       "C"
     ],
     "contributions": 159,
-    "followers": "84"
+    "followers": "85"
   },
   {
     "url": "https://github.com/dmohl",
@@ -108,7 +108,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 996,
+    "contributions": 998,
     "followers": "71"
   },
   {
@@ -220,7 +220,7 @@
       "C",
       "CSS"
     ],
-    "contributions": 763,
+    "contributions": 753,
     "followers": "43"
   },
   {
@@ -236,7 +236,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 216,
+    "contributions": 215,
     "followers": "40"
   },
   {
@@ -297,8 +297,8 @@
     "popular_repos_stars": "28",
     "primary_languages": [
       "C",
-      "JavaScript",
-      "F"
+      "F",
+      "JavaScript"
     ],
     "contributions": 389,
     "followers": "26"
@@ -396,7 +396,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 241,
+    "contributions": 242,
     "followers": "21"
   },
   {
@@ -444,7 +444,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 362,
+    "contributions": 363,
     "followers": "19"
   },
   {
@@ -536,7 +536,7 @@
       "C",
       "ASP"
     ],
-    "contributions": 190,
+    "contributions": 192,
     "followers": "16"
   },
   {
@@ -780,7 +780,7 @@
     "username": "nikswamy",
     "location": "",
     "join_date": "Dec 11, 2013",
-    "popular_repos_stars": "322",
+    "popular_repos_stars": "323",
     "primary_languages": [],
     "contributions": 133,
     "followers": "11"
@@ -847,7 +847,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 231,
+    "contributions": 234,
     "followers": "11"
   },
   {
@@ -1081,7 +1081,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 19,
+    "contributions": 20,
     "followers": "7"
   },
   {
@@ -1108,7 +1108,7 @@
     "join_date": "Mar 31, 2014",
     "popular_repos_stars": "0",
     "primary_languages": [],
-    "contributions": 614,
+    "contributions": 617,
     "followers": "7"
   },
   {
@@ -1123,7 +1123,7 @@
       "CoffeeScript",
       "C"
     ],
-    "contributions": 87,
+    "contributions": 88,
     "followers": "7"
   },
   {
@@ -1259,7 +1259,7 @@
     "username": "FStarLang",
     "location": "",
     "join_date": "May 24, 2014",
-    "popular_repos_stars": "157",
+    "popular_repos_stars": "158",
     "primary_languages": [
       "Python",
       "Shell",
@@ -1277,7 +1277,7 @@
     "join_date": "Sep 28, 2012",
     "popular_repos_stars": "0",
     "primary_languages": [],
-    "contributions": 686,
+    "contributions": 691,
     "followers": "6"
   },
   {
