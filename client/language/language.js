@@ -7,11 +7,13 @@ angular.module('githubscout.language', ['nvd3ChartDirectives',
 
     $scope.data = LanguageData;
 
+    // Parses the full URL for the 'username/repo' segment for display in the leaderboard table.
     $scope.cleanUrl = function(url) {
       var i = url.lastIndexOf('com/');
       return url.slice(i+4,url.length);
     };
 
+    // Cleans the repo size for display in the leaderboard table.
     $scope.cleanSize = function(size) {
       size = parseInt(size);
       return Math.floor(size/1000) +'kb'
