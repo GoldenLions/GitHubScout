@@ -35,7 +35,7 @@ angular.module('githubscout.language', ['nvd3ChartDirectives',
       settings = {
         languages: LanguageData.currentLanguages,
         countType: 'activity',
-        url: './data/language_activity_by_month.csv'
+        url: './data/repo_activity_by_month.csv'
       };
 
       ChartsUtil.fetchLanguageData(settings)
