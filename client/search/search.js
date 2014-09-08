@@ -32,48 +32,43 @@ angular.module('githubscout.search', [])
     ChartsUtil.fetchLanguageData(settings)
       .then(function(chartData){
       LanguageData.commits = chartData;
-      $stateParams.language = $scope.input.language;
-      $state.go('language', $stateParams.language)
+
+      settings = {
+        languages: LanguageData.currentLanguages,
+        countType: 'creates',
+        url: './CSVs/repo_creates_by_month.csv'
+      };
+
+      ChartsUtil.fetchLanguageData(settings)
+        .then(function(chartData){
+         LanguageData.creates = chartData;
+
+        settings = {
+          languages: LanguageData.currentLanguages,
+          countType: 'public_repos',
+          url: './CSVs/repos_made_public_by_month.csv'
+        };
+
+        ChartsUtil.fetchLanguageData(settings)
+          .then(function(chartData){
+            LanguageData.public_repos = chartData;
+
+
+          settings = {
+            languages: LanguageData.currentLanguages,
+            countType: 'pushes',
+            url: './CSVs/pushes_by_month.csv'
+          };
+
+          ChartsUtil.fetchLanguageData(settings)
+            .then(function(chartData){
+              LanguageData.pushes = chartData;
+              $stateParams.language = $scope.input.language;
+              $state.go('language', $stateParams.language)
+            });
+        });
+      });
     });
-
-    settings = {
-      languages: LanguageData.currentLanguages,
-      countType: 'creates',
-      url: './CSVs/repo_creates_by_month.csv'
-    };
-
-    ChartsUtil.fetchLanguageData(settings)
-      .then(function(chartData){
-       LanguageData.creates = chartData;
-       $stateParams.language = $scope.input.language;
-       $state.go('language', $stateParams.language)
-      });
-
-    settings = {
-      languages: LanguageData.currentLanguages,
-      countType: 'public_repos',
-      url: './CSVs/repos_made_public_by_month.csv'
-    };
-
-    ChartsUtil.fetchLanguageData(settings)
-      .then(function(chartData){
-        LanguageData.public_repos = chartData;
-        $stateParams.language = $scope.input.language;
-        $state.go('language', $stateParams.language)
-      });
-
-    settings = {
-      languages: LanguageData.currentLanguages,
-      countType: 'pushes',
-      url: './CSVs/pushes_by_month.csv'
-    };
-
-    ChartsUtil.fetchLanguageData(settings)
-      .then(function(chartData){
-        LanguageData.pushes = chartData;
-        $stateParams.language = $scope.input.language;
-        $state.go('language', $stateParams.language)
-      });
 
   };
 
