@@ -8,6 +8,8 @@ angular.module('githubscout.language', ['nvd3ChartDirectives',
     $scope.data = {};
     $scope.data.currentLanguages = LanguageData.currentLanguages;
     $scope.data.allLanguages = LanguageData.allLanguages;
+    $scope.data.leaderboard.repos = {};
+    $scope.data.leaderboard.users = {};
 
     console.log('LanguageController')
     $scope.commits = LanguageData.commits;
