@@ -14,11 +14,12 @@ angular.module('githubscout.services', [])
 })
 
 .factory('UserData', function() {
+  // stores UserData.username and UserData.rawDataCommitsByLanguage for User controller
   return {}
 })
- // getdateandCommits will return an array of object with
- //object having the form ['2014-04-01',5],['2014-06-02',8]]
+
 .factory('UserDateandCommits',function(){
+  // getdateandCommits will return an array of objects having the form ['2014-04-01',5],['2014-06-02',8]]
   var getdateandCommits  = function(obj){
     var result = []
     var commit = {};
@@ -50,49 +51,44 @@ angular.module('githubscout.services', [])
     getdateandCommits: getdateandCommits
   }
 })
+
 //this factory will include the dates of second user if
 //the first user didn't have those dates. This is necessary
 //to compare series in the multibar chart
 .factory('UserCompareRescaleBar', function(){
-
-    var getCompareRescaleBar = function(userarray1,userarray2){
-
-         var strip = []
-         result = []
-         for(var i =0; i<userarray1.length;i++){
-           strip.push(userarray1[i][0])
-         }
-
-         for(var j = 0; j<userarray2.length; j++){
-           if(strip.indexOf(userarray2[j][0])===-1){
-              result.push([userarray2[j][0],0])
-           }
-         }
-
-         var concatresult = userarray1.concat(result)
-         var finalresult = concatresult.sort(function(a,b){
-
-          if(parseInt((a[0].split('/')[1]))>parseInt((b[0].split('/')[1]))){
-              return 1;
-           }
-           if(parseInt((a[0].split('/')[1]))<parseInt((b[0].split('/')[1]))){
-              return -1
-
-           }
-             return 0
-         })
-         return finalresult;
-
-
+  var getCompareRescaleBar = function(userarray1,userarray2){
+    var strip = []
+    result = []
+    for(var i =0; i<userarray1.length;i++){
+      strip.push(userarray1[i][0])
     }
-    return {
-      getCompareRescaleBar: getCompareRescaleBar
-    };
+
+    for(var j = 0; j<userarray2.length; j++){
+      if(strip.indexOf(userarray2[j][0])===-1){
+        result.push([userarray2[j][0],0])
+      }
+    }
+
+    var concatresult = userarray1.concat(result)
+    var finalresult = concatresult.sort(function(a,b){
+
+    if(parseInt((a[0].split('/')[1]))>parseInt((b[0].split('/')[1]))){
+      return 1;
+    }
+    if(parseInt((a[0].split('/')[1]))<parseInt((b[0].split('/')[1]))){
+      return -1
+    }
+    return 0
+    })
+    return finalresult;
+  }
+  return {
+    getCompareRescaleBar: getCompareRescaleBar
+  };
 
 })
 
-  // getUserCommitsperLanganguage will return an array of object with
-  //object having the form {language:'JavaScript', count:10}
+// getUserCommitsperLanganguage will return an array of objects having the form {language:'JavaScript', count:10}
 .factory('UserLanguagesandCommits',function(){
     var getUserCommitsperLanganguage = function(obj){
       var result = []
@@ -122,6 +118,7 @@ angular.module('githubscout.services', [])
   }
 
 })
+
 .factory('getUserCommits', function($http) {
   var config = [
     '?client_id=bf7e0962f270bf033f78',
@@ -133,7 +130,7 @@ angular.module('githubscout.services', [])
     data.push('page='+page);
     data.push('author='+author);
     data.push('per_page=100')
-    //console.log('CURRENT COMMITS',repo.commits_url, page)
+
     return $http({
       'method': 'GET',
       'url': repo.commits_url+data.join('&')
@@ -145,7 +142,6 @@ angular.module('githubscout.services', [])
           'date':item.commit.committer.date.slice(0,10)
         })
       });
-      //console.log(result.data.length)
       if (result.data.length === 100 && page < 6) {
         return iterativeGetRepoCommits(repo,author,storage,page+1);
       } else {
@@ -203,7 +199,6 @@ angular.module('githubscout.services', [])
       })
     });
   }
-      //console.log("this is getUserCOmmmits", getUserCommits)
   return getUserCommits;
 })
 
@@ -421,8 +416,6 @@ angular.module('githubscout.services', [])
     fetchStackedAreaData: fetchStackedAreaData,
     fetchHorizontalBarData: fetchHorizontalBarData
   };
-
-
 })
 
 

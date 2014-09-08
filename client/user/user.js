@@ -4,57 +4,55 @@ userapp.controller('UserController', ['$scope', 'UserData', 'UserSearch', 'UserD
   $scope.userdata ={};
   $scope.username = UserData.username
   $scope.userdata.data = UserData.rawDataCommitsByLanguage
-  //This will render text as indicated when the "search" button is clicked for second user 
-  $scope.newDiv=function(){
-             $scope.items= {title: 'GitHub User '+ $scope.userdata.nextUsername + ' Commits By Langauges'}
-        }
-   $scope.getCompareRescaleBar = function(firstUserData,secondUserData){
-       return UserCompareRescaleBar.getCompareRescaleBar($scope.userDateandCommits, secondUserData)
-   }
 
-  $scope.getdateandCommits = function(data){
+  var getCompareRescaleBar = function(firstUserData,secondUserData){
+    return UserCompareRescaleBar.getCompareRescaleBar($scope.userDateandCommits, secondUserData)
+  }
+
+  var getdateandCommits = function(data){
     return UserDateandCommits.getdateandCommits(data)
   }
 
-  $scope.getUserCommitsperLanganguage = function(data){
+  var getUserCommitsperLanganguage = function(data){
     return UserLanguagesandCommits.getUserCommitsperLanganguage(data)
   }
 
-    $scope.userDateandCommits=$scope.getdateandCommits($scope.userdata.data).reverse()
-    $scope.commitsperLangugageData = $scope.getUserCommitsperLanganguage($scope.userdata.data)
+  $scope.userDateandCommits = getdateandCommits($scope.userdata.data).reverse()
 
-   //Data for first user bar chart.
+  // Data for first user bar chart.
+  $scope.commitsbyDateData =[{
+    key : $scope.username,
+    values : $scope.userDateandCommits
+  }];
 
-   $scope.commitsbyDateData =
-                        [
-                              {
-                                  "key": UserData.username,
-                                  "values": $scope.userDateandCommits
-                              }
+  // Data for first user pie chart.
+  $scope.commitsperLangugageData = getUserCommitsperLanganguage($scope.userdata.data)
 
-                         ];
+  // Function grabs second user's data from compare user input to compare with first user on same commits over time chart AND to display second pie chart.
+  $scope.addUser = function () {
 
+    // This will add a header for the second pie chart.
+    $scope.items = {title: 'GitHub User '+ $scope.userdata.nextUsername + ' Commits By Langauges'}
 
-
-  // Function grabs second user's data from compare user input to compare with first user on same commits over time chart
-  $scope.addUser = function() {
-    console.log('addUser')
     UserSearch.getUserCommitsByLanguage({username: $scope.userdata.nextUsername})
       .then(function (data) {
-        $scope.secondUserDateandCommits = $scope.getdateandCommits(data).reverse()
-        $scope.CombinedNewandOldUserDatesData = $scope.getCompareRescaleBar( $scope.userDateandCommits,$scope.secondUserDateandCommits)
+        var secondUserDateandCommits = getdateandCommits(data).reverse()
+        var combinedNewandOldUserDatesData = getCompareRescaleBar($scope.userDateandCommits, secondUserDateandCommits)
+
+        // Data for first AND second user bar chart.
         $scope.commitsbyDateData =
           [{
-           key: UserData.username,
-           values: $scope.CombinedNewandOldUserDatesData 
+           key: $scope.username,
+           values: combinedNewandOldUserDatesData
           },
           {
             key: $scope.userdata.nextUsername,
-            values: $scope.secondUserDateandCommits
+            values: secondUserDateandCommits
           }];
-          //gets data for second user's commits by language
-        $scope.commitsperLangugageDataUser2 = $scope.getUserCommitsperLanganguage(data)
-        
+
+        //gets data for second user's commits by language, which is displayed as a pie chart.
+        $scope.commitsperLangugageDataUser2 = getUserCommitsperLanganguage(data)
+
       })
   }
 

@@ -17,11 +17,12 @@ angular.module('githubscout.search', [])
         $state.go('user', $stateParams.username)
       })
   };
+
   $scope.searchLanguage = function() {
     LanguageData.currentLanguages = [];
     LanguageData.currentLanguages.push($scope.input.language);
 
-    if (!LanguageData.leaderboard.repos[$scope.input.language] || !LanguageData.leaderboard.users[$scope.input.language]) {    
+    if (!LanguageData.leaderboard.repos[$scope.input.language] || !LanguageData.leaderboard.users[$scope.input.language]) {
       $http({
         method: 'POST',
         url: '/leaderboard/users',
@@ -94,9 +95,7 @@ angular.module('githubscout.search', [])
         });
       });
     });
-
-}
-
+  }
 }])
 
 .directive('gsSearch', function () {
