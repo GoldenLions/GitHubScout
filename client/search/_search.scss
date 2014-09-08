@@ -1,5 +1,5 @@
 .search {
-	button,  input[type=submit]{
+	button,  input[type=submit] {
 		background-color: #E5E5E5;
 		padding: 7px 10px;
 		font-family: 'Open Sans', sans-serif;
@@ -11,6 +11,10 @@
 			background: #FAFAFA;
 			cursor: pointer;
 		}
+	}
+
+	select {
+		max-width: 140px;
 	}
 
 	button {

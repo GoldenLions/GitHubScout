@@ -70,6 +70,9 @@ button, input {
   display: table;
   clear: both; }
 
+.one-whole {
+  width: 100%; }
+
 .one-half {
   width: 50%; }
 
@@ -95,6 +98,8 @@ button, input {
   .search button:hover, .search input[type=submit]:hover {
     background: #FAFAFA;
     cursor: pointer; }
+.search select {
+  max-width: 140px; }
 .search button {
   float: left;
   margin-left: 0;
@@ -120,11 +125,33 @@ button, input {
     border-color: rgba(82, 168, 236, 0.8);
     box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6); }
 
+.user input[type=text] {
+  background: #F1F1F1;
+  color: #000;
+  padding: 8px 7px;
+  font-size: 13px;
+  border: 1px solid #DEDBDB;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(228, 228, 228, 0.26);
+  border-radius: 4px;
+  float: left; }
+  .user input[type=text]:focus {
+    border-color: rgba(82, 168, 236, 0.8);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6); }
+.user button, .user input[type=submit] {
+  background-color: #E5E5E5;
+  padding: 7px 10px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  box-shadow: inset 0 -1px 2px rgba(0, 0, 0, 0.18), inset 0 2px 2px rgba(255, 255, 255, 0.7);
+  border-radius: 5px; }
+  .user button:hover, .user input[type=submit]:hover {
+    background: #FAFAFA;
+    cursor: pointer; }
+
 body {
   font-family: 'Open Sans';
   font-weight: 400;
-  background: #FFFFFF;
-  color: #C5C5C5; }
+  background: #FFFFFF; }
 
 .page-wrap {
   min-height: 100%;
@@ -134,6 +161,15 @@ body {
 .page-wrap:after {
   content: "";
   display: block; }
+
+h1 {
+  font-size: 28px; }
+
+h2 {
+  font-size: 20px; }
+
+h3 {
+  font-size: 18px; }
 
 a {
   color: #C5C5C5; }
@@ -149,11 +185,16 @@ nav {
   background: #2E2E2E; }
   nav a {
     text-decoration: none; }
+  nav .home {
+    margin-top: 9px; }
+
+svg text {
+  font-family: "Open Sans"; }
 
 footer {
   width: 100%;
-  padding: 20px 0;
-  font-size: 12px;
+  padding: 23px 0;
+  font-size: 13px;
   background: #DDDDDD;
   color: #646464; }
   footer a {
@@ -163,9 +204,5 @@ footer {
 
 footer, .page-wrap:after {
   height: 60px; }
-
-.usercontainer {
-  float: left;
-}
 
 /*# sourceMappingURL=main.css.map */
