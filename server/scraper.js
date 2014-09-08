@@ -6,6 +6,26 @@ var fs = require('fs');
 
 var languages = require('./languages.js')
 
+/*
+ *  scraper.js
+ *  Searches for top repos and users by language for the language leaderboards.
+ *  First querys the GitHub API to find the users and repos and saves the resulting URLs
+ *  in a .json. Can be used next to send GET requests to the URLs stored previously
+ *  in order to scrape various figures from the response HTML and store the results
+ *  in a .json to be accessed by the client via POST requests, the routes for which
+ *  can be found in server.js.
+ *  
+ *  An HTML scraping approach is necessary in order to circumvent GitHub API limits.
+ *  Even authenticated, we are permitted 5000 queries per hour, whereas in an update cycle
+ *  here we can potentially perform upwards of 20000 requests in about half an hour.
+ *
+ *  Uses superagent as an improvement over node http, cheerio to scrape repo and profile HTMLs,
+ *  and async to aid in performing GET requests in batches.
+ */
+
+
+
+
 
 // Utility functions.
 var utils = {
@@ -43,7 +63,8 @@ var utils = {
         });
     }, callback);
   },
-  // One GET request at least every delay milliseconds.
+  // One GET request at least every delay milliseconds. Necessary in using the GitHub Search
+  // API, which limits us to 20 requests per minute.
   // Not using async at the moment because it isn't clear how to throttle... 
   throttledBatchGet: function(objs,progressback,callback,delay) {
     var progress = 0;
@@ -231,11 +252,14 @@ var scraper = {
   }
 };
 
+// Uncomment one by one to update local .jsons. The .update functions support callback so could also
+// be chained together.
 // scraper.updateUserUrlsJSON();
 // scraper.updateProfileStatsJSON();
 // scraper.updateRepoUrlsJSON();
 // scraper.updateRepoStatsJSON();
 
 
+// Export for a future cron job .js. Cron currently not implemented.
 module.exports = scraper;
 
