@@ -1,14 +1,19 @@
-<h1>Language View</h1>
-  <ul>
-    <li ng-repeat="language in data.currentLanguages">{{language}}</li>
-  </ul>
-  <form ng-submit='addLanguage()' class='fx-fade-normal'>
-    <h2>Compare another language:</h2>
-    <select ng-model="data.nextLanguage" ng-options="language for language in data.allLanguages" placeholder='Enter language'>
-      <option value="">Choose a Language</option>
-    </select>
-    <input type='submit' value='Search' />
-  </form>
+<div class="language">
+  <header class="one-whole clear-after">
+    <h1 class="float-left">Github Statistics for {{ data.currentLanguages[0] }}</h1>
+<!--     <ul>
+      <li ng-repeat="language in data.currentLanguages">{{language}}</li>
+    </ul> -->
+    <div class="float-right">
+      <h3 class="float-left">Compare another language: </h3>
+      <form ng-submit='addLanguage()' class='fx-fade-normal float-right'>
+        <select ng-model="data.nextLanguage" ng-options="language for language in data.allLanguages" placeholder='Enter language'>
+          <option value="">Choose a Language</option>
+        </select>
+        <input type='submit' value='Search' />
+      </form>
+    </div>
+  </header>
 
   <table>
   <tr>
@@ -30,70 +35,84 @@
   <td>{{repo.contributors}}</td>
   </tr>
   </table>
-  <h1>Repo Activity over Time</h1>
-  <nvd3-line-chart
-          data="commits"
-          id="commits"
-          width="600"
-          height="400"
-          showXAxis="true"
-          showYAxis="true"
-          tooltips="true"
-          interactive="true"
-          showlegend = "true"
-          margin="{left:150,top:50,bottom:0,right:50}"
-          xAxisTickFormat="xAxisTickFormat()"
-          >
-       <svg></svg>
-  </nvd3-line-chart>
+  <div class="row one-whole clear-after">
+    <div class="one-half float-left">
+      <h2>Repo Activity over Time</h2>
+      <nvd3-line-chart
+              data="commits"
+              id="commits"
+              width="600"
+              height="400"
+              showXAxis="true"
+              showYAxis="true"
+              tooltips="true"
+              interactive="true"
+              showlegend = "true"
+              margin="{left:150,top:50,bottom:0,right:50}"
+              xAxisTickFormat="xAxisTickFormat()"
+              >
+           <svg></svg>
+      </nvd3-line-chart>
+    </div>
 
-  <h1>Repos Created over Time</h1>
-  <nvd3-line-chart
-          data="creates"
-          id="creates"
-          width="600"
-          height="400"
-          showXAxis="true"
-          showYAxis="true"
-          tooltips="true"
-          interactive="true"
-          showlegend = "true"
-          margin="{left:150,top:50,bottom:0,right:50}"
-          xAxisTickFormat="xAxisTickFormat()"
-          >
-       <svg></svg>
-  </nvd3-line-chart>
 
-  <h1>Repos Made Public over Time</h1>
-  <nvd3-line-chart
-          data="public_repos"
-          id="public_repos"
-          width="600"
-          height="400"
-          showXAxis="true"
-          showYAxis="true"
-          tooltips="true"
-          interactive="true"
-          showlegend = "true"
-          margin="{left:150,top:50,bottom:0,right:50}"
-          xAxisTickFormat="xAxisTickFormat()"
-          >
-      <svg></svg>
-  </nvd3-line-chart>
+    <div class="one-half second-half float-left">
+      <h2>Repos Created over Time</h2>
+      <nvd3-line-chart
+              data="creates"
+              id="creates"
+              width="600"
+              height="400"
+              showXAxis="true"
+              showYAxis="true"
+              tooltips="true"
+              interactive="true"
+              showlegend = "true"
+              margin="{left:150,top:50,bottom:0,right:50}"
+              xAxisTickFormat="xAxisTickFormat()"
+              >
+           <svg></svg>
+      </nvd3-line-chart>
+    </div>
+  </div>
 
-  <h1>Pushes over Time</h1>
-  <nvd3-line-chart
-          data="pushes"
-          id="pushes"
-          width="600"
-          height="400"
-          showXAxis="true"
-          showYAxis="true"
-          tooltips="true"
-          interactive="true"
-          showlegend = "true"
-          margin="{left:150,top:50,bottom:0,right:50}"
-          xAxisTickFormat="xAxisTickFormat()"
-          >
-      <svg></svg>
-  </nvd3-line-chart>
+  <div class="row one-whole clear-after">
+    <div class="one-half float-left">
+      <h2>Repos Made Public over Time</h2>
+      <nvd3-line-chart
+              data="public_repos"
+              id="public_repos"
+              width="600"
+              height="400"
+              showXAxis="true"
+              showYAxis="true"
+              tooltips="true"
+              interactive="true"
+              showlegend = "true"
+              margin="{left:150,top:50,bottom:0,right:50}"
+              xAxisTickFormat="xAxisTickFormat()"
+              >
+          <svg></svg>
+      </nvd3-line-chart>
+    </div>
+
+    <div class="one-half second-half float-left">
+      <h2>Pushes over Time</h2>
+      <nvd3-line-chart
+              data="pushes"
+              id="pushes"
+              width="600"
+              height="400"
+              showXAxis="true"
+              showYAxis="true"
+              tooltips="true"
+              interactive="true"
+              showlegend = "true"
+              margin="{left:150,top:50,bottom:0,right:50}"
+              xAxisTickFormat="xAxisTickFormat()"
+              >
+          <svg></svg>
+      </nvd3-line-chart>
+    </div>
+  </div>
+</div>
