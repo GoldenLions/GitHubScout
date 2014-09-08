@@ -34,6 +34,7 @@
     "express-partials": "^0.3.0",
     "github": "^0.2.2",
     "knex": "^0.6.22",
+    "googleapis": "^1.0.12",
     "lodash": "^2.4.1",
     "mocha": "^1.21.4",
     "mysql": "^2.4.3",
