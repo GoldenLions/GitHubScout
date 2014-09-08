@@ -119,18 +119,26 @@ angular.module('githubscout.services', [])
 
 })
 
+// User info is pulled dynamically from the GitHub API in order to circumvent GitHub's IP limits.
 .factory('getUserCommits', function($http) {
+  // Our application credentials. Should use a token instead of hardcoding these in. Oh well.
   var config = [
     '?client_id=bf7e0962f270bf033f78',
     'client_secret=37101e5bd7a17da01dfd4cb4f2889b8371b14388'
   ];
 
+  // Gets commits by author for the current page of repo. Places the results in storage, and,
+  // if there are remaining pages, recurses and increments page, upto 5 pages, i.e. up to
+  // 500 commits for that repo. For some users this will be an underestimate. The GitHub API
+  // permits up to 10 pages of results for 1000 commits, but we also have API limits to worry about.
   var iterativeGetRepoCommits = function(repo,author,storage,page) {
+    // Copy config so as not to permanently push items.
     var data = config.slice(0);
     data.push('page='+page);
     data.push('author='+author);
     data.push('per_page=100')
 
+    // Append data to the query URL.
     return $http({
       'method': 'GET',
       'url': repo.commits_url+data.join('&')
@@ -150,6 +158,9 @@ angular.module('githubscout.services', [])
     })
   };
 
+  // For an array of repo objects, pops off a repo obj and first pulls the language spread
+  // statistics from .languages_url before retrieving all commits by author for that repo.
+  // Recurses until the array is empty.
   var iterativeGetRepoStats = function(remainingRepoData,author,storage) {
     var repo = remainingRepoData.pop();
    // console.log("CURRENT REPO", repo.full_name)
@@ -175,6 +186,8 @@ angular.module('githubscout.services', [])
     })
   };
 
+  // Gets up to 1000 of the user's repos and for each repo pulls out various statistics.
+  // Sorts the final resulting array by date.
   var getUserCommits = function(obj) {
     console.log(obj)
     var username = obj.username;
@@ -201,17 +214,23 @@ angular.module('githubscout.services', [])
   }
   return getUserCommits;
 })
-
+// Query the GitHub API for up to 300 of the user's most recent events. This is currently
+// unused on the user page, but could be used to implement a visual timeline.
 .factory('getUserEvents', function($http) {
   var config = [
     '?client_id=bf7e0962f270bf033f78',
     'client_secret=37101e5bd7a17da01dfd4cb4f2889b8371b14388'
   ];
 
+  // The event object will include a payload object with many different properties. Each event
+  // payload will have different properties depending on the event. Use this to parse it down
+  // to only the relevant figures.
   var processPayload = function(payload,type) {
     return payload;
   };
 
+  // The event object itself also has a lot of superfluous properties. Use this to parse it down
+  // to what matters.
   var processEvent = function(event) {
     var result = {
       type: event.type,
@@ -223,6 +242,9 @@ angular.module('githubscout.services', [])
     return result;
   };
 
+// Pulls up to 10 pages of 30 events each for the given username. This is the most the GitHub API
+// will permit at once. It might be possible to wait a bit(?) before querying for pages 11-20, etc,
+// but that has not been attempted.
   var fetchAllEvents = function(username,storage,page) {
     var data = config.slice(0);
     data.push('page='+page);
@@ -244,7 +266,7 @@ angular.module('githubscout.services', [])
 
   var getUserEvents = function(obj) {
     var username = obj.username;
-    return fetchAllEvents(username,[],1)
+    return fetchAllEvents(username,[],1);
   };
 
   return getUserEvents;
