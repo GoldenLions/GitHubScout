@@ -1,0 +1,52 @@
+[
+  {
+    "url": "https://github.com/liuxinyu95",
+    "language": "DOT",
+    "full_name": "Liu Xinyu",
+    "username": "liuxinyu95",
+    "location": "Beijing, China",
+    "join_date": "Jul 15, 2010",
+    "popular_repos_stars": "1138",
+    "primary_languages": [
+      "Haskell",
+      "C",
+      "Shell"
+    ],
+    "contributions": 746,
+    "followers": "162"
+  },
+  {
+    "url": "https://github.com/zygoloid",
+    "language": "DOT",
+    "full_name": "Richard Smith",
+    "username": "zygoloid",
+    "location": "",
+    "join_date": "Mar 29, 2010",
+    "popular_repos_stars": "6",
+    "primary_languages": [
+      "Shell",
+      "Objective",
+      "C",
+      "Emacs",
+      "Lisp"
+    ],
+    "contributions": 164,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/bychjzh",
+    "language": "DOT",
+    "full_name": "bychjzh",
+    "username": "bychjzh",
+    "location": "",
+    "join_date": "Jun 21, 2012",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 25,
+    "followers": "7"
+  }
+]

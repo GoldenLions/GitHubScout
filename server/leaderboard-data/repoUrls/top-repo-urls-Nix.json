@@ -1,7 +1,7 @@
 [
   {
     "url": "https://github.com/NixOS/nixpkgs",
-    "size": 244521,
+    "size": 244089,
     "language": "Nix"
   },
   {
@@ -50,13 +50,13 @@
     "language": "Nix"
   },
   {
-    "url": "https://github.com/aszlig/vuizvui",
-    "size": 869,
+    "url": "https://github.com/bodil/nixcfg",
+    "size": 140,
     "language": "Nix"
   },
   {
-    "url": "https://github.com/bodil/nixcfg",
-    "size": 140,
+    "url": "https://github.com/aszlig/vuizvui",
+    "size": 869,
     "language": "Nix"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "url": "https://github.com/coreyoconnor/nix_configs",
-    "size": 1417,
+    "size": 1419,
     "language": "Nix"
   },
   {
@@ -80,13 +80,13 @@
     "language": "Nix"
   },
   {
-    "url": "https://github.com/wavewave/hep-nix-overlay",
-    "size": 1279,
+    "url": "https://github.com/svanderburg/disnixos",
+    "size": 551,
     "language": "Nix"
   },
   {
-    "url": "https://github.com/svanderburg/disnixos",
-    "size": 551,
+    "url": "https://github.com/wavewave/hep-nix-overlay",
+    "size": 1279,
     "language": "Nix"
   },
   {

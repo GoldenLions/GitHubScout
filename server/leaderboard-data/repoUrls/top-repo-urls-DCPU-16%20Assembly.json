@@ -75,14 +75,14 @@
     "language": "Assembly"
   },
   {
-    "url": "https://github.com/edma2/asmscan",
-    "size": 128,
-    "language": "Assembly"
-  },
-  {
     "url": "https://github.com/jlongster/dcpu-lisp",
     "size": 2569,
     "language": "JavaScript"
+  },
+  {
+    "url": "https://github.com/edma2/asmscan",
+    "size": 128,
+    "language": "Assembly"
   },
   {
     "url": "https://github.com/mysociety/theyworkforyou",

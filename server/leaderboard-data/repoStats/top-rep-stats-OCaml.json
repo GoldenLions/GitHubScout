@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/MLstate/opalang",
+    "size": 71689,
+    "language": "OCaml",
+    "commits": "4,418",
+    "stars": "1,307",
+    "forks": "117",
+    "contributors": "28"
+  },
+  {
+    "url": "https://github.com/BYVoid/Batsh",
+    "size": 1104,
+    "language": "OCaml",
+    "commits": "185",
+    "stars": "1,051",
+    "forks": "55",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/facebook/pfff",
+    "size": 181160,
+    "language": "OCaml",
+    "commits": "6,452",
+    "stars": "953",
+    "forks": "81",
+    "contributors": "28"
+  },
+  {
+    "url": "https://github.com/tomprimozic/type-systems",
+    "size": 537,
+    "language": "OCaml",
+    "commits": "68",
+    "stars": "421",
+    "forks": "11",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/ocaml/opam",
+    "size": 35873,
+    "language": "OCaml",
+    "commits": "3,853",
+    "stars": "369",
+    "forks": "82",
+    "contributors": "40"
+  },
+  {
+    "url": "https://github.com/astrada/google-drive-ocamlfuse",
+    "size": 2272,
+    "language": "OCaml",
+    "commits": "239",
+    "stars": "349",
+    "forks": "27",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/artagnon/rhine",
+    "size": 1336,
+    "language": "OCaml",
+    "commits": "352",
+    "stars": "323",
+    "forks": "13",
+    "contributors": "4"
+  },
+  {
+    "url": "https://github.com/mirage/mirage",
+    "size": 26806,
+    "language": "OCaml",
+    "commits": "510",
+    "stars": "317",
+    "forks": "48",
+    "contributors": "10"
+  },
+  {
+    "url": "https://github.com/ocaml/ocaml",
+    "size": 138754,
+    "language": "OCaml",
+    "commits": "9,912",
+    "stars": "242",
+    "forks": "115",
+    "contributors": "14"
+  },
+  {
+    "url": "https://github.com/ocaml-batteries-team/batteries-included",
+    "size": 25686,
+    "language": "OCaml",
+    "commits": "2,964",
+    "stars": "197",
+    "forks": "59",
+    "contributors": "54"
+  },
+  {
+    "url": "https://github.com/janestreet/core",
+    "size": 3845,
+    "language": "OCaml",
+    "commits": "90",
+    "stars": "191",
+    "forks": "22",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/pikatchu/LinearML",
+    "size": 8603,
+    "language": "OCaml",
+    "commits": "234",
+    "stars": "181",
+    "forks": "9",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/xapi-project/xen-api",
+    "size": 35276,
+    "language": "OCaml",
+    "commits": "6,813",
+    "stars": "169",
+    "forks": "121",
+    "contributors": "61"
+  },
+  {
+    "url": "https://github.com/coq/coq",
+    "size": 69853,
+    "language": "OCaml",
+    "commits": "15,747",
+    "stars": "156",
+    "forks": "58",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/mirage/irmin",
+    "size": 4268,
+    "language": "OCaml",
+    "commits": "636",
+    "stars": "151",
+    "forks": "16",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/the-lambda-church/merlin",
+    "size": 16281,
+    "language": "OCaml",
+    "commits": "1,132",
+    "stars": "150",
+    "forks": "23",
+    "contributors": "14"
+  },
+  {
+    "url": "https://github.com/alavrik/piqi",
+    "size": 4041,
+    "language": "OCaml",
+    "commits": "669",
+    "stars": "132",
+    "forks": "23",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/g2p/git-fs",
+    "size": 203,
+    "language": "OCaml",
+    "commits": "140",
+    "stars": "128",
+    "forks": "10",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/diml/utop",
+    "size": 1415,
+    "language": "OCaml",
+    "commits": "291",
+    "stars": "122",
+    "forks": "13",
+    "contributors": "12"
+  },
+  {
+    "url": "https://github.com/technomancy/grenchman",
+    "size": 288,
+    "language": "OCaml",
+    "commits": "69",
+    "stars": "122",
+    "forks": "5",
+    "contributors": ""
+  }
+]

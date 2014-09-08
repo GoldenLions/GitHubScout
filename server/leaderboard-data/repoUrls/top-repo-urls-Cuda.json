@@ -25,13 +25,13 @@
     "language": "Cuda"
   },
   {
-    "url": "https://github.com/dnouri/cuda-convnet",
-    "size": 1319,
+    "url": "https://github.com/soumith/convnet-benchmarks",
+    "size": 1183,
     "language": "Cuda"
   },
   {
-    "url": "https://github.com/soumith/convnet-benchmarks",
-    "size": 1183,
+    "url": "https://github.com/dnouri/cuda-convnet",
+    "size": 1319,
     "language": "Cuda"
   },
   {
@@ -60,13 +60,13 @@
     "language": "Cuda"
   },
   {
-    "url": "https://github.com/jwetzl/CudaLBFGS",
-    "size": 975,
+    "url": "https://github.com/torch/cutorch",
+    "size": 1226,
     "language": "Cuda"
   },
   {
-    "url": "https://github.com/torch/cutorch",
-    "size": 1226,
+    "url": "https://github.com/jwetzl/CudaLBFGS",
+    "size": 975,
     "language": "Cuda"
   },
   {

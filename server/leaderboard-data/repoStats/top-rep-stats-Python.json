@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/jdc0589/CaseConversion",
+    "size": 167,
+    "language": "Python",
+    "commits": "35",
+    "stars": "92",
+    "forks": "19",
+    "contributors": "8"
+  },
+  {
+    "url": "https://github.com/graemeg/lazarus",
+    "size": 276005,
+    "language": "Pascal",
+    "commits": "44,249",
+    "stars": "76",
+    "forks": "14",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/graemeg/freepascal",
+    "size": 149154,
+    "language": "Pascal",
+    "commits": "22,457",
+    "stars": "70",
+    "forks": "25",
+    "contributors": "4"
+  },
+  {
+    "url": "https://github.com/lkesteloot/turbopascal",
+    "size": 271,
+    "language": "JavaScript",
+    "commits": "8",
+    "stars": "67",
+    "forks": "10",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/remobjects/pascalscript",
+    "size": 2225,
+    "language": "Pascal",
+    "commits": "381",
+    "stars": "63",
+    "forks": "37",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/alcides/pascal-in-python",
+    "size": 188,
+    "language": "Python",
+    "commits": "106",
+    "stars": "49",
+    "forks": "10",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/diniremix/sublime-pascal",
+    "size": 136,
+    "language": null,
+    "commits": "21",
+    "stars": "29",
+    "forks": "16",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/CraigStuntz/Lbac",
+    "size": 353,
+    "language": "F#",
+    "commits": "75",
+    "stars": "18",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/graemeg/fpGUI",
+    "size": 24490,
+    "language": "Pascal",
+    "commits": "3,667",
+    "stars": "16",
+    "forks": "6",
+    "contributors": "8"
+  },
+  {
+    "url": "https://github.com/dliw/fpCEF3",
+    "size": 1304,
+    "language": "Pascal",
+    "commits": "19",
+    "stars": "15",
+    "forks": "5",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/mdbs99/Greyhound",
+    "size": 1391,
+    "language": "Pascal",
+    "commits": "346",
+    "stars": "15",
+    "forks": "4",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/jepafi/Free-JPDF-Pascal",
+    "size": 2174,
+    "language": "Delphi",
+    "commits": "28",
+    "stars": "14",
+    "forks": "6",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/alrieckert/lazarus",
+    "size": 175755,
+    "language": "Pascal",
+    "commits": "44,256",
+    "stars": "13",
+    "forks": "48",
+    "contributors": "0"
+  },
+  {
+    "url": "https://github.com/graemeg/fptest",
+    "size": 1175,
+    "language": "Delphi",
+    "commits": "150",
+    "stars": "13",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/sabren/b4",
+    "size": 3150,
+    "language": "Pascal",
+    "commits": "720",
+    "stars": "13",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/FMXExpress/android-object-pascal-wrapper",
+    "size": 11034,
+    "language": "Pascal",
+    "commits": "5",
+    "stars": "12",
+    "forks": "10",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/colinj/paszmq",
+    "size": 425,
+    "language": "Pascal",
+    "commits": "27",
+    "stars": "12",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/zed-0xff/android-pascal",
+    "size": 195,
+    "language": null,
+    "commits": "3",
+    "stars": "11",
+    "forks": "1",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/shikhalev/ppruby",
+    "size": 1459,
+    "language": "Oxygene",
+    "commits": "286",
+    "stars": "11",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/ev1313/Pascal-SDL-2-Headers",
+    "size": 1300,
+    "language": "Pascal",
+    "commits": "81",
+    "stars": "10",
+    "forks": "5",
+    "contributors": "4"
+  }
+]

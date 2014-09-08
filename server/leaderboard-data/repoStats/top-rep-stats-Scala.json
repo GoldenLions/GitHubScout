@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/PredictionIO/PredictionIO",
+    "size": 14948,
+    "language": "Scala",
+    "commits": "968",
+    "stars": "5,246",
+    "forks": "413",
+    "contributors": "8"
+  },
+  {
+    "url": "https://github.com/playframework/playframework",
+    "size": 145346,
+    "language": "Scala",
+    "commits": "5,020",
+    "stars": "5,178",
+    "forks": "1,918",
+    "contributors": "355"
+  },
+  {
+    "url": "https://github.com/takezoe/gitbucket",
+    "size": 21966,
+    "language": "Scala",
+    "commits": "1,738",
+    "stars": "3,275",
+    "forks": "309",
+    "contributors": "40"
+  },
+  {
+    "url": "https://github.com/akka/akka",
+    "size": 228495,
+    "language": "Scala",
+    "commits": "14,219",
+    "stars": "2,954",
+    "forks": "798",
+    "contributors": "151"
+  },
+  {
+    "url": "https://github.com/scala/scala",
+    "size": 180877,
+    "language": "Scala",
+    "commits": "23,433",
+    "stars": "2,880",
+    "forks": "786",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/twitter/finagle",
+    "size": 25750,
+    "language": "Scala",
+    "commits": "3,216",
+    "stars": "2,815",
+    "forks": "484",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/twitter/kestrel",
+    "size": 117306,
+    "language": "Scala",
+    "commits": "1,098",
+    "stars": "2,507",
+    "forks": "250",
+    "contributors": "20"
+  },
+  {
+    "url": "https://github.com/lhartikk/ArnoldC",
+    "size": 1291,
+    "language": "Scala",
+    "commits": "61",
+    "stars": "2,463",
+    "forks": "148",
+    "contributors": "9"
+  },
+  {
+    "url": "https://github.com/twitter/flockdb",
+    "size": 5458,
+    "language": "Scala",
+    "commits": "739",
+    "stars": "2,264",
+    "forks": "149",
+    "contributors": "12"
+  },
+  {
+    "url": "https://github.com/wordnik/swagger-core",
+    "size": 20408,
+    "language": "Scala",
+    "commits": "822",
+    "stars": "2,210",
+    "forks": "679",
+    "contributors": "49"
+  },
+  {
+    "url": "https://github.com/twitter/zipkin",
+    "size": 10222,
+    "language": "Scala",
+    "commits": "516",
+    "stars": "1,989",
+    "forks": "224",
+    "contributors": "23"
+  },
+  {
+    "url": "https://github.com/sbt/sbt",
+    "size": 63417,
+    "language": "Scala",
+    "commits": "3,648",
+    "stars": "1,942",
+    "forks": "355",
+    "contributors": "121"
+  },
+  {
+    "url": "https://github.com/twitter/snowflake",
+    "size": 5265,
+    "language": "Scala",
+    "commits": "333",
+    "stars": "1,928",
+    "forks": "240",
+    "contributors": "14"
+  },
+  {
+    "url": "https://github.com/twitter/gizzard",
+    "size": 5284,
+    "language": "Scala",
+    "commits": "1,391",
+    "stars": "1,895",
+    "forks": "149",
+    "contributors": "16"
+  },
+  {
+    "url": "https://github.com/twitter/scalding",
+    "size": 27873,
+    "language": "Scala",
+    "commits": "2,418",
+    "stars": "1,693",
+    "forks": "384",
+    "contributors": "88"
+  },
+  {
+    "url": "https://github.com/MojoJolo/textteaser",
+    "size": 397,
+    "language": "Scala",
+    "commits": "35",
+    "stars": "1,641",
+    "forks": "194",
+    "contributors": "7"
+  },
+  {
+    "url": "https://github.com/spray/spray",
+    "size": 34606,
+    "language": "Scala",
+    "commits": "2,491",
+    "stars": "1,545",
+    "forks": "349",
+    "contributors": "56"
+  },
+  {
+    "url": "https://github.com/twitter/scala_school",
+    "size": 92173,
+    "language": "Scala",
+    "commits": "364",
+    "stars": "1,484",
+    "forks": "416",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/scalaz/scalaz",
+    "size": 108300,
+    "language": "Scala",
+    "commits": "4,883",
+    "stars": "1,473",
+    "forks": "250",
+    "contributors": "94"
+  },
+  {
+    "url": "https://github.com/mesos/spark",
+    "size": 72924,
+    "language": "Scala",
+    "commits": "4,099",
+    "stars": "1,438",
+    "forks": "391",
+    "contributors": "80"
+  }
+]

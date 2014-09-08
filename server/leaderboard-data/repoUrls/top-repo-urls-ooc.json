@@ -40,13 +40,13 @@
     "language": "ooc"
   },
   {
-    "url": "https://github.com/nddrylliog/yajit",
-    "size": 124,
+    "url": "https://github.com/joshthecoder/ooc-web",
+    "size": 95,
     "language": "ooc"
   },
   {
-    "url": "https://github.com/joshthecoder/ooc-web",
-    "size": 95,
+    "url": "https://github.com/nddrylliog/yajit",
+    "size": 124,
     "language": "ooc"
   },
   {
@@ -80,11 +80,6 @@
     "language": "ooc"
   },
   {
-    "url": "https://github.com/eagle2com/Stirling3d",
-    "size": 56384,
-    "language": "ooc"
-  },
-  {
     "url": "https://github.com/fredreichbier/optparse",
     "size": 489,
     "language": "ooc"
@@ -97,6 +92,11 @@
   {
     "url": "https://github.com/nddrylliog/decadence",
     "size": 336,
+    "language": "ooc"
+  },
+  {
+    "url": "https://github.com/eagle2com/Stirling3d",
+    "size": 56384,
     "language": "ooc"
   }
 ]

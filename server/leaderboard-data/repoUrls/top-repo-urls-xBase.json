@@ -30,13 +30,13 @@
     "language": "xBase"
   },
   {
-    "url": "https://github.com/RickCHodgin/guithread",
-    "size": 296,
+    "url": "https://github.com/obduk/div_games_studio",
+    "size": 35124,
     "language": "xBase"
   },
   {
-    "url": "https://github.com/obduk/div_games_studio",
-    "size": 35124,
+    "url": "https://github.com/RickCHodgin/guithread",
+    "size": 296,
     "language": "xBase"
   },
   {
@@ -60,18 +60,13 @@
     "language": "xBase"
   },
   {
-    "url": "https://github.com/osantana/siscan",
-    "size": 432,
-    "language": "xBase"
-  },
-  {
     "url": "https://github.com/sfuller/c64stuff",
     "size": 124,
     "language": "xBase"
   },
   {
-    "url": "https://github.com/asalim/initialized",
-    "size": 536,
+    "url": "https://github.com/osantana/siscan",
+    "size": 432,
     "language": "xBase"
   },
   {
@@ -80,8 +75,18 @@
     "language": "xBase"
   },
   {
+    "url": "https://github.com/asalim/initialized",
+    "size": 536,
+    "language": "xBase"
+  },
+  {
     "url": "https://github.com/polypiel/fart-fighter",
     "size": 520,
+    "language": "xBase"
+  },
+  {
+    "url": "https://github.com/wizofwor/C64-assembly-examples",
+    "size": 268,
     "language": "xBase"
   },
   {
@@ -92,11 +97,6 @@
   {
     "url": "https://github.com/bringout-fmk/pos",
     "size": 1200,
-    "language": "xBase"
-  },
-  {
-    "url": "https://github.com/wizofwor/C64-assembly-examples",
-    "size": 268,
     "language": "xBase"
   }
 ]

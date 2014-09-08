@@ -55,18 +55,13 @@
     "language": "COBOL"
   },
   {
-    "url": "https://github.com/scottieinor/simple-calc-langs",
-    "size": 270,
-    "language": "COBOL"
-  },
-  {
     "url": "https://github.com/neopragma/cics-unit-test",
     "size": 199,
     "language": "COBOL"
   },
   {
-    "url": "https://github.com/Moto93/CIS-COBOL",
-    "size": 406,
+    "url": "https://github.com/scottieinor/simple-calc-langs",
+    "size": 270,
     "language": "COBOL"
   },
   {
@@ -75,8 +70,8 @@
     "language": "COBOL"
   },
   {
-    "url": "https://github.com/medrimonia/ProjetIHR",
-    "size": 5844,
+    "url": "https://github.com/Moto93/CIS-COBOL",
+    "size": 406,
     "language": "COBOL"
   },
   {
@@ -95,8 +90,13 @@
     "language": "COBOL"
   },
   {
-    "url": "https://github.com/simfan/Systems-Project",
-    "size": 300,
+    "url": "https://github.com/rebeccamurphy/ProgrammingOfThePast",
+    "size": 820,
+    "language": "COBOL"
+  },
+  {
+    "url": "https://github.com/medrimonia/ProjetIHR",
+    "size": 5844,
     "language": "COBOL"
   }
 ]

@@ -70,6 +70,11 @@
     "language": "Crystal"
   },
   {
+    "url": "https://github.com/bfontaine/crtest",
+    "size": 0,
+    "language": "Crystal"
+  },
+  {
     "url": "https://github.com/lesliev/crittertrader",
     "size": 224,
     "language": "Crystal"

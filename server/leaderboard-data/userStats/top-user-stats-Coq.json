@@ -1,0 +1,131 @@
+[
+  {
+    "url": "https://github.com/mattam82",
+    "language": "Coq",
+    "full_name": "Matthieu Sozeau",
+    "username": "mattam82",
+    "location": "Paris, Princeton, ...",
+    "join_date": "Jun 23, 2009",
+    "popular_repos_stars": "28",
+    "primary_languages": [
+      "Coq",
+      "Verilog",
+      "OCaml"
+    ],
+    "contributions": 269,
+    "followers": "32"
+  },
+  {
+    "url": "https://github.com/awodey",
+    "language": "Coq",
+    "full_name": "Steve Awodey",
+    "username": "awodey",
+    "location": "",
+    "join_date": "Mar 30, 2011",
+    "popular_repos_stars": "6",
+    "primary_languages": [
+      "Coq",
+      "TeX",
+      "Python"
+    ],
+    "contributions": 74,
+    "followers": "23"
+  },
+  {
+    "url": "https://github.com/DanGrayson",
+    "language": "Coq",
+    "full_name": "Daniel R. Grayson",
+    "username": "DanGrayson",
+    "location": "",
+    "join_date": "Mar 30, 2011",
+    "popular_repos_stars": "4",
+    "primary_languages": [
+      "Coq",
+      "Emacs",
+      "Lisp",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "17"
+  },
+  {
+    "url": "https://github.com/wouter-swierstra",
+    "language": "Coq",
+    "full_name": "Wouter Swierstra",
+    "username": "wouter-swierstra",
+    "location": "Utrecht, the Netherlands",
+    "join_date": "Mar 29, 2012",
+    "popular_repos_stars": "26",
+    "primary_languages": [
+      "Haskell",
+      "Coq",
+      "Shell"
+    ],
+    "contributions": 101,
+    "followers": "15"
+  },
+  {
+    "url": "https://github.com/rodrigogribeiro",
+    "language": "Coq",
+    "full_name": "Rodrigo Geraldo Ribeiro",
+    "username": "rodrigogribeiro",
+    "location": "",
+    "join_date": "Sep 28, 2010",
+    "popular_repos_stars": "14",
+    "primary_languages": [
+      "Haskell",
+      "Agda",
+      "Coq"
+    ],
+    "contributions": 132,
+    "followers": "15"
+  },
+  {
+    "url": "https://github.com/braibant",
+    "language": "Coq",
+    "full_name": "Thomas Braibant",
+    "username": "braibant",
+    "location": "Paris",
+    "join_date": "Feb 16, 2011",
+    "popular_repos_stars": "31",
+    "primary_languages": [
+      "Coq",
+      "OCaml",
+      "TeX"
+    ],
+    "contributions": 163,
+    "followers": "15"
+  },
+  {
+    "url": "https://github.com/gmalecha",
+    "language": "Coq",
+    "full_name": "Gregory Malecha",
+    "username": "gmalecha",
+    "location": "",
+    "join_date": "Jun 13, 2010",
+    "popular_repos_stars": "9",
+    "primary_languages": [
+      "Coq",
+      "OCaml",
+      "TeX"
+    ],
+    "contributions": 702,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/nrioux",
+    "language": "Coq",
+    "full_name": "Nick Rioux",
+    "username": "nrioux",
+    "location": "Boston, MA",
+    "join_date": "Nov 22, 2010",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "Coq"
+    ],
+    "contributions": 104,
+    "followers": "6"
+  }
+]

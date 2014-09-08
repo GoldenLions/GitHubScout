@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/rust-lang/rust",
+    "size": 455156,
+    "language": "Rust",
+    "commits": "32,077",
+    "stars": "6,287",
+    "forks": "1,254",
+    "contributors": "596"
+  },
+  {
+    "url": "https://github.com/servo/servo",
+    "size": 76873,
+    "language": "Rust",
+    "commits": "6,070",
+    "stars": "2,186",
+    "forks": "327",
+    "contributors": "123"
+  },
+  {
+    "url": "https://github.com/japaric/rust-by-example",
+    "size": 9253,
+    "language": "Rust",
+    "commits": "393",
+    "stars": "1,146",
+    "forks": "85",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/uutils/coreutils",
+    "size": 6268,
+    "language": "Rust",
+    "commits": "734",
+    "stars": "952",
+    "forks": "101",
+    "contributors": "42"
+  },
+  {
+    "url": "https://github.com/iron/iron",
+    "size": 3430,
+    "language": "Rust",
+    "commits": "420",
+    "stars": "535",
+    "forks": "20",
+    "contributors": "11"
+  },
+  {
+    "url": "https://github.com/rust-lang/cargo",
+    "size": 22396,
+    "language": "Rust",
+    "commits": "763",
+    "stars": "459",
+    "forks": "79",
+    "contributors": "44"
+  },
+  {
+    "url": "https://github.com/pcwalton/sprocketnes",
+    "size": 891,
+    "language": "Rust",
+    "commits": "154",
+    "stars": "330",
+    "forks": "19",
+    "contributors": "5"
+  },
+  {
+    "url": "https://github.com/chris-morgan/rust-http",
+    "size": 3427,
+    "language": "Rust",
+    "commits": "531",
+    "stars": "318",
+    "forks": "91",
+    "contributors": "39"
+  },
+  {
+    "url": "https://github.com/jeaye/q3",
+    "size": 18841,
+    "language": "Rust",
+    "commits": "392",
+    "stars": "290",
+    "forks": "18",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/PistonDevelopers/piston",
+    "size": 6033,
+    "language": "Rust",
+    "commits": "561",
+    "stars": "278",
+    "forks": "35",
+    "contributors": "18"
+  },
+  {
+    "url": "https://github.com/nickel-org/nickel.rs",
+    "size": 3231,
+    "language": "Rust",
+    "commits": "120",
+    "stars": "259",
+    "forks": "23",
+    "contributors": "12"
+  },
+  {
+    "url": "https://github.com/teepee/teepee",
+    "size": 796,
+    "language": "Rust",
+    "commits": "64",
+    "stars": "210",
+    "forks": "16",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/steveklabnik/rust_for_rubyists",
+    "size": 2201,
+    "language": "Rust",
+    "commits": "303",
+    "stars": "195",
+    "forks": "52",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/pcwalton/zero.rs",
+    "size": 104,
+    "language": "Rust",
+    "commits": "4",
+    "stars": "185",
+    "forks": "6",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/sebcrozet/nphysics",
+    "size": 5691,
+    "language": "Rust",
+    "commits": "229",
+    "stars": "182",
+    "forks": "7",
+    "contributors": "6"
+  },
+  {
+    "url": "https://github.com/hackndev/zinc",
+    "size": 4470,
+    "language": "Rust",
+    "commits": "432",
+    "stars": "172",
+    "forks": "15",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/PistonDevelopers/rust-empty",
+    "size": 108665,
+    "language": "Rust",
+    "commits": "229",
+    "stars": "172",
+    "forks": "16",
+    "contributors": "10"
+  },
+  {
+    "url": "https://github.com/phildawes/racer",
+    "size": 1592,
+    "language": "Rust",
+    "commits": "168",
+    "stars": "155",
+    "forks": "15",
+    "contributors": "10"
+  },
+  {
+    "url": "https://github.com/crabtw/rust-bindgen",
+    "size": 2187,
+    "language": "Rust",
+    "commits": "283",
+    "stars": "154",
+    "forks": "36",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/bjz/glfw-rs",
+    "size": 5049,
+    "language": "Rust",
+    "commits": "709",
+    "stars": "134",
+    "forks": "60",
+    "contributors": "35"
+  }
+]

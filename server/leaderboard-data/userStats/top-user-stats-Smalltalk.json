@@ -1,0 +1,435 @@
+[
+  {
+    "url": "https://github.com/dalehenrich",
+    "language": "Smalltalk",
+    "full_name": "Dale Henrichs",
+    "username": "dalehenrich",
+    "location": "Hillsboro, Oregon",
+    "join_date": "Feb 17, 2011",
+    "popular_repos_stars": "113",
+    "primary_languages": [
+      "Smalltalk",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 2,
+    "followers": "92"
+  },
+  {
+    "url": "https://github.com/NicolasPetton",
+    "language": "Smalltalk",
+    "full_name": "Nicolas Petton",
+    "username": "NicolasPetton",
+    "location": "Stockholm, Sweden",
+    "join_date": "Sep 5, 2009",
+    "popular_repos_stars": "76",
+    "primary_languages": [
+      "Emacs",
+      "Lisp",
+      "Shell",
+      "Smalltalk"
+    ],
+    "contributions": 1,
+    "followers": "75"
+  },
+  {
+    "url": "https://github.com/SergeStinckwich",
+    "language": "Smalltalk",
+    "full_name": "Serge Stinckwich",
+    "username": "SergeStinckwich",
+    "location": "France",
+    "join_date": "Jul 9, 2010",
+    "popular_repos_stars": "31",
+    "primary_languages": [
+      "JavaScript",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 578,
+    "followers": "50"
+  },
+  {
+    "url": "https://github.com/frankshearar",
+    "language": "Smalltalk",
+    "full_name": "Frank Shearar",
+    "username": "frankshearar",
+    "location": "",
+    "join_date": "May 3, 2010",
+    "popular_repos_stars": "39",
+    "primary_languages": [
+      "Ruby",
+      "Shell",
+      "Smalltalk"
+    ],
+    "contributions": 267,
+    "followers": "37"
+  },
+  {
+    "url": "https://github.com/MrGwen",
+    "language": "Smalltalk",
+    "full_name": "Gwenael Casaccio",
+    "username": "MrGwen",
+    "location": "Lille, France",
+    "join_date": "Sep 16, 2009",
+    "popular_repos_stars": "7",
+    "primary_languages": [
+      "Shell",
+      "Smalltalk"
+    ],
+    "contributions": 24,
+    "followers": "29"
+  },
+  {
+    "url": "https://github.com/camillobruni",
+    "language": "Smalltalk",
+    "full_name": "Camillo Bruni",
+    "username": "camillobruni",
+    "location": "Las Chacras, Argentina",
+    "join_date": "Sep 21, 2009",
+    "popular_repos_stars": "19",
+    "primary_languages": [
+      "Shell",
+      "Ruby",
+      "Python"
+    ],
+    "contributions": 651,
+    "followers": "23"
+  },
+  {
+    "url": "https://github.com/garduino",
+    "language": "Smalltalk",
+    "full_name": "German Arduino",
+    "username": "garduino",
+    "location": "Sunchales, Santa Fe, Argentina",
+    "join_date": "Mar 23, 2012",
+    "popular_repos_stars": "11",
+    "primary_languages": [
+      "Smalltalk",
+      "Ruby"
+    ],
+    "contributions": 47,
+    "followers": "19"
+  },
+  {
+    "url": "https://github.com/jvuletich",
+    "language": "Smalltalk",
+    "full_name": "Juan Vuletich",
+    "username": "jvuletich",
+    "location": "Buenos Aires, Argentina",
+    "join_date": "Feb 21, 2012",
+    "popular_repos_stars": "20",
+    "primary_languages": [
+      "Smalltalk"
+    ],
+    "contributions": 90,
+    "followers": "18"
+  },
+  {
+    "url": "https://github.com/mumez",
+    "language": "Smalltalk",
+    "full_name": "Masashi Umezawa",
+    "username": "mumez",
+    "location": "Japan",
+    "join_date": "Apr 2, 2011",
+    "popular_repos_stars": "22",
+    "primary_languages": [
+      "Smalltalk",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 52,
+    "followers": "17"
+  },
+  {
+    "url": "https://github.com/earthling-shruti",
+    "language": "Smalltalk",
+    "full_name": "Saishruti Shetty",
+    "username": "earthling-shruti",
+    "location": "",
+    "join_date": "Aug 10, 2012",
+    "popular_repos_stars": "1",
+    "primary_languages": [
+      "Python",
+      "Java",
+      "Go"
+    ],
+    "contributions": 8,
+    "followers": "15"
+  },
+  {
+    "url": "https://github.com/ThierryGoubier",
+    "language": "Smalltalk",
+    "full_name": "Thierry Goubier",
+    "username": "ThierryGoubier",
+    "location": "",
+    "join_date": "May 22, 2013",
+    "popular_repos_stars": "12",
+    "primary_languages": [
+      "Smalltalk",
+      "Shell",
+      "Rebol"
+    ],
+    "contributions": 223,
+    "followers": "12"
+  },
+  {
+    "url": "https://github.com/NickAger",
+    "language": "Smalltalk",
+    "full_name": "Nick Ager",
+    "username": "NickAger",
+    "location": "London, UK",
+    "join_date": "Nov 10, 2010",
+    "popular_repos_stars": "5",
+    "primary_languages": [
+      "Shell",
+      "Smalltalk",
+      "Objective",
+      "C"
+    ],
+    "contributions": 2,
+    "followers": "11"
+  },
+  {
+    "url": "https://github.com/mkobetic",
+    "language": "Smalltalk",
+    "full_name": "Martin Kobetic",
+    "username": "mkobetic",
+    "location": "",
+    "join_date": "Jun 23, 2011",
+    "popular_repos_stars": "5",
+    "primary_languages": [
+      "Go",
+      "Clojure"
+    ],
+    "contributions": 274,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/bergel",
+    "language": "Smalltalk",
+    "full_name": "Alexandre Bergel",
+    "username": "bergel",
+    "location": "Chile",
+    "join_date": "Sep 9, 2010",
+    "popular_repos_stars": "14",
+    "primary_languages": [
+      "Smalltalk",
+      "Shell"
+    ],
+    "contributions": 2,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/estebanlm",
+    "language": "Smalltalk",
+    "full_name": "Esteban Lorenzano",
+    "username": "estebanlm",
+    "location": "France",
+    "join_date": "Dec 7, 2010",
+    "popular_repos_stars": "3",
+    "primary_languages": [
+      "Smalltalk",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 176,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/noha",
+    "language": "Smalltalk",
+    "full_name": "Norbert Hartl",
+    "username": "noha",
+    "location": "cologne, germany",
+    "join_date": "Oct 7, 2009",
+    "popular_repos_stars": "14",
+    "primary_languages": [
+      "Shell",
+      "Smalltalk",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/mivsek",
+    "language": "Smalltalk",
+    "full_name": "Janko Mivšek",
+    "username": "mivsek",
+    "location": "Ljubljana, Slovenia",
+    "join_date": "Jan 4, 2011",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "Smalltalk"
+    ],
+    "contributions": 0,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/davidgraham",
+    "language": "Smalltalk",
+    "full_name": "David Graham",
+    "username": "davidgraham",
+    "location": "",
+    "join_date": "May 24, 2011",
+    "popular_repos_stars": "10",
+    "primary_languages": [
+      "Smalltalk",
+      "Shell"
+    ],
+    "contributions": 21,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/hhzl",
+    "language": "Smalltalk",
+    "full_name": "Hannes Hirzel",
+    "username": "hhzl",
+    "location": "",
+    "join_date": "Oct 8, 2011",
+    "popular_repos_stars": "4",
+    "primary_languages": [
+      "Smalltalk",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 188,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/RichardAlexanderGreen",
+    "language": "Smalltalk",
+    "full_name": "RichardAlexanderGreen",
+    "username": "RichardAlexanderGreen",
+    "location": "Ann Arbor, Michigan",
+    "join_date": "Jan 17, 2011",
+    "popular_repos_stars": "12",
+    "primary_languages": [
+      "Smalltalk",
+      "Python",
+      "Java"
+    ],
+    "contributions": 45,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/mathk",
+    "language": "Smalltalk",
+    "full_name": "Mathieu Suen",
+    "username": "mathk",
+    "location": "France",
+    "join_date": "Jun 25, 2010",
+    "popular_repos_stars": "17",
+    "primary_languages": [
+      "Smalltalk",
+      "C",
+      "Shell"
+    ],
+    "contributions": 225,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/theseion",
+    "language": "Smalltalk",
+    "full_name": "Max Leske",
+    "username": "theseion",
+    "location": "",
+    "join_date": "Apr 23, 2010",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "Smalltalk",
+      "Shell",
+      "C"
+    ],
+    "contributions": 9,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/janvrany",
+    "language": "Smalltalk",
+    "full_name": "Jan Vraný",
+    "username": "janvrany",
+    "location": "Dundee, UK",
+    "join_date": "May 10, 2009",
+    "popular_repos_stars": "5",
+    "primary_languages": [
+      "JavaScript",
+      "C",
+      "C"
+    ],
+    "contributions": 0,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/pmon",
+    "language": "Smalltalk",
+    "full_name": "",
+    "username": "pmon",
+    "location": "",
+    "join_date": "May 19, 2012",
+    "popular_repos_stars": "6",
+    "primary_languages": [
+      "Smalltalk"
+    ],
+    "contributions": 0,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/KenDickey",
+    "language": "Smalltalk",
+    "full_name": "Ken Dickey",
+    "username": "KenDickey",
+    "location": "",
+    "join_date": "Jan 3, 2013",
+    "popular_repos_stars": "3",
+    "primary_languages": [
+      "Smalltalk"
+    ],
+    "contributions": 123,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/martinmcclure",
+    "language": "Smalltalk",
+    "full_name": "",
+    "username": "martinmcclure",
+    "location": "",
+    "join_date": "Aug 29, 2012",
+    "popular_repos_stars": "22",
+    "primary_languages": [
+      "Smalltalk"
+    ],
+    "contributions": 32,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/guillep",
+    "language": "Smalltalk",
+    "full_name": "Guillermo",
+    "username": "guillep",
+    "location": "",
+    "join_date": "Apr 4, 2011",
+    "popular_repos_stars": "42",
+    "primary_languages": [
+      "Shell",
+      "Ruby",
+      "Smalltalk"
+    ],
+    "contributions": 249,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/runadrag",
+    "language": "Smalltalk",
+    "full_name": "",
+    "username": "runadrag",
+    "location": "",
+    "join_date": "Jan 2, 2013",
+    "popular_repos_stars": "3",
+    "primary_languages": [
+      "CSS"
+    ],
+    "contributions": 21,
+    "followers": "6"
+  }
+]

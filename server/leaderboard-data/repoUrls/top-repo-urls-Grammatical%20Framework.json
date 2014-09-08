@@ -1,7 +1,7 @@
 [
   {
     "url": "https://github.com/twbs/bootstrap",
-    "size": 156340,
+    "size": 157454,
     "language": "CSS"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "url": "https://github.com/robbyrussell/oh-my-zsh",
-    "size": 29363,
+    "size": 29345,
     "language": "Shell"
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "url": "https://github.com/facebook/react",
-    "size": 72519,
+    "size": 72480,
     "language": "JavaScript"
   },
   {

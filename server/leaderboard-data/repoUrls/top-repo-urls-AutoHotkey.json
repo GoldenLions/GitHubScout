@@ -35,6 +35,11 @@
     "language": "AutoHotkey"
   },
   {
+    "url": "https://github.com/octalmage/mDesktop",
+    "size": 738,
+    "language": "AutoHotkey"
+  },
+  {
     "url": "https://github.com/jgpaiva/GridMove",
     "size": 743,
     "language": "AutoHotkey"
@@ -85,18 +90,13 @@
     "language": "AutoHotkey"
   },
   {
-    "url": "https://github.com/stroebjo/autohotkey-windows-mac-keyboard",
-    "size": 118,
-    "language": "AutoHotkey"
-  },
-  {
     "url": "https://github.com/camerb/AHKs",
     "size": 8310,
     "language": "AutoHotkey"
   },
   {
-    "url": "https://github.com/victorwoo/vimdesktop",
-    "size": 1958,
+    "url": "https://github.com/stroebjo/autohotkey-windows-mac-keyboard",
+    "size": 118,
     "language": "AutoHotkey"
   }
 ]

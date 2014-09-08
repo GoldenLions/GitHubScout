@@ -1,0 +1,712 @@
+[
+  {
+    "url": "https://github.com/realmooncoin",
+    "language": "TypeScript",
+    "full_name": "",
+    "username": "realmooncoin",
+    "location": "",
+    "join_date": "Dec 28, 2013",
+    "popular_repos_stars": "5",
+    "primary_languages": [
+      "Python",
+      "Shell",
+      "IDL"
+    ],
+    "contributions": 3,
+    "followers": "36"
+  },
+  {
+    "url": "https://github.com/virtacoin",
+    "language": "TypeScript",
+    "full_name": "",
+    "username": "virtacoin",
+    "location": "",
+    "join_date": "Jun 6, 2014",
+    "popular_repos_stars": "59",
+    "primary_languages": [
+      "Shell",
+      "Python",
+      "C"
+    ],
+    "contributions": 1,
+    "followers": "36"
+  },
+  {
+    "url": "https://github.com/darkcoinproject",
+    "language": "TypeScript",
+    "full_name": "Darkcoin",
+    "username": "darkcoinproject",
+    "location": "",
+    "join_date": "Mar 1, 2014",
+    "popular_repos_stars": "104",
+    "primary_languages": [
+      "Shell",
+      "Python",
+      "CSS"
+    ],
+    "contributions": 36,
+    "followers": "25"
+  },
+  {
+    "url": "https://github.com/reddcoin",
+    "language": "TypeScript",
+    "full_name": "Reddcoin",
+    "username": "reddcoin",
+    "location": "",
+    "join_date": "Jan 6, 2014",
+    "popular_repos_stars": "172",
+    "primary_languages": [],
+    "contributions": 1,
+    "followers": "23"
+  },
+  {
+    "url": "https://github.com/VijayPande",
+    "language": "TypeScript",
+    "full_name": "Vijay Pande",
+    "username": "VijayPande",
+    "location": "Stanford, CA 94305",
+    "join_date": "Aug 31, 2012",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "17"
+  },
+  {
+    "url": "https://github.com/mikesart",
+    "language": "TypeScript",
+    "full_name": "Michael Sartain",
+    "username": "mikesart",
+    "location": "",
+    "join_date": "May 14, 2012",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "C",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 210,
+    "followers": "16"
+  },
+  {
+    "url": "https://github.com/FeatherCoin",
+    "language": "TypeScript",
+    "full_name": "Feathercoin",
+    "username": "FeatherCoin",
+    "location": "United Kingdom",
+    "join_date": "Apr 10, 2013",
+    "popular_repos_stars": "29",
+    "primary_languages": [
+      "Shell",
+      "C",
+      "C"
+    ],
+    "contributions": 46,
+    "followers": "14"
+  },
+  {
+    "url": "https://github.com/dasa",
+    "language": "TypeScript",
+    "full_name": "Dasa Paddock",
+    "username": "dasa",
+    "location": "Redlands, CA",
+    "join_date": "Jun 3, 2011",
+    "popular_repos_stars": "1",
+    "primary_languages": [
+      "TypeScript",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 88,
+    "followers": "13"
+  },
+  {
+    "url": "https://github.com/thbaumbach",
+    "language": "TypeScript",
+    "full_name": "Thomas Baumbach",
+    "username": "thbaumbach",
+    "location": "Jena, Germany",
+    "join_date": "Jun 7, 2013",
+    "popular_repos_stars": "98",
+    "primary_languages": [
+      "C",
+      "C",
+      "Assembly"
+    ],
+    "contributions": 10,
+    "followers": "12"
+  },
+  {
+    "url": "https://github.com/LAStools",
+    "language": "TypeScript",
+    "full_name": "Martin Isenburg",
+    "username": "LAStools",
+    "location": "",
+    "join_date": "Oct 6, 2011",
+    "popular_repos_stars": "2",
+    "primary_languages": [],
+    "contributions": 12,
+    "followers": "12"
+  },
+  {
+    "url": "https://github.com/baldurodinsson",
+    "language": "TypeScript",
+    "full_name": "",
+    "username": "baldurodinsson",
+    "location": "",
+    "join_date": "Jan 29, 2014",
+    "popular_repos_stars": "73",
+    "primary_languages": [
+      "IDL",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 22,
+    "followers": "11"
+  },
+  {
+    "url": "https://github.com/wolf9466",
+    "language": "TypeScript",
+    "full_name": "",
+    "username": "wolf9466",
+    "location": "",
+    "join_date": "Mar 9, 2013",
+    "popular_repos_stars": "24",
+    "primary_languages": [
+      "C",
+      "C",
+      "Shell"
+    ],
+    "contributions": 19,
+    "followers": "11"
+  },
+  {
+    "url": "https://github.com/monacoinproject",
+    "language": "TypeScript",
+    "full_name": "",
+    "username": "monacoinproject",
+    "location": "",
+    "join_date": "Dec 31, 2013",
+    "popular_repos_stars": "47",
+    "primary_languages": [
+      "Python",
+      "Shell",
+      "C"
+    ],
+    "contributions": 20,
+    "followers": "11"
+  },
+  {
+    "url": "https://github.com/blixnood",
+    "language": "TypeScript",
+    "full_name": "",
+    "username": "blixnood",
+    "location": "",
+    "join_date": "May 15, 2013",
+    "popular_repos_stars": "27",
+    "primary_languages": [
+      "CSS",
+      "JavaScript",
+      "Python"
+    ],
+    "contributions": 11,
+    "followers": "11"
+  },
+  {
+    "url": "https://github.com/bryceweiner",
+    "language": "TypeScript",
+    "full_name": "Bryce Weiner",
+    "username": "bryceweiner",
+    "location": "",
+    "join_date": "Mar 4, 2013",
+    "popular_repos_stars": "11",
+    "primary_languages": [
+      "Python",
+      "C",
+      "Shell"
+    ],
+    "contributions": 83,
+    "followers": "11"
+  },
+  {
+    "url": "https://github.com/Rallaz",
+    "language": "TypeScript",
+    "full_name": "",
+    "username": "Rallaz",
+    "location": "Eivissa, España",
+    "join_date": "Apr 17, 2011",
+    "popular_repos_stars": "6",
+    "primary_languages": [
+      "Prolog",
+      "C",
+      "C"
+    ],
+    "contributions": 16,
+    "followers": "11"
+  },
+  {
+    "url": "https://github.com/freebitcoin",
+    "language": "TypeScript",
+    "full_name": "FreeBTC",
+    "username": "freebitcoin",
+    "location": "",
+    "join_date": "Nov 24, 2013",
+    "popular_repos_stars": "62",
+    "primary_languages": [],
+    "contributions": 19,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/fastcoinproject",
+    "language": "TypeScript",
+    "full_name": "Cheetahx",
+    "username": "fastcoinproject",
+    "location": "Global",
+    "join_date": "May 28, 2013",
+    "popular_repos_stars": "15",
+    "primary_languages": [
+      "Python",
+      "Shell",
+      "C"
+    ],
+    "contributions": 0,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/michal-tomlein",
+    "language": "TypeScript",
+    "full_name": "Michal Tomlein",
+    "username": "michal-tomlein",
+    "location": "",
+    "join_date": "Dec 22, 2008",
+    "popular_repos_stars": "16",
+    "primary_languages": [
+      "Ruby",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 80,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/potcoin",
+    "language": "TypeScript",
+    "full_name": "Pot Coin",
+    "username": "potcoin",
+    "location": "Montreal",
+    "join_date": "Jan 12, 2014",
+    "popular_repos_stars": "16",
+    "primary_languages": [
+      "C",
+      "C",
+      "IDL"
+    ],
+    "contributions": 43,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/clarkminor",
+    "language": "TypeScript",
+    "full_name": "Clark Minor",
+    "username": "clarkminor",
+    "location": "Palo Alto, CA",
+    "join_date": "Dec 17, 2010",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "Python",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 0,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/Michagogo",
+    "language": "TypeScript",
+    "full_name": "",
+    "username": "Michagogo",
+    "location": "",
+    "join_date": "Oct 14, 2012",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "Shell",
+      "Ruby",
+      "Python"
+    ],
+    "contributions": 83,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/Nothing4You",
+    "language": "TypeScript",
+    "full_name": "Richard Schwab",
+    "username": "Nothing4You",
+    "location": "Bonn, Germany",
+    "join_date": "Feb 25, 2013",
+    "popular_repos_stars": "4",
+    "primary_languages": [
+      "Shell",
+      "Python",
+      "CSS"
+    ],
+    "contributions": 131,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/art0rz",
+    "language": "TypeScript",
+    "full_name": "",
+    "username": "art0rz",
+    "location": "",
+    "join_date": "Aug 9, 2010",
+    "popular_repos_stars": "1",
+    "primary_languages": [
+      "PHP",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "contributions": 25,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/reorder",
+    "language": "TypeScript",
+    "full_name": "",
+    "username": "reorder",
+    "location": "",
+    "join_date": "Dec 25, 2013",
+    "popular_repos_stars": "26",
+    "primary_languages": [
+      "C",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 20,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/freicoin",
+    "language": "TypeScript",
+    "full_name": "",
+    "username": "freicoin",
+    "location": "",
+    "join_date": "Jul 1, 2012",
+    "popular_repos_stars": "63",
+    "primary_languages": [
+      "Python",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 0,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/sorochan1967",
+    "language": "TypeScript",
+    "full_name": "",
+    "username": "sorochan1967",
+    "location": "",
+    "join_date": "Jul 2, 2014",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/tizianolattisi",
+    "language": "TypeScript",
+    "full_name": "Tiziano Lattisi",
+    "username": "tizianolattisi",
+    "location": "",
+    "join_date": "Mar 10, 2012",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "Java",
+      "Python",
+      "JavaScript"
+    ],
+    "contributions": 674,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/MaxUlysse",
+    "language": "TypeScript",
+    "full_name": "Maxime Garcia",
+    "username": "MaxUlysse",
+    "location": "Singapore",
+    "join_date": "Sep 1, 2011",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "CSS",
+      "TeX",
+      "Shell"
+    ],
+    "contributions": 182,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/brtz",
+    "language": "TypeScript",
+    "full_name": "Nils Bartels",
+    "username": "brtz",
+    "location": "",
+    "join_date": "Dec 7, 2012",
+    "popular_repos_stars": "5",
+    "primary_languages": [
+      "JavaScript",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 251,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/Bushstar",
+    "language": "TypeScript",
+    "full_name": "Peter Bushnell",
+    "username": "Bushstar",
+    "location": "Oxford, UK",
+    "join_date": "Aug 23, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "C",
+      "C",
+      "Shell"
+    ],
+    "contributions": 138,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/Semigradsky",
+    "language": "TypeScript",
+    "full_name": "Dmitry",
+    "username": "Semigradsky",
+    "location": "Minsk",
+    "join_date": "Nov 16, 2011",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "TypeScript"
+    ],
+    "contributions": 110,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/brezerk",
+    "language": "TypeScript",
+    "full_name": "Alexey S. Malakhov",
+    "username": "brezerk",
+    "location": "Kiev, Ukraine",
+    "join_date": "Sep 9, 2008",
+    "popular_repos_stars": "33",
+    "primary_languages": [
+      "Shell",
+      "C",
+      "C"
+    ],
+    "contributions": 45,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/zeitcoin",
+    "language": "TypeScript",
+    "full_name": "",
+    "username": "zeitcoin",
+    "location": "",
+    "join_date": "Feb 11, 2014",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "Python",
+      "Shell",
+      "C"
+    ],
+    "contributions": 12,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/MaxGuevara",
+    "language": "TypeScript",
+    "full_name": "",
+    "username": "MaxGuevara",
+    "location": "",
+    "join_date": "Jun 23, 2013",
+    "popular_repos_stars": "61",
+    "primary_languages": [
+      "C",
+      "C",
+      "Python"
+    ],
+    "contributions": 5,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/foo1inge",
+    "language": "TypeScript",
+    "full_name": "Foo Inge",
+    "username": "foo1inge",
+    "location": "",
+    "join_date": "Nov 5, 2013",
+    "popular_repos_stars": "55",
+    "primary_languages": [
+      "Python",
+      "Shell",
+      "Prolog"
+    ],
+    "contributions": 4,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/bonnici",
+    "language": "TypeScript",
+    "full_name": "",
+    "username": "bonnici",
+    "location": "",
+    "join_date": "Oct 7, 2011",
+    "popular_repos_stars": "24",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "TypeScript"
+    ],
+    "contributions": 148,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/ghostlander",
+    "language": "TypeScript",
+    "full_name": "John Doering",
+    "username": "ghostlander",
+    "location": "",
+    "join_date": "Jul 16, 2013",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "C",
+      "C",
+      "Shell"
+    ],
+    "contributions": 69,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/ltype",
+    "language": "TypeScript",
+    "full_name": "",
+    "username": "ltype",
+    "location": "",
+    "join_date": "Nov 28, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "Java"
+    ],
+    "contributions": 58,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/comcomist",
+    "language": "TypeScript",
+    "full_name": "",
+    "username": "comcomist",
+    "location": "",
+    "join_date": "Feb 16, 2011",
+    "popular_repos_stars": "2",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/kfenner",
+    "language": "TypeScript",
+    "full_name": "Kaspar Fenner",
+    "username": "kfenner",
+    "location": "",
+    "join_date": "Oct 15, 2013",
+    "popular_repos_stars": "1",
+    "primary_languages": [
+      "TypeScript"
+    ],
+    "contributions": 9,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/Naav",
+    "language": "TypeScript",
+    "full_name": "",
+    "username": "Naav",
+    "location": "",
+    "join_date": "Aug 31, 2009",
+    "popular_repos_stars": "20354",
+    "primary_languages": [],
+    "contributions": 86,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/pnagurny",
+    "language": "TypeScript",
+    "full_name": "Patrick Nagurny",
+    "username": "pnagurny",
+    "location": "",
+    "join_date": "Jun 19, 2012",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 14,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/marcospolanco",
+    "language": "TypeScript",
+    "full_name": "Marcos Polanco",
+    "username": "marcospolanco",
+    "location": "San Juan, Puerto Rico",
+    "join_date": "Jan 10, 2010",
+    "popular_repos_stars": "2",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/metacoin",
+    "language": "TypeScript",
+    "full_name": "",
+    "username": "metacoin",
+    "location": "",
+    "join_date": "Jul 7, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "Shell",
+      "PHP",
+      "Go"
+    ],
+    "contributions": 87,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/lzhl1993",
+    "language": "TypeScript",
+    "full_name": "Li Zhanliang",
+    "username": "lzhl1993",
+    "location": "",
+    "join_date": "Jul 16, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/ptrckbrwn",
+    "language": "TypeScript",
+    "full_name": "Patrick Brown",
+    "username": "ptrckbrwn",
+    "location": "Northampton, MA",
+    "join_date": "Apr 13, 2013",
+    "popular_repos_stars": "6",
+    "primary_languages": [
+      "CSS",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 350,
+    "followers": "6"
+  }
+]

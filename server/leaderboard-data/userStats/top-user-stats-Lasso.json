@@ -1,0 +1,70 @@
+[
+  {
+    "url": "https://github.com/ecoledesdonnees",
+    "language": "Lasso",
+    "full_name": "",
+    "username": "ecoledesdonnees",
+    "location": "",
+    "join_date": "Oct 25, 2013",
+    "popular_repos_stars": "6",
+    "primary_languages": [],
+    "contributions": 101,
+    "followers": "19"
+  },
+  {
+    "url": "https://github.com/MapleMap",
+    "language": "Lasso",
+    "full_name": "Illarionov Sergey",
+    "username": "MapleMap",
+    "location": "Cherkassy",
+    "join_date": "Oct 11, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 45,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/mycarta",
+    "language": "Lasso",
+    "full_name": "Matteo",
+    "username": "mycarta",
+    "location": "Canada",
+    "join_date": "Apr 27, 2014",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "Lasso",
+      "Python"
+    ],
+    "contributions": 17,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/predragstosic",
+    "language": "Lasso",
+    "full_name": "Predrag Stosic",
+    "username": "predragstosic",
+    "location": "",
+    "join_date": "Mar 27, 2012",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/iamjono",
+    "language": "Lasso",
+    "full_name": "Jonathan Guthrie",
+    "username": "iamjono",
+    "location": "Newmarket, Canada",
+    "join_date": "Mar 6, 2013",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "Lasso"
+    ],
+    "contributions": 161,
+    "followers": "6"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/genome/pindel",
+    "size": 84981,
+    "language": "SystemVerilog",
+    "commits": "616",
+    "stars": "25",
+    "forks": "9",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/getvictor/eda-playground",
+    "size": 34243,
+    "language": "SystemVerilog",
+    "commits": "114",
+    "stars": "10",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/swetland/zynq-sandbox",
+    "size": 475,
+    "language": "SystemVerilog",
+    "commits": "59",
+    "stars": "5",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/VerificationExcellence/SystemVerilogReference",
+    "size": 277,
+    "language": "SystemVerilog",
+    "commits": "20",
+    "stars": "4",
+    "forks": "4",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/cjdrake/AES",
+    "size": 236,
+    "language": "SystemVerilog",
+    "commits": "22",
+    "stars": "4",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/UCLONG/NetEmulation",
+    "size": 8201,
+    "language": "SystemVerilog",
+    "commits": "88",
+    "stars": "4",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/iDFLO/ece337project",
+    "size": 540,
+    "language": "SystemVerilog",
+    "commits": "112",
+    "stars": "3",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/rdsalemi/uvmprimer",
+    "size": 6224,
+    "language": "SystemVerilog",
+    "commits": "13",
+    "stars": "3",
+    "forks": "8",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/udit-gupta/cse502",
+    "size": 380,
+    "language": "SystemVerilog",
+    "commits": "104",
+    "stars": "2",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/sidharthms/asic-edge-detector",
+    "size": 6400,
+    "language": "SystemVerilog",
+    "commits": "84",
+    "stars": "2",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/kouamano/SOC",
+    "size": 281760,
+    "language": "SystemVerilog",
+    "commits": "16",
+    "stars": "2",
+    "forks": "1",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/VerificationExcellence/SystemVerilogAssertions",
+    "size": 172,
+    "language": "SystemVerilog",
+    "commits": "9",
+    "stars": "2",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/dovstamler/uvm_agents",
+    "size": 300,
+    "language": "SystemVerilog",
+    "commits": "6",
+    "stars": "2",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/arunov/musk",
+    "size": 776,
+    "language": "SystemVerilog",
+    "commits": "301",
+    "stars": "1",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/doswellf/combinator-uvm",
+    "size": 18998,
+    "language": "SystemVerilog",
+    "commits": "3",
+    "stars": "1",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/melt-umn/Oberon0",
+    "size": 188,
+    "language": "SystemVerilog",
+    "commits": "2",
+    "stars": "0",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/baylesj/vlsi",
+    "size": 1656,
+    "language": "SystemVerilog",
+    "commits": "51",
+    "stars": "0",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/ppnipuna/Asynchronous_FIFO",
+    "size": 408,
+    "language": "SystemVerilog",
+    "commits": "9",
+    "stars": "0",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/BenjaminSmith-cpe/Vic-1",
+    "size": 132,
+    "language": "SystemVerilog",
+    "commits": "2",
+    "stars": "0",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/CicyCui/Kalman-Filter",
+    "size": 388,
+    "language": "SystemVerilog",
+    "commits": "1",
+    "stars": "0",
+    "forks": "0",
+    "contributors": ""
+  }
+]

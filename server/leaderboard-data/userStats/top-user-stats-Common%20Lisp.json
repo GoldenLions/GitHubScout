@@ -1,0 +1,127 @@
+[
+  {
+    "url": "https://github.com/lisp",
+    "language": "Common Lisp",
+    "full_name": "james anderson",
+    "username": "lisp",
+    "location": "berlin",
+    "join_date": "Jan 28, 2010",
+    "popular_repos_stars": "87",
+    "primary_languages": [
+      "Common",
+      "Lisp",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 317,
+    "followers": "62"
+  },
+  {
+    "url": "https://github.com/Lispython",
+    "language": "Common Lisp",
+    "full_name": "Alexandr",
+    "username": "Lispython",
+    "location": "Universe",
+    "join_date": "Mar 20, 2010",
+    "popular_repos_stars": "152",
+    "primary_languages": [
+      "Python",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 203,
+    "followers": "29"
+  },
+  {
+    "url": "https://github.com/lisposter",
+    "language": "Common Lisp",
+    "full_name": "Leigh",
+    "username": "lisposter",
+    "location": "Hangzhou",
+    "join_date": "Apr 20, 2011",
+    "popular_repos_stars": "83",
+    "primary_languages": [
+      "JavaScript",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 325,
+    "followers": "26"
+  },
+  {
+    "url": "https://github.com/lispc",
+    "language": "Common Lisp",
+    "full_name": "张卓",
+    "username": "lispc",
+    "location": "Bejing",
+    "join_date": "Nov 19, 2012",
+    "popular_repos_stars": "3",
+    "primary_languages": [
+      "Shell",
+      "C",
+      "Python"
+    ],
+    "contributions": 95,
+    "followers": "25"
+  },
+  {
+    "url": "https://github.com/binghe",
+    "language": "Common Lisp",
+    "full_name": "Chun Tian (binghe)",
+    "username": "binghe",
+    "location": "China",
+    "join_date": "Dec 6, 2009",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "20"
+  },
+  {
+    "url": "https://github.com/lispm",
+    "language": "Common Lisp",
+    "full_name": "Rainer Joswig",
+    "username": "lispm",
+    "location": "Germany",
+    "join_date": "Jan 19, 2012",
+    "popular_repos_stars": "15",
+    "primary_languages": [
+      "Common",
+      "Lisp"
+    ],
+    "contributions": 0,
+    "followers": "11"
+  },
+  {
+    "url": "https://github.com/Lispless",
+    "language": "Common Lisp",
+    "full_name": "Kurt Henry",
+    "username": "Lispless",
+    "location": "",
+    "join_date": "Dec 17, 2013",
+    "popular_repos_stars": "13",
+    "primary_languages": [
+      "Ruby",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 198,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/lisp-korea",
+    "language": "Common Lisp",
+    "full_name": "",
+    "username": "lisp-korea",
+    "location": "",
+    "join_date": "Oct 24, 2010",
+    "popular_repos_stars": "42",
+    "primary_languages": [
+      "Common",
+      "Lisp",
+      "C",
+      "JavaScript"
+    ],
+    "contributions": 0,
+    "followers": "7"
+  }
+]

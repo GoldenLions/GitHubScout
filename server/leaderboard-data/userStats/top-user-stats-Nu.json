@@ -1,0 +1,36 @@
+[
+  {
+    "url": "https://github.com/patrickt",
+    "language": "Nu",
+    "full_name": "Patrick Thomson",
+    "username": "patrickt",
+    "location": "Pittsburgh, PA",
+    "join_date": "Mar 7, 2008",
+    "popular_repos_stars": "80",
+    "primary_languages": [
+      "Objective",
+      "C",
+      "Haskell",
+      "Nu"
+    ],
+    "contributions": 126,
+    "followers": "66"
+  },
+  {
+    "url": "https://github.com/alexthemitchell",
+    "language": "Nu",
+    "full_name": "Alex Mitchell",
+    "username": "alexthemitchell",
+    "location": "Grinnell, IA",
+    "join_date": "Oct 14, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "Objective",
+      "C",
+      "Swift",
+      "Ruby"
+    ],
+    "contributions": 418,
+    "followers": "6"
+  }
+]

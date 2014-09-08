@@ -26,7 +26,7 @@
   },
   {
     "url": "https://github.com/nmaguirre/eiffel-2048",
-    "size": 2069,
+    "size": 2247,
     "language": "Eiffel"
   },
   {
@@ -65,18 +65,13 @@
     "language": "Eiffel"
   },
   {
-    "url": "https://github.com/safe-eiffel/ecli",
-    "size": 4916,
-    "language": "Eiffel"
-  },
-  {
     "url": "https://github.com/safe-eiffel/lib",
     "size": 5892,
     "language": "Eiffel"
   },
   {
-    "url": "https://github.com/jocelyn-old/EiffelWebReloaded",
-    "size": 2945,
+    "url": "https://github.com/safe-eiffel/ecli",
+    "size": 4916,
     "language": "Eiffel"
   },
   {
@@ -87,6 +82,11 @@
   {
     "url": "https://github.com/scottgw/language-eiffel",
     "size": 625,
+    "language": "Eiffel"
+  },
+  {
+    "url": "https://github.com/jocelyn-old/EiffelWebReloaded",
+    "size": 2945,
     "language": "Eiffel"
   },
   {

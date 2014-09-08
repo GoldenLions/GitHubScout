@@ -10,8 +10,13 @@
     "language": "BlitzMax"
   },
   {
+    "url": "https://github.com/bmx-ng/bcc",
+    "size": 2548,
+    "language": "BlitzMax"
+  },
+  {
     "url": "https://github.com/GWRon/Dig",
-    "size": 10970,
+    "size": 11397,
     "language": "BlitzMax"
   },
   {
@@ -22,11 +27,6 @@
   {
     "url": "https://github.com/bmx-ng/maxgui.mod",
     "size": 771,
-    "language": "BlitzMax"
-  },
-  {
-    "url": "https://github.com/bmx-ng/bcc",
-    "size": 2548,
     "language": "BlitzMax"
   },
   {
@@ -50,6 +50,11 @@
     "language": "BlitzMax"
   },
   {
+    "url": "https://github.com/maxmods/brl.mod",
+    "size": 524,
+    "language": "BlitzMax"
+  },
+  {
     "url": "https://github.com/grable/handles.mod",
     "size": 124,
     "language": "BlitzMax"
@@ -57,11 +62,6 @@
   {
     "url": "https://github.com/bmx-ng/maxide",
     "size": 0,
-    "language": "BlitzMax"
-  },
-  {
-    "url": "https://github.com/maxmods/brl.mod",
-    "size": 524,
     "language": "BlitzMax"
   },
   {

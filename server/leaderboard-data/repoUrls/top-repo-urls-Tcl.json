@@ -90,13 +90,13 @@
     "language": "Tcl"
   },
   {
-    "url": "https://github.com/jamesoff/bmotion",
-    "size": 2550,
+    "url": "https://github.com/digistump/DigisparkExamplePrograms",
+    "size": 40608,
     "language": "Tcl"
   },
   {
-    "url": "https://github.com/digistump/DigisparkExamplePrograms",
-    "size": 40608,
+    "url": "https://github.com/jamesoff/bmotion",
+    "size": 2550,
     "language": "Tcl"
   }
 ]

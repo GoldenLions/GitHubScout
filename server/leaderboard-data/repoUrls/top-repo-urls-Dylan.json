@@ -60,6 +60,11 @@
     "language": "Dylan"
   },
   {
+    "url": "https://github.com/waywardmonkeys/clang-dylan",
+    "size": 96,
+    "language": "Dylan"
+  },
+  {
     "url": "https://github.com/nickik/RRB-Vector-in-Dylan",
     "size": 96,
     "language": "Dylan"
@@ -70,28 +75,23 @@
     "language": "Dylan"
   },
   {
-    "url": "https://github.com/dylan-lang/json",
-    "size": 151,
-    "language": "Dylan"
-  },
-  {
     "url": "https://github.com/dylan-lang/strings",
     "size": 265,
     "language": "Dylan"
   },
   {
-    "url": "https://github.com/waywardmonkeys/clang-dylan",
-    "size": 96,
-    "language": "Dylan"
-  },
-  {
-    "url": "https://github.com/dylan-lang/binary-data",
-    "size": 753,
+    "url": "https://github.com/dylan-lang/json",
+    "size": 151,
     "language": "Dylan"
   },
   {
     "url": "https://github.com/dylan-foundry/tracing",
     "size": 319,
+    "language": "Dylan"
+  },
+  {
+    "url": "https://github.com/dylan-lang/binary-data",
+    "size": 753,
     "language": "Dylan"
   },
   {

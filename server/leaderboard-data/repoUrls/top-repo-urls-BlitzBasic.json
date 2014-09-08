@@ -30,13 +30,13 @@
     "language": "BlitzBasic"
   },
   {
-    "url": "https://github.com/Angstrom-distribution/meta-ti",
-    "size": 11666,
+    "url": "https://github.com/openwebos/meta-webos",
+    "size": 11664,
     "language": "BlitzBasic"
   },
   {
-    "url": "https://github.com/openwebos/meta-webos",
-    "size": 11664,
+    "url": "https://github.com/Angstrom-distribution/meta-ti",
+    "size": 11666,
     "language": "BlitzBasic"
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "url": "https://github.com/openembedded/meta-openembedded",
-    "size": 22713,
+    "size": 22684,
     "language": "BlitzBasic"
   }
 ]

@@ -1,0 +1,1613 @@
+[
+  {
+    "url": "https://github.com/bos",
+    "language": "Haskell",
+    "full_name": "Bryan O'Sullivan",
+    "username": "bos",
+    "location": "",
+    "join_date": "Sep 5, 2008",
+    "popular_repos_stars": "1227",
+    "primary_languages": [
+      "Haskell",
+      "C",
+      "Python"
+    ],
+    "contributions": 1,
+    "followers": "869"
+  },
+  {
+    "url": "https://github.com/ekmett",
+    "language": "Haskell",
+    "full_name": "Edward Kmett",
+    "username": "ekmett",
+    "location": "Cambridge, MA",
+    "join_date": "Jun 14, 2010",
+    "popular_repos_stars": "808",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "C"
+    ],
+    "contributions": 3,
+    "followers": "679"
+  },
+  {
+    "url": "https://github.com/tonymorris",
+    "language": "Haskell",
+    "full_name": "Tony Morris",
+    "username": "tonymorris",
+    "location": "Brisbane",
+    "join_date": "Feb 25, 2010",
+    "popular_repos_stars": "451",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "Scala"
+    ],
+    "contributions": 1,
+    "followers": "579"
+  },
+  {
+    "url": "https://github.com/chrisdone",
+    "language": "Haskell",
+    "full_name": "Chris Done",
+    "username": "chrisdone",
+    "location": "Italy",
+    "join_date": "May 21, 2008",
+    "popular_repos_stars": "1344",
+    "primary_languages": [
+      "Haskell",
+      "Emacs",
+      "Lisp",
+      "Shell"
+    ],
+    "contributions": 2,
+    "followers": "462"
+  },
+  {
+    "url": "https://github.com/jgm",
+    "language": "Haskell",
+    "full_name": "John MacFarlane",
+    "username": "jgm",
+    "location": "Berkeley, CA",
+    "join_date": "Mar 13, 2008",
+    "popular_repos_stars": "5445",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "Perl"
+    ],
+    "contributions": 2,
+    "followers": "436"
+  },
+  {
+    "url": "https://github.com/mariusaeriksen",
+    "language": "Haskell",
+    "full_name": "marius a. eriksen",
+    "username": "mariusaeriksen",
+    "location": "sf, ca",
+    "join_date": "Nov 1, 2008",
+    "popular_repos_stars": "341",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "C"
+    ],
+    "contributions": 163,
+    "followers": "338"
+  },
+  {
+    "url": "https://github.com/simonmar",
+    "language": "Haskell",
+    "full_name": "Simon Marlow",
+    "username": "simonmar",
+    "location": "Cambridge, UK",
+    "join_date": "Feb 9, 2011",
+    "popular_repos_stars": "327",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "C"
+    ],
+    "contributions": 199,
+    "followers": "334"
+  },
+  {
+    "url": "https://github.com/snoyberg",
+    "language": "Haskell",
+    "full_name": "Michael Snoyman",
+    "username": "snoyberg",
+    "location": "Israel",
+    "join_date": "Jan 26, 2009",
+    "popular_repos_stars": "452",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "C"
+    ],
+    "contributions": 3,
+    "followers": "326"
+  },
+  {
+    "url": "https://github.com/evancz",
+    "language": "Haskell",
+    "full_name": "Evan Czaplicki",
+    "username": "evancz",
+    "location": "",
+    "join_date": "Apr 18, 2012",
+    "popular_repos_stars": "188",
+    "primary_languages": [
+      "Elm",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 2,
+    "followers": "317"
+  },
+  {
+    "url": "https://github.com/copumpkin",
+    "language": "Haskell",
+    "full_name": "Daniel Peebles",
+    "username": "copumpkin",
+    "location": "Connecticut",
+    "join_date": "Mar 8, 2008",
+    "popular_repos_stars": "97",
+    "primary_languages": [
+      "Haskell",
+      "C",
+      "Shell"
+    ],
+    "contributions": 125,
+    "followers": "284"
+  },
+  {
+    "url": "https://github.com/jaspervdj",
+    "language": "Haskell",
+    "full_name": "Jasper Van der Jeugt",
+    "username": "jaspervdj",
+    "location": "Lokeren & Ghent, Belgium",
+    "join_date": "Jun 15, 2009",
+    "popular_repos_stars": "1179",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 583,
+    "followers": "281"
+  },
+  {
+    "url": "https://github.com/batterseapower",
+    "language": "Haskell",
+    "full_name": "Max Bolingbroke",
+    "username": "batterseapower",
+    "location": "Rugby, UK",
+    "join_date": "Jul 26, 2008",
+    "popular_repos_stars": "164",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "C"
+    ],
+    "contributions": 78,
+    "followers": "273"
+  },
+  {
+    "url": "https://github.com/tibbe",
+    "language": "Haskell",
+    "full_name": "Johan Tibell",
+    "username": "tibbe",
+    "location": "Zurich, Switzerland",
+    "join_date": "Jul 16, 2008",
+    "popular_repos_stars": "599",
+    "primary_languages": [
+      "Haskell",
+      "C",
+      "Emacs",
+      "Lisp"
+    ],
+    "contributions": 407,
+    "followers": "239"
+  },
+  {
+    "url": "https://github.com/kazu-yamamoto",
+    "language": "Haskell",
+    "full_name": "Kazu Yamamoto",
+    "username": "kazu-yamamoto",
+    "location": "Tokyo, JAPAN",
+    "join_date": "Dec 9, 2009",
+    "popular_repos_stars": "554",
+    "primary_languages": [
+      "Haskell",
+      "C",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "237"
+  },
+  {
+    "url": "https://github.com/chriseidhof",
+    "language": "Haskell",
+    "full_name": "Chris Eidhof",
+    "username": "chriseidhof",
+    "location": "Berlin",
+    "join_date": "Apr 6, 2008",
+    "popular_repos_stars": "129",
+    "primary_languages": [
+      "Objective",
+      "C",
+      "Haskell",
+      "Ruby"
+    ],
+    "contributions": 256,
+    "followers": "225"
+  },
+  {
+    "url": "https://github.com/ezyang",
+    "language": "Haskell",
+    "full_name": "Edward Z. Yang",
+    "username": "ezyang",
+    "location": "Stanford, CA",
+    "join_date": "Jun 12, 2008",
+    "popular_repos_stars": "798",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "C"
+    ],
+    "contributions": 366,
+    "followers": "203"
+  },
+  {
+    "url": "https://github.com/colah",
+    "language": "Haskell",
+    "full_name": "Christopher Olah",
+    "username": "colah",
+    "location": "Toronto",
+    "join_date": "Mar 9, 2009",
+    "popular_repos_stars": "274",
+    "primary_languages": [
+      "Haskell",
+      "Python",
+      "JavaScript"
+    ],
+    "contributions": 124,
+    "followers": "187"
+  },
+  {
+    "url": "https://github.com/jonsterling",
+    "language": "Haskell",
+    "full_name": "Jonathan Sterling",
+    "username": "jonsterling",
+    "location": "Berkeley, CA",
+    "join_date": "Feb 16, 2009",
+    "popular_repos_stars": "272",
+    "primary_languages": [
+      "Haskell",
+      "Objective",
+      "C",
+      "Shell"
+    ],
+    "contributions": 699,
+    "followers": "185"
+  },
+  {
+    "url": "https://github.com/tanakh",
+    "language": "Haskell",
+    "full_name": "Hideyuki Tanaka",
+    "username": "tanakh",
+    "location": "Tokyo",
+    "join_date": "Jul 27, 2009",
+    "popular_repos_stars": "178",
+    "primary_languages": [
+      "Haskell",
+      "C",
+      "C"
+    ],
+    "contributions": 141,
+    "followers": "175"
+  },
+  {
+    "url": "https://github.com/joeyh",
+    "language": "Haskell",
+    "full_name": "Joey Hess",
+    "username": "joeyh",
+    "location": "",
+    "join_date": "Jul 8, 2008",
+    "popular_repos_stars": "1821",
+    "primary_languages": [
+      "Shell",
+      "Haskell",
+      "Perl"
+    ],
+    "contributions": 5,
+    "followers": "170"
+  },
+  {
+    "url": "https://github.com/ocharles",
+    "language": "Haskell",
+    "full_name": "Oliver Charles",
+    "username": "ocharles",
+    "location": "London",
+    "join_date": "Aug 16, 2008",
+    "popular_repos_stars": "262",
+    "primary_languages": [
+      "Haskell",
+      "Perl",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "166"
+  },
+  {
+    "url": "https://github.com/Gabriel439",
+    "language": "Haskell",
+    "full_name": "Gabriel Gonzalez",
+    "username": "Gabriel439",
+    "location": "San Francisco",
+    "join_date": "Jan 8, 2012",
+    "popular_repos_stars": "275",
+    "primary_languages": [
+      "Haskell",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 800,
+    "followers": "165"
+  },
+  {
+    "url": "https://github.com/pbrisbin",
+    "language": "Haskell",
+    "full_name": "pat brisbin",
+    "username": "pbrisbin",
+    "location": "cambridge, ma",
+    "join_date": "Jan 31, 2009",
+    "popular_repos_stars": "270",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 1,
+    "followers": "158"
+  },
+  {
+    "url": "https://github.com/bjin",
+    "language": "Haskell",
+    "full_name": "Bin Jin",
+    "username": "bjin",
+    "location": "",
+    "join_date": "Jan 2, 2010",
+    "popular_repos_stars": "29",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "C"
+    ],
+    "contributions": 138,
+    "followers": "147"
+  },
+  {
+    "url": "https://github.com/mraleph",
+    "language": "Haskell",
+    "full_name": "Vyacheslav Egorov",
+    "username": "mraleph",
+    "location": "Aarhus, Denmark",
+    "join_date": "Sep 27, 2009",
+    "popular_repos_stars": "60",
+    "primary_languages": [
+      "JavaScript",
+      "Shell",
+      "Dart"
+    ],
+    "contributions": 237,
+    "followers": "141"
+  },
+  {
+    "url": "https://github.com/simonpj",
+    "language": "Haskell",
+    "full_name": "",
+    "username": "simonpj",
+    "location": "",
+    "join_date": "Jan 26, 2011",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "Haskell",
+      "Puppet",
+      "Assembly"
+    ],
+    "contributions": 516,
+    "followers": "132"
+  },
+  {
+    "url": "https://github.com/dysinger",
+    "language": "Haskell",
+    "full_name": "Tim Dysinger",
+    "username": "dysinger",
+    "location": "Hawaii",
+    "join_date": "Feb 19, 2008",
+    "popular_repos_stars": "132",
+    "primary_languages": [
+      "Haskell",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 571,
+    "followers": "128"
+  },
+  {
+    "url": "https://github.com/edwinb",
+    "language": "Haskell",
+    "full_name": "Edwin Brady",
+    "username": "edwinb",
+    "location": "",
+    "join_date": "Apr 28, 2010",
+    "popular_repos_stars": "173",
+    "primary_languages": [
+      "Idris",
+      "C",
+      "Perl"
+    ],
+    "contributions": 1,
+    "followers": "127"
+  },
+  {
+    "url": "https://github.com/MaskRay",
+    "language": "Haskell",
+    "full_name": "Ray Song",
+    "username": "MaskRay",
+    "location": "",
+    "join_date": "Sep 26, 2010",
+    "popular_repos_stars": "107",
+    "primary_languages": [
+      "C",
+      "Haskell",
+      "CoffeeScript"
+    ],
+    "contributions": 148,
+    "followers": "127"
+  },
+  {
+    "url": "https://github.com/thoughtpolice",
+    "language": "Haskell",
+    "full_name": "Austin Seipp",
+    "username": "thoughtpolice",
+    "location": "Austin, TX",
+    "join_date": "Mar 18, 2008",
+    "popular_repos_stars": "129",
+    "primary_languages": [
+      "Haskell",
+      "C",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "123"
+  },
+  {
+    "url": "https://github.com/cartazio",
+    "language": "Haskell",
+    "full_name": "Carter Tazio Schonwald",
+    "username": "cartazio",
+    "location": "NYC, USA",
+    "join_date": "Apr 2, 2008",
+    "popular_repos_stars": "15",
+    "primary_languages": [
+      "Haskell",
+      "C",
+      "Shell"
+    ],
+    "contributions": 711,
+    "followers": "116"
+  },
+  {
+    "url": "https://github.com/jekor",
+    "language": "Haskell",
+    "full_name": "Chris Forno",
+    "username": "jekor",
+    "location": "",
+    "join_date": "Oct 6, 2009",
+    "popular_repos_stars": "147",
+    "primary_languages": [
+      "Haskell",
+      "Nix",
+      "Shell"
+    ],
+    "contributions": 82,
+    "followers": "115"
+  },
+  {
+    "url": "https://github.com/feuerbach",
+    "language": "Haskell",
+    "full_name": "Roman Cheplyaka",
+    "username": "feuerbach",
+    "location": "Ukraine",
+    "join_date": "Sep 16, 2008",
+    "popular_repos_stars": "216",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 1,
+    "followers": "114"
+  },
+  {
+    "url": "https://github.com/brow",
+    "language": "Haskell",
+    "full_name": "Tom Brow",
+    "username": "brow",
+    "location": "San Francisco, CA",
+    "join_date": "Apr 6, 2010",
+    "popular_repos_stars": "1534",
+    "primary_languages": [
+      "Objective",
+      "C",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 89,
+    "followers": "111"
+  },
+  {
+    "url": "https://github.com/jgoerzen",
+    "language": "Haskell",
+    "full_name": "John Goerzen",
+    "username": "jgoerzen",
+    "location": "",
+    "join_date": "Aug 7, 2009",
+    "popular_repos_stars": "432",
+    "primary_languages": [
+      "Haskell",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 106,
+    "followers": "109"
+  },
+  {
+    "url": "https://github.com/byorgey",
+    "language": "Haskell",
+    "full_name": "Brent Yorgey",
+    "username": "byorgey",
+    "location": "Philadelphia, PA, USA",
+    "join_date": "Dec 22, 2010",
+    "popular_repos_stars": "38",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "Perl"
+    ],
+    "contributions": 2,
+    "followers": "108"
+  },
+  {
+    "url": "https://github.com/vincenthz",
+    "language": "Haskell",
+    "full_name": "Vincent Hanquez",
+    "username": "vincenthz",
+    "location": "",
+    "join_date": "Dec 31, 2009",
+    "popular_repos_stars": "386",
+    "primary_languages": [
+      "Haskell",
+      "C",
+      "Shell"
+    ],
+    "contributions": 856,
+    "followers": "102"
+  },
+  {
+    "url": "https://github.com/jkff",
+    "language": "Haskell",
+    "full_name": "Eugene Kirpichov",
+    "username": "jkff",
+    "location": "Mountain View, CA",
+    "join_date": "Jul 25, 2010",
+    "popular_repos_stars": "172",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 34,
+    "followers": "100"
+  },
+  {
+    "url": "https://github.com/mchakravarty",
+    "language": "Haskell",
+    "full_name": "Manuel M T Chakravarty",
+    "username": "mchakravarty",
+    "location": "Sydney",
+    "join_date": "Apr 4, 2011",
+    "popular_repos_stars": "246",
+    "primary_languages": [
+      "Haskell",
+      "C",
+      "Shell"
+    ],
+    "contributions": 187,
+    "followers": "99"
+  },
+  {
+    "url": "https://github.com/yihuang",
+    "language": "Haskell",
+    "full_name": "yihuang",
+    "username": "yihuang",
+    "location": "Shenzhen, China",
+    "join_date": "Apr 2, 2010",
+    "popular_repos_stars": "86",
+    "primary_languages": [
+      "Haskell",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 99,
+    "followers": "99"
+  },
+  {
+    "url": "https://github.com/dpiponi",
+    "language": "Haskell",
+    "full_name": "",
+    "username": "dpiponi",
+    "location": "",
+    "join_date": "Dec 30, 2009",
+    "popular_repos_stars": "57",
+    "primary_languages": [
+      "Haskell",
+      "Python",
+      "C"
+    ],
+    "contributions": 19,
+    "followers": "96"
+  },
+  {
+    "url": "https://github.com/TikhonJelvis",
+    "language": "Haskell",
+    "full_name": "Tikhon Jelvis",
+    "username": "TikhonJelvis",
+    "location": "Berkeley, California",
+    "join_date": "Feb 17, 2011",
+    "popular_repos_stars": "32",
+    "primary_languages": [
+      "Haskell",
+      "JavaScript",
+      "Emacs",
+      "Lisp"
+    ],
+    "contributions": 457,
+    "followers": "92"
+  },
+  {
+    "url": "https://github.com/gregorycollins",
+    "language": "Haskell",
+    "full_name": "Gregory Collins",
+    "username": "gregorycollins",
+    "location": "Zurich, Switzerland",
+    "join_date": "Dec 1, 2008",
+    "popular_repos_stars": "84",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "C"
+    ],
+    "contributions": 221,
+    "followers": "92"
+  },
+  {
+    "url": "https://github.com/conal",
+    "language": "Haskell",
+    "full_name": "Conal Elliott",
+    "username": "conal",
+    "location": "San Andreas, California, USA",
+    "join_date": "Sep 14, 2010",
+    "popular_repos_stars": "77",
+    "primary_languages": [
+      "Haskell",
+      "Perl",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "92"
+  },
+  {
+    "url": "https://github.com/singpolyma",
+    "language": "Haskell",
+    "full_name": "Stephen Paul Weber",
+    "username": "singpolyma",
+    "location": "Canada",
+    "join_date": "Jun 5, 2008",
+    "popular_repos_stars": "123",
+    "primary_languages": [
+      "Haskell",
+      "Ruby",
+      "C"
+    ],
+    "contributions": 556,
+    "followers": "89"
+  },
+  {
+    "url": "https://github.com/kfish",
+    "language": "Haskell",
+    "full_name": "Conrad Parker",
+    "username": "kfish",
+    "location": "Sydney",
+    "join_date": "Dec 7, 2008",
+    "popular_repos_stars": "116",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "C"
+    ],
+    "contributions": 119,
+    "followers": "88"
+  },
+  {
+    "url": "https://github.com/fumieval",
+    "language": "Haskell",
+    "full_name": "Fumiaki Kinoshita",
+    "username": "fumieval",
+    "location": "Ibaraki",
+    "join_date": "May 1, 2011",
+    "popular_repos_stars": "83",
+    "primary_languages": [
+      "Haskell",
+      "Python",
+      "C"
+    ],
+    "contributions": 323,
+    "followers": "84"
+  },
+  {
+    "url": "https://github.com/mzero",
+    "language": "Haskell",
+    "full_name": "Mark Lentczner",
+    "username": "mzero",
+    "location": "Mountain View, California",
+    "join_date": "Oct 1, 2010",
+    "popular_repos_stars": "178",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 123,
+    "followers": "84"
+  },
+  {
+    "url": "https://github.com/kmcallister",
+    "language": "Haskell",
+    "full_name": "Keegan McAllister",
+    "username": "kmcallister",
+    "location": "San Francisco, CA",
+    "join_date": "Oct 18, 2010",
+    "popular_repos_stars": "139",
+    "primary_languages": [
+      "Rust",
+      "C",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "83"
+  },
+  {
+    "url": "https://github.com/mightybyte",
+    "language": "Haskell",
+    "full_name": "Doug Beardsley",
+    "username": "mightybyte",
+    "location": "New York City",
+    "join_date": "May 6, 2008",
+    "popular_repos_stars": "69",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "C"
+    ],
+    "contributions": 283,
+    "followers": "81"
+  },
+  {
+    "url": "https://github.com/yogsototh",
+    "language": "Haskell",
+    "full_name": "Yann Esposito",
+    "username": "yogsototh",
+    "location": "Sophia Antipolis, France",
+    "join_date": "Jun 10, 2009",
+    "popular_repos_stars": "68",
+    "primary_languages": [
+      "Shell",
+      "Haskell",
+      "JavaScript"
+    ],
+    "contributions": 387,
+    "followers": "81"
+  },
+  {
+    "url": "https://github.com/sebastiaanvisser",
+    "language": "Haskell",
+    "full_name": "Sebastiaan Visser",
+    "username": "sebastiaanvisser",
+    "location": "Utrecht, Amsterdam, The Netherlands",
+    "join_date": "Feb 13, 2009",
+    "popular_repos_stars": "201",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 215,
+    "followers": "80"
+  },
+  {
+    "url": "https://github.com/maoe",
+    "language": "Haskell",
+    "full_name": "Mitsutoshi Aoe",
+    "username": "maoe",
+    "location": "Tokyo, Japan",
+    "join_date": "Jul 15, 2009",
+    "popular_repos_stars": "46",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 503,
+    "followers": "80"
+  },
+  {
+    "url": "https://github.com/mwotton",
+    "language": "Haskell",
+    "full_name": "Mark Wotton",
+    "username": "mwotton",
+    "location": "Da Nang, Vietnam",
+    "join_date": "Mar 29, 2009",
+    "popular_repos_stars": "278",
+    "primary_languages": [
+      "Haskell",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 149,
+    "followers": "77"
+  },
+  {
+    "url": "https://github.com/divarvel",
+    "language": "Haskell",
+    "full_name": "Clément Delafargue",
+    "username": "divarvel",
+    "location": "Nantes, France",
+    "join_date": "Dec 28, 2009",
+    "popular_repos_stars": "61",
+    "primary_languages": [
+      "Haskell",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 185,
+    "followers": "76"
+  },
+  {
+    "url": "https://github.com/solidsnack",
+    "language": "Haskell",
+    "full_name": "Jason Dusek",
+    "username": "solidsnack",
+    "location": "San Francisco, CA",
+    "join_date": "Nov 13, 2009",
+    "popular_repos_stars": "103",
+    "primary_languages": [
+      "Shell",
+      "Haskell",
+      "Python"
+    ],
+    "contributions": 535,
+    "followers": "76"
+  },
+  {
+    "url": "https://github.com/pi8027",
+    "language": "Haskell",
+    "full_name": "Kazuhiko Sakaguchi",
+    "username": "pi8027",
+    "location": "Tsukuba, Ibaraki, Japan",
+    "join_date": "Aug 1, 2009",
+    "popular_repos_stars": "65",
+    "primary_languages": [
+      "Haskell",
+      "C",
+      "Coq"
+    ],
+    "contributions": 219,
+    "followers": "75"
+  },
+  {
+    "url": "https://github.com/BartMassey",
+    "language": "Haskell",
+    "full_name": "Bart Massey",
+    "username": "BartMassey",
+    "location": "Portland, OR USA",
+    "join_date": "Aug 19, 2009",
+    "popular_repos_stars": "25",
+    "primary_languages": [
+      "Haskell",
+      "C",
+      "Shell"
+    ],
+    "contributions": 390,
+    "followers": "75"
+  },
+  {
+    "url": "https://github.com/rrnewton",
+    "language": "Haskell",
+    "full_name": "Ryan Newton",
+    "username": "rrnewton",
+    "location": "IN",
+    "join_date": "May 12, 2010",
+    "popular_repos_stars": "74",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "C"
+    ],
+    "contributions": 2,
+    "followers": "74"
+  },
+  {
+    "url": "https://github.com/kosmikus",
+    "language": "Haskell",
+    "full_name": "Andres Löh",
+    "username": "kosmikus",
+    "location": "Regensburg",
+    "join_date": "Jun 1, 2010",
+    "popular_repos_stars": "42",
+    "primary_languages": [
+      "Haskell",
+      "C",
+      "Shell"
+    ],
+    "contributions": 208,
+    "followers": "73"
+  },
+  {
+    "url": "https://github.com/pigworker",
+    "language": "Haskell",
+    "full_name": "Conor McBride",
+    "username": "pigworker",
+    "location": "Glasgow",
+    "join_date": "Feb 27, 2013",
+    "popular_repos_stars": "123",
+    "primary_languages": [
+      "Haskell",
+      "Agda",
+      "TeX"
+    ],
+    "contributions": 85,
+    "followers": "73"
+  },
+  {
+    "url": "https://github.com/basvandijk",
+    "language": "Haskell",
+    "full_name": "Bas van Dijk",
+    "username": "basvandijk",
+    "location": "Zurich, Switzerland",
+    "join_date": "Jan 21, 2011",
+    "popular_repos_stars": "57",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "C"
+    ],
+    "contributions": 268,
+    "followers": "71"
+  },
+  {
+    "url": "https://github.com/HeinrichApfelmus",
+    "language": "Haskell",
+    "full_name": "Heinrich Apfelmus",
+    "username": "HeinrichApfelmus",
+    "location": "",
+    "join_date": "Jan 14, 2011",
+    "popular_repos_stars": "354",
+    "primary_languages": [
+      "Haskell",
+      "TeX",
+      "Common",
+      "Lisp"
+    ],
+    "contributions": 275,
+    "followers": "70"
+  },
+  {
+    "url": "https://github.com/nfjinjing",
+    "language": "Haskell",
+    "full_name": "Jinjing Wang",
+    "username": "nfjinjing",
+    "location": "Beijing, China",
+    "join_date": "Apr 2, 2010",
+    "popular_repos_stars": "149",
+    "primary_languages": [
+      "Haskell",
+      "Ruby",
+      "Python"
+    ],
+    "contributions": 133,
+    "followers": "67"
+  },
+  {
+    "url": "https://github.com/dterei",
+    "language": "Haskell",
+    "full_name": "David Terei",
+    "username": "dterei",
+    "location": "San Francisco, USA",
+    "join_date": "Apr 29, 2009",
+    "popular_repos_stars": "68",
+    "primary_languages": [
+      "C",
+      "Haskell",
+      "Shell"
+    ],
+    "contributions": 204,
+    "followers": "66"
+  },
+  {
+    "url": "https://github.com/egisatoshi",
+    "language": "Haskell",
+    "full_name": "Satoshi Egi",
+    "username": "egisatoshi",
+    "location": "Tokyo, Japan",
+    "join_date": "Apr 26, 2011",
+    "popular_repos_stars": "5",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 1,
+    "followers": "66"
+  },
+  {
+    "url": "https://github.com/sol",
+    "language": "Haskell",
+    "full_name": "Simon Hengel",
+    "username": "sol",
+    "location": "Singapore",
+    "join_date": "Oct 30, 2010",
+    "popular_repos_stars": "116",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "C"
+    ],
+    "contributions": 976,
+    "followers": "66"
+  },
+  {
+    "url": "https://github.com/nominolo",
+    "language": "Haskell",
+    "full_name": "Thomas Schilling",
+    "username": "nominolo",
+    "location": "Zürich, Switzerland",
+    "join_date": "Apr 8, 2008",
+    "popular_repos_stars": "263",
+    "primary_languages": [
+      "Haskell",
+      "C",
+      "Shell"
+    ],
+    "contributions": 112,
+    "followers": "64"
+  },
+  {
+    "url": "https://github.com/aculich",
+    "language": "Haskell",
+    "full_name": "Aaron Culich",
+    "username": "aculich",
+    "location": "Berkeley, CA",
+    "join_date": "Aug 24, 2009",
+    "popular_repos_stars": "111",
+    "primary_languages": [
+      "Emacs",
+      "Lisp",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 71,
+    "followers": "64"
+  },
+  {
+    "url": "https://github.com/dmalikov",
+    "language": "Haskell",
+    "full_name": "Dmitry Malikov",
+    "username": "dmalikov",
+    "location": "Moscow, Zelenograd",
+    "join_date": "Aug 22, 2011",
+    "popular_repos_stars": "34",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 302,
+    "followers": "63"
+  },
+  {
+    "url": "https://github.com/roman",
+    "language": "Haskell",
+    "full_name": "Roman Gonzalez",
+    "username": "roman",
+    "location": "Vancouver, BC",
+    "join_date": "Apr 14, 2008",
+    "popular_repos_stars": "358",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "Emacs",
+      "Lisp"
+    ],
+    "contributions": 179,
+    "followers": "62"
+  },
+  {
+    "url": "https://github.com/clockfort",
+    "language": "Haskell",
+    "full_name": "Chris Lockfort",
+    "username": "clockfort",
+    "location": "Palo Alto, CA",
+    "join_date": "Feb 23, 2009",
+    "popular_repos_stars": "71",
+    "primary_languages": [
+      "C",
+      "Shell",
+      "Haskell"
+    ],
+    "contributions": 15,
+    "followers": "61"
+  },
+  {
+    "url": "https://github.com/sjoerdvisscher",
+    "language": "Haskell",
+    "full_name": "Sjoerd Visscher",
+    "username": "sjoerdvisscher",
+    "location": "Den Haag, NL",
+    "join_date": "Jan 10, 2009",
+    "popular_repos_stars": "51",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 182,
+    "followers": "61"
+  },
+  {
+    "url": "https://github.com/ozataman",
+    "language": "Haskell",
+    "full_name": "Ozgun Ataman",
+    "username": "ozataman",
+    "location": "New York, NY, USA",
+    "join_date": "Jun 15, 2008",
+    "popular_repos_stars": "74",
+    "primary_languages": [
+      "Haskell",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 286,
+    "followers": "61"
+  },
+  {
+    "url": "https://github.com/eagletmt",
+    "language": "Haskell",
+    "full_name": "Kohei Suzuki",
+    "username": "eagletmt",
+    "location": "Tokyo, Japan",
+    "join_date": "Apr 2, 2009",
+    "popular_repos_stars": "480",
+    "primary_languages": [
+      "Ruby",
+      "VimL",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "60"
+  },
+  {
+    "url": "https://github.com/valderman",
+    "language": "Haskell",
+    "full_name": "Anton Ekblad",
+    "username": "valderman",
+    "location": "Sweden",
+    "join_date": "May 6, 2009",
+    "popular_repos_stars": "680",
+    "primary_languages": [
+      "Haskell",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 723,
+    "followers": "58"
+  },
+  {
+    "url": "https://github.com/gwern",
+    "language": "Haskell",
+    "full_name": "",
+    "username": "gwern",
+    "location": "",
+    "join_date": "Aug 3, 2010",
+    "popular_repos_stars": "57",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "57"
+  },
+  {
+    "url": "https://github.com/BartoszMilewski",
+    "language": "Haskell",
+    "full_name": "Bartosz Milewski",
+    "username": "BartoszMilewski",
+    "location": "Seattle, WA",
+    "join_date": "May 19, 2011",
+    "popular_repos_stars": "99",
+    "primary_languages": [
+      "C",
+      "C",
+      "Haskell"
+    ],
+    "contributions": 29,
+    "followers": "57"
+  },
+  {
+    "url": "https://github.com/yav",
+    "language": "Haskell",
+    "full_name": "Iavor S. Diatchki",
+    "username": "yav",
+    "location": "",
+    "join_date": "Jun 2, 2008",
+    "popular_repos_stars": "43",
+    "primary_languages": [
+      "Haskell",
+      "C",
+      "CSS"
+    ],
+    "contributions": 157,
+    "followers": "55"
+  },
+  {
+    "url": "https://github.com/jochu",
+    "language": "Haskell",
+    "full_name": "Jeffrey Chu",
+    "username": "jochu",
+    "location": "",
+    "join_date": "Apr 3, 2008",
+    "popular_repos_stars": "399",
+    "primary_languages": [
+      "Haskell",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 3,
+    "followers": "55"
+  },
+  {
+    "url": "https://github.com/ndmitchell",
+    "language": "Haskell",
+    "full_name": "Neil Mitchell",
+    "username": "ndmitchell",
+    "location": "Cambridge, UK",
+    "join_date": "Apr 17, 2012",
+    "popular_repos_stars": "548",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "TeX"
+    ],
+    "contributions": 2,
+    "followers": "55"
+  },
+  {
+    "url": "https://github.com/rianhunter",
+    "language": "Haskell",
+    "full_name": "Rian Hunter",
+    "username": "rianhunter",
+    "location": "San Francisco",
+    "join_date": "Aug 28, 2009",
+    "popular_repos_stars": "16",
+    "primary_languages": [
+      "C",
+      "C",
+      "Python"
+    ],
+    "contributions": 1,
+    "followers": "53"
+  },
+  {
+    "url": "https://github.com/dcoutts",
+    "language": "Haskell",
+    "full_name": "Duncan Coutts",
+    "username": "dcoutts",
+    "location": "",
+    "join_date": "Jan 17, 2012",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "Haskell",
+      "C",
+      "Shell"
+    ],
+    "contributions": 221,
+    "followers": "52"
+  },
+  {
+    "url": "https://github.com/melpon",
+    "language": "Haskell",
+    "full_name": "melpon",
+    "username": "melpon",
+    "location": "",
+    "join_date": "May 28, 2011",
+    "popular_repos_stars": "118",
+    "primary_languages": [
+      "Shell",
+      "Haskell",
+      "JavaScript"
+    ],
+    "contributions": 514,
+    "followers": "52"
+  },
+  {
+    "url": "https://github.com/norm2782",
+    "language": "Haskell",
+    "full_name": "Jurriën Stutterheim",
+    "username": "norm2782",
+    "location": "The Netherlands",
+    "join_date": "Aug 7, 2008",
+    "popular_repos_stars": "50",
+    "primary_languages": [
+      "Haskell",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 6,
+    "followers": "51"
+  },
+  {
+    "url": "https://github.com/luqui",
+    "language": "Haskell",
+    "full_name": "Luke Palmer",
+    "username": "luqui",
+    "location": "Boulder, CO",
+    "join_date": "Sep 2, 2008",
+    "popular_repos_stars": "81",
+    "primary_languages": [
+      "Haskell",
+      "JavaScript",
+      "Perl"
+    ],
+    "contributions": 45,
+    "followers": "51"
+  },
+  {
+    "url": "https://github.com/chris-taylor",
+    "language": "Haskell",
+    "full_name": "Chris Taylor",
+    "username": "chris-taylor",
+    "location": "London",
+    "join_date": "Jul 22, 2011",
+    "popular_repos_stars": "209",
+    "primary_languages": [
+      "Haskell",
+      "Matlab",
+      "Python"
+    ],
+    "contributions": 32,
+    "followers": "51"
+  },
+  {
+    "url": "https://github.com/nh2",
+    "language": "Haskell",
+    "full_name": "Niklas Hambüchen",
+    "username": "nh2",
+    "location": "",
+    "join_date": "Sep 14, 2010",
+    "popular_repos_stars": "74",
+    "primary_languages": [
+      "Haskell",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 4,
+    "followers": "51"
+  },
+  {
+    "url": "https://github.com/bjpop",
+    "language": "Haskell",
+    "full_name": "Bernie Pope",
+    "username": "bjpop",
+    "location": "",
+    "join_date": "Mar 3, 2010",
+    "popular_repos_stars": "393",
+    "primary_languages": [
+      "Python",
+      "Haskell",
+      "C"
+    ],
+    "contributions": 379,
+    "followers": "51"
+  },
+  {
+    "url": "https://github.com/alpmestan",
+    "language": "Haskell",
+    "full_name": "Alp Mestanogullari",
+    "username": "alpmestan",
+    "location": "Marseille, France",
+    "join_date": "Aug 25, 2009",
+    "popular_repos_stars": "68",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "C"
+    ],
+    "contributions": 299,
+    "followers": "51"
+  },
+  {
+    "url": "https://github.com/mikeizbicki",
+    "language": "Haskell",
+    "full_name": "Mike Izbicki",
+    "username": "mikeizbicki",
+    "location": "Riverside, CA",
+    "join_date": "Sep 15, 2011",
+    "popular_repos_stars": "377",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "C"
+    ],
+    "contributions": 407,
+    "followers": "50"
+  },
+  {
+    "url": "https://github.com/osa1",
+    "language": "Haskell",
+    "full_name": "Ömer Sinan Ağacan",
+    "username": "osa1",
+    "location": "Ankara",
+    "join_date": "Oct 21, 2010",
+    "popular_repos_stars": "38",
+    "primary_languages": [
+      "Haskell",
+      "JavaScript",
+      "Python"
+    ],
+    "contributions": 959,
+    "followers": "50"
+  },
+  {
+    "url": "https://github.com/darinmorrison",
+    "language": "Haskell",
+    "full_name": "Darin Morrison",
+    "username": "darinmorrison",
+    "location": "",
+    "join_date": "Nov 10, 2009",
+    "popular_repos_stars": "71",
+    "primary_languages": [
+      "Shell",
+      "Haskell",
+      "CoffeeScript"
+    ],
+    "contributions": 295,
+    "followers": "50"
+  },
+  {
+    "url": "https://github.com/tomahawkins",
+    "language": "Haskell",
+    "full_name": "",
+    "username": "tomahawkins",
+    "location": "",
+    "join_date": "May 19, 2009",
+    "popular_repos_stars": "133",
+    "primary_languages": [
+      "Haskell",
+      "C",
+      "Common",
+      "Lisp"
+    ],
+    "contributions": 196,
+    "followers": "49"
+  },
+  {
+    "url": "https://github.com/luite",
+    "language": "Haskell",
+    "full_name": "Luite Stegeman",
+    "username": "luite",
+    "location": "",
+    "join_date": "Aug 4, 2010",
+    "popular_repos_stars": "34",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "C"
+    ],
+    "contributions": 546,
+    "followers": "49"
+  },
+  {
+    "url": "https://github.com/jfischoff",
+    "language": "Haskell",
+    "full_name": "Jonathan Fischoff",
+    "username": "jfischoff",
+    "location": "San Mateo (San Francisco)",
+    "join_date": "Dec 16, 2009",
+    "popular_repos_stars": "23",
+    "primary_languages": [
+      "Haskell",
+      "C",
+      "Ruby"
+    ],
+    "contributions": 196,
+    "followers": "49"
+  },
+  {
+    "url": "https://github.com/kim",
+    "language": "Haskell",
+    "full_name": "Kim Altintop",
+    "username": "kim",
+    "location": "Germany",
+    "join_date": "Apr 10, 2008",
+    "popular_repos_stars": "80",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 63,
+    "followers": "48"
+  },
+  {
+    "url": "https://github.com/freizl",
+    "language": "Haskell",
+    "full_name": "Haisheng, Wu",
+    "username": "freizl",
+    "location": "Shanghai, China",
+    "join_date": "Oct 12, 2010",
+    "popular_repos_stars": "29",
+    "primary_languages": [
+      "Haskell",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 278,
+    "followers": "48"
+  },
+  {
+    "url": "https://github.com/nlogax",
+    "language": "Haskell",
+    "full_name": "Jonas Westerlund",
+    "username": "nlogax",
+    "location": "",
+    "join_date": "Jul 24, 2010",
+    "popular_repos_stars": "70",
+    "primary_languages": [
+      "C",
+      "Objective",
+      "C",
+      "JavaScript"
+    ],
+    "contributions": 53,
+    "followers": "47"
+  },
+  {
+    "url": "https://github.com/myuon",
+    "language": "Haskell",
+    "full_name": "高階 射",
+    "username": "myuon",
+    "location": "kyoto, japan",
+    "join_date": "Jun 19, 2012",
+    "popular_repos_stars": "19",
+    "primary_languages": [
+      "Haskell",
+      "Python",
+      "JavaScript"
+    ],
+    "contributions": 251,
+    "followers": "47"
+  }
+]

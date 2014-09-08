@@ -1,0 +1,1601 @@
+[
+  {
+    "url": "https://github.com/astaxie",
+    "language": "Go",
+    "full_name": "astaxie",
+    "username": "astaxie",
+    "location": "Shanghai, China",
+    "join_date": "Mar 30, 2010",
+    "popular_repos_stars": "8563",
+    "primary_languages": [
+      "Go",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "1.7k"
+  },
+  {
+    "url": "https://github.com/bradfitz",
+    "language": "Go",
+    "full_name": "Brad Fitzpatrick",
+    "username": "bradfitz",
+    "location": "San Francisco, CA",
+    "join_date": "Mar 8, 2008",
+    "popular_repos_stars": "2091",
+    "primary_languages": [
+      "Go",
+      "Perl",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "1.7k"
+  },
+  {
+    "url": "https://github.com/nf",
+    "language": "Go",
+    "full_name": "Andrew Gerrand",
+    "username": "nf",
+    "location": "",
+    "join_date": "Apr 16, 2009",
+    "popular_repos_stars": "582",
+    "primary_languages": [
+      "Go",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 297,
+    "followers": "898"
+  },
+  {
+    "url": "https://github.com/Unknwon",
+    "language": "Go",
+    "full_name": "无闻",
+    "username": "Unknwon",
+    "location": "Boston, MA",
+    "join_date": "Dec 2, 2012",
+    "popular_repos_stars": "2511",
+    "primary_languages": [
+      "Go",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 2,
+    "followers": "763"
+  },
+  {
+    "url": "https://github.com/hcilab",
+    "language": "Go",
+    "full_name": "Account for Github research",
+    "username": "hcilab",
+    "location": "",
+    "join_date": "Apr 3, 2012",
+    "popular_repos_stars": "13",
+    "primary_languages": [
+      "C",
+      "Go",
+      "JavaScript"
+    ],
+    "contributions": 0,
+    "followers": "668"
+  },
+  {
+    "url": "https://github.com/dustin",
+    "language": "Go",
+    "full_name": "Dustin Sallings",
+    "username": "dustin",
+    "location": "Sunnyvale, CA",
+    "join_date": "Feb 29, 2008",
+    "popular_repos_stars": "1218",
+    "primary_languages": [
+      "Go",
+      "Python",
+      "Ruby"
+    ],
+    "contributions": 1,
+    "followers": "570"
+  },
+  {
+    "url": "https://github.com/kr",
+    "language": "Go",
+    "full_name": "Keith Rarick",
+    "username": "kr",
+    "location": "San Francisco",
+    "join_date": "Mar 31, 2008",
+    "popular_repos_stars": "2704",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 251,
+    "followers": "458"
+  },
+  {
+    "url": "https://github.com/davecheney",
+    "language": "Go",
+    "full_name": "Dave Cheney",
+    "username": "davecheney",
+    "location": "Sydney, Australia",
+    "join_date": "Apr 13, 2008",
+    "popular_repos_stars": "937",
+    "primary_languages": [
+      "Go",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "439"
+  },
+  {
+    "url": "https://github.com/soulmachine",
+    "language": "Go",
+    "full_name": "Frank Dai",
+    "username": "soulmachine",
+    "location": "Beijing, China",
+    "join_date": "Feb 16, 2011",
+    "popular_repos_stars": "805",
+    "primary_languages": [
+      "TeX",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 244,
+    "followers": "425"
+  },
+  {
+    "url": "https://github.com/xushiwei",
+    "language": "Go",
+    "full_name": "",
+    "username": "xushiwei",
+    "location": "",
+    "join_date": "Sep 12, 2010",
+    "popular_repos_stars": "87",
+    "primary_languages": [
+      "C",
+      "C",
+      "Shell"
+    ],
+    "contributions": 189,
+    "followers": "369"
+  },
+  {
+    "url": "https://github.com/nsf",
+    "language": "Go",
+    "full_name": "",
+    "username": "nsf",
+    "location": "Yekaterinburg, Russia",
+    "join_date": "Jun 4, 2008",
+    "popular_repos_stars": "2982",
+    "primary_languages": [
+      "Go",
+      "C",
+      "Python"
+    ],
+    "contributions": 175,
+    "followers": "331"
+  },
+  {
+    "url": "https://github.com/hoisie",
+    "language": "Go",
+    "full_name": "Michael Hoisie",
+    "username": "hoisie",
+    "location": "San Francisco, CA",
+    "join_date": "Sep 10, 2009",
+    "popular_repos_stars": "3308",
+    "primary_languages": [
+      "Go",
+      "JavaScript",
+      "Ruby"
+    ],
+    "contributions": 13,
+    "followers": "316"
+  },
+  {
+    "url": "https://github.com/garyburd",
+    "language": "Go",
+    "full_name": "Gary Burd",
+    "username": "garyburd",
+    "location": "Seattle",
+    "join_date": "Nov 8, 2008",
+    "popular_repos_stars": "1019",
+    "primary_languages": [
+      "Go",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 344,
+    "followers": "301"
+  },
+  {
+    "url": "https://github.com/agl",
+    "language": "Go",
+    "full_name": "Adam Langley",
+    "username": "agl",
+    "location": "",
+    "join_date": "Aug 19, 2008",
+    "popular_repos_stars": "803",
+    "primary_languages": [
+      "Go",
+      "C",
+      "C"
+    ],
+    "contributions": 201,
+    "followers": "297"
+  },
+  {
+    "url": "https://github.com/daaku",
+    "language": "Go",
+    "full_name": "Naitik Shah",
+    "username": "daaku",
+    "location": "",
+    "join_date": "Feb 21, 2008",
+    "popular_repos_stars": "162",
+    "primary_languages": [
+      "Go",
+      "JavaScript",
+      "Python"
+    ],
+    "contributions": 634,
+    "followers": "266"
+  },
+  {
+    "url": "https://github.com/robfig",
+    "language": "Go",
+    "full_name": "Rob Figueiredo",
+    "username": "robfig",
+    "location": "",
+    "join_date": "Dec 25, 2010",
+    "popular_repos_stars": "530",
+    "primary_languages": [
+      "Go",
+      "JavaScript",
+      "Java"
+    ],
+    "contributions": 341,
+    "followers": "260"
+  },
+  {
+    "url": "https://github.com/petar",
+    "language": "Go",
+    "full_name": "Petar Maymounkov",
+    "username": "petar",
+    "location": "Brooklyn, NY",
+    "join_date": "May 23, 2010",
+    "popular_repos_stars": "464",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 679,
+    "followers": "234"
+  },
+  {
+    "url": "https://github.com/hugozhu",
+    "language": "Go",
+    "full_name": "Hugo Zhu",
+    "username": "hugozhu",
+    "location": "Hangzhou/San Jose",
+    "join_date": "Feb 10, 2009",
+    "popular_repos_stars": "99",
+    "primary_languages": [
+      "Go",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 87,
+    "followers": "189"
+  },
+  {
+    "url": "https://github.com/dgryski",
+    "language": "Go",
+    "full_name": "Damian Gryski",
+    "username": "dgryski",
+    "location": "Amsterdam, The Netherlands",
+    "join_date": "Aug 10, 2011",
+    "popular_repos_stars": "304",
+    "primary_languages": [
+      "Go",
+      "Perl",
+      "C"
+    ],
+    "contributions": 1,
+    "followers": "176"
+  },
+  {
+    "url": "https://github.com/cyfdecyf",
+    "language": "Go",
+    "full_name": "Chen Yufei",
+    "username": "cyfdecyf",
+    "location": "Shanghai, China",
+    "join_date": "Jul 26, 2010",
+    "popular_repos_stars": "970",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "C"
+    ],
+    "contributions": 228,
+    "followers": "168"
+  },
+  {
+    "url": "https://github.com/BurntSushi",
+    "language": "Go",
+    "full_name": "Andrew Gallant",
+    "username": "BurntSushi",
+    "location": "Westborough, MA",
+    "join_date": "Oct 27, 2010",
+    "popular_repos_stars": "1193",
+    "primary_languages": [
+      "VimL",
+      "Go",
+      "Python"
+    ],
+    "contributions": 1,
+    "followers": "162"
+  },
+  {
+    "url": "https://github.com/dchest",
+    "language": "Go",
+    "full_name": "Dmitry Chestnykh",
+    "username": "dchest",
+    "location": "",
+    "join_date": "Feb 7, 2009",
+    "popular_repos_stars": "556",
+    "primary_languages": [
+      "Go",
+      "C",
+      "JavaScript"
+    ],
+    "contributions": 954,
+    "followers": "140"
+  },
+  {
+    "url": "https://github.com/googollee",
+    "language": "Go",
+    "full_name": "Googol Lee",
+    "username": "googollee",
+    "location": "Beijing, China",
+    "join_date": "Nov 25, 2010",
+    "popular_repos_stars": "480",
+    "primary_languages": [
+      "Go",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 256,
+    "followers": "137"
+  },
+  {
+    "url": "https://github.com/Terry-Mao",
+    "language": "Go",
+    "full_name": "Terry.Mao",
+    "username": "Terry-Mao",
+    "location": "ZhuHai.GuangDong.China",
+    "join_date": "Apr 9, 2012",
+    "popular_repos_stars": "692",
+    "primary_languages": [
+      "Go",
+      "C",
+      "Shell"
+    ],
+    "contributions": 495,
+    "followers": "134"
+  },
+  {
+    "url": "https://github.com/feyeleanor",
+    "language": "Go",
+    "full_name": "Eleanor McHugh",
+    "username": "feyeleanor",
+    "location": "London",
+    "join_date": "Mar 19, 2009",
+    "popular_repos_stars": "283",
+    "primary_languages": [
+      "Go",
+      "C",
+      "Shell"
+    ],
+    "contributions": 94,
+    "followers": "132"
+  },
+  {
+    "url": "https://github.com/miekg",
+    "language": "Go",
+    "full_name": "Miek Gieben",
+    "username": "miekg",
+    "location": "London, UK",
+    "join_date": "Aug 3, 2010",
+    "popular_repos_stars": "1335",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "Perl"
+    ],
+    "contributions": 1,
+    "followers": "130"
+  },
+  {
+    "url": "https://github.com/skelterjohn",
+    "language": "Go",
+    "full_name": "John Asmuth",
+    "username": "skelterjohn",
+    "location": "New York, New York",
+    "join_date": "Jul 16, 2010",
+    "popular_repos_stars": "736",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 52,
+    "followers": "124"
+  },
+  {
+    "url": "https://github.com/dsymonds",
+    "language": "Go",
+    "full_name": "David Symonds",
+    "username": "dsymonds",
+    "location": "Sydney, Australia",
+    "join_date": "Oct 28, 2008",
+    "popular_repos_stars": "48",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 190,
+    "followers": "122"
+  },
+  {
+    "url": "https://github.com/bketelsen",
+    "language": "Go",
+    "full_name": "Brian Ketelsen",
+    "username": "bketelsen",
+    "location": "Tampa, FL",
+    "join_date": "Dec 1, 2008",
+    "popular_repos_stars": "161",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 453,
+    "followers": "121"
+  },
+  {
+    "url": "https://github.com/rsc",
+    "language": "Go",
+    "full_name": "Russ Cox",
+    "username": "rsc",
+    "location": "",
+    "join_date": "Jul 11, 2009",
+    "popular_repos_stars": "27",
+    "primary_languages": [
+      "Go",
+      "Assembly"
+    ],
+    "contributions": 10,
+    "followers": "121"
+  },
+  {
+    "url": "https://github.com/campoy",
+    "language": "Go",
+    "full_name": "Francesc Campoy Flores",
+    "username": "campoy",
+    "location": "San Francisco",
+    "join_date": "Aug 28, 2012",
+    "popular_repos_stars": "385",
+    "primary_languages": [
+      "Go",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 188,
+    "followers": "121"
+  },
+  {
+    "url": "https://github.com/visualfc",
+    "language": "Go",
+    "full_name": "",
+    "username": "visualfc",
+    "location": "",
+    "join_date": "Apr 6, 2011",
+    "popular_repos_stars": "1215",
+    "primary_languages": [
+      "Go",
+      "Lua",
+      "C"
+    ],
+    "contributions": 396,
+    "followers": "120"
+  },
+  {
+    "url": "https://github.com/mikespook",
+    "language": "Go",
+    "full_name": "Xing",
+    "username": "mikespook",
+    "location": "GZ, China",
+    "join_date": "Mar 17, 2011",
+    "popular_repos_stars": "671",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "Lua"
+    ],
+    "contributions": 285,
+    "followers": "120"
+  },
+  {
+    "url": "https://github.com/kisielk",
+    "language": "Go",
+    "full_name": "Kamil Kisiel",
+    "username": "kisielk",
+    "location": "Vancouver, British Columbia, Canada",
+    "join_date": "Feb 27, 2009",
+    "popular_repos_stars": "456",
+    "primary_languages": [
+      "Go",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 418,
+    "followers": "119"
+  },
+  {
+    "url": "https://github.com/stathat",
+    "language": "Go",
+    "full_name": "",
+    "username": "stathat",
+    "location": "Chicago, IL",
+    "join_date": "Dec 1, 2011",
+    "popular_repos_stars": "379",
+    "primary_languages": [
+      "Go",
+      "Perl",
+      "Objective",
+      "C"
+    ],
+    "contributions": 0,
+    "followers": "116"
+  },
+  {
+    "url": "https://github.com/polaris1119",
+    "language": "Go",
+    "full_name": "徐新华",
+    "username": "polaris1119",
+    "location": "北京",
+    "join_date": "Jul 6, 2011",
+    "popular_repos_stars": "573",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "Assembly"
+    ],
+    "contributions": 33,
+    "followers": "112"
+  },
+  {
+    "url": "https://github.com/peterbourgon",
+    "language": "Go",
+    "full_name": "Peter Bourgon",
+    "username": "peterbourgon",
+    "location": "Berlin",
+    "join_date": "Aug 12, 2009",
+    "popular_repos_stars": "412",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "C"
+    ],
+    "contributions": 604,
+    "followers": "110"
+  },
+  {
+    "url": "https://github.com/sbinet",
+    "language": "Go",
+    "full_name": "Sebastien Binet",
+    "username": "sbinet",
+    "location": "",
+    "join_date": "Sep 22, 2011",
+    "popular_repos_stars": "481",
+    "primary_languages": [
+      "Go",
+      "C",
+      "Shell"
+    ],
+    "contributions": 3,
+    "followers": "101"
+  },
+  {
+    "url": "https://github.com/bradrydzewski",
+    "language": "Go",
+    "full_name": "Brad Rydzewski",
+    "username": "bradrydzewski",
+    "location": "San Francisco, CA",
+    "join_date": "May 29, 2011",
+    "popular_repos_stars": "271",
+    "primary_languages": [
+      "Go",
+      "Dart",
+      "JavaScript"
+    ],
+    "contributions": 572,
+    "followers": "94"
+  },
+  {
+    "url": "https://github.com/cznic",
+    "language": "Go",
+    "full_name": "",
+    "username": "cznic",
+    "location": "",
+    "join_date": "Apr 14, 2011",
+    "popular_repos_stars": "679",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "VimL"
+    ],
+    "contributions": 1,
+    "followers": "91"
+  },
+  {
+    "url": "https://github.com/nathany",
+    "language": "Go",
+    "full_name": "Nathan Youngman",
+    "username": "nathany",
+    "location": "Edmonton, Alberta, Canada",
+    "join_date": "Apr 3, 2008",
+    "popular_repos_stars": "225",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 903,
+    "followers": "86"
+  },
+  {
+    "url": "https://github.com/lxn",
+    "language": "Go",
+    "full_name": "Alexander Neumann",
+    "username": "lxn",
+    "location": "",
+    "join_date": "Aug 3, 2010",
+    "popular_repos_stars": "888",
+    "primary_languages": [
+      "Go",
+      "Shell"
+    ],
+    "contributions": 28,
+    "followers": "85"
+  },
+  {
+    "url": "https://github.com/border",
+    "language": "Go",
+    "full_name": "Jiang Bian",
+    "username": "border",
+    "location": "BeiJing, China",
+    "join_date": "Aug 5, 2008",
+    "popular_repos_stars": "92",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "C"
+    ],
+    "contributions": 63,
+    "followers": "85"
+  },
+  {
+    "url": "https://github.com/ziutek",
+    "language": "Go",
+    "full_name": "Michał Derkacz",
+    "username": "ziutek",
+    "location": "Poland",
+    "join_date": "Jun 2, 2010",
+    "popular_repos_stars": "565",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 235,
+    "followers": "83"
+  },
+  {
+    "url": "https://github.com/akrennmair",
+    "language": "Go",
+    "full_name": "Andreas Krennmair",
+    "username": "akrennmair",
+    "location": "Berlin, Germany",
+    "join_date": "Dec 20, 2008",
+    "popular_repos_stars": "700",
+    "primary_languages": [
+      "Go",
+      "JavaScript",
+      "Perl"
+    ],
+    "contributions": 252,
+    "followers": "82"
+  },
+  {
+    "url": "https://github.com/minikomi",
+    "language": "Go",
+    "full_name": "Adam Moore",
+    "username": "minikomi",
+    "location": "Tokyo, Japan",
+    "join_date": "Aug 14, 2010",
+    "popular_repos_stars": "1293",
+    "primary_languages": [
+      "Go",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 88,
+    "followers": "82"
+  },
+  {
+    "url": "https://github.com/elimisteve",
+    "language": "Go",
+    "full_name": "Steve Phillips",
+    "username": "elimisteve",
+    "location": "Santa Barbara, CA",
+    "join_date": "Oct 14, 2009",
+    "popular_repos_stars": "39",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 364,
+    "followers": "82"
+  },
+  {
+    "url": "https://github.com/sunfmin",
+    "language": "Go",
+    "full_name": "Felix Sun",
+    "username": "sunfmin",
+    "location": "Hangzhou",
+    "join_date": "Feb 26, 2008",
+    "popular_repos_stars": "115",
+    "primary_languages": [
+      "Go",
+      "Ruby",
+      "JavaScript"
+    ],
+    "contributions": 70,
+    "followers": "81"
+  },
+  {
+    "url": "https://github.com/bortzmeyer",
+    "language": "Go",
+    "full_name": "Stéphane Bortzmeyer",
+    "username": "bortzmeyer",
+    "location": "",
+    "join_date": "Jul 9, 2009",
+    "popular_repos_stars": "102",
+    "primary_languages": [
+      "Go",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 56,
+    "followers": "80"
+  },
+  {
+    "url": "https://github.com/kurrik",
+    "language": "Go",
+    "full_name": "Arne Roomann-Kurrik",
+    "username": "kurrik",
+    "location": "California",
+    "join_date": "Dec 11, 2009",
+    "popular_repos_stars": "141",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 455,
+    "followers": "76"
+  },
+  {
+    "url": "https://github.com/amir",
+    "language": "Go",
+    "full_name": "Amir Mohammad Saied",
+    "username": "amir",
+    "location": "Dublin, Ireland",
+    "join_date": "Apr 2, 2008",
+    "popular_repos_stars": "183",
+    "primary_languages": [
+      "Go",
+      "C",
+      "C"
+    ],
+    "contributions": 35,
+    "followers": "75"
+  },
+  {
+    "url": "https://github.com/jteeuwen",
+    "language": "Go",
+    "full_name": "Jim Teeuwen",
+    "username": "jteeuwen",
+    "location": "Netherlands",
+    "join_date": "Jun 22, 2009",
+    "popular_repos_stars": "884",
+    "primary_languages": [
+      "Go",
+      "JavaScript",
+      "Erlang"
+    ],
+    "contributions": 524,
+    "followers": "75"
+  },
+  {
+    "url": "https://github.com/zond",
+    "language": "Go",
+    "full_name": "",
+    "username": "zond",
+    "location": "",
+    "join_date": "Apr 16, 2008",
+    "popular_repos_stars": "643",
+    "primary_languages": [
+      "Go",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "72"
+  },
+  {
+    "url": "https://github.com/streadway",
+    "language": "Go",
+    "full_name": "Sean Treadway",
+    "username": "streadway",
+    "location": "Berlin",
+    "join_date": "Aug 6, 2008",
+    "popular_repos_stars": "582",
+    "primary_languages": [
+      "Go",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 96,
+    "followers": "72"
+  },
+  {
+    "url": "https://github.com/coocood",
+    "language": "Go",
+    "full_name": "Ewan Chou",
+    "username": "coocood",
+    "location": "Beijing, China",
+    "join_date": "Jul 2, 2011",
+    "popular_repos_stars": "683",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 105,
+    "followers": "72"
+  },
+  {
+    "url": "https://github.com/robmuh",
+    "language": "Go",
+    "full_name": "Rob Muhlestein",
+    "username": "robmuh",
+    "location": "Cornelius, NC, USA",
+    "join_date": "Mar 2, 2013",
+    "popular_repos_stars": "6",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "Shell"
+    ],
+    "contributions": 999,
+    "followers": "72"
+  },
+  {
+    "url": "https://github.com/kless",
+    "language": "Go",
+    "full_name": "Jonas mg",
+    "username": "kless",
+    "location": "",
+    "join_date": "Jul 9, 2008",
+    "popular_repos_stars": "183",
+    "primary_languages": [
+      "Go",
+      "C",
+      "C"
+    ],
+    "contributions": 24,
+    "followers": "71"
+  },
+  {
+    "url": "https://github.com/eaigner",
+    "language": "Go",
+    "full_name": "Erik Aigner",
+    "username": "eaigner",
+    "location": "Austria",
+    "join_date": "Aug 5, 2009",
+    "popular_repos_stars": "1840",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 170,
+    "followers": "70"
+  },
+  {
+    "url": "https://github.com/goinggo",
+    "language": "Go",
+    "full_name": "William Kennedy",
+    "username": "goinggo",
+    "location": "Miami, FL",
+    "join_date": "Aug 28, 2013",
+    "popular_repos_stars": "114",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 43,
+    "followers": "70"
+  },
+  {
+    "url": "https://github.com/hanwen",
+    "language": "Go",
+    "full_name": "Han-Wen Nienhuys",
+    "username": "hanwen",
+    "location": "",
+    "join_date": "Oct 28, 2008",
+    "popular_repos_stars": "619",
+    "primary_languages": [
+      "Go",
+      "C",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "69"
+  },
+  {
+    "url": "https://github.com/kylelemons",
+    "language": "Go",
+    "full_name": "Kyle Lemons",
+    "username": "kylelemons",
+    "location": "",
+    "join_date": "Jul 3, 2010",
+    "popular_repos_stars": "219",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 19,
+    "followers": "68"
+  },
+  {
+    "url": "https://github.com/bolknote",
+    "language": "Go",
+    "full_name": "Evgeny Stepanischev",
+    "username": "bolknote",
+    "location": "Russia, Kazan",
+    "join_date": "Sep 8, 2010",
+    "popular_repos_stars": "280",
+    "primary_languages": [
+      "Shell",
+      "Go",
+      "C"
+    ],
+    "contributions": 10,
+    "followers": "68"
+  },
+  {
+    "url": "https://github.com/xiangli-cmu",
+    "language": "Go",
+    "full_name": "Xiang Li",
+    "username": "xiangli-cmu",
+    "location": "SF",
+    "join_date": "May 20, 2013",
+    "popular_repos_stars": "8",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "67"
+  },
+  {
+    "url": "https://github.com/huandu",
+    "language": "Go",
+    "full_name": "Huan Du",
+    "username": "huandu",
+    "location": "Beijing, China",
+    "join_date": "Apr 8, 2010",
+    "popular_repos_stars": "146",
+    "primary_languages": [
+      "JavaScript",
+      "Go",
+      "Ruby"
+    ],
+    "contributions": 113,
+    "followers": "66"
+  },
+  {
+    "url": "https://github.com/jnwhiteh",
+    "language": "Go",
+    "full_name": "",
+    "username": "jnwhiteh",
+    "location": "",
+    "join_date": "Mar 4, 2008",
+    "popular_repos_stars": "665",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "VimL"
+    ],
+    "contributions": 43,
+    "followers": "66"
+  },
+  {
+    "url": "https://github.com/DisposaBoy",
+    "language": "Go",
+    "full_name": "",
+    "username": "DisposaBoy",
+    "location": "",
+    "join_date": "Aug 27, 2011",
+    "popular_repos_stars": "1342",
+    "primary_languages": [
+      "Go",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 582,
+    "followers": "65"
+  },
+  {
+    "url": "https://github.com/zeebo",
+    "language": "Go",
+    "full_name": "Jeff",
+    "username": "zeebo",
+    "location": "Salt Lake City, UT",
+    "join_date": "Jun 18, 2009",
+    "popular_repos_stars": "142",
+    "primary_languages": [
+      "Go",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 33,
+    "followers": "64"
+  },
+  {
+    "url": "https://github.com/hgfischer",
+    "language": "Go",
+    "full_name": "Herbert Fischer",
+    "username": "hgfischer",
+    "location": "Brazil",
+    "join_date": "Aug 29, 2009",
+    "popular_repos_stars": "86",
+    "primary_languages": [
+      "Go",
+      "Perl",
+      "Shell"
+    ],
+    "contributions": 113,
+    "followers": "62"
+  },
+  {
+    "url": "https://github.com/monnand",
+    "language": "Go",
+    "full_name": "",
+    "username": "monnand",
+    "location": "",
+    "join_date": "Aug 29, 2010",
+    "popular_repos_stars": "70",
+    "primary_languages": [
+      "Go",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 639,
+    "followers": "61"
+  },
+  {
+    "url": "https://github.com/mischief",
+    "language": "Go",
+    "full_name": "Nick Owens",
+    "username": "mischief",
+    "location": "San Francisco, CA",
+    "join_date": "Mar 1, 2012",
+    "popular_repos_stars": "40",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "Lua"
+    ],
+    "contributions": 313,
+    "followers": "61"
+  },
+  {
+    "url": "https://github.com/jayschwa",
+    "language": "Go",
+    "full_name": "Jay Weisskopf",
+    "username": "jayschwa",
+    "location": "New York City",
+    "join_date": "Nov 9, 2010",
+    "popular_repos_stars": "140",
+    "primary_languages": [
+      "JavaScript",
+      "C",
+      "Go"
+    ],
+    "contributions": 116,
+    "followers": "61"
+  },
+  {
+    "url": "https://github.com/dforsyth",
+    "language": "Go",
+    "full_name": "David Forsythe",
+    "username": "dforsyth",
+    "location": "San Francisco, CA",
+    "join_date": "Apr 10, 2009",
+    "popular_repos_stars": "120",
+    "primary_languages": [
+      "Go",
+      "Python",
+      "C"
+    ],
+    "contributions": 11,
+    "followers": "58"
+  },
+  {
+    "url": "https://github.com/hyper-carrot",
+    "language": "Go",
+    "full_name": "Robert Hao",
+    "username": "hyper-carrot",
+    "location": "Beijing, China",
+    "join_date": "Jun 26, 2010",
+    "popular_repos_stars": "245",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 25,
+    "followers": "55"
+  },
+  {
+    "url": "https://github.com/taliesinb",
+    "language": "Go",
+    "full_name": "Taliesin Beynon",
+    "username": "taliesinb",
+    "location": "Boston",
+    "join_date": "Aug 15, 2010",
+    "popular_repos_stars": "48",
+    "primary_languages": [
+      "Go",
+      "C",
+      "Python"
+    ],
+    "contributions": 0,
+    "followers": "52"
+  },
+  {
+    "url": "https://github.com/tenntenn",
+    "language": "Go",
+    "full_name": "Takuya Ueda",
+    "username": "tenntenn",
+    "location": "Tokyo, Japan",
+    "join_date": "May 18, 2011",
+    "popular_repos_stars": "81",
+    "primary_languages": [
+      "Go",
+      "JavaScript",
+      "Ruby"
+    ],
+    "contributions": 128,
+    "followers": "51"
+  },
+  {
+    "url": "https://github.com/remyoudompheng",
+    "language": "Go",
+    "full_name": "Rémy Oudompheng",
+    "username": "remyoudompheng",
+    "location": "Paris, France",
+    "join_date": "Jan 2, 2010",
+    "popular_repos_stars": "97",
+    "primary_languages": [
+      "Go",
+      "C",
+      "Shell"
+    ],
+    "contributions": 0,
+    "followers": "50"
+  },
+  {
+    "url": "https://github.com/nictuku",
+    "language": "Go",
+    "full_name": "Yves Junqueira",
+    "username": "nictuku",
+    "location": "Zurich, Switzerland",
+    "join_date": "Feb 13, 2010",
+    "popular_repos_stars": "210",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 301,
+    "followers": "50"
+  },
+  {
+    "url": "https://github.com/ftrvxmtrx",
+    "language": "Go",
+    "full_name": "Serge Ziryukin",
+    "username": "ftrvxmtrx",
+    "location": "Stockholm, Sweden",
+    "join_date": "Apr 20, 2010",
+    "popular_repos_stars": "103",
+    "primary_languages": [
+      "C",
+      "Shell",
+      "Go"
+    ],
+    "contributions": 25,
+    "followers": "49"
+  },
+  {
+    "url": "https://github.com/jimmykuu",
+    "language": "Go",
+    "full_name": "Jimmy Kuu",
+    "username": "jimmykuu",
+    "location": "Shanghai",
+    "join_date": "Dec 24, 2008",
+    "popular_repos_stars": "320",
+    "primary_languages": [
+      "Go",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 124,
+    "followers": "49"
+  },
+  {
+    "url": "https://github.com/cxwangyi",
+    "language": "Go",
+    "full_name": "Yi Wang",
+    "username": "cxwangyi",
+    "location": "Beijing, China",
+    "join_date": "Jul 2, 2011",
+    "popular_repos_stars": "18",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "C"
+    ],
+    "contributions": 47,
+    "followers": "49"
+  },
+  {
+    "url": "https://github.com/mortdeus",
+    "language": "Go",
+    "full_name": "Roger",
+    "username": "mortdeus",
+    "location": "Chickasha, OK",
+    "join_date": "Jun 21, 2012",
+    "popular_repos_stars": "1384",
+    "primary_languages": [
+      "Go",
+      "Perl",
+      "Shell"
+    ],
+    "contributions": 68,
+    "followers": "48"
+  },
+  {
+    "url": "https://github.com/widuu",
+    "language": "Go",
+    "full_name": "widuu",
+    "username": "widuu",
+    "location": "",
+    "join_date": "Mar 28, 2014",
+    "popular_repos_stars": "580",
+    "primary_languages": [
+      "PHP",
+      "Go",
+      "Shell"
+    ],
+    "contributions": 242,
+    "followers": "48"
+  },
+  {
+    "url": "https://github.com/suapapa",
+    "language": "Go",
+    "full_name": "Homin Lee",
+    "username": "suapapa",
+    "location": "Seoul,Korea",
+    "join_date": "Jul 15, 2010",
+    "popular_repos_stars": "95",
+    "primary_languages": [
+      "Go",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 30,
+    "followers": "46"
+  },
+  {
+    "url": "https://github.com/uriel",
+    "language": "Go",
+    "full_name": "Uriel",
+    "username": "uriel",
+    "location": "Djursholm",
+    "join_date": "Aug 25, 2009",
+    "popular_repos_stars": "15",
+    "primary_languages": [
+      "Go",
+      "Shell"
+    ],
+    "contributions": 0,
+    "followers": "46"
+  },
+  {
+    "url": "https://github.com/realint",
+    "language": "Go",
+    "full_name": "Xiamen SoFunny",
+    "username": "realint",
+    "location": "Xiamen, China",
+    "join_date": "Jul 1, 2013",
+    "popular_repos_stars": "77",
+    "primary_languages": [
+      "Go",
+      "PHP",
+      "CSS"
+    ],
+    "contributions": 122,
+    "followers": "46"
+  },
+  {
+    "url": "https://github.com/daviddengcn",
+    "language": "Go",
+    "full_name": "David",
+    "username": "daviddengcn",
+    "location": "Menlo Park, CA",
+    "join_date": "Jan 14, 2011",
+    "popular_repos_stars": "280",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "Gosu"
+    ],
+    "contributions": 226,
+    "followers": "46"
+  },
+  {
+    "url": "https://github.com/andlabs",
+    "language": "Go",
+    "full_name": "Pietro Gagliardi",
+    "username": "andlabs",
+    "location": "",
+    "join_date": "Apr 8, 2011",
+    "popular_repos_stars": "1571",
+    "primary_languages": [
+      "Go",
+      "C",
+      "Shell"
+    ],
+    "contributions": 2,
+    "followers": "46"
+  },
+  {
+    "url": "https://github.com/jianfengye",
+    "language": "Go",
+    "full_name": "yejianfeng",
+    "username": "jianfengye",
+    "location": "Beijing",
+    "join_date": "Jan 9, 2012",
+    "popular_repos_stars": "144",
+    "primary_languages": [
+      "Go",
+      "JavaScript",
+      "C"
+    ],
+    "contributions": 72,
+    "followers": "46"
+  },
+  {
+    "url": "https://github.com/iand",
+    "language": "Go",
+    "full_name": "Ian Davis",
+    "username": "iand",
+    "location": "UK",
+    "join_date": "Jul 25, 2008",
+    "popular_repos_stars": "161",
+    "primary_languages": [
+      "Go",
+      "Python",
+      "PHP"
+    ],
+    "contributions": 101,
+    "followers": "46"
+  },
+  {
+    "url": "https://github.com/obscuren",
+    "language": "Go",
+    "full_name": "Jeffrey Wilcke",
+    "username": "obscuren",
+    "location": "Amsterdam, NL",
+    "join_date": "Dec 26, 2013",
+    "popular_repos_stars": "12",
+    "primary_languages": [
+      "Go",
+      "C",
+      "C"
+    ],
+    "contributions": 1,
+    "followers": "46"
+  },
+  {
+    "url": "https://github.com/julienschmidt",
+    "language": "Go",
+    "full_name": "Julien Schmidt",
+    "username": "julienschmidt",
+    "location": "Munich, Germany",
+    "join_date": "Jul 28, 2011",
+    "popular_repos_stars": "1053",
+    "primary_languages": [
+      "Go",
+      "Ruby",
+      "C"
+    ],
+    "contributions": 418,
+    "followers": "45"
+  },
+  {
+    "url": "https://github.com/prasmussen",
+    "language": "Go",
+    "full_name": "Petter Rasmussen",
+    "username": "prasmussen",
+    "location": "Norway, Sandnes",
+    "join_date": "Apr 10, 2011",
+    "popular_repos_stars": "1543",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 122,
+    "followers": "44"
+  },
+  {
+    "url": "https://github.com/ungerik",
+    "language": "Go",
+    "full_name": "Erik Unger",
+    "username": "ungerik",
+    "location": "Vienna, Austria",
+    "join_date": "Feb 14, 2011",
+    "popular_repos_stars": "420",
+    "primary_languages": [
+      "Go",
+      "Objective",
+      "C",
+      "Shell"
+    ],
+    "contributions": 228,
+    "followers": "44"
+  },
+  {
+    "url": "https://github.com/mostafah",
+    "language": "Go",
+    "full_name": "Mostafa Hajizadeh",
+    "username": "mostafah",
+    "location": "",
+    "join_date": "Dec 21, 2010",
+    "popular_repos_stars": "33",
+    "primary_languages": [
+      "Go",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 21,
+    "followers": "43"
+  },
+  {
+    "url": "https://github.com/atomaths",
+    "language": "Go",
+    "full_name": "Jongmin Kim",
+    "username": "atomaths",
+    "location": "",
+    "join_date": "Jul 21, 2011",
+    "popular_repos_stars": "22",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 228,
+    "followers": "43"
+  },
+  {
+    "url": "https://github.com/StalkR",
+    "language": "Go",
+    "full_name": "StalkR",
+    "username": "StalkR",
+    "location": "",
+    "join_date": "Jan 29, 2012",
+    "popular_repos_stars": "30",
+    "primary_languages": [
+      "Go",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 195,
+    "followers": "42"
+  },
+  {
+    "url": "https://github.com/russross",
+    "language": "Go",
+    "full_name": "Russ Ross",
+    "username": "russross",
+    "location": "St. George, Utah",
+    "join_date": "Mar 20, 2009",
+    "popular_repos_stars": "1164",
+    "primary_languages": [
+      "Go",
+      "OCaml",
+      "C"
+    ],
+    "contributions": 19,
+    "followers": "41"
+  },
+  {
+    "url": "https://github.com/reusee",
+    "language": "Go",
+    "full_name": "声zz",
+    "username": "reusee",
+    "location": "China",
+    "join_date": "Sep 13, 2010",
+    "popular_repos_stars": "126",
+    "primary_languages": [
+      "Go",
+      "Python",
+      "C"
+    ],
+    "contributions": 1,
+    "followers": "41"
+  },
+  {
+    "url": "https://github.com/codeslinger",
+    "language": "Go",
+    "full_name": "Toby DiPasquale",
+    "username": "codeslinger",
+    "location": "Philadelphia, PA",
+    "join_date": "Feb 25, 2008",
+    "popular_repos_stars": "34",
+    "primary_languages": [
+      "Go",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 35,
+    "followers": "41"
+  },
+  {
+    "url": "https://github.com/emicklei",
+    "language": "Go",
+    "full_name": "Ernest Micklei",
+    "username": "emicklei",
+    "location": "Netherlands",
+    "join_date": "Mar 23, 2011",
+    "popular_repos_stars": "911",
+    "primary_languages": [
+      "Go",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 345,
+    "followers": "40"
+  }
+]

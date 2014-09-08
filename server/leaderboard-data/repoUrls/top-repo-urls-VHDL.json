@@ -20,13 +20,13 @@
     "language": "VHDL"
   },
   {
-    "url": "https://github.com/martinjthompson/libv",
-    "size": 128,
+    "url": "https://github.com/GadgetFactory/Arduino-Soft-Core",
+    "size": 24699,
     "language": "VHDL"
   },
   {
-    "url": "https://github.com/GadgetFactory/Arduino-Soft-Core",
-    "size": 24699,
+    "url": "https://github.com/martinjthompson/libv",
+    "size": 128,
     "language": "VHDL"
   },
   {
@@ -36,7 +36,7 @@
   },
   {
     "url": "https://github.com/timvideos/HDMI2USB",
-    "size": 70734,
+    "size": 70735,
     "language": "VHDL"
   },
   {

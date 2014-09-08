@@ -5,6 +5,11 @@
     "language": "GAMS"
   },
   {
+    "url": "https://github.com/rjrow/git-model",
+    "size": 2262,
+    "language": "GAMS"
+  },
+  {
     "url": "https://github.com/squoilin/UCM",
     "size": 12772,
     "language": "GAMS"
@@ -22,11 +27,6 @@
   {
     "url": "https://github.com/ElectricityAuthority/vSPD",
     "size": 6297,
-    "language": "GAMS"
-  },
-  {
-    "url": "https://github.com/rjrow/git-model",
-    "size": 2262,
     "language": "GAMS"
   },
   {

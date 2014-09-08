@@ -50,23 +50,13 @@
     "language": "Squirrel"
   },
   {
-    "url": "https://github.com/joel-wehr/electric_imp_security_system",
-    "size": 101,
-    "language": "Squirrel"
-  },
-  {
     "url": "https://github.com/tombrew/flowbright",
     "size": 902,
     "language": "Squirrel"
   },
   {
-    "url": "https://github.com/joel-wehr/Tutorial_Electric_Imp_MAX31855",
-    "size": 132,
-    "language": "Squirrel"
-  },
-  {
-    "url": "https://github.com/mkoniecz/AIAI",
-    "size": 664,
+    "url": "https://github.com/joel-wehr/electric_imp_security_system",
+    "size": 101,
     "language": "Squirrel"
   },
   {
@@ -75,8 +65,18 @@
     "language": "Squirrel"
   },
   {
+    "url": "https://github.com/joel-wehr/Tutorial_Electric_Imp_MAX31855",
+    "size": 132,
+    "language": "Squirrel"
+  },
+  {
     "url": "https://github.com/MinchinWeb/openttd-wmdot",
     "size": 432,
+    "language": "Squirrel"
+  },
+  {
+    "url": "https://github.com/mkoniecz/AIAI",
+    "size": 664,
     "language": "Squirrel"
   },
   {

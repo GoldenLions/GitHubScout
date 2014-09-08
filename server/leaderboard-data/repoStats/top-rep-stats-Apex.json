@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/ForceDotComLabs/Milestones-PM",
+    "size": 1839,
+    "language": "Apex",
+    "commits": "93",
+    "stars": "143",
+    "forks": "189",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/financialforcedev/apex-mdapi",
+    "size": 2563,
+    "language": "Apex",
+    "commits": "103",
+    "stars": "104",
+    "forks": "89",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/mbotos/SmartFactory-for-Force.com",
+    "size": 260,
+    "language": "Apex",
+    "commits": "44",
+    "stars": "101",
+    "forks": "57",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/twilio/twilio-salesforce",
+    "size": 691,
+    "language": "Apex",
+    "commits": "109",
+    "stars": "64",
+    "forks": "52",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/StratoSource/StratoSource",
+    "size": 56965,
+    "language": "Apex",
+    "commits": "244",
+    "stars": "63",
+    "forks": "19",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/SalesforceFoundation/Batch-Entry-for-Salesforce.com",
+    "size": 763,
+    "language": "Apex",
+    "commits": "128",
+    "stars": "59",
+    "forks": "22",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/financialforcedev/fflib-apex-common",
+    "size": 1004,
+    "language": "Apex",
+    "commits": "67",
+    "stars": "47",
+    "forks": "22",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/mbotos/Automated-Testing-for-Force.com",
+    "size": 194,
+    "language": "Apex",
+    "commits": "22",
+    "stars": "43",
+    "forks": "17",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/afawcett/declarative-lookup-rollup-summaries",
+    "size": 929,
+    "language": "Apex",
+    "commits": "77",
+    "stars": "37",
+    "forks": "16",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/jesperfj/sfdc-oauth-playground",
+    "size": 143,
+    "language": "Apex",
+    "commits": "19",
+    "stars": "35",
+    "forks": "16",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/abhinavguptas/Salesforce-Lookup-Rollup-Summaries",
+    "size": 198,
+    "language": "Apex",
+    "commits": "25",
+    "stars": "35",
+    "forks": "25",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/financialforcedev/df12-apex-enterprise-patterns",
+    "size": 216,
+    "language": "Apex",
+    "commits": "43",
+    "stars": "35",
+    "forks": "21",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/financialforcedev/df12-deployment-tools",
+    "size": 9794,
+    "language": "Apex",
+    "commits": "20",
+    "stars": "33",
+    "forks": "12",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/developerforce/Force.com-Toolkit-for-Facebook",
+    "size": 208,
+    "language": "Apex",
+    "commits": "54",
+    "stars": "33",
+    "forks": "28",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/ForceDotComLabs/FindNearby",
+    "size": 414,
+    "language": "Apex",
+    "commits": "9",
+    "stars": "33",
+    "forks": "35",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/TehNrd/sObject-Remote",
+    "size": 225,
+    "language": "Apex",
+    "commits": "2",
+    "stars": "32",
+    "forks": "7",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/metadaddy-sfdc/Visualforce-Multiselect-Picklist",
+    "size": 213,
+    "language": "Apex",
+    "commits": "10",
+    "stars": "32",
+    "forks": "30",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/kevinohara80/sfdc-trigger-framework",
+    "size": 233,
+    "language": "Apex",
+    "commits": "13",
+    "stars": "31",
+    "forks": "26",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/richardvanhook/Force.com-Patterns",
+    "size": 2128,
+    "language": "Apex",
+    "commits": "30",
+    "stars": "29",
+    "forks": "14",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/financialforcedev/ForceDotComSprintWall",
+    "size": 573,
+    "language": "Apex",
+    "commits": "8",
+    "stars": "27",
+    "forks": "8",
+    "contributors": ""
+  }
+]

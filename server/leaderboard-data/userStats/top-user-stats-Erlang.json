@@ -1,0 +1,1603 @@
+[
+  {
+    "url": "https://github.com/joearms",
+    "language": "Erlang",
+    "full_name": "joe armstrong",
+    "username": "joearms",
+    "location": "stockhom sweden",
+    "join_date": "Jun 29, 2009",
+    "popular_repos_stars": "503",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 44,
+    "followers": "781"
+  },
+  {
+    "url": "https://github.com/benoitc",
+    "language": "Erlang",
+    "full_name": "Benoit Chesneau",
+    "username": "benoitc",
+    "location": "Creil, France",
+    "join_date": "Jun 20, 2008",
+    "popular_repos_stars": "3114",
+    "primary_languages": [
+      "Erlang",
+      "Python",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "602"
+  },
+  {
+    "url": "https://github.com/videlalvaro",
+    "language": "Erlang",
+    "full_name": "Alvaro Videla",
+    "username": "videlalvaro",
+    "location": "Zurich",
+    "join_date": "Oct 24, 2008",
+    "popular_repos_stars": "2463",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 506,
+    "followers": "392"
+  },
+  {
+    "url": "https://github.com/RJ",
+    "language": "Erlang",
+    "full_name": "Richard Jones",
+    "username": "RJ",
+    "location": "London",
+    "join_date": "Oct 18, 2008",
+    "popular_repos_stars": "846",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 123,
+    "followers": "365"
+  },
+  {
+    "url": "https://github.com/yrashk",
+    "language": "Erlang",
+    "full_name": "Yurii Rashkovskii",
+    "username": "yrashk",
+    "location": "Nelson, BC, Canada",
+    "join_date": "Feb 19, 2008",
+    "popular_repos_stars": "932",
+    "primary_languages": [
+      "Erlang",
+      "Elixir",
+      "Shell"
+    ],
+    "contributions": 574,
+    "followers": "343"
+  },
+  {
+    "url": "https://github.com/armon",
+    "language": "Erlang",
+    "full_name": "Armon Dadgar",
+    "username": "armon",
+    "location": "San Francisco, CA",
+    "join_date": "Jan 30, 2011",
+    "popular_repos_stars": "1574",
+    "primary_languages": [
+      "Go",
+      "Python",
+      "C"
+    ],
+    "contributions": 2,
+    "followers": "314"
+  },
+  {
+    "url": "https://github.com/evanmiller",
+    "language": "Erlang",
+    "full_name": "Evan Miller",
+    "username": "evanmiller",
+    "location": "Chicago, IL",
+    "join_date": "Oct 3, 2009",
+    "popular_repos_stars": "204",
+    "primary_languages": [
+      "C",
+      "Erlang",
+      "C"
+    ],
+    "contributions": 152,
+    "followers": "271"
+  },
+  {
+    "url": "https://github.com/maxlapshin",
+    "language": "Erlang",
+    "full_name": "Max Lapshin",
+    "username": "maxlapshin",
+    "location": "Moscow, Russia",
+    "join_date": "Apr 3, 2008",
+    "popular_repos_stars": "617",
+    "primary_languages": [
+      "Erlang",
+      "Ruby",
+      "C"
+    ],
+    "contributions": 73,
+    "followers": "271"
+  },
+  {
+    "url": "https://github.com/ngerakines",
+    "language": "Erlang",
+    "full_name": "Nick Gerakines",
+    "username": "ngerakines",
+    "location": "Centerville, OH",
+    "join_date": "May 31, 2008",
+    "popular_repos_stars": "639",
+    "primary_languages": [
+      "Erlang",
+      "Perl",
+      "Shell"
+    ],
+    "contributions": 701,
+    "followers": "253"
+  },
+  {
+    "url": "https://github.com/ferd",
+    "language": "Erlang",
+    "full_name": "Fred Hebert",
+    "username": "ferd",
+    "location": "Saguenay, Qc, Canada",
+    "join_date": "Aug 2, 2009",
+    "popular_repos_stars": "581",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "C"
+    ],
+    "contributions": 220,
+    "followers": "252"
+  },
+  {
+    "url": "https://github.com/metajack",
+    "language": "Erlang",
+    "full_name": "Jack Moffitt",
+    "username": "metajack",
+    "location": "Albuquerque, NM  USA",
+    "join_date": "Oct 9, 2008",
+    "popular_repos_stars": "1323",
+    "primary_languages": [
+      "Rust",
+      "C",
+      "Python"
+    ],
+    "contributions": 889,
+    "followers": "235"
+  },
+  {
+    "url": "https://github.com/jlouis",
+    "language": "Erlang",
+    "full_name": "Jesper Louis Andersen",
+    "username": "jlouis",
+    "location": "Copenhagen, Denmark",
+    "join_date": "Apr 7, 2008",
+    "popular_repos_stars": "530",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 512,
+    "followers": "219"
+  },
+  {
+    "url": "https://github.com/moonpolysoft",
+    "language": "Erlang",
+    "full_name": "Cliff Moon",
+    "username": "moonpolysoft",
+    "location": "San Francisco",
+    "join_date": "Apr 1, 2008",
+    "popular_repos_stars": "515",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "C"
+    ],
+    "contributions": 44,
+    "followers": "218"
+  },
+  {
+    "url": "https://github.com/uwiger",
+    "language": "Erlang",
+    "full_name": "Ulf Wiger",
+    "username": "uwiger",
+    "location": "Sweden",
+    "join_date": "Nov 30, 2009",
+    "popular_repos_stars": "649",
+    "primary_languages": [
+      "Erlang",
+      "CSS",
+      "C"
+    ],
+    "contributions": 364,
+    "followers": "218"
+  },
+  {
+    "url": "https://github.com/rvirding",
+    "language": "Erlang",
+    "full_name": "Robert Virding",
+    "username": "rvirding",
+    "location": "Stockholm, Sweden",
+    "join_date": "May 25, 2008",
+    "popular_repos_stars": "974",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "Perl"
+    ],
+    "contributions": 90,
+    "followers": "210"
+  },
+  {
+    "url": "https://github.com/essen",
+    "language": "Erlang",
+    "full_name": "Loïc Hoguin",
+    "username": "essen",
+    "location": "France",
+    "join_date": "Oct 19, 2009",
+    "popular_repos_stars": "105",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 715,
+    "followers": "202"
+  },
+  {
+    "url": "https://github.com/krestenkrab",
+    "language": "Erlang",
+    "full_name": "Kresten Krab Thorup",
+    "username": "krestenkrab",
+    "location": "Århus, Denmark",
+    "join_date": "Oct 9, 2009",
+    "popular_repos_stars": "564",
+    "primary_languages": [
+      "Erlang",
+      "C",
+      "Shell"
+    ],
+    "contributions": 295,
+    "followers": "172"
+  },
+  {
+    "url": "https://github.com/skeltoac",
+    "language": "Erlang",
+    "full_name": "Andy Skelton",
+    "username": "skeltoac",
+    "location": "Austin, TX",
+    "join_date": "Feb 6, 2009",
+    "popular_repos_stars": "132",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 15,
+    "followers": "169"
+  },
+  {
+    "url": "https://github.com/5HT",
+    "language": "Erlang",
+    "full_name": "Namdak Tonpa",
+    "username": "5HT",
+    "location": "Kyiv, Ukraine",
+    "join_date": "Oct 26, 2009",
+    "popular_repos_stars": "674",
+    "primary_languages": [
+      "Erlang",
+      "CSS",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "166"
+  },
+  {
+    "url": "https://github.com/timpritlove",
+    "language": "Erlang",
+    "full_name": "Tim Pritlove",
+    "username": "timpritlove",
+    "location": "Berlin, Germany",
+    "join_date": "Aug 26, 2009",
+    "popular_repos_stars": "17",
+    "primary_languages": [
+      "JavaScript",
+      "PHP",
+      "Ruby"
+    ],
+    "contributions": 26,
+    "followers": "165"
+  },
+  {
+    "url": "https://github.com/joewilliams",
+    "language": "Erlang",
+    "full_name": "Joe Williams",
+    "username": "joewilliams",
+    "location": "Seattle, WA",
+    "join_date": "Jan 5, 2009",
+    "popular_repos_stars": "287",
+    "primary_languages": [
+      "Erlang",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 150,
+    "followers": "165"
+  },
+  {
+    "url": "https://github.com/jkvor",
+    "language": "Erlang",
+    "full_name": "Jacob Vorreuter",
+    "username": "jkvor",
+    "location": "San Francisco",
+    "join_date": "Oct 4, 2008",
+    "popular_repos_stars": "296",
+    "primary_languages": [
+      "Erlang",
+      "JavaScript",
+      "Ruby"
+    ],
+    "contributions": 67,
+    "followers": "151"
+  },
+  {
+    "url": "https://github.com/archaelus",
+    "language": "Erlang",
+    "full_name": "Geoff Cant",
+    "username": "archaelus",
+    "location": "Berkeley, CA",
+    "join_date": "Mar 21, 2008",
+    "popular_repos_stars": "273",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "C"
+    ],
+    "contributions": 128,
+    "followers": "148"
+  },
+  {
+    "url": "https://github.com/rustyio",
+    "language": "Erlang",
+    "full_name": "Rusty Klophaus",
+    "username": "rustyio",
+    "location": "Washington, DC",
+    "join_date": "Oct 14, 2008",
+    "popular_repos_stars": "598",
+    "primary_languages": [
+      "Erlang",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 107,
+    "followers": "139"
+  },
+  {
+    "url": "https://github.com/knutin",
+    "language": "Erlang",
+    "full_name": "Knut Nesheim",
+    "username": "knutin",
+    "location": "Berlin, Germany",
+    "join_date": "Aug 14, 2010",
+    "popular_repos_stars": "560",
+    "primary_languages": [
+      "Erlang",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 216,
+    "followers": "139"
+  },
+  {
+    "url": "https://github.com/kevsmith",
+    "language": "Erlang",
+    "full_name": "Kevin Smith",
+    "username": "kevsmith",
+    "location": "Raleigh NC",
+    "join_date": "Jun 12, 2008",
+    "popular_repos_stars": "310",
+    "primary_languages": [
+      "Erlang",
+      "C",
+      "Shell"
+    ],
+    "contributions": 24,
+    "followers": "131"
+  },
+  {
+    "url": "https://github.com/voluntas",
+    "language": "Erlang",
+    "full_name": "NAKAI Ryosuke",
+    "username": "voluntas",
+    "location": "Yokohama/Japan",
+    "join_date": "Jun 30, 2008",
+    "popular_repos_stars": "40",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 134,
+    "followers": "131"
+  },
+  {
+    "url": "https://github.com/erlyvideo",
+    "language": "Erlang",
+    "full_name": "Erlyvideo",
+    "username": "erlyvideo",
+    "location": "",
+    "join_date": "Dec 21, 2009",
+    "popular_repos_stars": "440",
+    "primary_languages": [
+      "Erlang",
+      "C",
+      "Shell"
+    ],
+    "contributions": 0,
+    "followers": "127"
+  },
+  {
+    "url": "https://github.com/weicao",
+    "language": "Erlang",
+    "full_name": "Wei Cao",
+    "username": "weicao",
+    "location": "Hangzhou, China",
+    "join_date": "Oct 18, 2011",
+    "popular_repos_stars": "298",
+    "primary_languages": [
+      "C",
+      "C",
+      "Erlang"
+    ],
+    "contributions": 0,
+    "followers": "115"
+  },
+  {
+    "url": "https://github.com/msantos",
+    "language": "Erlang",
+    "full_name": "Michael Santos",
+    "username": "msantos",
+    "location": "Toronto, Canada",
+    "join_date": "Nov 25, 2009",
+    "popular_repos_stars": "347",
+    "primary_languages": [
+      "Erlang",
+      "C",
+      "Shell"
+    ],
+    "contributions": 917,
+    "followers": "115"
+  },
+  {
+    "url": "https://github.com/lemenkov",
+    "language": "Erlang",
+    "full_name": "Peter Lemenkov",
+    "username": "lemenkov",
+    "location": "Moscow, Russia",
+    "join_date": "Dec 20, 2008",
+    "popular_repos_stars": "121",
+    "primary_languages": [
+      "Shell",
+      "Erlang",
+      "C"
+    ],
+    "contributions": 195,
+    "followers": "108"
+  },
+  {
+    "url": "https://github.com/etnt",
+    "language": "Erlang",
+    "full_name": "Torbjörn Törnkvist",
+    "username": "etnt",
+    "location": "Stockholm, Sweden",
+    "join_date": "Apr 8, 2008",
+    "popular_repos_stars": "195",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 20,
+    "followers": "104"
+  },
+  {
+    "url": "https://github.com/dizzyd",
+    "language": "Erlang",
+    "full_name": "Dave Smith",
+    "username": "dizzyd",
+    "location": "United States",
+    "join_date": "Aug 9, 2008",
+    "popular_repos_stars": "193",
+    "primary_languages": [
+      "Erlang",
+      "C",
+      "Go"
+    ],
+    "contributions": 106,
+    "followers": "101"
+  },
+  {
+    "url": "https://github.com/yariv",
+    "language": "Erlang",
+    "full_name": "Yariv Sadan",
+    "username": "yariv",
+    "location": "Bay area",
+    "join_date": "May 31, 2008",
+    "popular_repos_stars": "275",
+    "primary_languages": [
+      "JavaScript",
+      "Shell",
+      "Erlang"
+    ],
+    "contributions": 12,
+    "followers": "100"
+  },
+  {
+    "url": "https://github.com/litaocheng",
+    "language": "Erlang",
+    "full_name": "litaocheng",
+    "username": "litaocheng",
+    "location": "china",
+    "join_date": "Jun 2, 2008",
+    "popular_repos_stars": "83",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "C"
+    ],
+    "contributions": 0,
+    "followers": "96"
+  },
+  {
+    "url": "https://github.com/OJ",
+    "language": "Erlang",
+    "full_name": "OJ Reeves",
+    "username": "OJ",
+    "location": "Brisbane, Australia",
+    "join_date": "Oct 14, 2008",
+    "popular_repos_stars": "32",
+    "primary_languages": [
+      "C",
+      "Ruby",
+      "JavaScript"
+    ],
+    "contributions": 838,
+    "followers": "95"
+  },
+  {
+    "url": "https://github.com/reedr",
+    "language": "Erlang",
+    "full_name": "Rick Reed",
+    "username": "reedr",
+    "location": "",
+    "join_date": "Oct 3, 2011",
+    "popular_repos_stars": "66",
+    "primary_languages": [
+      "C",
+      "Erlang",
+      "Emacs",
+      "Lisp"
+    ],
+    "contributions": 2,
+    "followers": "94"
+  },
+  {
+    "url": "https://github.com/kuenishi",
+    "language": "Erlang",
+    "full_name": "UENISHI Kota",
+    "username": "kuenishi",
+    "location": "Tokyo, Japan",
+    "join_date": "May 25, 2008",
+    "popular_repos_stars": "76",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 713,
+    "followers": "93"
+  },
+  {
+    "url": "https://github.com/Vagabond",
+    "language": "Erlang",
+    "full_name": "Andrew Thompson",
+    "username": "Vagabond",
+    "location": "Potsdam, New York",
+    "join_date": "May 19, 2009",
+    "popular_repos_stars": "386",
+    "primary_languages": [
+      "Erlang",
+      "C",
+      "Shell"
+    ],
+    "contributions": 844,
+    "followers": "90"
+  },
+  {
+    "url": "https://github.com/ostinelli",
+    "language": "Erlang",
+    "full_name": "Roberto Ostinelli",
+    "username": "ostinelli",
+    "location": "New York, NY",
+    "join_date": "Jul 29, 2009",
+    "popular_repos_stars": "823",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "C"
+    ],
+    "contributions": 508,
+    "followers": "88"
+  },
+  {
+    "url": "https://github.com/saleyn",
+    "language": "Erlang",
+    "full_name": "Serge Aleynikov",
+    "username": "saleyn",
+    "location": "",
+    "join_date": "May 10, 2010",
+    "popular_repos_stars": "168",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "C"
+    ],
+    "contributions": 535,
+    "followers": "88"
+  },
+  {
+    "url": "https://github.com/Zert",
+    "language": "Erlang",
+    "full_name": "Max Treskin",
+    "username": "Zert",
+    "location": "Russia, Novosibirsk",
+    "join_date": "Dec 8, 2008",
+    "popular_repos_stars": "57",
+    "primary_languages": [
+      "Erlang",
+      "JavaScript",
+      "Python"
+    ],
+    "contributions": 27,
+    "followers": "86"
+  },
+  {
+    "url": "https://github.com/gabrielelana",
+    "language": "Erlang",
+    "full_name": "Gabriele Lana",
+    "username": "gabrielelana",
+    "location": "Milan/Italy",
+    "join_date": "Jan 29, 2009",
+    "popular_repos_stars": "199",
+    "primary_languages": [
+      "VimL",
+      "JavaScript",
+      "Ruby"
+    ],
+    "contributions": 1,
+    "followers": "86"
+  },
+  {
+    "url": "https://github.com/tsloughter",
+    "language": "Erlang",
+    "full_name": "Tristan Sloughter",
+    "username": "tsloughter",
+    "location": "Champaign, IL",
+    "join_date": "Nov 23, 2008",
+    "popular_repos_stars": "163",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 205,
+    "followers": "85"
+  },
+  {
+    "url": "https://github.com/klacke",
+    "language": "Erlang",
+    "full_name": "Claes Wikstrom",
+    "username": "klacke",
+    "location": "Stockholm",
+    "join_date": "Feb 17, 2009",
+    "popular_repos_stars": "639",
+    "primary_languages": [
+      "Shell",
+      "Python",
+      "Emacs",
+      "Lisp"
+    ],
+    "contributions": 11,
+    "followers": "84"
+  },
+  {
+    "url": "https://github.com/0xAX",
+    "language": "Erlang",
+    "full_name": "0xAX",
+    "username": "0xAX",
+    "location": "",
+    "join_date": "Nov 1, 2012",
+    "popular_repos_stars": "592",
+    "primary_languages": [
+      "Shell",
+      "Go",
+      "Emacs",
+      "Lisp"
+    ],
+    "contributions": 839,
+    "followers": "83"
+  },
+  {
+    "url": "https://github.com/vinoski",
+    "language": "Erlang",
+    "full_name": "Steve Vinoski",
+    "username": "vinoski",
+    "location": "Cambridge, MA USA",
+    "join_date": "Feb 23, 2009",
+    "popular_repos_stars": "101",
+    "primary_languages": [
+      "Erlang",
+      "CSS",
+      "Shell"
+    ],
+    "contributions": 173,
+    "followers": "81"
+  },
+  {
+    "url": "https://github.com/skarab",
+    "language": "Erlang",
+    "full_name": "Hunter Morris",
+    "username": "skarab",
+    "location": "London, UK",
+    "join_date": "Apr 1, 2008",
+    "popular_repos_stars": "97",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 0,
+    "followers": "80"
+  },
+  {
+    "url": "https://github.com/massemanet",
+    "language": "Erlang",
+    "full_name": "mats cronqvist",
+    "username": "massemanet",
+    "location": "mordor, sweden",
+    "join_date": "Jun 5, 2008",
+    "popular_repos_stars": "517",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "C"
+    ],
+    "contributions": 33,
+    "followers": "80"
+  },
+  {
+    "url": "https://github.com/seth",
+    "language": "Erlang",
+    "full_name": "Seth Falcon",
+    "username": "seth",
+    "location": "Seattle, WA, USA",
+    "join_date": "Feb 28, 2008",
+    "popular_repos_stars": "320",
+    "primary_languages": [
+      "Erlang",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 373,
+    "followers": "79"
+  },
+  {
+    "url": "https://github.com/richcarl",
+    "language": "Erlang",
+    "full_name": "Richard Carlsson",
+    "username": "richcarl",
+    "location": "Sweden",
+    "join_date": "Jan 29, 2010",
+    "popular_repos_stars": "117",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "C"
+    ],
+    "contributions": 15,
+    "followers": "78"
+  },
+  {
+    "url": "https://github.com/tim",
+    "language": "Erlang",
+    "full_name": "Tim Fletcher",
+    "username": "tim",
+    "location": "",
+    "join_date": "Mar 11, 2008",
+    "popular_repos_stars": "390",
+    "primary_languages": [
+      "Erlang",
+      "Ruby"
+    ],
+    "contributions": 24,
+    "followers": "78"
+  },
+  {
+    "url": "https://github.com/twonds",
+    "language": "Erlang",
+    "full_name": "Christopher \"tofu\" Zorn",
+    "username": "twonds",
+    "location": "Alameda, CA",
+    "join_date": "Jan 30, 2009",
+    "popular_repos_stars": "241",
+    "primary_languages": [
+      "Erlang",
+      "Python",
+      "JavaScript"
+    ],
+    "contributions": 73,
+    "followers": "75"
+  },
+  {
+    "url": "https://github.com/Licenser",
+    "language": "Erlang",
+    "full_name": "Heinz N. Gies",
+    "username": "Licenser",
+    "location": "Berlin, Germany",
+    "join_date": "Aug 24, 2009",
+    "popular_repos_stars": "129",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "Clojure"
+    ],
+    "contributions": 3,
+    "followers": "74"
+  },
+  {
+    "url": "https://github.com/gleber",
+    "language": "Erlang",
+    "full_name": "Gleb Peregud",
+    "username": "gleber",
+    "location": "Zurich, Switzerland",
+    "join_date": "Nov 7, 2008",
+    "popular_repos_stars": "267",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "Emacs",
+      "Lisp"
+    ],
+    "contributions": 96,
+    "followers": "73"
+  },
+  {
+    "url": "https://github.com/ddossot",
+    "language": "Erlang",
+    "full_name": "David Dossot",
+    "username": "ddossot",
+    "location": "Vancouver, BC, Canada",
+    "join_date": "Aug 24, 2009",
+    "popular_repos_stars": "126",
+    "primary_languages": [
+      "Erlang",
+      "Java",
+      "Shell"
+    ],
+    "contributions": 218,
+    "followers": "72"
+  },
+  {
+    "url": "https://github.com/nox",
+    "language": "Erlang",
+    "full_name": "Anthony Ramine",
+    "username": "nox",
+    "location": "Paris, France",
+    "join_date": "Sep 3, 2009",
+    "popular_repos_stars": "36",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 221,
+    "followers": "72"
+  },
+  {
+    "url": "https://github.com/ericbmerritt",
+    "language": "Erlang",
+    "full_name": "Eric Merritt",
+    "username": "ericbmerritt",
+    "location": "Seattle, WA",
+    "join_date": "Apr 3, 2008",
+    "popular_repos_stars": "54",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 114,
+    "followers": "70"
+  },
+  {
+    "url": "https://github.com/hyperthunk",
+    "language": "Erlang",
+    "full_name": "Tim Watson",
+    "username": "hyperthunk",
+    "location": "",
+    "join_date": "Nov 26, 2008",
+    "popular_repos_stars": "144",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 580,
+    "followers": "70"
+  },
+  {
+    "url": "https://github.com/dch",
+    "language": "Erlang",
+    "full_name": "Dave Cottlehuber",
+    "username": "dch",
+    "location": "Vienna, Austria",
+    "join_date": "May 22, 2010",
+    "popular_repos_stars": "91",
+    "primary_languages": [
+      "Shell",
+      "Erlang",
+      "C"
+    ],
+    "contributions": 469,
+    "followers": "70"
+  },
+  {
+    "url": "https://github.com/rnewson",
+    "language": "Erlang",
+    "full_name": "Robert Newson",
+    "username": "rnewson",
+    "location": "",
+    "join_date": "Jan 16, 2009",
+    "popular_repos_stars": "613",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 379,
+    "followers": "69"
+  },
+  {
+    "url": "https://github.com/argv0",
+    "language": "Erlang",
+    "full_name": "Andy Gross",
+    "username": "argv0",
+    "location": "San Francisco, CA",
+    "join_date": "Jan 5, 2010",
+    "popular_repos_stars": "36",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "C"
+    ],
+    "contributions": 33,
+    "followers": "68"
+  },
+  {
+    "url": "https://github.com/psyeugenic",
+    "language": "Erlang",
+    "full_name": "Björn-Egil Dahlberg",
+    "username": "psyeugenic",
+    "location": "Stockholm, Sweden",
+    "join_date": "Mar 12, 2009",
+    "popular_repos_stars": "77",
+    "primary_languages": [
+      "Erlang",
+      "C",
+      "Perl"
+    ],
+    "contributions": 220,
+    "followers": "68"
+  },
+  {
+    "url": "https://github.com/okeuday",
+    "language": "Erlang",
+    "full_name": "Michael Truog",
+    "username": "okeuday",
+    "location": "Seattle, WA",
+    "join_date": "Mar 9, 2009",
+    "popular_repos_stars": "240",
+    "primary_languages": [
+      "Erlang",
+      "CSS",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "65"
+  },
+  {
+    "url": "https://github.com/jj1bdx",
+    "language": "Erlang",
+    "full_name": "Kenji Rikitake",
+    "username": "jj1bdx",
+    "location": "Japan",
+    "join_date": "Oct 3, 2008",
+    "popular_repos_stars": "107",
+    "primary_languages": [
+      "Shell",
+      "C",
+      "Erlang"
+    ],
+    "contributions": 1,
+    "followers": "64"
+  },
+  {
+    "url": "https://github.com/tonyrog",
+    "language": "Erlang",
+    "full_name": "Tony Rogvall",
+    "username": "tonyrog",
+    "location": "Sweden, snake city",
+    "join_date": "Nov 13, 2009",
+    "popular_repos_stars": "225",
+    "primary_languages": [
+      "Erlang",
+      "C",
+      "JavaScript"
+    ],
+    "contributions": 359,
+    "followers": "64"
+  },
+  {
+    "url": "https://github.com/pavlobaron",
+    "language": "Erlang",
+    "full_name": "Pavlo Baron",
+    "username": "pavlobaron",
+    "location": "Senior Rubber Duck",
+    "join_date": "Sep 24, 2010",
+    "popular_repos_stars": "127",
+    "primary_languages": [
+      "Shell",
+      "Python",
+      "Erlang"
+    ],
+    "contributions": 36,
+    "followers": "61"
+  },
+  {
+    "url": "https://github.com/gar1t",
+    "language": "Erlang",
+    "full_name": "Garrett Smith",
+    "username": "gar1t",
+    "location": "",
+    "join_date": "Jan 18, 2010",
+    "popular_repos_stars": "163",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "C"
+    ],
+    "contributions": 250,
+    "followers": "61"
+  },
+  {
+    "url": "https://github.com/zv",
+    "language": "Erlang",
+    "full_name": "zeph",
+    "username": "zv",
+    "location": "San Francisco",
+    "join_date": "Aug 17, 2011",
+    "popular_repos_stars": "73",
+    "primary_languages": [
+      "Erlang",
+      "Python",
+      "JavaScript"
+    ],
+    "contributions": 357,
+    "followers": "60"
+  },
+  {
+    "url": "https://github.com/fdmanana",
+    "language": "Erlang",
+    "full_name": "Filipe Manana",
+    "username": "fdmanana",
+    "location": "Portugal",
+    "join_date": "Dec 21, 2009",
+    "popular_repos_stars": "90",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "C"
+    ],
+    "contributions": 8,
+    "followers": "60"
+  },
+  {
+    "url": "https://github.com/norton",
+    "language": "Erlang",
+    "full_name": "Joseph Wayne Norton",
+    "username": "norton",
+    "location": "Tokyo, Japan / Illinois, USA",
+    "join_date": "Apr 11, 2009",
+    "popular_repos_stars": "206",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "C"
+    ],
+    "contributions": 161,
+    "followers": "60"
+  },
+  {
+    "url": "https://github.com/slfritchie",
+    "language": "Erlang",
+    "full_name": "Scott Lystig Fritchie",
+    "username": "slfritchie",
+    "location": "Minneapolis, MN  USA",
+    "join_date": "Apr 18, 2009",
+    "popular_repos_stars": "69",
+    "primary_languages": [
+      "Erlang",
+      "C",
+      "Shell"
+    ],
+    "contributions": 276,
+    "followers": "59"
+  },
+  {
+    "url": "https://github.com/Eonblast",
+    "language": "Erlang",
+    "full_name": "Eonblast Corporation",
+    "username": "Eonblast",
+    "location": "",
+    "join_date": "Apr 23, 2010",
+    "popular_repos_stars": "409",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "Lua"
+    ],
+    "contributions": 0,
+    "followers": "56"
+  },
+  {
+    "url": "https://github.com/mattsta",
+    "language": "Erlang",
+    "full_name": "Matt Stancliff",
+    "username": "mattsta",
+    "location": "New York, NY",
+    "join_date": "Jun 30, 2008",
+    "popular_repos_stars": "125",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "C"
+    ],
+    "contributions": 324,
+    "followers": "56"
+  },
+  {
+    "url": "https://github.com/djui",
+    "language": "Erlang",
+    "full_name": "Uwe Dauernheim",
+    "username": "djui",
+    "location": "Stockholm, Sweden",
+    "join_date": "Jun 28, 2009",
+    "popular_repos_stars": "99",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 465,
+    "followers": "55"
+  },
+  {
+    "url": "https://github.com/maximk",
+    "language": "Erlang",
+    "full_name": "Maksym Kharchenko",
+    "username": "maximk",
+    "location": "",
+    "join_date": "Mar 25, 2009",
+    "popular_repos_stars": "111",
+    "primary_languages": [
+      "Erlang",
+      "C",
+      "JavaScript"
+    ],
+    "contributions": 56,
+    "followers": "55"
+  },
+  {
+    "url": "https://github.com/martinjlogan",
+    "language": "Erlang",
+    "full_name": "Martin Logan",
+    "username": "martinjlogan",
+    "location": "Chicago, IL",
+    "join_date": "Aug 14, 2008",
+    "popular_repos_stars": "38",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 3,
+    "followers": "55"
+  },
+  {
+    "url": "https://github.com/eproxus",
+    "language": "Erlang",
+    "full_name": "Adam Lindberg",
+    "username": "eproxus",
+    "location": "Berlin, Germany",
+    "join_date": "Aug 7, 2009",
+    "popular_repos_stars": "413",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 221,
+    "followers": "54"
+  },
+  {
+    "url": "https://github.com/superbobry",
+    "language": "Erlang",
+    "full_name": "Sergei Lebedev",
+    "username": "superbobry",
+    "location": "St. Petersburg, Russia",
+    "join_date": "Jan 19, 2010",
+    "popular_repos_stars": "66",
+    "primary_languages": [
+      "Shell",
+      "Python",
+      "Erlang"
+    ],
+    "contributions": 199,
+    "followers": "54"
+  },
+  {
+    "url": "https://github.com/garazdawi",
+    "language": "Erlang",
+    "full_name": "Lukas Larsson",
+    "username": "garazdawi",
+    "location": "Stockholm",
+    "join_date": "Aug 4, 2009",
+    "popular_repos_stars": "54",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "C"
+    ],
+    "contributions": 138,
+    "followers": "53"
+  },
+  {
+    "url": "https://github.com/CorticalComputer",
+    "language": "Erlang",
+    "full_name": "Gene",
+    "username": "CorticalComputer",
+    "location": "",
+    "join_date": "Mar 30, 2011",
+    "popular_repos_stars": "115",
+    "primary_languages": [
+      "Erlang"
+    ],
+    "contributions": 3,
+    "followers": "52"
+  },
+  {
+    "url": "https://github.com/maliqq",
+    "language": "Erlang",
+    "full_name": "Malik Baktiyarov",
+    "username": "maliqq",
+    "location": "Moscow, Russia",
+    "join_date": "Oct 19, 2008",
+    "popular_repos_stars": "22",
+    "primary_languages": [
+      "Ruby",
+      "Erlang",
+      "JavaScript"
+    ],
+    "contributions": 19,
+    "followers": "52"
+  },
+  {
+    "url": "https://github.com/toland",
+    "language": "Erlang",
+    "full_name": "Phillip Toland",
+    "username": "toland",
+    "location": "San Antonio, TX",
+    "join_date": "Apr 3, 2008",
+    "popular_repos_stars": "1664",
+    "primary_languages": [
+      "Ruby",
+      "Erlang",
+      "C"
+    ],
+    "contributions": 6,
+    "followers": "52"
+  },
+  {
+    "url": "https://github.com/dmitriid",
+    "language": "Erlang",
+    "full_name": "Dmitrii 'Mamut' Dimandt",
+    "username": "dmitriid",
+    "location": "Stockholm, Sweden",
+    "join_date": "Nov 5, 2008",
+    "popular_repos_stars": "80",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "Java"
+    ],
+    "contributions": 152,
+    "followers": "52"
+  },
+  {
+    "url": "https://github.com/doubleyou",
+    "language": "Erlang",
+    "full_name": "Dmitry Demeshchuk",
+    "username": "doubleyou",
+    "location": "Oakland, CA",
+    "join_date": "Mar 6, 2010",
+    "popular_repos_stars": "113",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 36,
+    "followers": "51"
+  },
+  {
+    "url": "https://github.com/JonGretar",
+    "language": "Erlang",
+    "full_name": "Jon Gretar Borgthorsson",
+    "username": "JonGretar",
+    "location": "Reykjavik, Iceland",
+    "join_date": "Apr 4, 2008",
+    "popular_repos_stars": "123",
+    "primary_languages": [
+      "JavaScript",
+      "Erlang",
+      "Ruby"
+    ],
+    "contributions": 77,
+    "followers": "51"
+  },
+  {
+    "url": "https://github.com/kostis",
+    "language": "Erlang",
+    "full_name": "Kostis Sagonas",
+    "username": "kostis",
+    "location": "Athens, Greece",
+    "join_date": "Dec 9, 2009",
+    "popular_repos_stars": "11",
+    "primary_languages": [
+      "C",
+      "Erlang",
+      "Shell"
+    ],
+    "contributions": 41,
+    "followers": "50"
+  },
+  {
+    "url": "https://github.com/cstar",
+    "language": "Erlang",
+    "full_name": "Eric Cestari",
+    "username": "cstar",
+    "location": "Paris, France",
+    "join_date": "Nov 27, 2008",
+    "popular_repos_stars": "177",
+    "primary_languages": [
+      "Erlang",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 92,
+    "followers": "50"
+  },
+  {
+    "url": "https://github.com/mokele",
+    "language": "Erlang",
+    "full_name": "Steven Gravell",
+    "username": "mokele",
+    "location": "",
+    "join_date": "Nov 26, 2008",
+    "popular_repos_stars": "50",
+    "primary_languages": [
+      "Erlang",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 75,
+    "followers": "49"
+  },
+  {
+    "url": "https://github.com/DennyZhang",
+    "language": "Erlang",
+    "full_name": "DennyZhang(张巍)",
+    "username": "DennyZhang",
+    "location": "Houston, USA",
+    "join_date": "Dec 7, 2011",
+    "popular_repos_stars": "55",
+    "primary_languages": [
+      "Shell",
+      "Python",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "48"
+  },
+  {
+    "url": "https://github.com/russelldb",
+    "language": "Erlang",
+    "full_name": "Russell Brown",
+    "username": "russelldb",
+    "location": "UK",
+    "join_date": "Feb 20, 2009",
+    "popular_repos_stars": "38",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 317,
+    "followers": "48"
+  },
+  {
+    "url": "https://github.com/lefant",
+    "language": "Erlang",
+    "full_name": "Fabian Linzberger",
+    "username": "lefant",
+    "location": "Stockholm, Sweden",
+    "join_date": "Mar 17, 2009",
+    "popular_repos_stars": "15",
+    "primary_languages": [
+      "Shell",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 356,
+    "followers": "48"
+  },
+  {
+    "url": "https://github.com/yzh44yzh",
+    "language": "Erlang",
+    "full_name": "Yuri Zhloba",
+    "username": "yzh44yzh",
+    "location": "Minsk, Belarus",
+    "join_date": "Oct 29, 2010",
+    "popular_repos_stars": "53",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "ActionScript"
+    ],
+    "contributions": 243,
+    "followers": "47"
+  },
+  {
+    "url": "https://github.com/bjorng",
+    "language": "Erlang",
+    "full_name": "Björn Gustavsson",
+    "username": "bjorng",
+    "location": "Stockholm",
+    "join_date": "Apr 17, 2009",
+    "popular_repos_stars": "67",
+    "primary_languages": [
+      "Perl",
+      "Erlang",
+      "C"
+    ],
+    "contributions": 224,
+    "followers": "46"
+  },
+  {
+    "url": "https://github.com/erylee",
+    "language": "Erlang",
+    "full_name": "Ery Lee",
+    "username": "erylee",
+    "location": "hangzhou, china",
+    "join_date": "May 29, 2008",
+    "popular_repos_stars": "55",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 1,
+    "followers": "46"
+  },
+  {
+    "url": "https://github.com/si14",
+    "language": "Erlang",
+    "full_name": "Dmitry Groshev",
+    "username": "si14",
+    "location": "Saint-Petersburg",
+    "join_date": "Jun 28, 2010",
+    "popular_repos_stars": "79",
+    "primary_languages": [
+      "Erlang",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 122,
+    "followers": "45"
+  },
+  {
+    "url": "https://github.com/rzezeski",
+    "language": "Erlang",
+    "full_name": "Ryan Zezeski",
+    "username": "rzezeski",
+    "location": "Baltimore, MD",
+    "join_date": "Feb 21, 2010",
+    "popular_repos_stars": "204",
+    "primary_languages": [
+      "Erlang",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 582,
+    "followers": "45"
+  },
+  {
+    "url": "https://github.com/andrzejsliwa",
+    "language": "Erlang",
+    "full_name": "Andrzej Sliwa",
+    "username": "andrzejsliwa",
+    "location": "Poland, Gorzow Wlkp.",
+    "join_date": "May 4, 2008",
+    "popular_repos_stars": "172",
+    "primary_languages": [
+      "Ruby",
+      "Erlang",
+      "Shell"
+    ],
+    "contributions": 93,
+    "followers": "45"
+  },
+  {
+    "url": "https://github.com/arjan",
+    "language": "Erlang",
+    "full_name": "Arjan Scherpenisse",
+    "username": "arjan",
+    "location": "Amsterdam, NL",
+    "join_date": "Sep 15, 2008",
+    "popular_repos_stars": "47",
+    "primary_languages": [
+      "Erlang",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 460,
+    "followers": "44"
+  },
+  {
+    "url": "https://github.com/aerosol",
+    "language": "Erlang",
+    "full_name": "Adam Rutkowski",
+    "username": "aerosol",
+    "location": "Warsaw, Poland",
+    "join_date": "Dec 29, 2009",
+    "popular_repos_stars": "165",
+    "primary_languages": [
+      "Erlang",
+      "VimL",
+      "Python"
+    ],
+    "contributions": 131,
+    "followers": "44"
+  }
+]

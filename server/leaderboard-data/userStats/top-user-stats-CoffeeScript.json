@@ -1,0 +1,1585 @@
+[
+  {
+    "url": "https://github.com/raganwald",
+    "language": "CoffeeScript",
+    "full_name": "Reg Braithwaite",
+    "username": "raganwald",
+    "location": "Toronto, Canada",
+    "join_date": "Jul 21, 2008",
+    "popular_repos_stars": "1315",
+    "primary_languages": [
+      "JavaScript",
+      "CoffeeScript",
+      "Ruby"
+    ],
+    "contributions": 633,
+    "followers": "930"
+  },
+  {
+    "url": "https://github.com/bergie",
+    "language": "CoffeeScript",
+    "full_name": "Henri Bergius",
+    "username": "bergie",
+    "location": "Berlin, Germany",
+    "join_date": "Mar 18, 2008",
+    "popular_repos_stars": "4674",
+    "primary_languages": [
+      "JavaScript",
+      "PHP",
+      "CoffeeScript"
+    ],
+    "contributions": 3,
+    "followers": "430"
+  },
+  {
+    "url": "https://github.com/robb",
+    "language": "CoffeeScript",
+    "full_name": "Robert Böhnke",
+    "username": "robb",
+    "location": "Berlin",
+    "join_date": "Feb 28, 2010",
+    "popular_repos_stars": "4050",
+    "primary_languages": [
+      "Objective",
+      "C",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "394"
+  },
+  {
+    "url": "https://github.com/JohnONolan",
+    "language": "CoffeeScript",
+    "full_name": "John O'Nolan",
+    "username": "JohnONolan",
+    "location": "El Gouna, Egypt",
+    "join_date": "Aug 28, 2009",
+    "popular_repos_stars": "70",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "PHP"
+    ],
+    "contributions": 692,
+    "followers": "300"
+  },
+  {
+    "url": "https://github.com/josephg",
+    "language": "CoffeeScript",
+    "full_name": "Joseph Gentle",
+    "username": "josephg",
+    "location": "San Francisco",
+    "join_date": "Jan 17, 2009",
+    "popular_repos_stars": "763",
+    "primary_languages": [
+      "CoffeeScript",
+      "JavaScript",
+      "C"
+    ],
+    "contributions": 636,
+    "followers": "248"
+  },
+  {
+    "url": "https://github.com/JoelBesada",
+    "language": "CoffeeScript",
+    "full_name": "Joel Besada",
+    "username": "JoelBesada",
+    "location": "Stockholm, Sweden",
+    "join_date": "Mar 24, 2011",
+    "popular_repos_stars": "3292",
+    "primary_languages": [
+      "JavaScript",
+      "CoffeeScript",
+      "CSS"
+    ],
+    "contributions": 223,
+    "followers": "224"
+  },
+  {
+    "url": "https://github.com/jiyinyiyong",
+    "language": "CoffeeScript",
+    "full_name": "题叶",
+    "username": "jiyinyiyong",
+    "location": "Shanghai, China",
+    "join_date": "Oct 21, 2010",
+    "popular_repos_stars": "33",
+    "primary_languages": [
+      "CoffeeScript",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 1,
+    "followers": "218"
+  },
+  {
+    "url": "https://github.com/nkohari",
+    "language": "CoffeeScript",
+    "full_name": "Nate Kohari",
+    "username": "nkohari",
+    "location": "Raleigh, NC, USA",
+    "join_date": "Feb 28, 2008",
+    "popular_repos_stars": "435",
+    "primary_languages": [
+      "CoffeeScript",
+      "JavaScript",
+      "Ruby"
+    ],
+    "contributions": 46,
+    "followers": "135"
+  },
+  {
+    "url": "https://github.com/matthiasn",
+    "language": "CoffeeScript",
+    "full_name": "Matthias Nehlsen",
+    "username": "matthiasn",
+    "location": "",
+    "join_date": "Jan 30, 2012",
+    "popular_repos_stars": "705",
+    "primary_languages": [
+      "CSS",
+      "JavaScript",
+      "Scala"
+    ],
+    "contributions": 489,
+    "followers": "117"
+  },
+  {
+    "url": "https://github.com/beep",
+    "language": "CoffeeScript",
+    "full_name": "",
+    "username": "beep",
+    "location": "",
+    "join_date": "Sep 8, 2009",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "Shell",
+      "CoffeeScript"
+    ],
+    "contributions": 5,
+    "followers": "113"
+  },
+  {
+    "url": "https://github.com/dodo",
+    "language": "CoffeeScript",
+    "full_name": "▟ ▖▟ ▖",
+    "username": "dodo",
+    "location": "interwebz",
+    "join_date": "Oct 21, 2009",
+    "popular_repos_stars": "332",
+    "primary_languages": [
+      "JavaScript",
+      "CoffeeScript",
+      "Python"
+    ],
+    "contributions": 754,
+    "followers": "113"
+  },
+  {
+    "url": "https://github.com/moul",
+    "language": "CoffeeScript",
+    "full_name": "Manfred Touron",
+    "username": "moul",
+    "location": "Paris / Rouen",
+    "join_date": "Jun 10, 2009",
+    "popular_repos_stars": "138",
+    "primary_languages": [
+      "Shell",
+      "CoffeeScript",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "93"
+  },
+  {
+    "url": "https://github.com/chenglou",
+    "language": "CoffeeScript",
+    "full_name": "Cheng Lou",
+    "username": "chenglou",
+    "location": "Montreal, Canada",
+    "join_date": "Jun 30, 2012",
+    "popular_repos_stars": "428",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "CoffeeScript"
+    ],
+    "contributions": 986,
+    "followers": "90"
+  },
+  {
+    "url": "https://github.com/wdavidw",
+    "language": "CoffeeScript",
+    "full_name": "Worms David",
+    "username": "wdavidw",
+    "location": "Paris, France",
+    "join_date": "Jan 15, 2009",
+    "popular_repos_stars": "1094",
+    "primary_languages": [
+      "CoffeeScript",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "84"
+  },
+  {
+    "url": "https://github.com/adam-p",
+    "language": "CoffeeScript",
+    "full_name": "Adam Pritchard",
+    "username": "adam-p",
+    "location": "Toronto, Canada",
+    "join_date": "Oct 3, 2010",
+    "popular_repos_stars": "4955",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "CoffeeScript"
+    ],
+    "contributions": 386,
+    "followers": "80"
+  },
+  {
+    "url": "https://github.com/danielstocks",
+    "language": "CoffeeScript",
+    "full_name": "Daniel Stocks",
+    "username": "danielstocks",
+    "location": "Gothenburg, Sweden",
+    "join_date": "Feb 8, 2009",
+    "popular_repos_stars": "563",
+    "primary_languages": [
+      "CSS",
+      "JavaScript",
+      "CoffeeScript"
+    ],
+    "contributions": 183,
+    "followers": "80"
+  },
+  {
+    "url": "https://github.com/stdbrouw",
+    "language": "CoffeeScript",
+    "full_name": "Stijn Debrouwere",
+    "username": "stdbrouw",
+    "location": "Ghent, Belgium",
+    "join_date": "Mar 8, 2010",
+    "popular_repos_stars": "410",
+    "primary_languages": [
+      "CoffeeScript",
+      "Python",
+      "JavaScript"
+    ],
+    "contributions": 164,
+    "followers": "79"
+  },
+  {
+    "url": "https://github.com/jeanlaurent",
+    "language": "CoffeeScript",
+    "full_name": "Jean-Laurent de Morlhon",
+    "username": "jeanlaurent",
+    "location": "France",
+    "join_date": "Feb 4, 2010",
+    "popular_repos_stars": "29",
+    "primary_languages": [
+      "Java",
+      "CoffeeScript",
+      "JavaScript"
+    ],
+    "contributions": 420,
+    "followers": "78"
+  },
+  {
+    "url": "https://github.com/donpark",
+    "language": "CoffeeScript",
+    "full_name": "Don Park",
+    "username": "donpark",
+    "location": "Redwood Shores, CA",
+    "join_date": "Sep 15, 2009",
+    "popular_repos_stars": "1454",
+    "primary_languages": [
+      "JavaScript",
+      "CoffeeScript",
+      "CSS"
+    ],
+    "contributions": 56,
+    "followers": "75"
+  },
+  {
+    "url": "https://github.com/ghostbar",
+    "language": "CoffeeScript",
+    "full_name": "Jose-Luis Rivas",
+    "username": "ghostbar",
+    "location": "The Interweb",
+    "join_date": "Nov 11, 2008",
+    "popular_repos_stars": "47",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "71"
+  },
+  {
+    "url": "https://github.com/mispy",
+    "language": "CoffeeScript",
+    "full_name": "Mispy",
+    "username": "mispy",
+    "location": "Melbourne, Australia",
+    "join_date": "Dec 16, 2012",
+    "popular_repos_stars": "331",
+    "primary_languages": [
+      "Ruby",
+      "CoffeeScript",
+      "JavaScript"
+    ],
+    "contributions": 917,
+    "followers": "67"
+  },
+  {
+    "url": "https://github.com/paulbjensen",
+    "language": "CoffeeScript",
+    "full_name": "Paul Jensen",
+    "username": "paulbjensen",
+    "location": "London, UK",
+    "join_date": "Mar 25, 2008",
+    "popular_repos_stars": "11",
+    "primary_languages": [
+      "JavaScript",
+      "CoffeeScript",
+      "CSS"
+    ],
+    "contributions": 541,
+    "followers": "67"
+  },
+  {
+    "url": "https://github.com/corysimmons",
+    "language": "CoffeeScript",
+    "full_name": "Cory Simmons",
+    "username": "corysimmons",
+    "location": "Ashland, KY",
+    "join_date": "Mar 17, 2010",
+    "popular_repos_stars": "120",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "Perl"
+    ],
+    "contributions": 1,
+    "followers": "66"
+  },
+  {
+    "url": "https://github.com/jakobmattsson",
+    "language": "CoffeeScript",
+    "full_name": "Jakob Mattsson",
+    "username": "jakobmattsson",
+    "location": "Stockholm, Sweden",
+    "join_date": "Jan 10, 2010",
+    "popular_repos_stars": "56",
+    "primary_languages": [
+      "CoffeeScript",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 700,
+    "followers": "65"
+  },
+  {
+    "url": "https://github.com/pfiller",
+    "language": "CoffeeScript",
+    "full_name": "Patrick Filler",
+    "username": "pfiller",
+    "location": "Hoboken, NJ",
+    "join_date": "Jan 3, 2011",
+    "popular_repos_stars": "13",
+    "primary_languages": [
+      "CoffeeScript",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 155,
+    "followers": "64"
+  },
+  {
+    "url": "https://github.com/techpines",
+    "language": "CoffeeScript",
+    "full_name": "Brad Carleton",
+    "username": "techpines",
+    "location": "Austin, TX",
+    "join_date": "May 25, 2012",
+    "popular_repos_stars": "1841",
+    "primary_languages": [
+      "CoffeeScript",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 11,
+    "followers": "61"
+  },
+  {
+    "url": "https://github.com/malgorithms",
+    "language": "CoffeeScript",
+    "full_name": "Chris Coyne",
+    "username": "malgorithms",
+    "location": "New York, NY",
+    "join_date": "Feb 12, 2011",
+    "popular_repos_stars": "169",
+    "primary_languages": [
+      "CoffeeScript",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 458,
+    "followers": "57"
+  },
+  {
+    "url": "https://github.com/AriaMinaei",
+    "language": "CoffeeScript",
+    "full_name": "Aria",
+    "username": "AriaMinaei",
+    "location": "",
+    "join_date": "Jan 31, 2011",
+    "popular_repos_stars": "632",
+    "primary_languages": [
+      "CoffeeScript",
+      "JavaScript",
+      "Ruby"
+    ],
+    "contributions": 1,
+    "followers": "56"
+  },
+  {
+    "url": "https://github.com/mynameisraj",
+    "language": "CoffeeScript",
+    "full_name": "",
+    "username": "mynameisraj",
+    "location": "",
+    "join_date": "Dec 15, 2010",
+    "popular_repos_stars": "95",
+    "primary_languages": [
+      "JavaScript",
+      "CoffeeScript",
+      "C"
+    ],
+    "contributions": 114,
+    "followers": "52"
+  },
+  {
+    "url": "https://github.com/KirillTemnov",
+    "language": "CoffeeScript",
+    "full_name": "Kirill Temnov",
+    "username": "KirillTemnov",
+    "location": "Crimea, Russia",
+    "join_date": "Oct 31, 2009",
+    "popular_repos_stars": "110",
+    "primary_languages": [
+      "CoffeeScript",
+      "JavaScript",
+      "Common",
+      "Lisp"
+    ],
+    "contributions": 22,
+    "followers": "51"
+  },
+  {
+    "url": "https://github.com/typicode",
+    "language": "CoffeeScript",
+    "full_name": "",
+    "username": "typicode",
+    "location": "localhost",
+    "join_date": "Sep 20, 2013",
+    "popular_repos_stars": "2614",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "CoffeeScript"
+    ],
+    "contributions": 795,
+    "followers": "51"
+  },
+  {
+    "url": "https://github.com/mdevils",
+    "language": "CoffeeScript",
+    "full_name": "Marat Dulin",
+    "username": "mdevils",
+    "location": "",
+    "join_date": "Jan 5, 2010",
+    "popular_repos_stars": "37",
+    "primary_languages": [
+      "JavaScript",
+      "CoffeeScript",
+      "Shell"
+    ],
+    "contributions": 642,
+    "followers": "50"
+  },
+  {
+    "url": "https://github.com/rebeccawilliams",
+    "language": "CoffeeScript",
+    "full_name": "Rebecca Williams",
+    "username": "rebeccawilliams",
+    "location": "Washington, D.C.",
+    "join_date": "May 9, 2012",
+    "popular_repos_stars": "12",
+    "primary_languages": [
+      "CSS",
+      "JavaScript",
+      "Ruby"
+    ],
+    "contributions": 715,
+    "followers": "50"
+  },
+  {
+    "url": "https://github.com/meritt",
+    "language": "CoffeeScript",
+    "full_name": "Alexey Simonenko",
+    "username": "meritt",
+    "location": "Saint-Petersburg, Russia",
+    "join_date": "May 20, 2008",
+    "popular_repos_stars": "324",
+    "primary_languages": [
+      "JavaScript",
+      "CoffeeScript",
+      "CSS"
+    ],
+    "contributions": 809,
+    "followers": "49"
+  },
+  {
+    "url": "https://github.com/alecperkins",
+    "language": "CoffeeScript",
+    "full_name": "Alec Perkins",
+    "username": "alecperkins",
+    "location": "Hoboken, NJ, USA",
+    "join_date": "Jun 26, 2009",
+    "popular_repos_stars": "207",
+    "primary_languages": [
+      "CoffeeScript",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 413,
+    "followers": "49"
+  },
+  {
+    "url": "https://github.com/mizzao",
+    "language": "CoffeeScript",
+    "full_name": "Andrew Mao",
+    "username": "mizzao",
+    "location": "Cambridge, MA",
+    "join_date": "Aug 1, 2012",
+    "popular_repos_stars": "345",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "CoffeeScript"
+    ],
+    "contributions": 1,
+    "followers": "48"
+  },
+  {
+    "url": "https://github.com/kelonye",
+    "language": "CoffeeScript",
+    "full_name": "Mitchel Kelonye",
+    "username": "kelonye",
+    "location": "Nairobi, Kenya",
+    "join_date": "Apr 27, 2011",
+    "popular_repos_stars": "47",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "Python"
+    ],
+    "contributions": 446,
+    "followers": "48"
+  },
+  {
+    "url": "https://github.com/marginelson",
+    "language": "CoffeeScript",
+    "full_name": "Nelson Francisco",
+    "username": "marginelson",
+    "location": "Sao Paulo, Brazil",
+    "join_date": "Dec 14, 2013",
+    "popular_repos_stars": "10",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "CoffeeScript"
+    ],
+    "contributions": 285,
+    "followers": "48"
+  },
+  {
+    "url": "https://github.com/dbashford",
+    "language": "CoffeeScript",
+    "full_name": "",
+    "username": "dbashford",
+    "location": "Northern Virginia",
+    "join_date": "Jan 24, 2011",
+    "popular_repos_stars": "679",
+    "primary_languages": [
+      "JavaScript",
+      "CoffeeScript",
+      "CSS"
+    ],
+    "contributions": 569,
+    "followers": "46"
+  },
+  {
+    "url": "https://github.com/clutchski",
+    "language": "CoffeeScript",
+    "full_name": "Matt Perpick",
+    "username": "clutchski",
+    "location": "Brooklyn, NY",
+    "join_date": "Jun 5, 2009",
+    "popular_repos_stars": "687",
+    "primary_languages": [
+      "Ruby",
+      "CoffeeScript",
+      "JavaScript"
+    ],
+    "contributions": 79,
+    "followers": "45"
+  },
+  {
+    "url": "https://github.com/MaximLoguncov",
+    "language": "CoffeeScript",
+    "full_name": "Maxim Loguncov",
+    "username": "MaximLoguncov",
+    "location": "Moscow",
+    "join_date": "Mar 11, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "CSS",
+      "JavaScript",
+      "Java"
+    ],
+    "contributions": 15,
+    "followers": "43"
+  },
+  {
+    "url": "https://github.com/jawj",
+    "language": "CoffeeScript",
+    "full_name": "George MacKerron",
+    "username": "jawj",
+    "location": "Brighton, UK",
+    "join_date": "Oct 19, 2009",
+    "popular_repos_stars": "555",
+    "primary_languages": [
+      "CoffeeScript",
+      "JavaScript",
+      "Ruby"
+    ],
+    "contributions": 51,
+    "followers": "42"
+  },
+  {
+    "url": "https://github.com/gudmundur",
+    "language": "CoffeeScript",
+    "full_name": "Guðmundur Bjarni Ólafsson",
+    "username": "gudmundur",
+    "location": "Copenhagen, Denmark",
+    "join_date": "Nov 19, 2008",
+    "popular_repos_stars": "35",
+    "primary_languages": [
+      "JavaScript",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 100,
+    "followers": "40"
+  },
+  {
+    "url": "https://github.com/davidmfoley",
+    "language": "CoffeeScript",
+    "full_name": "Dave Foley",
+    "username": "davidmfoley",
+    "location": "Ballard WA",
+    "join_date": "Sep 17, 2009",
+    "popular_repos_stars": "87",
+    "primary_languages": [
+      "JavaScript",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 122,
+    "followers": "39"
+  },
+  {
+    "url": "https://github.com/nikolaiwarner",
+    "language": "CoffeeScript",
+    "full_name": "Nikolai Warner",
+    "username": "nikolaiwarner",
+    "location": "Lexington, KY 40508",
+    "join_date": "Dec 16, 2008",
+    "popular_repos_stars": "19",
+    "primary_languages": [
+      "CoffeeScript",
+      "JavaScript",
+      "Ruby"
+    ],
+    "contributions": 183,
+    "followers": "39"
+  },
+  {
+    "url": "https://github.com/Tivoli",
+    "language": "CoffeeScript",
+    "full_name": "Jonathan Rainey",
+    "username": "Tivoli",
+    "location": "New York, NY",
+    "join_date": "Dec 15, 2008",
+    "popular_repos_stars": "9",
+    "primary_languages": [
+      "JavaScript",
+      "CoffeeScript",
+      "Shell"
+    ],
+    "contributions": 207,
+    "followers": "38"
+  },
+  {
+    "url": "https://github.com/q3boy",
+    "language": "CoffeeScript",
+    "full_name": "Liao Kai",
+    "username": "q3boy",
+    "location": "",
+    "join_date": "Jul 21, 2009",
+    "popular_repos_stars": "13",
+    "primary_languages": [
+      "JavaScript",
+      "CoffeeScript",
+      "Shell"
+    ],
+    "contributions": 21,
+    "followers": "38"
+  },
+  {
+    "url": "https://github.com/evanmoran",
+    "language": "CoffeeScript",
+    "full_name": "Evan Moran",
+    "username": "evanmoran",
+    "location": "Seattle, USA",
+    "join_date": "Apr 27, 2011",
+    "popular_repos_stars": "9",
+    "primary_languages": [
+      "JavaScript",
+      "CoffeeScript",
+      "CSS"
+    ],
+    "contributions": 206,
+    "followers": "38"
+  },
+  {
+    "url": "https://github.com/aden",
+    "language": "CoffeeScript",
+    "full_name": "Aden Beihl",
+    "username": "aden",
+    "location": "Cedar Rapids, IA",
+    "join_date": "Feb 27, 2012",
+    "popular_repos_stars": "1",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "38"
+  },
+  {
+    "url": "https://github.com/philjackson",
+    "language": "CoffeeScript",
+    "full_name": "Phil Jackson",
+    "username": "philjackson",
+    "location": "",
+    "join_date": "Jan 2, 2009",
+    "popular_repos_stars": "45",
+    "primary_languages": [
+      "CoffeeScript",
+      "JavaScript",
+      "Emacs",
+      "Lisp"
+    ],
+    "contributions": 550,
+    "followers": "37"
+  },
+  {
+    "url": "https://github.com/backus",
+    "language": "CoffeeScript",
+    "full_name": "John Backus",
+    "username": "backus",
+    "location": "",
+    "join_date": "Aug 2, 2012",
+    "popular_repos_stars": "40",
+    "primary_languages": [
+      "JavaScript",
+      "CoffeeScript",
+      "Ruby"
+    ],
+    "contributions": 85,
+    "followers": "36"
+  },
+  {
+    "url": "https://github.com/NicoSa",
+    "language": "CoffeeScript",
+    "full_name": "Nico Saueressig",
+    "username": "NicoSa",
+    "location": "London, United Kingdom",
+    "join_date": "Oct 1, 2013",
+    "popular_repos_stars": "5",
+    "primary_languages": [
+      "Ruby",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "36"
+  },
+  {
+    "url": "https://github.com/moudy",
+    "language": "CoffeeScript",
+    "full_name": "Moudy Elkammash",
+    "username": "moudy",
+    "location": "Brooklyn, New York",
+    "join_date": "Apr 10, 2010",
+    "popular_repos_stars": "134",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "Shell"
+    ],
+    "contributions": 748,
+    "followers": "35"
+  },
+  {
+    "url": "https://github.com/badamson",
+    "language": "CoffeeScript",
+    "full_name": "Brendan Adamson",
+    "username": "badamson",
+    "location": "Brooklyn",
+    "join_date": "Dec 12, 2009",
+    "popular_repos_stars": "150",
+    "primary_languages": [
+      "Haskell",
+      "JavaScript",
+      "CoffeeScript"
+    ],
+    "contributions": 128,
+    "followers": "35"
+  },
+  {
+    "url": "https://github.com/manuelmeurer",
+    "language": "CoffeeScript",
+    "full_name": "Manuel Meurer",
+    "username": "manuelmeurer",
+    "location": "Berlin, Germany",
+    "join_date": "Jul 10, 2008",
+    "popular_repos_stars": "106070",
+    "primary_languages": [],
+    "contributions": 765,
+    "followers": "33"
+  },
+  {
+    "url": "https://github.com/dmauro",
+    "language": "CoffeeScript",
+    "full_name": "David Mauro",
+    "username": "dmauro",
+    "location": "Brooklyn",
+    "join_date": "Nov 8, 2010",
+    "popular_repos_stars": "2065",
+    "primary_languages": [
+      "CoffeeScript",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 156,
+    "followers": "33"
+  },
+  {
+    "url": "https://github.com/aikalima",
+    "language": "CoffeeScript",
+    "full_name": "Markus Guehrs",
+    "username": "aikalima",
+    "location": "San Francisco CA",
+    "join_date": "Dec 2, 2011",
+    "popular_repos_stars": "6",
+    "primary_languages": [
+      "JavaScript",
+      "Ruby",
+      "CoffeeScript"
+    ],
+    "contributions": 162,
+    "followers": "33"
+  },
+  {
+    "url": "https://github.com/diogocorrea",
+    "language": "CoffeeScript",
+    "full_name": "Diogo Corrêa",
+    "username": "diogocorrea",
+    "location": "Brazil",
+    "join_date": "Jan 4, 2011",
+    "popular_repos_stars": "5",
+    "primary_languages": [
+      "CSS"
+    ],
+    "contributions": 2,
+    "followers": "32"
+  },
+  {
+    "url": "https://github.com/saiten",
+    "language": "CoffeeScript",
+    "full_name": "Tomoaki Shibata",
+    "username": "saiten",
+    "location": "Japan",
+    "join_date": "May 20, 2009",
+    "popular_repos_stars": "145",
+    "primary_languages": [
+      "Objective",
+      "C",
+      "JavaScript",
+      "Ruby"
+    ],
+    "contributions": 18,
+    "followers": "32"
+  },
+  {
+    "url": "https://github.com/scien",
+    "language": "CoffeeScript",
+    "full_name": "Bryant Williams",
+    "username": "scien",
+    "location": "San Francisco, CA",
+    "join_date": "Dec 8, 2011",
+    "popular_repos_stars": "49",
+    "primary_languages": [
+      "CoffeeScript",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 423,
+    "followers": "32"
+  },
+  {
+    "url": "https://github.com/mikesmullin",
+    "language": "CoffeeScript",
+    "full_name": "Mike Smullin",
+    "username": "mikesmullin",
+    "location": "South Jordan, Utah, USA",
+    "join_date": "Jul 17, 2009",
+    "popular_repos_stars": "186",
+    "primary_languages": [
+      "CoffeeScript",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 97,
+    "followers": "31"
+  },
+  {
+    "url": "https://github.com/dylan",
+    "language": "CoffeeScript",
+    "full_name": "Dylan Wreggelsworth",
+    "username": "dylan",
+    "location": "Palo Alto, CA",
+    "join_date": "Sep 6, 2008",
+    "popular_repos_stars": "46",
+    "primary_languages": [
+      "CoffeeScript",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 121,
+    "followers": "31"
+  },
+  {
+    "url": "https://github.com/naneau",
+    "language": "CoffeeScript",
+    "full_name": "Maurice Fonk",
+    "username": "naneau",
+    "location": "Netherlands",
+    "join_date": "May 28, 2009",
+    "popular_repos_stars": "63",
+    "primary_languages": [
+      "CoffeeScript",
+      "JavaScript",
+      "PHP"
+    ],
+    "contributions": 222,
+    "followers": "31"
+  },
+  {
+    "url": "https://github.com/tancredi",
+    "language": "CoffeeScript",
+    "full_name": "",
+    "username": "tancredi",
+    "location": "",
+    "join_date": "Jan 3, 2012",
+    "popular_repos_stars": "26",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "CoffeeScript"
+    ],
+    "contributions": 694,
+    "followers": "31"
+  },
+  {
+    "url": "https://github.com/degzhaus",
+    "language": "CoffeeScript",
+    "full_name": "John Degner",
+    "username": "degzhaus",
+    "location": "San Francisco, CA",
+    "join_date": "Aug 3, 2009",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "JavaScript",
+      "PHP",
+      "Perl"
+    ],
+    "contributions": 2,
+    "followers": "30"
+  },
+  {
+    "url": "https://github.com/Squeegy",
+    "language": "CoffeeScript",
+    "full_name": "Alex Wayne",
+    "username": "Squeegy",
+    "location": "Sebastopol, CA",
+    "join_date": "Feb 19, 2008",
+    "popular_repos_stars": "577",
+    "primary_languages": [
+      "JavaScript",
+      "Ruby",
+      "CoffeeScript"
+    ],
+    "contributions": 62,
+    "followers": "29"
+  },
+  {
+    "url": "https://github.com/rayfranco",
+    "language": "CoffeeScript",
+    "full_name": "Franco Bouly",
+    "username": "rayfranco",
+    "location": "Paris, France",
+    "join_date": "Oct 27, 2010",
+    "popular_repos_stars": "125",
+    "primary_languages": [
+      "JavaScript",
+      "CoffeeScript",
+      "Shell"
+    ],
+    "contributions": 55,
+    "followers": "29"
+  },
+  {
+    "url": "https://github.com/stefhatcher",
+    "language": "CoffeeScript",
+    "full_name": "Stefanie Hatcher",
+    "username": "stefhatcher",
+    "location": "Portland, OR",
+    "join_date": "Jun 15, 2010",
+    "popular_repos_stars": "10",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 47,
+    "followers": "29"
+  },
+  {
+    "url": "https://github.com/TakumiBaba",
+    "language": "CoffeeScript",
+    "full_name": "TakumiBaba",
+    "username": "TakumiBaba",
+    "location": "",
+    "join_date": "May 3, 2010",
+    "popular_repos_stars": "11",
+    "primary_languages": [
+      "CoffeeScript",
+      "JavaScript",
+      "Java"
+    ],
+    "contributions": 27,
+    "followers": "29"
+  },
+  {
+    "url": "https://github.com/42fortytwo42",
+    "language": "CoffeeScript",
+    "full_name": "Thomas LE MIGNAN",
+    "username": "42fortytwo42",
+    "location": "42 - Paris",
+    "join_date": "Nov 22, 2013",
+    "popular_repos_stars": "13",
+    "primary_languages": [
+      "C"
+    ],
+    "contributions": 95,
+    "followers": "28"
+  },
+  {
+    "url": "https://github.com/kvey",
+    "language": "CoffeeScript",
+    "full_name": "Colton Pierson",
+    "username": "kvey",
+    "location": "San Jose",
+    "join_date": "Dec 8, 2010",
+    "popular_repos_stars": "3",
+    "primary_languages": [
+      "JavaScript",
+      "CoffeeScript",
+      "CSS"
+    ],
+    "contributions": 14,
+    "followers": "28"
+  },
+  {
+    "url": "https://github.com/crzrcn",
+    "language": "CoffeeScript",
+    "full_name": "Fernando Martinez",
+    "username": "crzrcn",
+    "location": "",
+    "join_date": "Jun 3, 2012",
+    "popular_repos_stars": "56",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "Ruby"
+    ],
+    "contributions": 489,
+    "followers": "28"
+  },
+  {
+    "url": "https://github.com/brysgo",
+    "language": "CoffeeScript",
+    "full_name": "Bryan Goldstein",
+    "username": "brysgo",
+    "location": "",
+    "join_date": "Feb 24, 2009",
+    "popular_repos_stars": "8",
+    "primary_languages": [
+      "VimL",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 110,
+    "followers": "27"
+  },
+  {
+    "url": "https://github.com/ElliotChong",
+    "language": "CoffeeScript",
+    "full_name": "Elliot Chong",
+    "username": "ElliotChong",
+    "location": "",
+    "join_date": "May 7, 2010",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "JavaScript",
+      "ActionScript",
+      "PHP"
+    ],
+    "contributions": 37,
+    "followers": "27"
+  },
+  {
+    "url": "https://github.com/plehoux",
+    "language": "CoffeeScript",
+    "full_name": "",
+    "username": "plehoux",
+    "location": "",
+    "join_date": "Sep 20, 2009",
+    "popular_repos_stars": "149",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "CoffeeScript"
+    ],
+    "contributions": 12,
+    "followers": "27"
+  },
+  {
+    "url": "https://github.com/bevanhunt",
+    "language": "CoffeeScript",
+    "full_name": "Bevan Hunt",
+    "username": "bevanhunt",
+    "location": "Vancouver, BC",
+    "join_date": "Jul 3, 2011",
+    "popular_repos_stars": "119",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "CoffeeScript"
+    ],
+    "contributions": 170,
+    "followers": "27"
+  },
+  {
+    "url": "https://github.com/mahnunchik",
+    "language": "CoffeeScript",
+    "full_name": "Eugeny",
+    "username": "mahnunchik",
+    "location": "Novosibirsk",
+    "join_date": "May 11, 2011",
+    "popular_repos_stars": "66",
+    "primary_languages": [
+      "JavaScript",
+      "CoffeeScript",
+      "CSS"
+    ],
+    "contributions": 175,
+    "followers": "27"
+  },
+  {
+    "url": "https://github.com/mijia",
+    "language": "CoffeeScript",
+    "full_name": "Jia Mi",
+    "username": "mijia",
+    "location": "Beijing",
+    "join_date": "Dec 23, 2008",
+    "popular_repos_stars": "95",
+    "primary_languages": [
+      "Go",
+      "CSS",
+      "CoffeeScript"
+    ],
+    "contributions": 42,
+    "followers": "26"
+  },
+  {
+    "url": "https://github.com/mren",
+    "language": "CoffeeScript",
+    "full_name": "Mark Engel",
+    "username": "mren",
+    "location": "Berlin, Germany",
+    "join_date": "Jan 21, 2011",
+    "popular_repos_stars": "59",
+    "primary_languages": [
+      "CoffeeScript",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 169,
+    "followers": "26"
+  },
+  {
+    "url": "https://github.com/hoodie",
+    "language": "CoffeeScript",
+    "full_name": "huːdiː",
+    "username": "hoodie",
+    "location": "",
+    "join_date": "Apr 30, 2010",
+    "popular_repos_stars": "17",
+    "primary_languages": [
+      "Shell",
+      "Ruby",
+      "Python"
+    ],
+    "contributions": 38,
+    "followers": "26"
+  },
+  {
+    "url": "https://github.com/jimtla",
+    "language": "CoffeeScript",
+    "full_name": "",
+    "username": "jimtla",
+    "location": "",
+    "join_date": "Jun 24, 2011",
+    "popular_repos_stars": "13",
+    "primary_languages": [
+      "JavaScript",
+      "CoffeeScript",
+      "Shell"
+    ],
+    "contributions": 7,
+    "followers": "26"
+  },
+  {
+    "url": "https://github.com/autotelicum",
+    "language": "CoffeeScript",
+    "full_name": "",
+    "username": "autotelicum",
+    "location": "",
+    "join_date": "May 1, 2011",
+    "popular_repos_stars": "588",
+    "primary_languages": [
+      "CoffeeScript",
+      "JavaScript",
+      "C"
+    ],
+    "contributions": 0,
+    "followers": "26"
+  },
+  {
+    "url": "https://github.com/kevin-wolf",
+    "language": "CoffeeScript",
+    "full_name": "Kevin Wolf",
+    "username": "kevin-wolf",
+    "location": "Costa Rica",
+    "join_date": "Dec 30, 2012",
+    "popular_repos_stars": "25",
+    "primary_languages": [
+      "CSS",
+      "JavaScript",
+      "CoffeeScript"
+    ],
+    "contributions": 148,
+    "followers": "26"
+  },
+  {
+    "url": "https://github.com/nathan-appere",
+    "language": "CoffeeScript",
+    "full_name": "Nathan Appere",
+    "username": "nathan-appere",
+    "location": "Los Angeles",
+    "join_date": "Feb 16, 2011",
+    "popular_repos_stars": "9",
+    "primary_languages": [
+      "CoffeeScript",
+      "Ruby",
+      "VimL"
+    ],
+    "contributions": 13,
+    "followers": "26"
+  },
+  {
+    "url": "https://github.com/kaero",
+    "language": "CoffeeScript",
+    "full_name": "Phillip Kovalev",
+    "username": "kaero",
+    "location": "Russia, St. Petersburg",
+    "join_date": "Aug 3, 2010",
+    "popular_repos_stars": "20",
+    "primary_languages": [
+      "JavaScript",
+      "CoffeeScript",
+      "Shell"
+    ],
+    "contributions": 172,
+    "followers": "26"
+  },
+  {
+    "url": "https://github.com/marcinwieprzkowicz",
+    "language": "CoffeeScript",
+    "full_name": "Marcin Wieprzkowicz",
+    "username": "marcinwieprzkowicz",
+    "location": "London, United Kingdom",
+    "join_date": "Jun 7, 2011",
+    "popular_repos_stars": "39",
+    "primary_languages": [
+      "JavaScript",
+      "CoffeeScript",
+      "CSS"
+    ],
+    "contributions": 53,
+    "followers": "25"
+  },
+  {
+    "url": "https://github.com/thiagodini",
+    "language": "CoffeeScript",
+    "full_name": "Thiago Castelo Branco Dini",
+    "username": "thiagodini",
+    "location": "Rio de Janeiro, RJ",
+    "join_date": "Feb 24, 2012",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "CSS"
+    ],
+    "contributions": 0,
+    "followers": "25"
+  },
+  {
+    "url": "https://github.com/Paulloz",
+    "language": "CoffeeScript",
+    "full_name": "Paul Joannon",
+    "username": "Paulloz",
+    "location": "Paris",
+    "join_date": "Oct 12, 2010",
+    "popular_repos_stars": "18",
+    "primary_languages": [
+      "CSS",
+      "Python",
+      "CoffeeScript"
+    ],
+    "contributions": 1,
+    "followers": "25"
+  },
+  {
+    "url": "https://github.com/codyjames",
+    "language": "CoffeeScript",
+    "full_name": "Cody Peterson",
+    "username": "codyjames",
+    "location": "Portland, Oregon",
+    "join_date": "Aug 27, 2010",
+    "popular_repos_stars": "3",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 52,
+    "followers": "25"
+  },
+  {
+    "url": "https://github.com/Youdaman",
+    "language": "CoffeeScript",
+    "full_name": "Stew Heckenberg",
+    "username": "Youdaman",
+    "location": "Sydney, Australia",
+    "join_date": "May 25, 2010",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "CoffeeScript",
+      "JavaScript"
+    ],
+    "contributions": 2,
+    "followers": "25"
+  },
+  {
+    "url": "https://github.com/romansky",
+    "language": "CoffeeScript",
+    "full_name": "Roman Landenband",
+    "username": "romansky",
+    "location": "Israel",
+    "join_date": "Feb 14, 2011",
+    "popular_repos_stars": "17",
+    "primary_languages": [
+      "JavaScript",
+      "Java",
+      "CoffeeScript"
+    ],
+    "contributions": 208,
+    "followers": "25"
+  },
+  {
+    "url": "https://github.com/ingebretsen",
+    "language": "CoffeeScript",
+    "full_name": "Robby Ingebretsen",
+    "username": "ingebretsen",
+    "location": "Seattle, WA",
+    "join_date": "Jun 30, 2009",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "Ruby"
+    ],
+    "contributions": 0,
+    "followers": "24"
+  },
+  {
+    "url": "https://github.com/wcamarao",
+    "language": "CoffeeScript",
+    "full_name": "Wagner Camarao",
+    "username": "wcamarao",
+    "location": "San Francisco",
+    "join_date": "May 9, 2011",
+    "popular_repos_stars": "246",
+    "primary_languages": [
+      "JavaScript",
+      "Ruby",
+      "CoffeeScript"
+    ],
+    "contributions": 93,
+    "followers": "24"
+  },
+  {
+    "url": "https://github.com/alvaro-cuesta",
+    "language": "CoffeeScript",
+    "full_name": "Álvaro Cuesta",
+    "username": "alvaro-cuesta",
+    "location": "Spain",
+    "join_date": "Jun 7, 2012",
+    "popular_repos_stars": "18",
+    "primary_languages": [
+      "JavaScript",
+      "CoffeeScript",
+      "Clojure"
+    ],
+    "contributions": 23,
+    "followers": "24"
+  },
+  {
+    "url": "https://github.com/asnowwolf",
+    "language": "CoffeeScript",
+    "full_name": "雪狼",
+    "username": "asnowwolf",
+    "location": "中国 北京",
+    "join_date": "Feb 17, 2012",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "JavaScript",
+      "CoffeeScript",
+      "CSS"
+    ],
+    "contributions": 173,
+    "followers": "24"
+  },
+  {
+    "url": "https://github.com/aschuch",
+    "language": "CoffeeScript",
+    "full_name": "Alexander Schuch",
+    "username": "aschuch",
+    "location": "Vienna, Austria",
+    "join_date": "Mar 6, 2012",
+    "popular_repos_stars": "314",
+    "primary_languages": [
+      "Ruby",
+      "Objective",
+      "C",
+      "CoffeeScript"
+    ],
+    "contributions": 43,
+    "followers": "24"
+  },
+  {
+    "url": "https://github.com/k9ordon",
+    "language": "CoffeeScript",
+    "full_name": "Klemens Gordon",
+    "username": "k9ordon",
+    "location": "Austria",
+    "join_date": "Jul 7, 2009",
+    "popular_repos_stars": "130",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "PHP"
+    ],
+    "contributions": 506,
+    "followers": "24"
+  },
+  {
+    "url": "https://github.com/abe33",
+    "language": "CoffeeScript",
+    "full_name": "Cédric Néhémie",
+    "username": "abe33",
+    "location": "Bordeaux",
+    "join_date": "Apr 19, 2010",
+    "popular_repos_stars": "150",
+    "primary_languages": [
+      "CoffeeScript",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 1,
+    "followers": "23"
+  },
+  {
+    "url": "https://github.com/wiktorschmidt",
+    "language": "CoffeeScript",
+    "full_name": "Wiktor Schmidt",
+    "username": "wiktorschmidt",
+    "location": "Poznań, Poland",
+    "join_date": "Feb 25, 2008",
+    "popular_repos_stars": "210",
+    "primary_languages": [],
+    "contributions": 43,
+    "followers": "23"
+  },
+  {
+    "url": "https://github.com/nickjanssen",
+    "language": "CoffeeScript",
+    "full_name": "Nick Janssen",
+    "username": "nickjanssen",
+    "location": "Hannover, Germany",
+    "join_date": "Nov 12, 2012",
+    "popular_repos_stars": "177",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "CoffeeScript"
+    ],
+    "contributions": 2,
+    "followers": "23"
+  }
+]

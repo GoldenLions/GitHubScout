@@ -35,13 +35,13 @@
     "language": "Gnuplot"
   },
   {
-    "url": "https://github.com/CRGreathouse/PARI-extensions",
-    "size": 824,
+    "url": "https://github.com/durian/thesis",
+    "size": 59960,
     "language": "Gnuplot"
   },
   {
-    "url": "https://github.com/durian/thesis",
-    "size": 59960,
+    "url": "https://github.com/CRGreathouse/PARI-extensions",
+    "size": 824,
     "language": "Gnuplot"
   },
   {
@@ -60,13 +60,13 @@
     "language": "Gnuplot"
   },
   {
-    "url": "https://github.com/Gnuplotting/blog-entries",
-    "size": 28572,
+    "url": "https://github.com/hesstobi/Gnuplot-Templates",
+    "size": 324,
     "language": "Gnuplot"
   },
   {
-    "url": "https://github.com/hesstobi/Gnuplot-Templates",
-    "size": 324,
+    "url": "https://github.com/Gnuplotting/blog-entries",
+    "size": 28572,
     "language": "Gnuplot"
   },
   {
@@ -75,8 +75,8 @@
     "language": "Gnuplot"
   },
   {
-    "url": "https://github.com/devoncustard/Cockpit_Designs",
-    "size": 3924,
+    "url": "https://github.com/ppgardne/misc-projects",
+    "size": 28580,
     "language": "Gnuplot"
   },
   {
@@ -85,18 +85,18 @@
     "language": "Gnuplot"
   },
   {
-    "url": "https://github.com/ppgardne/misc-projects",
-    "size": 28580,
-    "language": "Gnuplot"
-  },
-  {
-    "url": "https://github.com/silm/silm",
-    "size": 285275,
+    "url": "https://github.com/devoncustard/Cockpit_Designs",
+    "size": 3924,
     "language": "Gnuplot"
   },
   {
     "url": "https://github.com/martin-pr/cnc-router-hack",
     "size": 316,
+    "language": "Gnuplot"
+  },
+  {
+    "url": "https://github.com/silm/silm",
+    "size": 285275,
     "language": "Gnuplot"
   }
 ]

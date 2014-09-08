@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/plt/racket",
+    "size": 198614,
+    "language": "Racket",
+    "commits": "33,970",
+    "stars": "715",
+    "forks": "196",
+    "contributors": "102"
+  },
+  {
+    "url": "https://github.com/dabeaz/python-cookbook",
+    "size": 2190,
+    "language": "Racket",
+    "commits": "2",
+    "stars": "242",
+    "forks": "143",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/mbutterick/pollen",
+    "size": 7282,
+    "language": "Racket",
+    "commits": "491",
+    "stars": "229",
+    "forks": "16",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/greghendershott/frog",
+    "size": 2435,
+    "language": "Racket",
+    "commits": "477",
+    "stars": "173",
+    "forks": "26",
+    "contributors": "11"
+  },
+  {
+    "url": "https://github.com/dyoo/whalesong",
+    "size": 9173,
+    "language": "Racket",
+    "commits": "1,868",
+    "stars": "132",
+    "forks": "15",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/epsil/gll",
+    "size": 287,
+    "language": "Racket",
+    "commits": "10",
+    "stars": "98",
+    "forks": "4",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/csswizardry/inuit.css-web-template",
+    "size": 232,
+    "language": "Racket",
+    "commits": "32",
+    "stars": "84",
+    "forks": "44",
+    "contributors": "3"
+  },
+  {
+    "url": "https://github.com/calvis/cKanren",
+    "size": 910,
+    "language": "Racket",
+    "commits": "195",
+    "stars": "78",
+    "forks": "20",
+    "contributors": "3"
+  },
+  {
+    "url": "https://github.com/dmac/spin",
+    "size": 179,
+    "language": "Racket",
+    "commits": "50",
+    "stars": "61",
+    "forks": "10",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/greghendershott/rackjure",
+    "size": 2031,
+    "language": "Racket",
+    "commits": "179",
+    "stars": "56",
+    "forks": "8",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/takikawa/racket-clojure",
+    "size": 92,
+    "language": "Racket",
+    "commits": "31",
+    "stars": "52",
+    "forks": "8",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/tonyg/marketplace",
+    "size": 1486,
+    "language": "Racket",
+    "commits": "93",
+    "stars": "52",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/samvv/racket-gaming",
+    "size": 2391,
+    "language": "Racket",
+    "commits": "55",
+    "stars": "48",
+    "forks": "7",
+    "contributors": "3"
+  },
+  {
+    "url": "https://github.com/vu3rdd/sicp",
+    "size": 328,
+    "language": "Racket",
+    "commits": "282",
+    "stars": "43",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/coding-robots/iwl",
+    "size": 6421,
+    "language": "Racket",
+    "commits": "107",
+    "stars": "40",
+    "forks": "6",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/offby1/rudybot",
+    "size": 2063,
+    "language": "Racket",
+    "commits": "819",
+    "stars": "38",
+    "forks": "16",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/apperian/iOS-checkIPA",
+    "size": 113,
+    "language": "Racket",
+    "commits": "12",
+    "stars": "36",
+    "forks": "10",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/greghendershott/fear-of-macros",
+    "size": 1714,
+    "language": "Racket",
+    "commits": "126",
+    "stars": "34",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/brownplt/lambda-py",
+    "size": 20674,
+    "language": "Racket",
+    "commits": "948",
+    "stars": "32",
+    "forks": "10",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/jeapostrophe/exp",
+    "size": 8990,
+    "language": "Racket",
+    "commits": "1,178",
+    "stars": "31",
+    "forks": "6",
+    "contributors": ""
+  }
+]

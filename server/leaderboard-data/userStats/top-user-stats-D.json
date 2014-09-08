@@ -1,0 +1,1595 @@
+[
+  {
+    "url": "https://github.com/andralex",
+    "language": "D",
+    "full_name": "Andrei Alexandrescu",
+    "username": "andralex",
+    "location": "",
+    "join_date": "Jan 15, 2011",
+    "popular_repos_stars": "18",
+    "primary_languages": [
+      "D",
+      "Shell",
+      "C"
+    ],
+    "contributions": 408,
+    "followers": "266"
+  },
+  {
+    "url": "https://github.com/WalterBright",
+    "language": "D",
+    "full_name": "Walter Bright",
+    "username": "WalterBright",
+    "location": "Pacific Northwest",
+    "join_date": "Jan 16, 2011",
+    "popular_repos_stars": "4",
+    "primary_languages": [
+      "D",
+      "C",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "172"
+  },
+  {
+    "url": "https://github.com/CyberShadow",
+    "language": "D",
+    "full_name": "Vladimir Panteleev",
+    "username": "CyberShadow",
+    "location": "Moldova, Eastern Europe",
+    "join_date": "Dec 2, 2009",
+    "popular_repos_stars": "385",
+    "primary_languages": [
+      "D",
+      "C",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "88"
+  },
+  {
+    "url": "https://github.com/kazoo04",
+    "language": "D",
+    "full_name": "Kazuya Gokita",
+    "username": "kazoo04",
+    "location": "Tokyo",
+    "join_date": "Sep 11, 2011",
+    "popular_repos_stars": "10",
+    "primary_languages": [
+      "Python",
+      "D",
+      "C"
+    ],
+    "contributions": 2,
+    "followers": "64"
+  },
+  {
+    "url": "https://github.com/michelf",
+    "language": "D",
+    "full_name": "Michel Fortin",
+    "username": "michelf",
+    "location": "Lévis, Québec, Canada",
+    "join_date": "Jun 6, 2010",
+    "popular_repos_stars": "1618",
+    "primary_languages": [
+      "D",
+      "C",
+      "Shell"
+    ],
+    "contributions": 55,
+    "followers": "57"
+  },
+  {
+    "url": "https://github.com/JakobOvrum",
+    "language": "D",
+    "full_name": "",
+    "username": "JakobOvrum",
+    "location": "",
+    "join_date": "Nov 20, 2009",
+    "popular_repos_stars": "196",
+    "primary_languages": [
+      "D",
+      "Lua",
+      "Shell"
+    ],
+    "contributions": 221,
+    "followers": "39"
+  },
+  {
+    "url": "https://github.com/chadjoan",
+    "language": "D",
+    "full_name": "cjoan",
+    "username": "chadjoan",
+    "location": "",
+    "join_date": "Jan 10, 2011",
+    "popular_repos_stars": "44",
+    "primary_languages": [
+      "D",
+      "C",
+      "Shell"
+    ],
+    "contributions": 83,
+    "followers": "37"
+  },
+  {
+    "url": "https://github.com/aldacron",
+    "language": "D",
+    "full_name": "Mike Parker",
+    "username": "aldacron",
+    "location": "Seoul, South Korea",
+    "join_date": "Aug 1, 2011",
+    "popular_repos_stars": "207",
+    "primary_languages": [
+      "D"
+    ],
+    "contributions": 212,
+    "followers": "31"
+  },
+  {
+    "url": "https://github.com/adamdruppe",
+    "language": "D",
+    "full_name": "Adam D. Ruppe",
+    "username": "adamdruppe",
+    "location": "Watertown, New York, United States",
+    "join_date": "Feb 4, 2011",
+    "popular_repos_stars": "184",
+    "primary_languages": [
+      "D",
+      "C",
+      "C"
+    ],
+    "contributions": 589,
+    "followers": "31"
+  },
+  {
+    "url": "https://github.com/s-ludwig",
+    "language": "D",
+    "full_name": "Sönke Ludwig",
+    "username": "s-ludwig",
+    "location": "",
+    "join_date": "Apr 15, 2012",
+    "popular_repos_stars": "10",
+    "primary_languages": [
+      "D",
+      "C",
+      "Shell"
+    ],
+    "contributions": 2,
+    "followers": "30"
+  },
+  {
+    "url": "https://github.com/msoucy",
+    "language": "D",
+    "full_name": "Matt Soucy",
+    "username": "msoucy",
+    "location": "Rochester Institute of Technology",
+    "join_date": "Oct 13, 2011",
+    "popular_repos_stars": "12",
+    "primary_languages": [
+      "D",
+      "Python",
+      "C"
+    ],
+    "contributions": 370,
+    "followers": "30"
+  },
+  {
+    "url": "https://github.com/klickverbot",
+    "language": "D",
+    "full_name": "David Nadlinger",
+    "username": "klickverbot",
+    "location": "",
+    "join_date": "Aug 2, 2008",
+    "popular_repos_stars": "24",
+    "primary_languages": [
+      "D",
+      "Shell",
+      "C"
+    ],
+    "contributions": 650,
+    "followers": "30"
+  },
+  {
+    "url": "https://github.com/9rnsr",
+    "language": "D",
+    "full_name": "Hara Kenji",
+    "username": "9rnsr",
+    "location": "",
+    "join_date": "Apr 27, 2010",
+    "popular_repos_stars": "31",
+    "primary_languages": [
+      "D",
+      "C",
+      "C"
+    ],
+    "contributions": 1,
+    "followers": "29"
+  },
+  {
+    "url": "https://github.com/aamine",
+    "language": "D",
+    "full_name": "Minero Aoki",
+    "username": "aamine",
+    "location": "Tokyo",
+    "join_date": "May 3, 2012",
+    "popular_repos_stars": "31",
+    "primary_languages": [
+      "Ruby",
+      "Shell",
+      "Assembly"
+    ],
+    "contributions": 49,
+    "followers": "28"
+  },
+  {
+    "url": "https://github.com/donc",
+    "language": "D",
+    "full_name": "Don Clugston",
+    "username": "donc",
+    "location": "Leipzig, Germany",
+    "join_date": "Jan 16, 2011",
+    "popular_repos_stars": "4",
+    "primary_languages": [
+      "D",
+      "C",
+      "C"
+    ],
+    "contributions": 27,
+    "followers": "27"
+  },
+  {
+    "url": "https://github.com/wolfwood",
+    "language": "D",
+    "full_name": "James Larkby-Lahet",
+    "username": "wolfwood",
+    "location": "santa cruz",
+    "join_date": "Oct 29, 2008",
+    "popular_repos_stars": "10",
+    "primary_languages": [
+      "C",
+      "Shell",
+      "Haskell"
+    ],
+    "contributions": 3,
+    "followers": "27"
+  },
+  {
+    "url": "https://github.com/AndrejMitrovic",
+    "language": "D",
+    "full_name": "Andrej Mitrovic",
+    "username": "AndrejMitrovic",
+    "location": "Berlin, Germany",
+    "join_date": "Aug 10, 2010",
+    "popular_repos_stars": "100",
+    "primary_languages": [
+      "D",
+      "Shell",
+      "C"
+    ],
+    "contributions": 1,
+    "followers": "27"
+  },
+  {
+    "url": "https://github.com/jmdavis",
+    "language": "D",
+    "full_name": "Jonathan M Davis",
+    "username": "jmdavis",
+    "location": "Fresno, CA, USA",
+    "join_date": "Jan 23, 2011",
+    "popular_repos_stars": "5",
+    "primary_languages": [
+      "D",
+      "C",
+      "JavaScript"
+    ],
+    "contributions": 148,
+    "followers": "26"
+  },
+  {
+    "url": "https://github.com/ibuclaw",
+    "language": "D",
+    "full_name": "Iain Buclaw",
+    "username": "ibuclaw",
+    "location": "UK",
+    "join_date": "Sep 13, 2010",
+    "popular_repos_stars": "12",
+    "primary_languages": [
+      "D",
+      "C",
+      "Shell"
+    ],
+    "contributions": 454,
+    "followers": "26"
+  },
+  {
+    "url": "https://github.com/dsimcha",
+    "language": "D",
+    "full_name": "David Simcha",
+    "username": "dsimcha",
+    "location": "",
+    "join_date": "Jan 26, 2011",
+    "popular_repos_stars": "33",
+    "primary_languages": [
+      "D",
+      "C",
+      "C"
+    ],
+    "contributions": 2,
+    "followers": "26"
+  },
+  {
+    "url": "https://github.com/gchatelet",
+    "language": "D",
+    "full_name": "Guillaume Chatelet",
+    "username": "gchatelet",
+    "location": "",
+    "join_date": "Nov 6, 2009",
+    "popular_repos_stars": "25",
+    "primary_languages": [
+      "D",
+      "C",
+      "Java"
+    ],
+    "contributions": 316,
+    "followers": "25"
+  },
+  {
+    "url": "https://github.com/PhilippeSigaud",
+    "language": "D",
+    "full_name": "Philippe Sigaud",
+    "username": "PhilippeSigaud",
+    "location": "",
+    "join_date": "Jan 23, 2011",
+    "popular_repos_stars": "216",
+    "primary_languages": [
+      "D",
+      "JavaScript",
+      "TeX"
+    ],
+    "contributions": 43,
+    "followers": "24"
+  },
+  {
+    "url": "https://github.com/2youyouo2",
+    "language": "D",
+    "full_name": "yinkaile",
+    "username": "2youyouo2",
+    "location": "china",
+    "join_date": "Jun 18, 2012",
+    "popular_repos_stars": "101",
+    "primary_languages": [
+      "C",
+      "Java",
+      "JavaScript"
+    ],
+    "contributions": 176,
+    "followers": "24"
+  },
+  {
+    "url": "https://github.com/jacob-carlborg",
+    "language": "D",
+    "full_name": "",
+    "username": "jacob-carlborg",
+    "location": "",
+    "join_date": "Jun 16, 2010",
+    "popular_repos_stars": "191",
+    "primary_languages": [
+      "D",
+      "Shell",
+      "Objective",
+      "C"
+    ],
+    "contributions": 176,
+    "followers": "24"
+  },
+  {
+    "url": "https://github.com/jdiedrick",
+    "language": "D",
+    "full_name": "Johann Diedrick",
+    "username": "jdiedrick",
+    "location": "",
+    "join_date": "Dec 10, 2011",
+    "popular_repos_stars": "7",
+    "primary_languages": [
+      "C",
+      "Objective",
+      "C",
+      "C"
+    ],
+    "contributions": 281,
+    "followers": "23"
+  },
+  {
+    "url": "https://github.com/TurkeyMan",
+    "language": "D",
+    "full_name": "Manu Evans",
+    "username": "TurkeyMan",
+    "location": "Brisbane, Australia",
+    "join_date": "Oct 23, 2011",
+    "popular_repos_stars": "26",
+    "primary_languages": [
+      "D",
+      "C",
+      "Shell"
+    ],
+    "contributions": 320,
+    "followers": "23"
+  },
+  {
+    "url": "https://github.com/Dav1dde",
+    "language": "D",
+    "full_name": "David Herberth",
+    "username": "Dav1dde",
+    "location": "Vienna",
+    "join_date": "Apr 28, 2010",
+    "popular_repos_stars": "161",
+    "primary_languages": [
+      "D",
+      "Python",
+      "C"
+    ],
+    "contributions": 120,
+    "followers": "22"
+  },
+  {
+    "url": "https://github.com/complexmath",
+    "language": "D",
+    "full_name": "Sean Kelly",
+    "username": "complexmath",
+    "location": "",
+    "join_date": "Jan 15, 2011",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "C",
+      "D",
+      "C"
+    ],
+    "contributions": 19,
+    "followers": "22"
+  },
+  {
+    "url": "https://github.com/lomereiter",
+    "language": "D",
+    "full_name": "Artem Tarasov",
+    "username": "lomereiter",
+    "location": "St. Petersburg, Russia",
+    "join_date": "Mar 10, 2011",
+    "popular_repos_stars": "68",
+    "primary_languages": [
+      "D",
+      "Ruby",
+      "Shell"
+    ],
+    "contributions": 180,
+    "followers": "20"
+  },
+  {
+    "url": "https://github.com/p0nce",
+    "language": "D",
+    "full_name": "ponce",
+    "username": "p0nce",
+    "location": "Grenoble",
+    "join_date": "Sep 21, 2011",
+    "popular_repos_stars": "35",
+    "primary_languages": [
+      "D",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 1,
+    "followers": "20"
+  },
+  {
+    "url": "https://github.com/KhAMER3000",
+    "language": "D",
+    "full_name": "",
+    "username": "KhAMER3000",
+    "location": "",
+    "join_date": "Jul 31, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "19"
+  },
+  {
+    "url": "https://github.com/yebblies",
+    "language": "D",
+    "full_name": "Daniel Murphy",
+    "username": "yebblies",
+    "location": "Australia",
+    "join_date": "Jan 23, 2011",
+    "popular_repos_stars": "37",
+    "primary_languages": [
+      "D",
+      "C",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "19"
+  },
+  {
+    "url": "https://github.com/Hackerpilot",
+    "language": "D",
+    "full_name": "Brian Schott",
+    "username": "Hackerpilot",
+    "location": "United States",
+    "join_date": "Apr 18, 2012",
+    "popular_repos_stars": "196",
+    "primary_languages": [
+      "D",
+      "Shell",
+      "C"
+    ],
+    "contributions": 968,
+    "followers": "19"
+  },
+  {
+    "url": "https://github.com/kinaba",
+    "language": "D",
+    "full_name": "Kazuhiro Inaba",
+    "username": "kinaba",
+    "location": "Tokyo",
+    "join_date": "Dec 8, 2009",
+    "popular_repos_stars": "18",
+    "primary_languages": [
+      "D",
+      "C",
+      "JavaScript"
+    ],
+    "contributions": 63,
+    "followers": "18"
+  },
+  {
+    "url": "https://github.com/MartinNowak",
+    "language": "D",
+    "full_name": "Martin Nowak",
+    "username": "MartinNowak",
+    "location": "Berlin, Germany",
+    "join_date": "May 27, 2010",
+    "popular_repos_stars": "39",
+    "primary_languages": [
+      "D",
+      "C",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "18"
+  },
+  {
+    "url": "https://github.com/kyllingstad",
+    "language": "D",
+    "full_name": "Lars T. Kyllingstad",
+    "username": "kyllingstad",
+    "location": "Trondheim, Norway",
+    "join_date": "Mar 3, 2010",
+    "popular_repos_stars": "65",
+    "primary_languages": [
+      "D",
+      "C",
+      "C"
+    ],
+    "contributions": 153,
+    "followers": "18"
+  },
+  {
+    "url": "https://github.com/ezibyte",
+    "language": "D",
+    "full_name": "",
+    "username": "ezibyte",
+    "location": "",
+    "join_date": "Apr 21, 2013",
+    "popular_repos_stars": "49",
+    "primary_languages": [
+      "C",
+      "Objective",
+      "C",
+      "C"
+    ],
+    "contributions": 2,
+    "followers": "17"
+  },
+  {
+    "url": "https://github.com/tcptr",
+    "language": "D",
+    "full_name": "",
+    "username": "tcptr",
+    "location": "Japan",
+    "join_date": "Oct 30, 2012",
+    "popular_repos_stars": "39",
+    "primary_languages": [
+      "CoffeeScript",
+      "CSS",
+      "D"
+    ],
+    "contributions": 73,
+    "followers": "17"
+  },
+  {
+    "url": "https://github.com/SiegeLord",
+    "language": "D",
+    "full_name": "",
+    "username": "SiegeLord",
+    "location": "",
+    "join_date": "Nov 13, 2010",
+    "popular_repos_stars": "137",
+    "primary_languages": [
+      "D",
+      "Shell",
+      "C"
+    ],
+    "contributions": 799,
+    "followers": "17"
+  },
+  {
+    "url": "https://github.com/nugend",
+    "language": "D",
+    "full_name": "Daniel Nugent",
+    "username": "nugend",
+    "location": "",
+    "join_date": "Jul 22, 2008",
+    "popular_repos_stars": "27",
+    "primary_languages": [
+      "Ruby",
+      "Scala",
+      "VimL"
+    ],
+    "contributions": 7,
+    "followers": "16"
+  },
+  {
+    "url": "https://github.com/canalpay",
+    "language": "D",
+    "full_name": "Can Alpay Çiftçi",
+    "username": "canalpay",
+    "location": "Turkey",
+    "join_date": "Jun 10, 2010",
+    "popular_repos_stars": "4",
+    "primary_languages": [
+      "D",
+      "PHP",
+      "JavaScript"
+    ],
+    "contributions": 0,
+    "followers": "15"
+  },
+  {
+    "url": "https://github.com/braddr",
+    "language": "D",
+    "full_name": "Brad Roberts",
+    "username": "braddr",
+    "location": "",
+    "join_date": "Dec 13, 2008",
+    "popular_repos_stars": "12",
+    "primary_languages": [
+      "D",
+      "C",
+      "Shell"
+    ],
+    "contributions": 260,
+    "followers": "15"
+  },
+  {
+    "url": "https://github.com/Bystroushaak",
+    "language": "D",
+    "full_name": "Bystroushaak",
+    "username": "Bystroushaak",
+    "location": "Prague",
+    "join_date": "Mar 21, 2010",
+    "popular_repos_stars": "32",
+    "primary_languages": [
+      "Python",
+      "D",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "15"
+  },
+  {
+    "url": "https://github.com/k3kaimu",
+    "language": "D",
+    "full_name": "Kazuki Komatsu",
+    "username": "k3kaimu",
+    "location": "",
+    "join_date": "Apr 28, 2012",
+    "popular_repos_stars": "47",
+    "primary_languages": [
+      "D",
+      "C",
+      "C"
+    ],
+    "contributions": 308,
+    "followers": "14"
+  },
+  {
+    "url": "https://github.com/shoo",
+    "language": "D",
+    "full_name": "Kato Shoichi",
+    "username": "shoo",
+    "location": "Japan",
+    "join_date": "Jan 24, 2011",
+    "popular_repos_stars": "20",
+    "primary_languages": [
+      "D",
+      "C",
+      "Shell"
+    ],
+    "contributions": 37,
+    "followers": "14"
+  },
+  {
+    "url": "https://github.com/acehreli",
+    "language": "D",
+    "full_name": "",
+    "username": "acehreli",
+    "location": "",
+    "join_date": "Sep 3, 2009",
+    "popular_repos_stars": "14",
+    "primary_languages": [
+      "D"
+    ],
+    "contributions": 1,
+    "followers": "13"
+  },
+  {
+    "url": "https://github.com/brianmadden",
+    "language": "D",
+    "full_name": "Brian Madden",
+    "username": "brianmadden",
+    "location": "Santa Cruz, CA",
+    "join_date": "Jan 10, 2009",
+    "popular_repos_stars": "13",
+    "primary_languages": [
+      "Haskell",
+      "Emacs",
+      "Lisp",
+      "Python"
+    ],
+    "contributions": 24,
+    "followers": "13"
+  },
+  {
+    "url": "https://github.com/danielalves",
+    "language": "D",
+    "full_name": "Daniel L. Alves",
+    "username": "danielalves",
+    "location": "Rio de Janeiro - RJ - Brazil",
+    "join_date": "Dec 14, 2010",
+    "popular_repos_stars": "253",
+    "primary_languages": [
+      "Ruby",
+      "Objective",
+      "C",
+      "C"
+    ],
+    "contributions": 486,
+    "followers": "13"
+  },
+  {
+    "url": "https://github.com/YutaNiimura",
+    "language": "D",
+    "full_name": "Yuta Niimura",
+    "username": "YutaNiimura",
+    "location": "",
+    "join_date": "Feb 22, 2012",
+    "popular_repos_stars": "4",
+    "primary_languages": [
+      "C",
+      "Shell",
+      "D"
+    ],
+    "contributions": 11,
+    "followers": "13"
+  },
+  {
+    "url": "https://github.com/Ingrater",
+    "language": "D",
+    "full_name": "Ingrater",
+    "username": "Ingrater",
+    "location": "",
+    "join_date": "Nov 16, 2011",
+    "popular_repos_stars": "38",
+    "primary_languages": [
+      "D",
+      "C",
+      "Shell"
+    ],
+    "contributions": 110,
+    "followers": "13"
+  },
+  {
+    "url": "https://github.com/atilaneves",
+    "language": "D",
+    "full_name": "Atila Neves",
+    "username": "atilaneves",
+    "location": "",
+    "join_date": "Jul 6, 2013",
+    "popular_repos_stars": "82",
+    "primary_languages": [
+      "Emacs",
+      "Lisp",
+      "D",
+      "Shell"
+    ],
+    "contributions": 41,
+    "followers": "13"
+  },
+  {
+    "url": "https://github.com/DmitryOlshansky",
+    "language": "D",
+    "full_name": "Dmitry Olshansky",
+    "username": "DmitryOlshansky",
+    "location": "",
+    "join_date": "May 19, 2010",
+    "popular_repos_stars": "17",
+    "primary_languages": [
+      "D",
+      "C",
+      "Shell"
+    ],
+    "contributions": 377,
+    "followers": "13"
+  },
+  {
+    "url": "https://github.com/deadalnix",
+    "language": "D",
+    "full_name": "",
+    "username": "deadalnix",
+    "location": "San Francisco",
+    "join_date": "Jun 16, 2011",
+    "popular_repos_stars": "137",
+    "primary_languages": [
+      "D",
+      "C",
+      "C"
+    ],
+    "contributions": 256,
+    "followers": "13"
+  },
+  {
+    "url": "https://github.com/burner",
+    "language": "D",
+    "full_name": "Robert Schadek",
+    "username": "burner",
+    "location": "",
+    "join_date": "Jun 11, 2008",
+    "popular_repos_stars": "39",
+    "primary_languages": [
+      "D",
+      "C",
+      "Shell"
+    ],
+    "contributions": 275,
+    "followers": "12"
+  },
+  {
+    "url": "https://github.com/Aatch",
+    "language": "D",
+    "full_name": "James Miller",
+    "username": "Aatch",
+    "location": "Wellington, NZ",
+    "join_date": "Jul 23, 2010",
+    "popular_repos_stars": "22",
+    "primary_languages": [
+      "Rust",
+      "JavaScript",
+      "C"
+    ],
+    "contributions": 317,
+    "followers": "12"
+  },
+  {
+    "url": "https://github.com/Wallbraker",
+    "language": "D",
+    "full_name": "Jakob Bornecrantz",
+    "username": "Wallbraker",
+    "location": "ISS, LEO",
+    "join_date": "Feb 24, 2009",
+    "popular_repos_stars": "12",
+    "primary_languages": [
+      "D",
+      "C",
+      "Perl"
+    ],
+    "contributions": 78,
+    "followers": "11"
+  },
+  {
+    "url": "https://github.com/quickfur",
+    "language": "D",
+    "full_name": "H. S. Teoh",
+    "username": "quickfur",
+    "location": "",
+    "join_date": "Sep 17, 2010",
+    "popular_repos_stars": "14",
+    "primary_languages": [
+      "D",
+      "Shell",
+      "C"
+    ],
+    "contributions": 213,
+    "followers": "11"
+  },
+  {
+    "url": "https://github.com/NCrashed",
+    "language": "D",
+    "full_name": "Anton Gushcha",
+    "username": "NCrashed",
+    "location": "Russia, Moscow",
+    "join_date": "Aug 8, 2012",
+    "popular_repos_stars": "32",
+    "primary_languages": [
+      "D",
+      "C",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "11"
+  },
+  {
+    "url": "https://github.com/eco",
+    "language": "D",
+    "full_name": "Brad Anderson",
+    "username": "eco",
+    "location": "Salt Lake City, Utah",
+    "join_date": "Apr 16, 2009",
+    "popular_repos_stars": "12",
+    "primary_languages": [
+      "D",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 145,
+    "followers": "11"
+  },
+  {
+    "url": "https://github.com/werehyena",
+    "language": "D",
+    "full_name": "",
+    "username": "werehyena",
+    "location": "",
+    "join_date": "Jan 9, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "C",
+      "D",
+      "C"
+    ],
+    "contributions": 227,
+    "followers": "11"
+  },
+  {
+    "url": "https://github.com/bioinfornatics",
+    "language": "D",
+    "full_name": "jonathan MERCIER",
+    "username": "bioinfornatics",
+    "location": "",
+    "join_date": "Nov 22, 2010",
+    "popular_repos_stars": "34",
+    "primary_languages": [
+      "D",
+      "Shell",
+      "C"
+    ],
+    "contributions": 79,
+    "followers": "10"
+  },
+  {
+    "url": "https://github.com/mrmonday",
+    "language": "D",
+    "full_name": "Robert Clipsham",
+    "username": "mrmonday",
+    "location": "Scotland",
+    "join_date": "Dec 10, 2009",
+    "popular_repos_stars": "23",
+    "primary_languages": [
+      "D",
+      "C",
+      "Shell"
+    ],
+    "contributions": 98,
+    "followers": "10"
+  },
+  {
+    "url": "https://github.com/youkei",
+    "language": "D",
+    "full_name": "Hisayuki Mima",
+    "username": "youkei",
+    "location": "",
+    "join_date": "Oct 10, 2010",
+    "popular_repos_stars": "28",
+    "primary_languages": [
+      "D",
+      "Shell",
+      "Ruby"
+    ],
+    "contributions": 90,
+    "followers": "10"
+  },
+  {
+    "url": "https://github.com/tuxpoldo",
+    "language": "D",
+    "full_name": "Leo Moll",
+    "username": "tuxpoldo",
+    "location": "Munich, Germany",
+    "join_date": "Jun 5, 2012",
+    "popular_repos_stars": "146",
+    "primary_languages": [
+      "Python",
+      "Shell",
+      "C"
+    ],
+    "contributions": 997,
+    "followers": "10"
+  },
+  {
+    "url": "https://github.com/schveiguy",
+    "language": "D",
+    "full_name": "Steven Schveighoffer",
+    "username": "schveiguy",
+    "location": "Massachusetts",
+    "join_date": "Jan 24, 2011",
+    "popular_repos_stars": "19",
+    "primary_languages": [
+      "D",
+      "C",
+      "JavaScript"
+    ],
+    "contributions": 20,
+    "followers": "10"
+  },
+  {
+    "url": "https://github.com/Antobiotics",
+    "language": "D",
+    "full_name": "Grégoire Lejay",
+    "username": "Antobiotics",
+    "location": "",
+    "join_date": "Dec 27, 2011",
+    "popular_repos_stars": "6",
+    "primary_languages": [
+      "C",
+      "C",
+      "Python"
+    ],
+    "contributions": 125,
+    "followers": "10"
+  },
+  {
+    "url": "https://github.com/Kappy0",
+    "language": "D",
+    "full_name": "Ryan Klaproth",
+    "username": "Kappy0",
+    "location": "IL",
+    "join_date": "Jul 23, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "C"
+    ],
+    "contributions": 136,
+    "followers": "10"
+  },
+  {
+    "url": "https://github.com/Eyyub",
+    "language": "D",
+    "full_name": "SARI Eyyüb",
+    "username": "Eyyub",
+    "location": "Europe, France, Montpellier",
+    "join_date": "Jun 23, 2012",
+    "popular_repos_stars": "1",
+    "primary_languages": [
+      "OCaml",
+      "Python",
+      "D"
+    ],
+    "contributions": 52,
+    "followers": "10"
+  },
+  {
+    "url": "https://github.com/rikkimax",
+    "language": "D",
+    "full_name": "Richard Andrew Cattermole",
+    "username": "rikkimax",
+    "location": "",
+    "join_date": "Aug 20, 2011",
+    "popular_repos_stars": "32",
+    "primary_languages": [
+      "D",
+      "Shell",
+      "C"
+    ],
+    "contributions": 705,
+    "followers": "10"
+  },
+  {
+    "url": "https://github.com/epi",
+    "language": "D",
+    "full_name": "Adrian Matoga",
+    "username": "epi",
+    "location": "Warsaw, Poland",
+    "join_date": "Jul 6, 2010",
+    "popular_repos_stars": "22",
+    "primary_languages": [
+      "D",
+      "C",
+      "Shell"
+    ],
+    "contributions": 86,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/adilbaig",
+    "language": "D",
+    "full_name": "Adil Baig",
+    "username": "adilbaig",
+    "location": "Bangalore, India",
+    "join_date": "Jun 7, 2010",
+    "popular_repos_stars": "43",
+    "primary_languages": [
+      "C",
+      "D",
+      "C"
+    ],
+    "contributions": 132,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/dariomanesku",
+    "language": "D",
+    "full_name": "Dario",
+    "username": "dariomanesku",
+    "location": "",
+    "join_date": "Oct 19, 2011",
+    "popular_repos_stars": "82",
+    "primary_languages": [
+      "Shell",
+      "C",
+      "C"
+    ],
+    "contributions": 323,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/MKomiya",
+    "language": "D",
+    "full_name": "Mitsushige Komiya",
+    "username": "MKomiya",
+    "location": "",
+    "join_date": "Jan 16, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "Shell",
+      "C",
+      "Java"
+    ],
+    "contributions": 119,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/Zoadian",
+    "language": "D",
+    "full_name": "Felix Hufnagel",
+    "username": "Zoadian",
+    "location": "Germany",
+    "join_date": "Jun 27, 2011",
+    "popular_repos_stars": "22",
+    "primary_languages": [
+      "D",
+      "C",
+      "C"
+    ],
+    "contributions": 114,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/kdavyd",
+    "language": "D",
+    "full_name": "Kirill Davydychev",
+    "username": "kdavyd",
+    "location": "Fresno, TX",
+    "join_date": "Apr 28, 2012",
+    "popular_repos_stars": "27",
+    "primary_languages": [
+      "Shell",
+      "D",
+      "Perl"
+    ],
+    "contributions": 51,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/Poita",
+    "language": "D",
+    "full_name": "",
+    "username": "Poita",
+    "location": "",
+    "join_date": "Jan 24, 2011",
+    "popular_repos_stars": "15",
+    "primary_languages": [
+      "D",
+      "C",
+      "CSS"
+    ],
+    "contributions": 76,
+    "followers": "9"
+  },
+  {
+    "url": "https://github.com/darkstalker",
+    "language": "D",
+    "full_name": "",
+    "username": "darkstalker",
+    "location": "",
+    "join_date": "Aug 6, 2010",
+    "popular_repos_stars": "18",
+    "primary_languages": [
+      "Perl",
+      "C",
+      "C"
+    ],
+    "contributions": 51,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/bhelyer",
+    "language": "D",
+    "full_name": "Bernard Helyer",
+    "username": "bhelyer",
+    "location": "Auckland, New Zealand",
+    "join_date": "Sep 12, 2008",
+    "popular_repos_stars": "23",
+    "primary_languages": [
+      "D",
+      "Shell",
+      "C"
+    ],
+    "contributions": 390,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/mehmetnuriozturk",
+    "language": "D",
+    "full_name": "MEHMET NURI OZTURK",
+    "username": "mehmetnuriozturk",
+    "location": "MALATYA",
+    "join_date": "Nov 14, 2012",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 3,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/kiith-sa",
+    "language": "D",
+    "full_name": "Ferdinand Majerech",
+    "username": "kiith-sa",
+    "location": "Slovakia",
+    "join_date": "Apr 22, 2011",
+    "popular_repos_stars": "88",
+    "primary_languages": [
+      "D",
+      "Python",
+      "CSS"
+    ],
+    "contributions": 631,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/JackMc",
+    "language": "D",
+    "full_name": "Jack McCracken",
+    "username": "JackMc",
+    "location": "Ottawa, Ontario, Canada",
+    "join_date": "Apr 22, 2011",
+    "popular_repos_stars": "1",
+    "primary_languages": [
+      "Python",
+      "JavaScript",
+      "C"
+    ],
+    "contributions": 265,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/dzog",
+    "language": "D",
+    "full_name": "Dennis Zografos",
+    "username": "dzog",
+    "location": "",
+    "join_date": "Jan 25, 2010",
+    "popular_repos_stars": "50",
+    "primary_languages": [
+      "Objective",
+      "C",
+      "C",
+      "C"
+    ],
+    "contributions": 15,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/vegardsjo",
+    "language": "D",
+    "full_name": "Vegard Sjonfjell",
+    "username": "vegardsjo",
+    "location": "",
+    "join_date": "Nov 15, 2009",
+    "popular_repos_stars": "4",
+    "primary_languages": [
+      "D",
+      "C",
+      "Python"
+    ],
+    "contributions": 29,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/Trass3r",
+    "language": "D",
+    "full_name": "",
+    "username": "Trass3r",
+    "location": "",
+    "join_date": "Sep 17, 2010",
+    "popular_repos_stars": "38",
+    "primary_languages": [
+      "D",
+      "Shell",
+      "C"
+    ],
+    "contributions": 104,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/LightBender",
+    "language": "D",
+    "full_name": "Adam Wilson",
+    "username": "LightBender",
+    "location": "Seattle, WA",
+    "join_date": "Dec 13, 2011",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "D",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 265,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/gferrin",
+    "language": "D",
+    "full_name": "Gabriel Ferrin",
+    "username": "gferrin",
+    "location": "Los Angeles",
+    "join_date": "Jul 8, 2012",
+    "popular_repos_stars": "25",
+    "primary_languages": [
+      "JavaScript",
+      "C",
+      "CoffeeScript"
+    ],
+    "contributions": 87,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/Dicebot",
+    "language": "D",
+    "full_name": "Михаил Страшун",
+    "username": "Dicebot",
+    "location": "Germany",
+    "join_date": "Oct 16, 2011",
+    "popular_repos_stars": "6",
+    "primary_languages": [
+      "D",
+      "Shell",
+      "C"
+    ],
+    "contributions": 260,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/belm0",
+    "language": "D",
+    "full_name": "John Belmonte",
+    "username": "belm0",
+    "location": "",
+    "join_date": "May 5, 2012",
+    "popular_repos_stars": "4",
+    "primary_languages": [
+      "D",
+      "C",
+      "Lua"
+    ],
+    "contributions": 24,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/mwarning",
+    "language": "D",
+    "full_name": "Moritz Warning",
+    "username": "mwarning",
+    "location": "",
+    "join_date": "Jan 3, 2011",
+    "popular_repos_stars": "62",
+    "primary_languages": [
+      "C",
+      "Python",
+      "D"
+    ],
+    "contributions": 1,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/denine99",
+    "language": "D",
+    "full_name": "Dylan Hutchison",
+    "username": "denine99",
+    "location": "",
+    "join_date": "Apr 27, 2012",
+    "popular_repos_stars": "4",
+    "primary_languages": [
+      "Shell",
+      "Matlab",
+      "C"
+    ],
+    "contributions": 80,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/Jebbs",
+    "language": "D",
+    "full_name": "Jeremy DeHaan",
+    "username": "Jebbs",
+    "location": "Seattle, WA",
+    "join_date": "Aug 18, 2012",
+    "popular_repos_stars": "59",
+    "primary_languages": [
+      "D",
+      "CSS",
+      "C"
+    ],
+    "contributions": 181,
+    "followers": "8"
+  },
+  {
+    "url": "https://github.com/torje",
+    "language": "D",
+    "full_name": "",
+    "username": "torje",
+    "location": "",
+    "join_date": "Mar 30, 2011",
+    "popular_repos_stars": "6",
+    "primary_languages": [
+      "D",
+      "C",
+      "Shell"
+    ],
+    "contributions": 16,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/devcarlos",
+    "language": "D",
+    "full_name": "",
+    "username": "devcarlos",
+    "location": "",
+    "join_date": "Mar 1, 2011",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "Objective",
+      "C",
+      "D",
+      "Shell"
+    ],
+    "contributions": 0,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/fallenreaper",
+    "language": "D",
+    "full_name": "",
+    "username": "fallenreaper",
+    "location": "",
+    "join_date": "Jun 26, 2010",
+    "popular_repos_stars": "4",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/jimmyish",
+    "language": "D",
+    "full_name": "Jamie Curtis",
+    "username": "jimmyish",
+    "location": "",
+    "join_date": "Apr 12, 2011",
+    "popular_repos_stars": "8",
+    "primary_languages": [
+      "Shell",
+      "D"
+    ],
+    "contributions": 0,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/erdemoncel",
+    "language": "D",
+    "full_name": "Erdem",
+    "username": "erdemoncel",
+    "location": "Eskişehir Türkiye",
+    "join_date": "May 17, 2011",
+    "popular_repos_stars": "12",
+    "primary_languages": [
+      "D",
+      "C",
+      "C"
+    ],
+    "contributions": 3,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/whyuan",
+    "language": "D",
+    "full_name": "a_why",
+    "username": "whyuan",
+    "location": "",
+    "join_date": "Oct 15, 2012",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "C",
+      "C",
+      "Perl"
+    ],
+    "contributions": 0,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/LewisAndrewCampbell",
+    "language": "D",
+    "full_name": "",
+    "username": "LewisAndrewCampbell",
+    "location": "",
+    "join_date": "Oct 2, 2010",
+    "popular_repos_stars": "6",
+    "primary_languages": [
+      "Racket",
+      "C",
+      "C"
+    ],
+    "contributions": 4,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/WebDrake",
+    "language": "D",
+    "full_name": "Joseph Rushton Wakeling",
+    "username": "WebDrake",
+    "location": "Berlin",
+    "join_date": "Sep 9, 2009",
+    "popular_repos_stars": "34",
+    "primary_languages": [
+      "D",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 243,
+    "followers": "7"
+  },
+  {
+    "url": "https://github.com/dirkriehle",
+    "language": "D",
+    "full_name": "Dirk Riehle",
+    "username": "dirkriehle",
+    "location": "",
+    "join_date": "Sep 5, 2012",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "Java",
+      "D",
+      "CSS"
+    ],
+    "contributions": 9,
+    "followers": "7"
+  }
+]

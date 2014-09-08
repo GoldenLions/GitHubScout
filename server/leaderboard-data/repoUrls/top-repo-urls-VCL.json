@@ -80,23 +80,23 @@
     "language": "VCL"
   },
   {
-    "url": "https://github.com/bfitzsimmons/docker-varnish",
-    "size": 108,
-    "language": "VCL"
-  },
-  {
-    "url": "https://github.com/dpi247/Drupal-Varnish-ESI",
-    "size": 272,
-    "language": "VCL"
-  },
-  {
     "url": "https://github.com/ukgaz/VarnishWordpress",
     "size": 156,
     "language": "VCL"
   },
   {
-    "url": "https://github.com/rameezts/varnish_dynamic",
-    "size": 128,
+    "url": "https://github.com/andrewoke/Docker-D7-Apache",
+    "size": 112,
+    "language": "VCL"
+  },
+  {
+    "url": "https://github.com/CubicMushroom/cm-fb",
+    "size": 212,
+    "language": "VCL"
+  },
+  {
+    "url": "https://github.com/sklav/varnish4-drupal-vcl",
+    "size": 140,
     "language": "VCL"
   }
 ]

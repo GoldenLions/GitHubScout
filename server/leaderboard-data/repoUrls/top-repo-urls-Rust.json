@@ -1,7 +1,7 @@
 [
   {
     "url": "https://github.com/rust-lang/rust",
-    "size": 454226,
+    "size": 455156,
     "language": "Rust"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "url": "https://github.com/iron/iron",
-    "size": 3246,
+    "size": 3430,
     "language": "Rust"
   },
   {
@@ -85,13 +85,13 @@
     "language": "Rust"
   },
   {
-    "url": "https://github.com/crabtw/rust-bindgen",
-    "size": 2180,
+    "url": "https://github.com/phildawes/racer",
+    "size": 1592,
     "language": "Rust"
   },
   {
-    "url": "https://github.com/phildawes/racer",
-    "size": 1592,
+    "url": "https://github.com/crabtw/rust-bindgen",
+    "size": 2187,
     "language": "Rust"
   },
   {

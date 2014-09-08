@@ -1,0 +1,1573 @@
+[
+  {
+    "url": "https://github.com/tekkub",
+    "language": "Lua",
+    "full_name": "Tekkub",
+    "username": "tekkub",
+    "location": "Denver, CO",
+    "join_date": "Feb 23, 2008",
+    "popular_repos_stars": "275",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "Lua"
+    ],
+    "contributions": 263,
+    "followers": "5.1k"
+  },
+  {
+    "url": "https://github.com/leafo",
+    "language": "Lua",
+    "full_name": "leaf",
+    "username": "leafo",
+    "location": "San Francisco",
+    "join_date": "Jun 26, 2008",
+    "popular_repos_stars": "4557",
+    "primary_languages": [
+      "MoonScript",
+      "Lua",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "365"
+  },
+  {
+    "url": "https://github.com/kikito",
+    "language": "Lua",
+    "full_name": "Enrique García",
+    "username": "kikito",
+    "location": "Madrid, Spain",
+    "join_date": "Mar 13, 2009",
+    "popular_repos_stars": "919",
+    "primary_languages": [
+      "Lua",
+      "Ruby",
+      "JavaScript"
+    ],
+    "contributions": 822,
+    "followers": "204"
+  },
+  {
+    "url": "https://github.com/clementfarabet",
+    "language": "Lua",
+    "full_name": "Clement Farabet",
+    "username": "clementfarabet",
+    "location": "New York City",
+    "join_date": "Jan 24, 2010",
+    "popular_repos_stars": "148",
+    "primary_languages": [
+      "Lua",
+      "C",
+      "Shell"
+    ],
+    "contributions": 847,
+    "followers": "126"
+  },
+  {
+    "url": "https://github.com/stevedonovan",
+    "language": "Lua",
+    "full_name": "Steve J Donovan",
+    "username": "stevedonovan",
+    "location": "Johannesburg, South Africa",
+    "join_date": "Mar 8, 2010",
+    "popular_repos_stars": "646",
+    "primary_languages": [
+      "Lua",
+      "C",
+      "Shell"
+    ],
+    "contributions": 306,
+    "followers": "123"
+  },
+  {
+    "url": "https://github.com/haste",
+    "language": "Lua",
+    "full_name": "Trond A Ekseth",
+    "username": "haste",
+    "location": "Norway",
+    "join_date": "Jul 22, 2008",
+    "popular_repos_stars": "143",
+    "primary_languages": [
+      "Lua",
+      "TeX",
+      "D"
+    ],
+    "contributions": 180,
+    "followers": "118"
+  },
+  {
+    "url": "https://github.com/Yonaba",
+    "language": "Lua",
+    "full_name": "Roland Y.",
+    "username": "Yonaba",
+    "location": "Ouagadougou (Burkina Faso)",
+    "join_date": "Jun 29, 2011",
+    "popular_repos_stars": "384",
+    "primary_languages": [
+      "Lua",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 796,
+    "followers": "115"
+  },
+  {
+    "url": "https://github.com/JesterXL",
+    "language": "Lua",
+    "full_name": "Jesse Warden",
+    "username": "JesterXL",
+    "location": "Richmond, VA",
+    "join_date": "Oct 2, 2010",
+    "popular_repos_stars": "95",
+    "primary_languages": [
+      "Lua",
+      "JavaScript",
+      "ActionScript"
+    ],
+    "contributions": 96,
+    "followers": "104"
+  },
+  {
+    "url": "https://github.com/slact",
+    "language": "Lua",
+    "full_name": "Leo P.",
+    "username": "slact",
+    "location": "New York",
+    "join_date": "Apr 7, 2008",
+    "popular_repos_stars": "947",
+    "primary_languages": [
+      "Lua",
+      "Ruby",
+      "C"
+    ],
+    "contributions": 321,
+    "followers": "103"
+  },
+  {
+    "url": "https://github.com/vrld",
+    "language": "Lua",
+    "full_name": "",
+    "username": "vrld",
+    "location": "",
+    "join_date": "Nov 21, 2009",
+    "popular_repos_stars": "357",
+    "primary_languages": [
+      "Lua",
+      "C",
+      "Objective",
+      "C"
+    ],
+    "contributions": 22,
+    "followers": "85"
+  },
+  {
+    "url": "https://github.com/agladysh",
+    "language": "Lua",
+    "full_name": "Alexander Gladysh",
+    "username": "agladysh",
+    "location": "Moscow",
+    "join_date": "Dec 4, 2008",
+    "popular_repos_stars": "100",
+    "primary_languages": [
+      "Lua",
+      "C",
+      "Shell"
+    ],
+    "contributions": 125,
+    "followers": "85"
+  },
+  {
+    "url": "https://github.com/lukego",
+    "language": "Lua",
+    "full_name": "Luke Gorrie",
+    "username": "lukego",
+    "location": "Zurich, Switzerland",
+    "join_date": "Jun 15, 2008",
+    "popular_repos_stars": "25",
+    "primary_languages": [
+      "Lua",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 386,
+    "followers": "84"
+  },
+  {
+    "url": "https://github.com/Elv22",
+    "language": "Lua",
+    "full_name": "Elv",
+    "username": "Elv22",
+    "location": "",
+    "join_date": "Mar 7, 2010",
+    "popular_repos_stars": "3",
+    "primary_languages": [
+      "Lua"
+    ],
+    "contributions": 0,
+    "followers": "78"
+  },
+  {
+    "url": "https://github.com/FPtje",
+    "language": "Lua",
+    "full_name": "Falco Peijnenburg",
+    "username": "FPtje",
+    "location": "",
+    "join_date": "Nov 17, 2011",
+    "popular_repos_stars": "201",
+    "primary_languages": [
+      "Lua",
+      "Shell",
+      "Haskell"
+    ],
+    "contributions": 987,
+    "followers": "77"
+  },
+  {
+    "url": "https://github.com/copycat-killer",
+    "language": "Lua",
+    "full_name": "Luke Bonham",
+    "username": "copycat-killer",
+    "location": "",
+    "join_date": "May 25, 2012",
+    "popular_repos_stars": "566",
+    "primary_languages": [
+      "Shell",
+      "Lua",
+      "Perl"
+    ],
+    "contributions": 614,
+    "followers": "77"
+  },
+  {
+    "url": "https://github.com/khaledhosny",
+    "language": "Lua",
+    "full_name": "Khaled Hosny",
+    "username": "khaledhosny",
+    "location": "Cairo",
+    "join_date": "Jun 10, 2009",
+    "popular_repos_stars": "152",
+    "primary_languages": [
+      "Python",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 646,
+    "followers": "72"
+  },
+  {
+    "url": "https://github.com/p3lim",
+    "language": "Lua",
+    "full_name": "Adrian L Lange",
+    "username": "p3lim",
+    "location": "Norway",
+    "join_date": "Oct 7, 2013",
+    "popular_repos_stars": "77",
+    "primary_languages": [
+      "CSS",
+      "JavaScript",
+      "C"
+    ],
+    "contributions": 546,
+    "followers": "71"
+  },
+  {
+    "url": "https://github.com/alexander-yakushev",
+    "language": "Lua",
+    "full_name": "Alexander Yakushev",
+    "username": "alexander-yakushev",
+    "location": "Gjøvik, Norway",
+    "join_date": "Nov 4, 2010",
+    "popular_repos_stars": "160",
+    "primary_languages": [
+      "Clojure",
+      "Lua",
+      "JavaScript"
+    ],
+    "contributions": 263,
+    "followers": "70"
+  },
+  {
+    "url": "https://github.com/mkottman",
+    "language": "Lua",
+    "full_name": "Michal Kottman",
+    "username": "mkottman",
+    "location": "Bratislava, Slovakia",
+    "join_date": "Oct 26, 2009",
+    "popular_repos_stars": "498",
+    "primary_languages": [
+      "Lua",
+      "C",
+      "C"
+    ],
+    "contributions": 14,
+    "followers": "70"
+  },
+  {
+    "url": "https://github.com/pkulchenko",
+    "language": "Lua",
+    "full_name": "Paul Kulchenko",
+    "username": "pkulchenko",
+    "location": "",
+    "join_date": "Apr 23, 2009",
+    "popular_repos_stars": "660",
+    "primary_languages": [
+      "Lua",
+      "C",
+      "C"
+    ],
+    "contributions": 856,
+    "followers": "70"
+  },
+  {
+    "url": "https://github.com/Fluorohydride",
+    "language": "Lua",
+    "full_name": "",
+    "username": "Fluorohydride",
+    "location": "",
+    "join_date": "Oct 31, 2011",
+    "popular_repos_stars": "139",
+    "primary_languages": [
+      "C",
+      "C",
+      "Lua"
+    ],
+    "contributions": 66,
+    "followers": "68"
+  },
+  {
+    "url": "https://github.com/tg123",
+    "language": "Lua",
+    "full_name": "tgic",
+    "username": "tg123",
+    "location": "",
+    "join_date": "Dec 21, 2009",
+    "popular_repos_stars": "199",
+    "primary_languages": [
+      "Shell",
+      "Python",
+      "JavaScript"
+    ],
+    "contributions": 827,
+    "followers": "61"
+  },
+  {
+    "url": "https://github.com/catwell",
+    "language": "Lua",
+    "full_name": "Pierre Chapuis",
+    "username": "catwell",
+    "location": "Paris, France",
+    "join_date": "Mar 12, 2010",
+    "popular_repos_stars": "77",
+    "primary_languages": [
+      "Lua",
+      "C",
+      "Shell"
+    ],
+    "contributions": 231,
+    "followers": "61"
+  },
+  {
+    "url": "https://github.com/davidm",
+    "language": "Lua",
+    "full_name": "David Manura",
+    "username": "davidm",
+    "location": "",
+    "join_date": "Sep 2, 2008",
+    "popular_repos_stars": "247",
+    "primary_languages": [
+      "Lua",
+      "Shell",
+      "Perl"
+    ],
+    "contributions": 2,
+    "followers": "60"
+  },
+  {
+    "url": "https://github.com/justincormack",
+    "language": "Lua",
+    "full_name": "Justin Cormack",
+    "username": "justincormack",
+    "location": "London",
+    "join_date": "Nov 15, 2010",
+    "popular_repos_stars": "240",
+    "primary_languages": [
+      "Lua",
+      "C",
+      "JavaScript"
+    ],
+    "contributions": 2,
+    "followers": "59"
+  },
+  {
+    "url": "https://github.com/andresy",
+    "language": "Lua",
+    "full_name": "Ronan Collobert",
+    "username": "andresy",
+    "location": "Switzerland",
+    "join_date": "Jan 28, 2010",
+    "popular_repos_stars": "37",
+    "primary_languages": [
+      "Lua",
+      "C",
+      "C"
+    ],
+    "contributions": 614,
+    "followers": "57"
+  },
+  {
+    "url": "https://github.com/soumith",
+    "language": "Lua",
+    "full_name": "Soumith Chintala",
+    "username": "soumith",
+    "location": "New York, USA",
+    "join_date": "Jan 6, 2012",
+    "popular_repos_stars": "143",
+    "primary_languages": [
+      "Lua",
+      "C",
+      "Shell"
+    ],
+    "contributions": 1,
+    "followers": "57"
+  },
+  {
+    "url": "https://github.com/BlackBulletIV",
+    "language": "Lua",
+    "full_name": "Michael Ebens",
+    "username": "BlackBulletIV",
+    "location": "Queensland, Australia",
+    "join_date": "Oct 19, 2010",
+    "popular_repos_stars": "90",
+    "primary_languages": [
+      "Lua",
+      "Ruby",
+      "ActionScript"
+    ],
+    "contributions": 6,
+    "followers": "55"
+  },
+  {
+    "url": "https://github.com/dutc",
+    "language": "Lua",
+    "full_name": "James",
+    "username": "dutc",
+    "location": "New York City",
+    "join_date": "Mar 20, 2013",
+    "popular_repos_stars": "12",
+    "primary_languages": [
+      "Lua",
+      "C",
+      "Python"
+    ],
+    "contributions": 144,
+    "followers": "54"
+  },
+  {
+    "url": "https://github.com/Tuller",
+    "language": "Lua",
+    "full_name": "Jason Greer",
+    "username": "Tuller",
+    "location": "",
+    "join_date": "Jan 27, 2010",
+    "popular_repos_stars": "7",
+    "primary_languages": [
+      "Lua"
+    ],
+    "contributions": 28,
+    "followers": "51"
+  },
+  {
+    "url": "https://github.com/josefnpat",
+    "language": "Lua",
+    "full_name": "Seppi",
+    "username": "josefnpat",
+    "location": "",
+    "join_date": "Mar 1, 2011",
+    "popular_repos_stars": "82",
+    "primary_languages": [
+      "Lua",
+      "PHP",
+      "Shell"
+    ],
+    "contributions": 442,
+    "followers": "51"
+  },
+  {
+    "url": "https://github.com/ignacio",
+    "language": "Lua",
+    "full_name": "Ignacio Burgueño",
+    "username": "ignacio",
+    "location": "Montevideo, Uruguay",
+    "join_date": "Sep 2, 2008",
+    "popular_repos_stars": "449",
+    "primary_languages": [
+      "Lua",
+      "Shell",
+      "C"
+    ],
+    "contributions": 151,
+    "followers": "48"
+  },
+  {
+    "url": "https://github.com/Shestak",
+    "language": "Lua",
+    "full_name": "Michael",
+    "username": "Shestak",
+    "location": "Russia",
+    "join_date": "Dec 16, 2009",
+    "popular_repos_stars": "116",
+    "primary_languages": [
+      "Lua",
+      "TeX"
+    ],
+    "contributions": 59,
+    "followers": "48"
+  },
+  {
+    "url": "https://github.com/koraykv",
+    "language": "Lua",
+    "full_name": "koray kavukcuoglu",
+    "username": "koraykv",
+    "location": "London, UK",
+    "join_date": "May 31, 2011",
+    "popular_repos_stars": "33",
+    "primary_languages": [
+      "Lua",
+      "C",
+      "Shell"
+    ],
+    "contributions": 163,
+    "followers": "47"
+  },
+  {
+    "url": "https://github.com/henkboom",
+    "language": "Lua",
+    "full_name": "Henk Boom",
+    "username": "henkboom",
+    "location": "",
+    "join_date": "Nov 6, 2009",
+    "popular_repos_stars": "88",
+    "primary_languages": [
+      "Lua",
+      "C",
+      "C"
+    ],
+    "contributions": 1,
+    "followers": "46"
+  },
+  {
+    "url": "https://github.com/malkia",
+    "language": "Lua",
+    "full_name": "Dimiter 'malkia' Stanev",
+    "username": "malkia",
+    "location": "Los Angeles",
+    "join_date": "Feb 4, 2009",
+    "popular_repos_stars": "219",
+    "primary_languages": [
+      "C",
+      "Shell",
+      "Emacs",
+      "Lisp"
+    ],
+    "contributions": 3,
+    "followers": "45"
+  },
+  {
+    "url": "https://github.com/mascarenhas",
+    "language": "Lua",
+    "full_name": "Fabio Mascarenhas",
+    "username": "mascarenhas",
+    "location": "Rio de Janeiro, Brazil",
+    "join_date": "Feb 18, 2008",
+    "popular_repos_stars": "103",
+    "primary_languages": [
+      "Lua",
+      "C",
+      "Shell"
+    ],
+    "contributions": 23,
+    "followers": "45"
+  },
+  {
+    "url": "https://github.com/scottcreynolds",
+    "language": "Lua",
+    "full_name": "Scott C Reynolds",
+    "username": "scottcreynolds",
+    "location": "Brooklyn, NY",
+    "join_date": "Feb 5, 2009",
+    "popular_repos_stars": "5",
+    "primary_languages": [
+      "Ruby",
+      "CSS",
+      "JavaScript"
+    ],
+    "contributions": 66,
+    "followers": "44"
+  },
+  {
+    "url": "https://github.com/Eclipse-",
+    "language": "Lua",
+    "full_name": "",
+    "username": "Eclipse-",
+    "location": "United Kingdom",
+    "join_date": "Jul 31, 2010",
+    "popular_repos_stars": "41",
+    "primary_languages": [
+      "Lua"
+    ],
+    "contributions": 0,
+    "followers": "42"
+  },
+  {
+    "url": "https://github.com/SimonLarsen",
+    "language": "Lua",
+    "full_name": "Simon Larsen",
+    "username": "SimonLarsen",
+    "location": "Odense, Denmark",
+    "join_date": "Jun 3, 2010",
+    "popular_repos_stars": "146",
+    "primary_languages": [
+      "Lua",
+      "C",
+      "C"
+    ],
+    "contributions": 380,
+    "followers": "42"
+  },
+  {
+    "url": "https://github.com/daogangtang",
+    "language": "Lua",
+    "full_name": "",
+    "username": "daogangtang",
+    "location": "",
+    "join_date": "Feb 21, 2011",
+    "popular_repos_stars": "153",
+    "primary_languages": [
+      "Lua",
+      "Shell",
+      "C"
+    ],
+    "contributions": 63,
+    "followers": "41"
+  },
+  {
+    "url": "https://github.com/bartbes",
+    "language": "Lua",
+    "full_name": "Bart van Strien",
+    "username": "bartbes",
+    "location": "",
+    "join_date": "Mar 4, 2009",
+    "popular_repos_stars": "105",
+    "primary_languages": [
+      "Lua",
+      "Shell",
+      "C"
+    ],
+    "contributions": 97,
+    "followers": "41"
+  },
+  {
+    "url": "https://github.com/Shadowed",
+    "language": "Lua",
+    "full_name": "SH",
+    "username": "Shadowed",
+    "location": "",
+    "join_date": "May 6, 2009",
+    "popular_repos_stars": "40",
+    "primary_languages": [
+      "Lua",
+      "C",
+      "Shell"
+    ],
+    "contributions": 0,
+    "followers": "39"
+  },
+  {
+    "url": "https://github.com/SnakeSVx",
+    "language": "Lua",
+    "full_name": "Stijn",
+    "username": "SnakeSVx",
+    "location": "Belgium",
+    "join_date": "May 9, 2010",
+    "popular_repos_stars": "107",
+    "primary_languages": [
+      "Java",
+      "Lua",
+      "Shell"
+    ],
+    "contributions": 5,
+    "followers": "39"
+  },
+  {
+    "url": "https://github.com/aypierre42",
+    "language": "Lua",
+    "full_name": "",
+    "username": "aypierre42",
+    "location": "",
+    "join_date": "Jul 9, 2014",
+    "popular_repos_stars": "22",
+    "primary_languages": [
+      "Lua"
+    ],
+    "contributions": 23,
+    "followers": "39"
+  },
+  {
+    "url": "https://github.com/2bt",
+    "language": "Lua",
+    "full_name": "twobit",
+    "username": "2bt",
+    "location": "Germany",
+    "join_date": "Sep 21, 2010",
+    "popular_repos_stars": "29",
+    "primary_languages": [
+      "C",
+      "Lua",
+      "C"
+    ],
+    "contributions": 270,
+    "followers": "39"
+  },
+  {
+    "url": "https://github.com/bobsomers",
+    "language": "Lua",
+    "full_name": "Bob Somers",
+    "username": "bobsomers",
+    "location": "Sunnyvale, CA",
+    "join_date": "Jul 4, 2009",
+    "popular_repos_stars": "52",
+    "primary_languages": [
+      "C",
+      "Lua",
+      "Shell"
+    ],
+    "contributions": 133,
+    "followers": "39"
+  },
+  {
+    "url": "https://github.com/andrewmcwatters",
+    "language": "Lua",
+    "full_name": "Andrew McWatters",
+    "username": "andrewmcwatters",
+    "location": "Phoenix, AZ",
+    "join_date": "Nov 18, 2010",
+    "popular_repos_stars": "54",
+    "primary_languages": [
+      "Lua",
+      "C",
+      "C"
+    ],
+    "contributions": 177,
+    "followers": "39"
+  },
+  {
+    "url": "https://github.com/TheLinx",
+    "language": "Lua",
+    "full_name": "Linus",
+    "username": "TheLinx",
+    "location": "Stockholm, Sweden",
+    "join_date": "Aug 10, 2009",
+    "popular_repos_stars": "65",
+    "primary_languages": [
+      "Lua",
+      "C",
+      "Python"
+    ],
+    "contributions": 1,
+    "followers": "37"
+  },
+  {
+    "url": "https://github.com/fab13n",
+    "language": "Lua",
+    "full_name": "Fleutot",
+    "username": "fab13n",
+    "location": "Toulouse, France",
+    "join_date": "Jul 29, 2008",
+    "popular_repos_stars": "283",
+    "primary_languages": [
+      "Lua",
+      "C",
+      "Shell"
+    ],
+    "contributions": 137,
+    "followers": "37"
+  },
+  {
+    "url": "https://github.com/pintsized",
+    "language": "Lua",
+    "full_name": "James Hurst",
+    "username": "pintsized",
+    "location": "London",
+    "join_date": "Feb 24, 2009",
+    "popular_repos_stars": "205",
+    "primary_languages": [
+      "Lua",
+      "Perl"
+    ],
+    "contributions": 199,
+    "followers": "37"
+  },
+  {
+    "url": "https://github.com/adereth",
+    "language": "Lua",
+    "full_name": "Matt Adereth",
+    "username": "adereth",
+    "location": "",
+    "join_date": "Apr 2, 2010",
+    "popular_repos_stars": "87",
+    "primary_languages": [
+      "Clojure",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 135,
+    "followers": "37"
+  },
+  {
+    "url": "https://github.com/rrthomas",
+    "language": "Lua",
+    "full_name": "Reuben Thomas",
+    "username": "rrthomas",
+    "location": "London, UK",
+    "join_date": "Jul 17, 2008",
+    "popular_repos_stars": "88",
+    "primary_languages": [
+      "Shell",
+      "Lua",
+      "C"
+    ],
+    "contributions": 1,
+    "followers": "37"
+  },
+  {
+    "url": "https://github.com/ash47",
+    "language": "Lua",
+    "full_name": "",
+    "username": "ash47",
+    "location": "Melbourne, Victoria, Australia",
+    "join_date": "Mar 3, 2013",
+    "popular_repos_stars": "114",
+    "primary_languages": [
+      "Lua",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 848,
+    "followers": "36"
+  },
+  {
+    "url": "https://github.com/grrrwaaa",
+    "language": "Lua",
+    "full_name": "Graham Wakefield",
+    "username": "grrrwaaa",
+    "location": "",
+    "join_date": "Dec 13, 2011",
+    "popular_repos_stars": "72",
+    "primary_languages": [
+      "Lua",
+      "C",
+      "C"
+    ],
+    "contributions": 576,
+    "followers": "34"
+  },
+  {
+    "url": "https://github.com/GrahamRanson",
+    "language": "Lua",
+    "full_name": "Graham Ranson",
+    "username": "GrahamRanson",
+    "location": "Oxford, UK",
+    "join_date": "Apr 8, 2011",
+    "popular_repos_stars": "3",
+    "primary_languages": [
+      "Lua"
+    ],
+    "contributions": 48,
+    "followers": "34"
+  },
+  {
+    "url": "https://github.com/PilzAdam",
+    "language": "Lua",
+    "full_name": "",
+    "username": "PilzAdam",
+    "location": "",
+    "join_date": "Aug 15, 2012",
+    "popular_repos_stars": "40",
+    "primary_languages": [
+      "Lua",
+      "Logos",
+      "Python"
+    ],
+    "contributions": 140,
+    "followers": "34"
+  },
+  {
+    "url": "https://github.com/Industrial",
+    "language": "Lua",
+    "full_name": "Tom Wieland",
+    "username": "Industrial",
+    "location": "Amsterdam",
+    "join_date": "Mar 17, 2008",
+    "popular_repos_stars": "7",
+    "primary_languages": [
+      "Lua",
+      "JavaScript",
+      "CoffeeScript"
+    ],
+    "contributions": 848,
+    "followers": "34"
+  },
+  {
+    "url": "https://github.com/Kyros",
+    "language": "Lua",
+    "full_name": "Kyros Starr",
+    "username": "Kyros",
+    "location": "San Francisco,CA",
+    "join_date": "Feb 15, 2012",
+    "popular_repos_stars": "1",
+    "primary_languages": [
+      "Ruby",
+      "JavaScript",
+      "CoffeeScript"
+    ],
+    "contributions": 0,
+    "followers": "33"
+  },
+  {
+    "url": "https://github.com/dufferzafar",
+    "language": "Lua",
+    "full_name": "Shadab Zafar",
+    "username": "dufferzafar",
+    "location": "India",
+    "join_date": "Feb 18, 2012",
+    "popular_repos_stars": "16",
+    "primary_languages": [
+      "JavaScript",
+      "Python",
+      "AutoHotkey"
+    ],
+    "contributions": 764,
+    "followers": "33"
+  },
+  {
+    "url": "https://github.com/schaul",
+    "language": "Lua",
+    "full_name": "Tom Schaul",
+    "username": "schaul",
+    "location": "London",
+    "join_date": "Feb 10, 2009",
+    "popular_repos_stars": "44",
+    "primary_languages": [
+      "Lua",
+      "Python",
+      "C"
+    ],
+    "contributions": 70,
+    "followers": "32"
+  },
+  {
+    "url": "https://github.com/ryugwang",
+    "language": "Lua",
+    "full_name": "Ryu Gwang",
+    "username": "ryugwang",
+    "location": "",
+    "join_date": "Dec 30, 2010",
+    "popular_repos_stars": "6",
+    "primary_languages": [
+      "Lua",
+      "Shell",
+      "CSS"
+    ],
+    "contributions": 7,
+    "followers": "32"
+  },
+  {
+    "url": "https://github.com/drahosp",
+    "language": "Lua",
+    "full_name": "Peter Drahoš",
+    "username": "drahosp",
+    "location": "Bratislava, Slovakia",
+    "join_date": "Apr 18, 2010",
+    "popular_repos_stars": "9",
+    "primary_languages": [
+      "Shell",
+      "Perl",
+      "C"
+    ],
+    "contributions": 65,
+    "followers": "31"
+  },
+  {
+    "url": "https://github.com/liyanrui",
+    "language": "Lua",
+    "full_name": "",
+    "username": "liyanrui",
+    "location": "",
+    "join_date": "Dec 13, 2009",
+    "popular_repos_stars": "35",
+    "primary_languages": [
+      "C",
+      "Shell",
+      "Lua"
+    ],
+    "contributions": 0,
+    "followers": "31"
+  },
+  {
+    "url": "https://github.com/yuri",
+    "language": "Lua",
+    "full_name": "Yuri Takhteyev",
+    "username": "yuri",
+    "location": "Toronto",
+    "join_date": "Mar 4, 2008",
+    "popular_repos_stars": "70",
+    "primary_languages": [
+      "Lua",
+      "JavaScript",
+      "Python"
+    ],
+    "contributions": 124,
+    "followers": "30"
+  },
+  {
+    "url": "https://github.com/PProvost",
+    "language": "Lua",
+    "full_name": "Peter Provost",
+    "username": "PProvost",
+    "location": "Denver, CO",
+    "join_date": "Jan 7, 2009",
+    "popular_repos_stars": "115",
+    "primary_languages": [
+      "Lua",
+      "PowerShell",
+      "C"
+    ],
+    "contributions": 78,
+    "followers": "30"
+  },
+  {
+    "url": "https://github.com/qubodup",
+    "language": "Lua",
+    "full_name": "Iwan Gabovitch",
+    "username": "qubodup",
+    "location": "Berlin, Germany",
+    "join_date": "Jul 24, 2008",
+    "popular_repos_stars": "22",
+    "primary_languages": [
+      "Lua",
+      "JavaScript",
+      "Shell"
+    ],
+    "contributions": 105,
+    "followers": "29"
+  },
+  {
+    "url": "https://github.com/ar2rsawseen",
+    "language": "Lua",
+    "full_name": "Arturs Sosins",
+    "username": "ar2rsawseen",
+    "location": "Latvia",
+    "join_date": "Sep 15, 2010",
+    "popular_repos_stars": "38",
+    "primary_languages": [
+      "Lua",
+      "Java",
+      "C"
+    ],
+    "contributions": 49,
+    "followers": "29"
+  },
+  {
+    "url": "https://github.com/rukano",
+    "language": "Lua",
+    "full_name": "Juan A. Romero",
+    "username": "rukano",
+    "location": "Germany",
+    "join_date": "Jun 19, 2009",
+    "popular_repos_stars": "42",
+    "primary_languages": [
+      "Lua",
+      "Emacs",
+      "Lisp",
+      "SuperCollider"
+    ],
+    "contributions": 36,
+    "followers": "29"
+  },
+  {
+    "url": "https://github.com/jwatzman",
+    "language": "Lua",
+    "full_name": "Josh Watzman",
+    "username": "jwatzman",
+    "location": "Mountain View, CA, USA",
+    "join_date": "Jan 20, 2011",
+    "popular_repos_stars": "10",
+    "primary_languages": [
+      "Shell",
+      "C",
+      "JavaScript"
+    ],
+    "contributions": 207,
+    "followers": "29"
+  },
+  {
+    "url": "https://github.com/Devper",
+    "language": "Lua",
+    "full_name": "",
+    "username": "Devper",
+    "location": "",
+    "join_date": "Aug 1, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "28"
+  },
+  {
+    "url": "https://github.com/Anaminus",
+    "language": "Lua",
+    "full_name": "",
+    "username": "Anaminus",
+    "location": "",
+    "join_date": "Jul 15, 2011",
+    "popular_repos_stars": "40",
+    "primary_languages": [
+      "Lua",
+      "Go",
+      "CSS"
+    ],
+    "contributions": 679,
+    "followers": "28"
+  },
+  {
+    "url": "https://github.com/daurnimator",
+    "language": "Lua",
+    "full_name": "",
+    "username": "daurnimator",
+    "location": "New York",
+    "join_date": "Sep 16, 2009",
+    "popular_repos_stars": "42",
+    "primary_languages": [
+      "Lua",
+      "C",
+      "C"
+    ],
+    "contributions": 258,
+    "followers": "28"
+  },
+  {
+    "url": "https://github.com/Fizzadar",
+    "language": "Lua",
+    "full_name": "Nick Barrett",
+    "username": "Fizzadar",
+    "location": "UK",
+    "join_date": "Sep 4, 2011",
+    "popular_repos_stars": "41",
+    "primary_languages": [
+      "JavaScript",
+      "Shell",
+      "PHP"
+    ],
+    "contributions": 536,
+    "followers": "28"
+  },
+  {
+    "url": "https://github.com/etandel",
+    "language": "Lua",
+    "full_name": "Elias Tandel Barrionovo",
+    "username": "etandel",
+    "location": "Rio de Janeiro, Brazil",
+    "join_date": "Aug 17, 2009",
+    "popular_repos_stars": "15",
+    "primary_languages": [
+      "Python",
+      "Lua",
+      "Shell"
+    ],
+    "contributions": 42,
+    "followers": "27"
+  },
+  {
+    "url": "https://github.com/gyrfalco",
+    "language": "Lua",
+    "full_name": "gyrfalco",
+    "username": "gyrfalco",
+    "location": "Ukraine",
+    "join_date": "Sep 4, 2012",
+    "popular_repos_stars": "1",
+    "primary_languages": [
+      "Shell",
+      "VimL",
+      "C"
+    ],
+    "contributions": 38,
+    "followers": "27"
+  },
+  {
+    "url": "https://github.com/middlefeng",
+    "language": "Lua",
+    "full_name": "",
+    "username": "middlefeng",
+    "location": "",
+    "join_date": "Dec 24, 2012",
+    "popular_repos_stars": "37",
+    "primary_languages": [
+      "Objective",
+      "C",
+      "C",
+      "Lua"
+    ],
+    "contributions": 8,
+    "followers": "26"
+  },
+  {
+    "url": "https://github.com/zhangxiangxiao",
+    "language": "Lua",
+    "full_name": "Xiang Zhang",
+    "username": "zhangxiangxiao",
+    "location": "New York",
+    "join_date": "Nov 15, 2011",
+    "popular_repos_stars": "17",
+    "primary_languages": [
+      "Lua",
+      "C",
+      "C"
+    ],
+    "contributions": 179,
+    "followers": "26"
+  },
+  {
+    "url": "https://github.com/roaminggamer",
+    "language": "Lua",
+    "full_name": "Roaming Gamer, LLC.",
+    "username": "roaminggamer",
+    "location": "Oregon, USA",
+    "join_date": "Oct 6, 2012",
+    "popular_repos_stars": "92",
+    "primary_languages": [
+      "Lua",
+      "PHP",
+      "Rouge"
+    ],
+    "contributions": 74,
+    "followers": "26"
+  },
+  {
+    "url": "https://github.com/xyzz",
+    "language": "Lua",
+    "full_name": "",
+    "username": "xyzz",
+    "location": "",
+    "join_date": "Sep 20, 2011",
+    "popular_repos_stars": "27",
+    "primary_languages": [
+      "Python",
+      "Shell",
+      "Lua"
+    ],
+    "contributions": 309,
+    "followers": "25"
+  },
+  {
+    "url": "https://github.com/Wiladams",
+    "language": "Lua",
+    "full_name": "William Adams",
+    "username": "Wiladams",
+    "location": "",
+    "join_date": "Oct 28, 2010",
+    "popular_repos_stars": "107",
+    "primary_languages": [
+      "Lua",
+      "C",
+      "Shell"
+    ],
+    "contributions": 78,
+    "followers": "25"
+  },
+  {
+    "url": "https://github.com/dkulchenko",
+    "language": "Lua",
+    "full_name": "Daniil Kulchenko",
+    "username": "dkulchenko",
+    "location": "Seattle",
+    "join_date": "Oct 24, 2009",
+    "popular_repos_stars": "2",
+    "primary_languages": [
+      "Lua",
+      "C",
+      "C"
+    ],
+    "contributions": 41,
+    "followers": "25"
+  },
+  {
+    "url": "https://github.com/sirmacik",
+    "language": "Lua",
+    "full_name": "sirmacik",
+    "username": "sirmacik",
+    "location": "Europe/Warsaw",
+    "join_date": "Sep 18, 2010",
+    "popular_repos_stars": "5",
+    "primary_languages": [
+      "Shell",
+      "Perl",
+      "Python"
+    ],
+    "contributions": 0,
+    "followers": "24"
+  },
+  {
+    "url": "https://github.com/Viktoriel",
+    "language": "Lua",
+    "full_name": "",
+    "username": "Viktoriel",
+    "location": "",
+    "join_date": "Aug 2, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "24"
+  },
+  {
+    "url": "https://github.com/janeylicious",
+    "language": "Lua",
+    "full_name": "Jane",
+    "username": "janeylicious",
+    "location": "san francisco, formerly la la land",
+    "join_date": "Apr 10, 2008",
+    "popular_repos_stars": "4",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "24"
+  },
+  {
+    "url": "https://github.com/theoriginalbit",
+    "language": "Lua",
+    "full_name": "Joshua Asbury",
+    "username": "theoriginalbit",
+    "location": "Melbourne, Australia",
+    "join_date": "Jan 24, 2012",
+    "popular_repos_stars": "10",
+    "primary_languages": [
+      "Lua",
+      "Java",
+      "Perl"
+    ],
+    "contributions": 468,
+    "followers": "24"
+  },
+  {
+    "url": "https://github.com/Donearm",
+    "language": "Lua",
+    "full_name": "Gianluca Fiore",
+    "username": "Donearm",
+    "location": "Naples, Italy",
+    "join_date": "Aug 29, 2009",
+    "popular_repos_stars": "22",
+    "primary_languages": [
+      "Python",
+      "Lua",
+      "VimL"
+    ],
+    "contributions": 173,
+    "followers": "24"
+  },
+  {
+    "url": "https://github.com/sharpobject",
+    "language": "Lua",
+    "full_name": "Robert Burke",
+    "username": "sharpobject",
+    "location": "Daly City, CA",
+    "join_date": "Jan 23, 2011",
+    "popular_repos_stars": "42",
+    "primary_languages": [
+      "Lua",
+      "Shell",
+      "Python"
+    ],
+    "contributions": 326,
+    "followers": "24"
+  },
+  {
+    "url": "https://github.com/GravityScore",
+    "language": "Lua",
+    "full_name": "Ben Anderson",
+    "username": "GravityScore",
+    "location": "Land of Meh",
+    "join_date": "Nov 21, 2012",
+    "popular_repos_stars": "38",
+    "primary_languages": [
+      "C",
+      "Rust",
+      "Lua"
+    ],
+    "contributions": 406,
+    "followers": "24"
+  },
+  {
+    "url": "https://github.com/lipp",
+    "language": "Lua",
+    "full_name": "Gerhard Preuss",
+    "username": "lipp",
+    "location": "",
+    "join_date": "Oct 19, 2010",
+    "popular_repos_stars": "144",
+    "primary_languages": [
+      "Lua",
+      "Shell",
+      "JavaScript"
+    ],
+    "contributions": 598,
+    "followers": "24"
+  },
+  {
+    "url": "https://github.com/xconstruct",
+    "language": "Lua",
+    "full_name": "Constantin Schomburg",
+    "username": "xconstruct",
+    "location": "",
+    "join_date": "Feb 14, 2009",
+    "popular_repos_stars": "14",
+    "primary_languages": [
+      "Lua",
+      "Go",
+      "Shell"
+    ],
+    "contributions": 122,
+    "followers": "24"
+  },
+  {
+    "url": "https://github.com/Malman",
+    "language": "Lua",
+    "full_name": "",
+    "username": "Malman",
+    "location": "",
+    "join_date": "Aug 1, 2013",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": 0,
+    "followers": "23"
+  },
+  {
+    "url": "https://github.com/Zariel",
+    "language": "Lua",
+    "full_name": "Chris Bannister",
+    "username": "Zariel",
+    "location": "London, United Kingdom",
+    "join_date": "Mar 4, 2008",
+    "popular_repos_stars": "18",
+    "primary_languages": [
+      "Lua",
+      "JavaScript",
+      "Python"
+    ],
+    "contributions": 127,
+    "followers": "23"
+  },
+  {
+    "url": "https://github.com/Foof",
+    "language": "Lua",
+    "full_name": "",
+    "username": "Foof",
+    "location": "Lund, Sweden",
+    "join_date": "Feb 18, 2010",
+    "popular_repos_stars": "11",
+    "primary_languages": [
+      "Lua"
+    ],
+    "contributions": 0,
+    "followers": "23"
+  },
+  {
+    "url": "https://github.com/renstrom",
+    "language": "Lua",
+    "full_name": "Peter Renström",
+    "username": "renstrom",
+    "location": "Uppsala, Sweden",
+    "join_date": "Jan 6, 2010",
+    "popular_repos_stars": "41",
+    "primary_languages": [
+      "Lua",
+      "JavaScript",
+      "CSS"
+    ],
+    "contributions": 120,
+    "followers": "23"
+  },
+  {
+    "url": "https://github.com/culurciello",
+    "language": "Lua",
+    "full_name": "Eugenio Culurciello",
+    "username": "culurciello",
+    "location": "",
+    "join_date": "Aug 26, 2011",
+    "popular_repos_stars": "5",
+    "primary_languages": [
+      "Lua",
+      "C",
+      "C"
+    ],
+    "contributions": 25,
+    "followers": "23"
+  },
+  {
+    "url": "https://github.com/Adirelle",
+    "language": "Lua",
+    "full_name": "",
+    "username": "Adirelle",
+    "location": "Lyon, France",
+    "join_date": "Sep 15, 2008",
+    "popular_repos_stars": "24",
+    "primary_languages": [
+      "Lua",
+      "TeX",
+      "Ruby"
+    ],
+    "contributions": 1,
+    "followers": "23"
+  },
+  {
+    "url": "https://github.com/evl",
+    "language": "Lua",
+    "full_name": "Evl",
+    "username": "evl",
+    "location": "",
+    "join_date": "Oct 15, 2009",
+    "popular_repos_stars": "22",
+    "primary_languages": [
+      "Lua",
+      "JavaScript"
+    ],
+    "contributions": 0,
+    "followers": "22"
+  },
+  {
+    "url": "https://github.com/gg-ansca",
+    "language": "Lua",
+    "full_name": "",
+    "username": "gg-ansca",
+    "location": "",
+    "join_date": "Aug 22, 2010",
+    "popular_repos_stars": "8",
+    "primary_languages": [
+      "Lua"
+    ],
+    "contributions": 0,
+    "followers": "22"
+  },
+  {
+    "url": "https://github.com/GloryFish",
+    "language": "Lua",
+    "full_name": "Jay Roberts",
+    "username": "GloryFish",
+    "location": "Raleigh, NC",
+    "join_date": "Jun 12, 2009",
+    "popular_repos_stars": "65",
+    "primary_languages": [
+      "Lua",
+      "Python",
+      "Shell"
+    ],
+    "contributions": 5,
+    "followers": "22"
+  }
+]

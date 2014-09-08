@@ -31,7 +31,7 @@
   },
   {
     "url": "https://github.com/dancingrobot84/bro",
-    "size": 708,
+    "size": 720,
     "language": "PureScript"
   },
   {
@@ -75,6 +75,11 @@
     "language": "PureScript"
   },
   {
+    "url": "https://github.com/purescript-contrib/purescript-virtual-dom",
+    "size": 143,
+    "language": "PureScript"
+  },
+  {
     "url": "https://github.com/purescript/purescript-quickcheck",
     "size": 535,
     "language": "PureScript"
@@ -87,11 +92,6 @@
   {
     "url": "https://github.com/purescript/purescript-foreign",
     "size": 702,
-    "language": "PureScript"
-  },
-  {
-    "url": "https://github.com/purescript-contrib/purescript-virtual-dom",
-    "size": 143,
     "language": "PureScript"
   },
   {

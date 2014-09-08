@@ -6,7 +6,7 @@
   },
   {
     "url": "https://github.com/limetext/lime",
-    "size": 7476,
+    "size": 7428,
     "language": "Go"
   },
   {
@@ -35,13 +35,13 @@
     "language": "Go"
   },
   {
-    "url": "https://github.com/revel/revel",
-    "size": 10817,
+    "url": "https://github.com/gogits/gogs",
+    "size": 20022,
     "language": "Go"
   },
   {
-    "url": "https://github.com/gogits/gogs",
-    "size": 20022,
+    "url": "https://github.com/revel/revel",
+    "size": 10817,
     "language": "Go"
   },
   {

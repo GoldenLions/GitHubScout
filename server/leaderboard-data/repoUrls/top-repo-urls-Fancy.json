@@ -35,13 +35,13 @@
     "language": "Fancy"
   },
   {
-    "url": "https://github.com/fancy-lang/fake",
-    "size": 180,
+    "url": "https://github.com/nuclearsandwich/fanciful_meanderings",
+    "size": 92,
     "language": "Fancy"
   },
   {
-    "url": "https://github.com/nuclearsandwich/fanciful_meanderings",
-    "size": 92,
+    "url": "https://github.com/fancy-lang/fake",
+    "size": 180,
     "language": "Fancy"
   },
   {
@@ -60,11 +60,6 @@
     "language": "Fancy"
   },
   {
-    "url": "https://github.com/bakkdoor/fancy_irc",
-    "size": 188,
-    "language": "Fancy"
-  },
-  {
     "url": "https://github.com/bakkdoor/fancywiki",
     "size": 113,
     "language": "Fancy"
@@ -72,6 +67,11 @@
   {
     "url": "https://github.com/bakkdoor/fyzmq",
     "size": 96,
+    "language": "Fancy"
+  },
+  {
+    "url": "https://github.com/bakkdoor/fancy_irc",
+    "size": 188,
     "language": "Fancy"
   },
   {

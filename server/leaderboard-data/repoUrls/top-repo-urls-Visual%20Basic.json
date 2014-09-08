@@ -70,14 +70,14 @@
     "language": "Emacs Lisp"
   },
   {
-    "url": "https://github.com/owensd/json-swift",
-    "size": 804,
-    "language": "Swift"
-  },
-  {
     "url": "https://github.com/playgameservices/android-basic-samples",
     "size": 3487,
     "language": "Java"
+  },
+  {
+    "url": "https://github.com/owensd/json-swift",
+    "size": 804,
+    "language": "Swift"
   },
   {
     "url": "https://github.com/dirkaholic/vagrant-php-dev-box",
@@ -96,7 +96,7 @@
   },
   {
     "url": "https://github.com/zack-bitcoin/basiccoin",
-    "size": 1567,
+    "size": 1627,
     "language": "Python"
   }
 ]

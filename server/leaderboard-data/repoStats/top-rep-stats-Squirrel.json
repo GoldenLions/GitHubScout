@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/electricimp/reference",
+    "size": 4611,
+    "language": "Squirrel",
+    "commits": "427",
+    "stars": "58",
+    "forks": "29",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/hephaestus9/Power_Monitor",
+    "size": 8783,
+    "language": "Squirrel",
+    "commits": "28",
+    "stars": "24",
+    "forks": "8",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/beardedinventor/electricimp",
+    "size": 674,
+    "language": "Squirrel",
+    "commits": "56",
+    "stars": "21",
+    "forks": "12",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/tombrew/ei-fw-tom",
+    "size": 1722,
+    "language": "Squirrel",
+    "commits": "184",
+    "stars": "18",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/beardedinventor/ISS-Overhead",
+    "size": 321,
+    "language": "Squirrel",
+    "commits": "17",
+    "stars": "7",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/stanleyseow/electricimp-nRF24L01",
+    "size": 176,
+    "language": "Squirrel",
+    "commits": "16",
+    "stars": "7",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/simutrans/pak128",
+    "size": 487877,
+    "language": "Squirrel",
+    "commits": "370",
+    "stars": "6",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/newrelic/futurestack_badge",
+    "size": 156,
+    "language": "Squirrel",
+    "commits": "12",
+    "stars": "6",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/firebase/ElectricImpDemo",
+    "size": 191,
+    "language": "Squirrel",
+    "commits": "11",
+    "stars": "5",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/sparkfun/Wimp_Weather_Station",
+    "size": 182,
+    "language": "Squirrel",
+    "commits": "10",
+    "stars": "5",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/tombrew/flowbright",
+    "size": 902,
+    "language": "Squirrel",
+    "commits": "51",
+    "stars": "5",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/joel-wehr/electric_imp_security_system",
+    "size": 101,
+    "language": "Squirrel",
+    "commits": "9",
+    "stars": "5",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/beardedinventor/ElectricImp-SkyNet",
+    "size": 156,
+    "language": "Squirrel",
+    "commits": "4",
+    "stars": "4",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/joel-wehr/Tutorial_Electric_Imp_MAX31855",
+    "size": 132,
+    "language": "Squirrel",
+    "commits": "13",
+    "stars": "4",
+    "forks": "1",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/MinchinWeb/openttd-wmdot",
+    "size": 432,
+    "language": "Squirrel",
+    "commits": "35",
+    "stars": "4",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/mkoniecz/AIAI",
+    "size": 664,
+    "language": "Squirrel",
+    "commits": "195",
+    "stars": "4",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/beardedinventor/TinyPrinter",
+    "size": 128,
+    "language": "Squirrel",
+    "commits": "6",
+    "stars": "4",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/mezelve/Eureka",
+    "size": 652,
+    "language": "Squirrel",
+    "commits": "6",
+    "stars": "4",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/sparkfun/Tomatoless_Boots",
+    "size": 168,
+    "language": "Squirrel",
+    "commits": "6",
+    "stars": "4",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/MinchinWeb/openttd-metalibrary",
+    "size": 1816,
+    "language": "Squirrel",
+    "commits": "93",
+    "stars": "3",
+    "forks": "0",
+    "contributors": ""
+  }
+]

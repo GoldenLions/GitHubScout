@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/robbyrussell/oh-my-zsh",
+    "size": 29345,
+    "language": "Shell",
+    "commits": "2,774",
+    "stars": "18,379",
+    "forks": "6,189",
+    "contributors": "674"
+  },
+  {
+    "url": "https://github.com/nvie/gitflow",
+    "size": 5706,
+    "language": "Shell",
+    "commits": "401",
+    "stars": "9,722",
+    "forks": "1,134",
+    "contributors": "37"
+  },
+  {
+    "url": "https://github.com/xdissent/ievms",
+    "size": 927,
+    "language": "Shell",
+    "commits": "106",
+    "stars": "7,484",
+    "forks": "345",
+    "contributors": "14"
+  },
+  {
+    "url": "https://github.com/progrium/dokku",
+    "size": 6765,
+    "language": "Shell",
+    "commits": "516",
+    "stars": "6,924",
+    "forks": "569",
+    "contributors": "67"
+  },
+  {
+    "url": "https://github.com/yeoman/yeoman",
+    "size": 32131,
+    "language": "Shell",
+    "commits": "1,073",
+    "stars": "6,223",
+    "forks": "606",
+    "contributors": "69"
+  },
+  {
+    "url": "https://github.com/sstephenson/rbenv",
+    "size": 5142,
+    "language": "Shell",
+    "commits": "415",
+    "stars": "5,479",
+    "forks": "488",
+    "contributors": "59"
+  },
+  {
+    "url": "https://github.com/adobe-fonts/source-code-pro",
+    "size": 14661,
+    "language": "Shell",
+    "commits": "59",
+    "stars": "4,635",
+    "forks": "408",
+    "contributors": "10"
+  },
+  {
+    "url": "https://github.com/creationix/nvm",
+    "size": 5370,
+    "language": "Shell",
+    "commits": "664",
+    "stars": "4,278",
+    "forks": "459",
+    "contributors": "91"
+  },
+  {
+    "url": "https://github.com/visionmedia/git-extras",
+    "size": 1987,
+    "language": "Shell",
+    "commits": "498",
+    "stars": "4,212",
+    "forks": "317",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/jedi4ever/veewee",
+    "size": 10669,
+    "language": "Shell",
+    "commits": "2,103",
+    "stars": "3,348",
+    "forks": "789",
+    "contributors": "257"
+  },
+  {
+    "url": "https://github.com/holman/spark",
+    "size": 2114,
+    "language": "Shell",
+    "commits": "77",
+    "stars": "3,298",
+    "forks": "185",
+    "contributors": "20"
+  },
+  {
+    "url": "https://github.com/alrra/browser-logos",
+    "size": 189405,
+    "language": "Shell",
+    "commits": "270",
+    "stars": "3,092",
+    "forks": "207",
+    "contributors": "14"
+  },
+  {
+    "url": "https://github.com/boot2docker/boot2docker",
+    "size": 5920,
+    "language": "Shell",
+    "commits": "551",
+    "stars": "3,042",
+    "forks": "242",
+    "contributors": "63"
+  },
+  {
+    "url": "https://github.com/rupa/z",
+    "size": 1368,
+    "language": "Shell",
+    "commits": "167",
+    "stars": "2,976",
+    "forks": "273",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/wayneeseguin/rvm",
+    "size": 40873,
+    "language": "Shell",
+    "commits": "10,030",
+    "stars": "2,730",
+    "forks": "701",
+    "contributors": "401"
+  },
+  {
+    "url": "https://github.com/sorin-ionescu/prezto",
+    "size": 8391,
+    "language": "Shell",
+    "commits": "1,388",
+    "stars": "2,716",
+    "forks": "1,184",
+    "contributors": "161"
+  },
+  {
+    "url": "https://github.com/holman/dotfiles",
+    "size": 12114,
+    "language": "Shell",
+    "commits": "461",
+    "stars": "2,493",
+    "forks": "1,534",
+    "contributors": "48"
+  },
+  {
+    "url": "https://github.com/andreafabrizi/Dropbox-Uploader",
+    "size": 1923,
+    "language": "Shell",
+    "commits": "217",
+    "stars": "2,367",
+    "forks": "376",
+    "contributors": "13"
+  },
+  {
+    "url": "https://github.com/revans/bash-it",
+    "size": 43905,
+    "language": "Shell",
+    "commits": "688",
+    "stars": "2,285",
+    "forks": "597",
+    "contributors": "75"
+  },
+  {
+    "url": "https://github.com/dnschneid/crouton",
+    "size": 11413,
+    "language": "Shell",
+    "commits": "936",
+    "stars": "1,939",
+    "forks": "203",
+    "contributors": "17"
+  }
+]

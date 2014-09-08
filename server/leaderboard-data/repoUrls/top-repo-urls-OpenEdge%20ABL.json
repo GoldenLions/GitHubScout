@@ -35,11 +35,6 @@
     "language": "OpenEdge ABL"
   },
   {
-    "url": "https://github.com/Jimbobnz/ABL-XLSX-Writer",
-    "size": 436,
-    "language": "OpenEdge ABL"
-  },
-  {
     "url": "https://github.com/Jimbobnz/ABL-URL-Handler",
     "size": 148,
     "language": "OpenEdge ABL"
@@ -47,6 +42,11 @@
   {
     "url": "https://github.com/Jimbobnz/ABL-XLSX-Reader",
     "size": 144,
+    "language": "OpenEdge ABL"
+  },
+  {
+    "url": "https://github.com/Jimbobnz/ABL-XLSX-Writer",
+    "size": 436,
     "language": "OpenEdge ABL"
   },
   {

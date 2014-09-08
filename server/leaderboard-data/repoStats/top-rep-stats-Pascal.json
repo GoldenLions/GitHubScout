@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/prof7bit/TorChat",
+    "size": 3971,
+    "language": "Pascal",
+    "commits": "482",
+    "stars": "386",
+    "forks": "126",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/jrsoftware/issrc",
+    "size": 5551,
+    "language": "Pascal",
+    "commits": "583",
+    "stars": "286",
+    "forks": "102",
+    "contributors": "13"
+  },
+  {
+    "url": "https://github.com/Prithvirajbilla/helloworld",
+    "size": 991,
+    "language": "Pascal",
+    "commits": "146",
+    "stars": "134",
+    "forks": "29",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/project-jedi/jcl",
+    "size": 87102,
+    "language": "Pascal",
+    "commits": "5,842",
+    "stars": "100",
+    "forks": "70",
+    "contributors": "12"
+  },
+  {
+    "url": "https://github.com/googleapi/googleapi",
+    "size": 3880,
+    "language": "Pascal",
+    "commits": "116",
+    "stars": "81",
+    "forks": "38",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/MerlijnWajer/Simba",
+    "size": 57732,
+    "language": "Pascal",
+    "commits": "2,622",
+    "stars": "80",
+    "forks": "42",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/project-jedi/jvcl",
+    "size": 117516,
+    "language": "Pascal",
+    "commits": "13,629",
+    "stars": "79",
+    "forks": "56",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/VSoftTechnologies/Delphi-Mocks",
+    "size": 1236,
+    "language": "Pascal",
+    "commits": "121",
+    "stars": "78",
+    "forks": "34",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/graemeg/lazarus",
+    "size": 276005,
+    "language": "Pascal",
+    "commits": "44,249",
+    "stars": "76",
+    "forks": "14",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/silvioprog/brookframework",
+    "size": 11812,
+    "language": "Pascal",
+    "commits": "623",
+    "stars": "74",
+    "forks": "16",
+    "contributors": "4"
+  },
+  {
+    "url": "https://github.com/VSoftTechnologies/DUnitX",
+    "size": 9753,
+    "language": "Pascal",
+    "commits": "290",
+    "stars": "74",
+    "forks": "42",
+    "contributors": "14"
+  },
+  {
+    "url": "https://github.com/graemeg/freepascal",
+    "size": 149154,
+    "language": "Pascal",
+    "commits": "22,457",
+    "stars": "70",
+    "forks": "25",
+    "contributors": "4"
+  },
+  {
+    "url": "https://github.com/remobjects/pascalscript",
+    "size": 2225,
+    "language": "Pascal",
+    "commits": "381",
+    "stars": "63",
+    "forks": "37",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/fabriciocolombo/delphi-rest-client-api",
+    "size": 1305,
+    "language": "Pascal",
+    "commits": "106",
+    "stars": "60",
+    "forks": "36",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/badsector/dcpustud",
+    "size": 2059,
+    "language": "Pascal",
+    "commits": "35",
+    "stars": "56",
+    "forks": "4",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/libgit2/GitForDelphi",
+    "size": 1062,
+    "language": "Pascal",
+    "commits": "52",
+    "stars": "55",
+    "forks": "15",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/Laex/Delphi-OpenCV",
+    "size": 277701,
+    "language": "Pascal",
+    "commits": "416",
+    "stars": "52",
+    "forks": "37",
+    "contributors": "3"
+  },
+  {
+    "url": "https://github.com/NilsHoyer/MySQL-Front",
+    "size": 14919,
+    "language": "Pascal",
+    "commits": "715",
+    "stars": "52",
+    "forks": "31",
+    "contributors": "4"
+  },
+  {
+    "url": "https://github.com/stijnsanders/TMongoWire",
+    "size": 1182,
+    "language": "Pascal",
+    "commits": "82",
+    "stars": "44",
+    "forks": "13",
+    "contributors": "3"
+  },
+  {
+    "url": "https://github.com/rgl/elasticsearch-setup",
+    "size": 893,
+    "language": "Pascal",
+    "commits": "58",
+    "stars": "36",
+    "forks": "2",
+    "contributors": "2"
+  }
+]

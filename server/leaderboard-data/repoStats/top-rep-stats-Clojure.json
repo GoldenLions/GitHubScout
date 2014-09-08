@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/LightTable/LightTable",
+    "size": 31350,
+    "language": "Clojure",
+    "commits": "680",
+    "stars": "6,368",
+    "forks": "548",
+    "contributors": "52"
+  },
+  {
+    "url": "https://github.com/technomancy/leiningen",
+    "size": 21230,
+    "language": "Clojure",
+    "commits": "3,740",
+    "stars": "3,431",
+    "forks": "633",
+    "contributors": "227"
+  },
+  {
+    "url": "https://github.com/clojure/clojurescript",
+    "size": 14035,
+    "language": "Clojure",
+    "commits": "2,328",
+    "stars": "3,391",
+    "forks": "314",
+    "contributors": "85"
+  },
+  {
+    "url": "https://github.com/swannodette/om",
+    "size": 10212,
+    "language": "Clojure",
+    "commits": "559",
+    "stars": "2,633",
+    "forks": "123",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/weavejester/compojure",
+    "size": 9873,
+    "language": "Clojure",
+    "commits": "813",
+    "stars": "2,195",
+    "forks": "159",
+    "contributors": "25"
+  },
+  {
+    "url": "https://github.com/overtone/overtone",
+    "size": 16683,
+    "language": "Clojure",
+    "commits": "2,917",
+    "stars": "1,920",
+    "forks": "203",
+    "contributors": "34"
+  },
+  {
+    "url": "https://github.com/functional-koans/clojure-koans",
+    "size": 964,
+    "language": "Clojure",
+    "commits": "268",
+    "stars": "1,767",
+    "forks": "998",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/aphyr/riemann",
+    "size": 10273,
+    "language": "Clojure",
+    "commits": "1,046",
+    "stars": "1,640",
+    "forks": "244",
+    "contributors": "63"
+  },
+  {
+    "url": "https://github.com/incanter/incanter",
+    "size": 48762,
+    "language": "Clojure",
+    "commits": "1,256",
+    "stars": "1,305",
+    "forks": "213",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/ztellman/aleph",
+    "size": 14789,
+    "language": "Clojure",
+    "commits": "667",
+    "stars": "1,130",
+    "forks": "76",
+    "contributors": "24"
+  },
+  {
+    "url": "https://github.com/pedestal/pedestal",
+    "size": 5489,
+    "language": "Clojure",
+    "commits": "816",
+    "stars": "1,128",
+    "forks": "114",
+    "contributors": "36"
+  },
+  {
+    "url": "https://github.com/nathanmarz/cascalog",
+    "size": 7212,
+    "language": "Clojure",
+    "commits": "1,128",
+    "stars": "1,093",
+    "forks": "156",
+    "contributors": "35"
+  },
+  {
+    "url": "https://github.com/quil/quil",
+    "size": 26055,
+    "language": "Clojure",
+    "commits": "801",
+    "stars": "1,045",
+    "forks": "77",
+    "contributors": "23"
+  },
+  {
+    "url": "https://github.com/swannodette/mori",
+    "size": 1826,
+    "language": "Clojure",
+    "commits": "244",
+    "stars": "1,025",
+    "forks": "54",
+    "contributors": "18"
+  },
+  {
+    "url": "https://github.com/Prismatic/plumbing",
+    "size": 1842,
+    "language": "Clojure",
+    "commits": "206",
+    "stars": "981",
+    "forks": "64",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/magomimmo/modern-cljs",
+    "size": 8327,
+    "language": "Clojure",
+    "commits": "983",
+    "stars": "942",
+    "forks": "107",
+    "contributors": "40"
+  },
+  {
+    "url": "https://github.com/clojure-cookbook/clojure-cookbook",
+    "size": 17312,
+    "language": "Clojure",
+    "commits": "1,838",
+    "stars": "942",
+    "forks": "221",
+    "contributors": "88"
+  },
+  {
+    "url": "https://github.com/cgrand/enlive",
+    "size": 3761,
+    "language": "Clojure",
+    "commits": "312",
+    "stars": "930",
+    "forks": "113",
+    "contributors": "20"
+  },
+  {
+    "url": "https://github.com/weavejester/hiccup",
+    "size": 2026,
+    "language": "Clojure",
+    "commits": "229",
+    "stars": "896",
+    "forks": "92",
+    "contributors": "22"
+  },
+  {
+    "url": "https://github.com/mmcgrana/ring",
+    "size": 9009,
+    "language": "Clojure",
+    "commits": "408",
+    "stars": "880",
+    "forks": "233",
+    "contributors": "28"
+  }
+]

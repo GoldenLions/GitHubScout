@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/parallella/parallella-hw",
+    "size": 69569,
+    "language": "Verilog",
+    "commits": "95",
+    "stars": "195",
+    "forks": "74",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/kramble/FPGA-Litecoin-Miner",
+    "size": 914,
+    "language": "Verilog",
+    "commits": "56",
+    "stars": "108",
+    "forks": "53",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/m-labs/milkymist",
+    "size": 34543,
+    "language": "Verilog",
+    "commits": "1,108",
+    "stars": "69",
+    "forks": "19",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/marmolejo/zet",
+    "size": 4921,
+    "language": "Verilog",
+    "commits": "254",
+    "stars": "69",
+    "forks": "22",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/zhemao/ez8",
+    "size": 394,
+    "language": "OCaml",
+    "commits": "124",
+    "stars": "65",
+    "forks": "6",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/mossmann/daisho",
+    "size": 7256,
+    "language": "Verilog",
+    "commits": "290",
+    "stars": "61",
+    "forks": "22",
+    "contributors": "5"
+  },
+  {
+    "url": "https://github.com/ngzhang/Icarus",
+    "size": 41174,
+    "language": "Verilog",
+    "commits": "54",
+    "stars": "56",
+    "forks": "31",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/EttusResearch/uhd",
+    "size": 106513,
+    "language": "Verilog",
+    "commits": "4,779",
+    "stars": "50",
+    "forks": "65",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/tommythorn/Reduceron",
+    "size": 5358,
+    "language": "Verilog",
+    "commits": "191",
+    "stars": "39",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/teknohog/Xilinx-Serial-Miner",
+    "size": 128,
+    "language": "Verilog",
+    "commits": "10",
+    "stars": "38",
+    "forks": "9",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/openrisc/mor1kx",
+    "size": 2942,
+    "language": "Verilog",
+    "commits": "522",
+    "stars": "37",
+    "forks": "24",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/andrejbauer/Homotopy",
+    "size": 331,
+    "language": "Verilog",
+    "commits": "28",
+    "stars": "33",
+    "forks": "6",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/Arlet/verilog-6502",
+    "size": 109,
+    "language": "Verilog",
+    "commits": "13",
+    "stars": "32",
+    "forks": "12",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/NetFPGA/netfpga",
+    "size": 10637,
+    "language": "Verilog",
+    "commits": "421",
+    "stars": "32",
+    "forks": "38",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/maidenone/ORGFXSoC",
+    "size": 3233,
+    "language": "Verilog",
+    "commits": "7",
+    "stars": "31",
+    "forks": "8",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/m-labs/lm32",
+    "size": 448,
+    "language": "Verilog",
+    "commits": "57",
+    "stars": "30",
+    "forks": "12",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/brianbennett/fpga_nes",
+    "size": 2050,
+    "language": "Verilog",
+    "commits": "172",
+    "stars": "28",
+    "forks": "11",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/sybreon/dcpu16",
+    "size": 363,
+    "language": "Verilog",
+    "commits": "54",
+    "stars": "27",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/opencpi/opencpi",
+    "size": 63502,
+    "language": "Verilog",
+    "commits": "603",
+    "stars": "23",
+    "forks": "6",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/alfikpl/ao68000",
+    "size": 1596,
+    "language": "Verilog",
+    "commits": "9",
+    "stars": "21",
+    "forks": "6",
+    "contributors": ""
+  }
+]

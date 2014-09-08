@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/sitaramc/gitolite",
+    "size": 7224,
+    "language": "Perl",
+    "commits": "465",
+    "stars": "4,962",
+    "forks": "519",
+    "contributors": "27"
+  },
+  {
+    "url": "https://github.com/coreyti/showdown",
+    "size": 342,
+    "language": "Perl",
+    "commits": "122",
+    "stars": "2,069",
+    "forks": "477",
+    "contributors": "11"
+  },
+  {
+    "url": "https://github.com/major/MySQLTuner-perl",
+    "size": 760,
+    "language": "Perl",
+    "commits": "116",
+    "stars": "1,673",
+    "forks": "385",
+    "contributors": "12"
+  },
+  {
+    "url": "https://github.com/kraih/mojo",
+    "size": 50491,
+    "language": "Perl",
+    "commits": "8,601",
+    "stars": "1,318",
+    "forks": "289",
+    "contributors": "72"
+  },
+  {
+    "url": "https://github.com/tobie/ua-parser",
+    "size": 7545,
+    "language": "Perl",
+    "commits": "885",
+    "stars": "1,212",
+    "forks": "351",
+    "contributors": "65"
+  },
+  {
+    "url": "https://github.com/openresty/lua-nginx-module",
+    "size": 21306,
+    "language": "Perl",
+    "commits": "2,675",
+    "stars": "1,203",
+    "forks": "266",
+    "contributors": "21"
+  },
+  {
+    "url": "https://github.com/rails/rails-dev-box",
+    "size": 668,
+    "language": "Perl",
+    "commits": "78",
+    "stars": "1,095",
+    "forks": "363",
+    "contributors": "24"
+  },
+  {
+    "url": "https://github.com/onyxfish/csvkit",
+    "size": 22478,
+    "language": "Perl",
+    "commits": "821",
+    "stars": "936",
+    "forks": "154",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/petdance/ack",
+    "size": 2474,
+    "language": "Perl",
+    "commits": "1,012",
+    "stars": "884",
+    "forks": "102",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/creaktive/rainbarf",
+    "size": 804,
+    "language": "Perl",
+    "commits": "149",
+    "stars": "851",
+    "forks": "61",
+    "contributors": "9"
+  },
+  {
+    "url": "https://github.com/prey/prey-bash-client",
+    "size": 18545,
+    "language": "Perl",
+    "commits": "1,259",
+    "stars": "829",
+    "forks": "134",
+    "contributors": "12"
+  },
+  {
+    "url": "https://github.com/lulzlabs/AirChat",
+    "size": 919,
+    "language": "Perl",
+    "commits": "10",
+    "stars": "773",
+    "forks": "104",
+    "contributors": "4"
+  },
+  {
+    "url": "https://github.com/k4rthik/git-cal",
+    "size": 451,
+    "language": "Perl",
+    "commits": "89",
+    "stars": "753",
+    "forks": "42",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/munin-monitoring/contrib",
+    "size": 8181,
+    "language": "Perl",
+    "commits": "2,403",
+    "stars": "723",
+    "forks": "427",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/petdance/ack2",
+    "size": 4829,
+    "language": "Perl",
+    "commits": "1,640",
+    "stars": "704",
+    "forks": "81",
+    "contributors": "36"
+  },
+  {
+    "url": "https://github.com/PerlDancer/Dancer",
+    "size": 14727,
+    "language": "Perl",
+    "commits": "4,892",
+    "stars": "693",
+    "forks": "230",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/openresty/ngx_openresty",
+    "size": 4952,
+    "language": "Perl",
+    "commits": "860",
+    "stars": "676",
+    "forks": "105",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/brendangregg/FlameGraph",
+    "size": 1245,
+    "language": "Perl",
+    "commits": "84",
+    "stars": "645",
+    "forks": "75",
+    "contributors": "11"
+  },
+  {
+    "url": "https://github.com/openresty/nginx-tutorials",
+    "size": 920,
+    "language": "Perl",
+    "commits": "177",
+    "stars": "614",
+    "forks": "104",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/duckduckgo/duckduckgo",
+    "size": 6220,
+    "language": "Perl",
+    "commits": "415",
+    "stars": "607",
+    "forks": "86",
+    "contributors": "20"
+  }
+]

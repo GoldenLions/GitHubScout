@@ -30,13 +30,13 @@
     "language": "OCaml"
   },
   {
-    "url": "https://github.com/mirage/mirage",
-    "size": 26806,
+    "url": "https://github.com/artagnon/rhine",
+    "size": 1336,
     "language": "OCaml"
   },
   {
-    "url": "https://github.com/artagnon/rhine",
-    "size": 1336,
+    "url": "https://github.com/mirage/mirage",
+    "size": 26806,
     "language": "OCaml"
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "url": "https://github.com/the-lambda-church/merlin",
-    "size": 16390,
+    "size": 16281,
     "language": "OCaml"
   },
   {

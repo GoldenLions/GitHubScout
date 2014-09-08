@@ -21,7 +21,7 @@
   },
   {
     "url": "https://github.com/timjb/quantities",
-    "size": 1149,
+    "size": 1150,
     "language": "Idris"
   },
   {
@@ -90,13 +90,13 @@
     "language": "Idris"
   },
   {
-    "url": "https://github.com/reynir/Verified",
-    "size": 176,
+    "url": "https://github.com/stepcut/idris-blink",
+    "size": 116,
     "language": "Idris"
   },
   {
-    "url": "https://github.com/stepcut/idris-blink",
-    "size": 116,
+    "url": "https://github.com/reynir/Verified",
+    "size": 176,
     "language": "Idris"
   }
 ]
