@@ -28,7 +28,7 @@
       "C",
       "Python"
     ],
-    "contributions": 1,
+    "contributions": 1152,
     "followers": "193"
   },
   {
@@ -44,7 +44,7 @@
       "Shell",
       "Haskell"
     ],
-    "contributions": 1,
+    "contributions": 1048,
     "followers": "109"
   },
   {
@@ -76,7 +76,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1116,
     "followers": "103"
   },
   {
@@ -92,7 +92,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1031,
     "followers": "100"
   },
   {
@@ -108,7 +108,7 @@
       "Scheme",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1139,
     "followers": "95"
   },
   {
@@ -156,7 +156,7 @@
       "Shell",
       "CSS"
     ],
-    "contributions": 1,
+    "contributions": 1216,
     "followers": "64"
   },
   {
@@ -205,7 +205,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 733,
+    "contributions": 734,
     "followers": "54"
   },
   {
@@ -300,7 +300,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1044,
     "followers": "32"
   },
   {
@@ -582,7 +582,7 @@
     "username": "ntoronto",
     "location": "",
     "join_date": "Nov 19, 2010",
-    "popular_repos_stars": "28",
+    "popular_repos_stars": "29",
     "primary_languages": [
       "Racket",
       "Shell",

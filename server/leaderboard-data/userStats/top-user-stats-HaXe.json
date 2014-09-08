@@ -12,7 +12,7 @@
       "CSS",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1390,
     "followers": "230"
   },
   {
@@ -28,7 +28,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 2,
+    "contributions": 2969,
     "followers": "209"
   },
   {
@@ -200,10 +200,10 @@
     "popular_repos_stars": "81",
     "primary_languages": [
       "Haxe",
-      "CSS",
-      "Shell"
+      "Shell",
+      "CSS"
     ],
-    "contributions": 2,
+    "contributions": 2872,
     "followers": "63"
   },
   {
@@ -251,7 +251,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1098,
     "followers": "57"
   },
   {
@@ -604,7 +604,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1292,
     "followers": "24"
   },
   {
@@ -620,7 +620,7 @@
       "CSS",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1011,
     "followers": "24"
   },
   {
@@ -652,7 +652,7 @@
       "Groovy",
       "Haxe"
     ],
-    "contributions": 606,
+    "contributions": 614,
     "followers": "24"
   },
   {
@@ -795,7 +795,7 @@
       "Go",
       "Shell"
     ],
-    "contributions": 576,
+    "contributions": 577,
     "followers": "20"
   },
   {
@@ -1580,7 +1580,7 @@
     "username": "ianmart1n",
     "location": "",
     "join_date": "May 2, 2013",
-    "popular_repos_stars": "27755",
+    "popular_repos_stars": "27756",
     "primary_languages": [],
     "contributions": 15,
     "followers": "8"

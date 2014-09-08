@@ -12,7 +12,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 2,
+    "contributions": 2188,
     "followers": "2.1k"
   },
   {
@@ -60,7 +60,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 2,
+    "contributions": 2376,
     "followers": "799"
   },
   {
@@ -76,7 +76,7 @@
       "Perl",
       "VimL"
     ],
-    "contributions": 3,
+    "contributions": 3887,
     "followers": "757"
   },
   {
@@ -89,10 +89,10 @@
     "popular_repos_stars": "500",
     "primary_languages": [
       "Perl",
-      "JavaScript",
-      "C"
+      "C",
+      "JavaScript"
     ],
-    "contributions": 2,
+    "contributions": 2449,
     "followers": "546"
   },
   {
@@ -122,9 +122,9 @@
     "primary_languages": [
       "Perl",
       "Java",
-      "Groovy"
+      "C"
     ],
-    "contributions": 1,
+    "contributions": 1062,
     "followers": "405"
   },
   {
@@ -137,8 +137,8 @@
     "popular_repos_stars": "94",
     "primary_languages": [
       "Perl",
-      "JavaScript",
-      "CSS"
+      "CSS",
+      "JavaScript"
     ],
     "contributions": 352,
     "followers": "401"
@@ -173,7 +173,7 @@
       "JavaScript",
       "Java"
     ],
-    "contributions": 1,
+    "contributions": 1867,
     "followers": "370"
   },
   {
@@ -189,7 +189,7 @@
       "Shell",
       "Ruby"
     ],
-    "contributions": 3,
+    "contributions": 3223,
     "followers": "357"
   },
   {
@@ -237,7 +237,7 @@
       "Perl",
       "CSS"
     ],
-    "contributions": 2,
+    "contributions": 2355,
     "followers": "320"
   },
   {
@@ -279,7 +279,7 @@
     "username": "brendangregg",
     "location": "",
     "join_date": "Oct 4, 2011",
-    "popular_repos_stars": "1421",
+    "popular_repos_stars": "1422",
     "primary_languages": [
       "Shell",
       "Perl",
@@ -317,7 +317,7 @@
       "Go",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1609,
     "followers": "297"
   },
   {
@@ -333,7 +333,7 @@
       "Shell",
       "DOT"
     ],
-    "contributions": 23,
+    "contributions": 23739,
     "followers": "293"
   },
   {
@@ -382,7 +382,7 @@
       "Shell",
       "CSS"
     ],
-    "contributions": 2,
+    "contributions": 2312,
     "followers": "272"
   },
   {
@@ -428,7 +428,7 @@
     "primary_languages": [
       "Perl",
       "Shell",
-      "JavaScript"
+      "C"
     ],
     "contributions": 89,
     "followers": "251"
@@ -492,7 +492,7 @@
     "primary_languages": [
       "Perl",
       "JavaScript",
-      "C"
+      "CSS"
     ],
     "contributions": 334,
     "followers": "226"
@@ -510,7 +510,7 @@
       "Ruby",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1037,
     "followers": "226"
   },
   {
@@ -570,7 +570,9 @@
     "join_date": "Jun 13, 2008",
     "popular_repos_stars": "10",
     "primary_languages": [
-      "Perl"
+      "Perl",
+      "CSS",
+      "JavaScript"
     ],
     "contributions": 0,
     "followers": "213"
@@ -618,9 +620,8 @@
     "popular_repos_stars": "74",
     "primary_languages": [
       "Perl",
-      "JavaScript",
-      "Objective",
-      "C"
+      "CSS",
+      "JavaScript"
     ],
     "contributions": 455,
     "followers": "202"
@@ -670,7 +671,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1067,
     "followers": "181"
   },
   {
@@ -686,7 +687,7 @@
       "Shell",
       "Ruby"
     ],
-    "contributions": 2,
+    "contributions": 2020,
     "followers": "176"
   },
   {
@@ -699,7 +700,8 @@
     "popular_repos_stars": "197",
     "primary_languages": [
       "Perl",
-      "Turing"
+      "CSS",
+      "JavaScript"
     ],
     "contributions": 3,
     "followers": "175"
@@ -715,7 +717,7 @@
     "primary_languages": [
       "Perl",
       "Python",
-      "JavaScript"
+      "Shell"
     ],
     "contributions": 27,
     "followers": "173"
@@ -747,7 +749,7 @@
     "primary_languages": [
       "Perl",
       "Shell",
-      "C"
+      "XSLT"
     ],
     "contributions": 386,
     "followers": "171"
@@ -762,8 +764,8 @@
     "popular_repos_stars": "26",
     "primary_languages": [
       "Perl",
-      "C",
-      "JavaScript"
+      "CSS",
+      "C"
     ],
     "contributions": 0,
     "followers": "169"
@@ -859,7 +861,7 @@
     "primary_languages": [
       "Perl",
       "Go",
-      "JavaScript"
+      "Shell"
     ],
     "contributions": 200,
     "followers": "160"
@@ -990,7 +992,7 @@
       "Shell",
       "Python"
     ],
-    "contributions": 1,
+    "contributions": 1684,
     "followers": "145"
   },
   {
@@ -1132,8 +1134,8 @@
     "popular_repos_stars": "184",
     "primary_languages": [
       "Perl",
-      "Shell",
-      "JavaScript"
+      "CSS",
+      "Shell"
     ],
     "contributions": 11,
     "followers": "123"
@@ -1152,7 +1154,7 @@
       "Objective",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1182,
     "followers": "123"
   },
   {
@@ -1184,7 +1186,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1668,
     "followers": "122"
   },
   {
@@ -1248,7 +1250,7 @@
       "PHP",
       "Shell"
     ],
-    "contributions": 8,
+    "contributions": 8107,
     "followers": "120"
   },
   {
@@ -1280,7 +1282,7 @@
       "JavaScript",
       "CSS"
     ],
-    "contributions": 2,
+    "contributions": 2773,
     "followers": "119"
   },
   {
@@ -1312,7 +1314,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1539,
     "followers": "117"
   },
   {
@@ -1326,7 +1328,7 @@
     "primary_languages": [
       "Perl",
       "Ruby",
-      "Shell"
+      "C"
     ],
     "contributions": 68,
     "followers": "116"
@@ -1342,9 +1344,9 @@
     "primary_languages": [
       "Perl",
       "CSS",
-      "JavaScript"
+      "Shell"
     ],
-    "contributions": 323,
+    "contributions": 324,
     "followers": "116"
   },
   {
@@ -1376,7 +1378,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 3,
+    "contributions": 3139,
     "followers": "116"
   },
   {
@@ -1421,9 +1423,9 @@
     "popular_repos_stars": "196",
     "primary_languages": [
       "JavaScript",
-      "C",
       "Objective",
-      "C"
+      "C",
+      "CSS"
     ],
     "contributions": 62,
     "followers": "113"
@@ -1471,7 +1473,7 @@
     "primary_languages": [
       "Perl",
       "C",
-      "JavaScript"
+      "Shell"
     ],
     "contributions": 689,
     "followers": "110"
@@ -1489,7 +1491,7 @@
       "Scala",
       "JavaScript"
     ],
-    "contributions": 657,
+    "contributions": 659,
     "followers": "109"
   },
   {
@@ -1502,9 +1504,8 @@
     "popular_repos_stars": "42",
     "primary_languages": [
       "Perl",
-      "C",
-      "Common",
-      "Lisp"
+      "Shell",
+      "C"
     ],
     "contributions": 441,
     "followers": "108"
@@ -1586,7 +1587,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 2,
+    "contributions": 2286,
     "followers": "106"
   },
   {

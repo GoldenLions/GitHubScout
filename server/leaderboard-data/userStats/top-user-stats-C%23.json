@@ -44,7 +44,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1522,
     "followers": "1.3k"
   },
   {
@@ -60,7 +60,7 @@
       "ASP",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1925,
     "followers": "1.1k"
   },
   {
@@ -92,8 +92,8 @@
       "JavaScript",
       "ASP"
     ],
-    "contributions": 1,
-    "followers": "744"
+    "contributions": 1905,
+    "followers": "745"
   },
   {
     "url": "https://github.com/paulcbetts",
@@ -108,7 +108,7 @@
       "Ruby",
       "Shell"
     ],
-    "contributions": 2,
+    "contributions": 2506,
     "followers": "523"
   },
   {
@@ -142,7 +142,7 @@
       "Ruby"
     ],
     "contributions": 259,
-    "followers": "502"
+    "followers": "503"
   },
   {
     "url": "https://github.com/kellabyte",
@@ -167,13 +167,13 @@
     "username": "mythz",
     "location": "New York",
     "join_date": "May 27, 2009",
-    "popular_repos_stars": "1791",
+    "popular_repos_stars": "1792",
     "primary_languages": [
       "C",
       "JavaScript",
       "ASP"
     ],
-    "contributions": 3,
+    "contributions": 3272,
     "followers": "328"
   },
   {
@@ -250,9 +250,9 @@
     "primary_languages": [
       "Python",
       "Shell",
-      "CSS"
+      "Java"
     ],
-    "contributions": 1,
+    "contributions": 1159,
     "followers": "230"
   },
   {
@@ -268,7 +268,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1945,
     "followers": "223"
   },
   {
@@ -300,7 +300,7 @@
       "CSS",
       "CoffeeScript"
     ],
-    "contributions": 2,
+    "contributions": 2366,
     "followers": "213"
   },
   {
@@ -408,7 +408,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 452,
+    "contributions": 453,
     "followers": "185"
   },
   {
@@ -440,7 +440,7 @@
       "PowerShell",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1274,
     "followers": "179"
   },
   {
@@ -569,7 +569,7 @@
       "Java",
       "VimL"
     ],
-    "contributions": 1,
+    "contributions": 1422,
     "followers": "153"
   },
   {
@@ -601,7 +601,7 @@
       "PowerShell",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1447,
     "followers": "150"
   },
   {
@@ -617,7 +617,7 @@
       "JavaScript",
       "CSS"
     ],
-    "contributions": 3,
+    "contributions": 3786,
     "followers": "149"
   },
   {
@@ -649,7 +649,7 @@
       "JavaScript",
       "Ruby"
     ],
-    "contributions": 412,
+    "contributions": 413,
     "followers": "141"
   },
   {
@@ -871,9 +871,9 @@
     "primary_languages": [
       "C",
       "Lua",
-      "TeX"
+      "C"
     ],
-    "contributions": 8,
+    "contributions": 7,
     "followers": "118"
   },
   {
@@ -932,7 +932,7 @@
     "username": "dahlbyk",
     "location": "Cedar Rapids, IA",
     "join_date": "Oct 1, 2009",
-    "popular_repos_stars": "1213",
+    "popular_repos_stars": "1214",
     "primary_languages": [
       "C",
       "JavaScript",
@@ -1121,7 +1121,7 @@
     "username": "JamesNK",
     "location": "Wellington, New Zealand",
     "join_date": "Jun 11, 2010",
-    "popular_repos_stars": "1153",
+    "popular_repos_stars": "1154",
     "primary_languages": [
       "C",
       "PowerShell",
@@ -1192,7 +1192,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 4,
+    "contributions": 4095,
     "followers": "101"
   },
   {
@@ -1428,7 +1428,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 4,
+    "contributions": 4454,
     "followers": "88"
   },
   {
@@ -1444,7 +1444,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 435,
+    "contributions": 436,
     "followers": "88"
   },
   {
@@ -1507,7 +1507,7 @@
       "Shell",
       "CSS"
     ],
-    "contributions": 1,
+    "contributions": 1668,
     "followers": "85"
   },
   {
@@ -1539,7 +1539,7 @@
       "Shell",
       "CSS"
     ],
-    "contributions": 1,
+    "contributions": 1743,
     "followers": "84"
   },
   {

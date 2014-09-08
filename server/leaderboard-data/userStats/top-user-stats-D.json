@@ -28,7 +28,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1135,
     "followers": "172"
   },
   {
@@ -44,7 +44,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1223,
     "followers": "88"
   },
   {
@@ -154,7 +154,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 2,
+    "contributions": 2158,
     "followers": "30"
   },
   {
@@ -202,7 +202,7 @@
       "C",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1071,
     "followers": "29"
   },
   {
@@ -266,7 +266,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1804,
     "followers": "27"
   },
   {
@@ -412,7 +412,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 320,
+    "contributions": 319,
     "followers": "23"
   },
   {
@@ -476,7 +476,7 @@
       "Shell",
       "Python"
     ],
-    "contributions": 1,
+    "contributions": 1021,
     "followers": "20"
   },
   {
@@ -504,7 +504,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1650,
     "followers": "19"
   },
   {
@@ -520,7 +520,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 968,
+    "contributions": 970,
     "followers": "19"
   },
   {
@@ -549,10 +549,10 @@
     "popular_repos_stars": "39",
     "primary_languages": [
       "D",
-      "C",
-      "Shell"
+      "Shell",
+      "C"
     ],
-    "contributions": 1,
+    "contributions": 1267,
     "followers": "18"
   },
   {
@@ -681,7 +681,7 @@
       "D",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1729,
     "followers": "15"
   },
   {
@@ -761,7 +761,7 @@
       "C",
       "C"
     ],
-    "contributions": 486,
+    "contributions": 494,
     "followers": "13"
   },
   {
@@ -922,7 +922,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1172,
     "followers": "11"
   },
   {
@@ -1032,7 +1032,7 @@
     "primary_languages": [
       "D",
       "C",
-      "JavaScript"
+      "Shell"
     ],
     "contributions": 20,
     "followers": "10"
@@ -1335,7 +1335,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 104,
+    "contributions": 105,
     "followers": "8"
   },
   {
@@ -1416,7 +1416,7 @@
       "Python",
       "D"
     ],
-    "contributions": 1,
+    "contributions": 1033,
     "followers": "8"
   },
   {

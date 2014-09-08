@@ -44,7 +44,7 @@
       "Shell",
       "Ruby"
     ],
-    "contributions": 1,
+    "contributions": 1479,
     "followers": "617"
   },
   {
@@ -102,13 +102,13 @@
     "username": "photonstorm",
     "location": "UK",
     "join_date": "Dec 8, 2009",
-    "popular_repos_stars": "6511",
+    "popular_repos_stars": "6512",
     "primary_languages": [
       "JavaScript",
       "PHP",
       "ActionScript"
     ],
-    "contributions": 1,
+    "contributions": 1637,
     "followers": "407"
   },
   {
@@ -604,7 +604,7 @@
       "ActionScript",
       "CSS"
     ],
-    "contributions": 1,
+    "contributions": 1351,
     "followers": "81"
   },
   {
@@ -748,7 +748,7 @@
       "CSS",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1204,
     "followers": "70"
   },
   {
@@ -1188,7 +1188,7 @@
     "primary_languages": [
       "JavaScript",
       "ActionScript",
-      "Ruby"
+      "PHP"
     ],
     "contributions": 18,
     "followers": "43"
@@ -1516,14 +1516,18 @@
   {
     "url": "https://github.com/SeanHogan",
     "language": "ActionScript",
-    "full_name": "",
-    "username": "",
-    "location": "",
-    "join_date": "",
-    "popular_repos_stars": "0",
-    "primary_languages": [],
-    "contributions": null,
-    "followers": ""
+    "full_name": "Sean Hogan",
+    "username": "SeanHogan",
+    "location": "Chicago",
+    "join_date": "Mar 9, 2011",
+    "popular_repos_stars": "12",
+    "primary_languages": [
+      "ActionScript",
+      "C",
+      "Python"
+    ],
+    "contributions": 3,
+    "followers": "29"
   },
   {
     "url": "https://github.com/mikedotalmond",

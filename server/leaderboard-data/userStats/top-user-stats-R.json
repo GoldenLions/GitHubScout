@@ -12,7 +12,7 @@
       "C",
       "JavaScript"
     ],
-    "contributions": 5,
+    "contributions": 5282,
     "followers": "2.0k"
   },
   {
@@ -28,7 +28,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 2,
+    "contributions": 2176,
     "followers": "1.2k"
   },
   {
@@ -45,7 +45,7 @@
       "CSS"
     ],
     "contributions": 728,
-    "followers": "975"
+    "followers": "976"
   },
   {
     "url": "https://github.com/rdpeng",
@@ -61,7 +61,7 @@
       "JavaScript"
     ],
     "contributions": 932,
-    "followers": "605"
+    "followers": "606"
   },
   {
     "url": "https://github.com/bcaffo",
@@ -77,7 +77,7 @@
       "JavaScript"
     ],
     "contributions": 484,
-    "followers": "450"
+    "followers": "451"
   },
   {
     "url": "https://github.com/RevolutionAnalytics",
@@ -108,7 +108,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 3,
+    "contributions": 3282,
     "followers": "182"
   },
   {
@@ -124,7 +124,7 @@
       "Shell",
       "TeX"
     ],
-    "contributions": 2,
+    "contributions": 2529,
     "followers": "172"
   },
   {
@@ -140,7 +140,7 @@
       "JavaScript",
       "CSS"
     ],
-    "contributions": 3,
+    "contributions": 3952,
     "followers": "158"
   },
   {
@@ -156,7 +156,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1841,
     "followers": "151"
   },
   {
@@ -172,7 +172,7 @@
       "CSS",
       "JavaScript"
     ],
-    "contributions": 3,
+    "contributions": 3237,
     "followers": "120"
   },
   {
@@ -236,7 +236,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1882,
     "followers": "102"
   },
   {
@@ -268,7 +268,7 @@
       "JavaScript",
       "R"
     ],
-    "contributions": 1,
+    "contributions": 1369,
     "followers": "96"
   },
   {
@@ -314,7 +314,7 @@
       "Shell",
       "CSS"
     ],
-    "contributions": 1,
+    "contributions": 1514,
     "followers": "86"
   },
   {
@@ -327,8 +327,8 @@
     "popular_repos_stars": "68",
     "primary_languages": [
       "R",
-      "C",
-      "Shell"
+      "Shell",
+      "C"
     ],
     "contributions": 421,
     "followers": "84"
@@ -472,7 +472,7 @@
       "CSS",
       "F"
     ],
-    "contributions": 1,
+    "contributions": 1819,
     "followers": "61"
   },
   {
@@ -504,7 +504,7 @@
       "TeX",
       "CSS"
     ],
-    "contributions": 1,
+    "contributions": 1373,
     "followers": "58"
   },
   {
@@ -552,7 +552,7 @@
       "CSS",
       "TeX"
     ],
-    "contributions": 1,
+    "contributions": 1812,
     "followers": "56"
   },
   {
@@ -568,7 +568,7 @@
       "Python",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1299,
     "followers": "56"
   },
   {
@@ -629,8 +629,8 @@
     "popular_repos_stars": "30",
     "primary_languages": [
       "R",
-      "Rebol",
-      "JavaScript"
+      "CSS",
+      "Rebol"
     ],
     "contributions": 102,
     "followers": "54"
@@ -728,7 +728,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1067,
     "followers": "43"
   },
   {
@@ -760,7 +760,7 @@
       "Ruby",
       "TeX"
     ],
-    "contributions": 2,
+    "contributions": 2515,
     "followers": "43"
   },
   {
@@ -856,7 +856,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1320,
     "followers": "41"
   },
   {
@@ -917,8 +917,8 @@
     "popular_repos_stars": "29",
     "primary_languages": [
       "R",
-      "JavaScript",
-      "Python"
+      "Python",
+      "Rebol"
     ],
     "contributions": 333,
     "followers": "37"
@@ -984,7 +984,7 @@
       "JavaScript",
       "Python"
     ],
-    "contributions": 2,
+    "contributions": 2388,
     "followers": "36"
   },
   {
@@ -1016,7 +1016,7 @@
       "Python",
       "CSS"
     ],
-    "contributions": 307,
+    "contributions": 308,
     "followers": "36"
   },
   {
@@ -1236,7 +1236,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1524,
     "followers": "30"
   },
   {
@@ -1284,7 +1284,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 2,
+    "contributions": 2282,
     "followers": "29"
   },
   {
@@ -1443,7 +1443,7 @@
       "JavaScript",
       "TeX"
     ],
-    "contributions": 298,
+    "contributions": 299,
     "followers": "26"
   },
   {
@@ -1475,7 +1475,7 @@
       "Python",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1098,
     "followers": "27"
   },
   {
@@ -1536,8 +1536,8 @@
     "popular_repos_stars": "14",
     "primary_languages": [
       "R",
-      "TeX",
-      "Python"
+      "Python",
+      "TeX"
     ],
     "contributions": 285,
     "followers": "25"

@@ -6,14 +6,14 @@
     "username": "bennadel",
     "location": "New York, NY",
     "join_date": "Jan 13, 2011",
-    "popular_repos_stars": "285",
+    "popular_repos_stars": "286",
     "primary_languages": [
       "ColdFusion",
       "JavaScript",
       "CSS"
     ],
     "contributions": 427,
-    "followers": "453"
+    "followers": "454"
   },
   {
     "url": "https://github.com/mhenke",
@@ -122,7 +122,7 @@
     "primary_languages": [
       "ColdFusion",
       "JavaScript",
-      "Shell"
+      "Java"
     ],
     "contributions": 5,
     "followers": "56"
@@ -156,7 +156,7 @@
       "JavaScript",
       "CSS"
     ],
-    "contributions": 1,
+    "contributions": 1353,
     "followers": "49"
   },
   {
@@ -248,7 +248,7 @@
     "join_date": "Jun 7, 2011",
     "popular_repos_stars": "0",
     "primary_languages": [],
-    "contributions": 1,
+    "contributions": 1652,
     "followers": "28"
   },
   {
@@ -272,7 +272,7 @@
     "username": "atomi",
     "location": "42nd District, California",
     "join_date": "May 10, 2009",
-    "popular_repos_stars": "167043",
+    "popular_repos_stars": "167053",
     "primary_languages": [],
     "contributions": 4,
     "followers": "24"
@@ -354,7 +354,7 @@
       "JavaScript",
       "CSS"
     ],
-    "contributions": 1,
+    "contributions": 1135,
     "followers": "20"
   },
   {
@@ -482,7 +482,7 @@
       "Groovy",
       "ColdFusion"
     ],
-    "contributions": 292,
+    "contributions": 294,
     "followers": "17"
   },
   {

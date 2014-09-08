@@ -12,7 +12,7 @@
       "Python",
       "CSS"
     ],
-    "contributions": 2,
+    "contributions": 2202,
     "followers": "465"
   },
   {
@@ -28,7 +28,7 @@
       "CSS",
       "Ruby"
     ],
-    "contributions": 2,
+    "contributions": 2088,
     "followers": "235"
   },
   {
@@ -44,7 +44,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1153,
     "followers": "185"
   },
   {
@@ -166,7 +166,7 @@
     "username": "passsy",
     "location": "",
     "join_date": "Oct 2, 2011",
-    "popular_repos_stars": "493",
+    "popular_repos_stars": "494",
     "primary_languages": [
       "Java",
       "Groovy",
@@ -219,7 +219,7 @@
       "JavaScript",
       "CSS"
     ],
-    "contributions": 1,
+    "contributions": 1056,
     "followers": "20"
   },
   {
@@ -331,7 +331,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1100,
     "followers": "16"
   },
   {
@@ -345,10 +345,10 @@
     "primary_languages": [
       "Objective",
       "C",
-      "Python",
-      "Shell"
+      "Shell",
+      "Python"
     ],
-    "contributions": 427,
+    "contributions": 430,
     "followers": "15"
   },
   {
@@ -887,7 +887,7 @@
       "JavaScript",
       "ASP"
     ],
-    "contributions": 74,
+    "contributions": 79,
     "followers": "8"
   },
   {
@@ -945,7 +945,7 @@
     "username": "pascaloliv",
     "location": "London",
     "join_date": "Oct 17, 2010",
-    "popular_repos_stars": "170306",
+    "popular_repos_stars": "170316",
     "primary_languages": [],
     "contributions": 0,
     "followers": "8"

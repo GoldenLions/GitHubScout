@@ -118,7 +118,7 @@ var utils = {
           return langs[1].match(/\b(?!and\b)\w+\b/g);
         } else return [];
       })(),
-      contributions: parseInt($('.table-column.contrib-day').find('.num').text()),
+      contributions: parseInt($('.table-column.contrib-day').find('.num').text().replace(/,/g,'')),
       followers: $('.vcard-stats .vcard-stat:first-child').find('.vcard-stat-count').text()
     });
     return result;
