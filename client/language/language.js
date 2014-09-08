@@ -12,11 +12,9 @@ angular.module('githubscout.language', ['nvd3ChartDirectives',
     $scope.data.leaderboard.repos = LanguageData.leaderboard.repos;
     $scope.data.leaderboard.users = LanguageData.leaderboard.users;
 
-    console.log('LanguageController')
+    //console.log('LanguageController')
     $scope.commits = LanguageData.commits;
-    console.log("commmmmmits", $scope.commits)
     $scope.creates = LanguageData.creates;
-
     $scope.public_repos = LanguageData.public_repos;
     $scope.pushes = LanguageData.pushes;
 
@@ -37,6 +35,7 @@ angular.module('githubscout.language', ['nvd3ChartDirectives',
 
       LanguageData.currentLanguages.push($scope.data.nextLanguage);
 
+      //  Activity over Time chart
       settings = {
         languages: LanguageData.currentLanguages,
         countType: 'activity',
@@ -49,13 +48,13 @@ angular.module('githubscout.language', ['nvd3ChartDirectives',
         $state.transitionTo($state.current, $scope.data.nextLanguage, {
           location: true, reload: true, inherit: true, notify: true
         });
-        // console.log($stateParams);
       });
 
+      // Repos Created over Time chart
       settings = {
         languages: LanguageData.currentLanguages,
         countType: 'creates',
-        url: './data/repo_creates_by_month.csv'
+        url: './data/language_creates_by_month.csv'
       };
 
       ChartsUtil.fetchLanguageData(settings)
@@ -66,10 +65,11 @@ angular.module('githubscout.language', ['nvd3ChartDirectives',
           });
         });
 
+      // Repos Made Public over Time chart
       settings = {
         languages: LanguageData.currentLanguages,
         countType: 'public_repos',
-        url: './data/repos_made_public_by_month.csv'
+        url: './data/language_made_public_by_month.csv'
       };
 
       ChartsUtil.fetchLanguageData(settings)
@@ -80,10 +80,11 @@ angular.module('githubscout.language', ['nvd3ChartDirectives',
           });
         });
 
+      // Pushes over Time chart
       settings = {
         languages: LanguageData.currentLanguages,
         countType: 'pushes',
-        url: './data/pushes_by_month.csv'
+        url: './data/language_pushes_by_month.csv'
       };
 
       ChartsUtil.fetchLanguageData(settings)
@@ -93,7 +94,6 @@ angular.module('githubscout.language', ['nvd3ChartDirectives',
             location: true, reload: true, inherit: true, notify: true
           });
         });
-
 
       }
 

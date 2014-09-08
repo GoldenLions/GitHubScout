@@ -19,7 +19,7 @@ angular.module('githubscout.services', [])
  // getdateandCommits will return an array of object with
  //object having the form ['2014-04-01',5],['2014-06-02',8]]
 .factory('UserDateandCommits',function(){
-	var getdateandCommits  = function(obj){
+  var getdateandCommits  = function(obj){
     var result = []
     var commit = {};
     for(var i =0; i<obj.length; i++){
@@ -35,20 +35,20 @@ angular.module('githubscout.services', [])
       }
     }
     for(var key in commit){
-    	var dt  = new Date(key)
-    	var year = dt.getFullYear()
-    	var month = dt.getMonth() + 1
-    	var seconds = year + "/" + month
-    	if(year===2014){
+      var dt  = new Date(key)
+      var year = dt.getFullYear()
+      var month = dt.getMonth() + 1
+      var seconds = year + "/" + month
+      if(year===2014){
         result.push([seconds,commit[key]])
        }
     }
     return result
   }
 
-	return {
-		getdateandCommits: getdateandCommits
-	}
+  return {
+    getdateandCommits: getdateandCommits
+  }
 })
 //this factory will include the dates of second user if
 //the first user didn't have those dates. This is necessary
@@ -108,7 +108,7 @@ angular.module('githubscout.services', [])
          }
       }
       for(var key in commit){
-      	   if(commit[key]<=3){
+           if(commit[key]<=3){
             result.push({language:key,count:commit[key]+3})
         }else{
             result.push({language:key,count:commit[key]})
@@ -118,7 +118,7 @@ angular.module('githubscout.services', [])
       return result;
   }
   return {
-  	 getUserCommitsperLanganguage: getUserCommitsperLanganguage
+     getUserCommitsperLanganguage: getUserCommitsperLanganguage
   }
 
 })
@@ -255,13 +255,13 @@ angular.module('githubscout.services', [])
   return getUserEvents;
 })
 
+// Methods related to displaying the languages charts
 .factory('ChartsUtil', function($q){
 
   //Since it can take a while for D3 to processs csv files, we use
-
-  // $q promises to read the data file and return the results.
+  // $q promises to read the data file and return the results as a promise.
   var readDataFile = function(settings){
-    console.log('readDataFile', settings);
+    // console.log('readDataFile', settings);
 
     // Create a promise object.
     var deferred = $q.defer();
@@ -272,20 +272,21 @@ angular.module('githubscout.services', [])
         console.log('d3 reading error');
         return error;
       }
-      console.log('d3.csv')
-      // processLanguageData() converts the data into the correct format for the charts
-      // dataDefer.resolve(processLanguageData(settings, data));
       deferred.resolve(data);
     });
 
     return deferred.promise;
   };
 
+
   // The input rawData has information about all the languages.
   // processLanguageData() filters the raw data and  creates a
   // separate data set for each language that is listed in settings.
+
+  // Reformats the rawData to create a line chart.
+  // Returns a data set for one language as a promise.
   var processLanguageData = function(settings, rawData){
-    console.log('processLanguageData', settings);
+    // console.log('processLanguageData', settings);
     var chartData = [],
         values;
 
@@ -317,17 +318,14 @@ angular.module('githubscout.services', [])
     }
 
     deferred.resolve(chartData);
-
-    // return a promise
     return deferred.promise;
   };
 
+  // Reads and processes a data file for the line charts on language page.
+  // Returns the result as a promise.
   var fetchLanguageData = function(settings){
-    // var deferred = $q.defer();
+    // console.log('fecthLanguageData');
 
-    console.log('fecthLanguageData');
-
-    // Create a promise object.
     var deferred = $q.defer();
 
     readDataFile(settings)
@@ -335,13 +333,12 @@ angular.module('githubscout.services', [])
         deferred.resolve( processLanguageData(settings, result) );
       });
 
-    // return a promise
     return deferred.promise;
   };
 
-
+  // Reformats the rawData to create a horizontal bar chart.
   var processHorizontalBarData = function(settings, rawData){
-    console.log('processHorizontalBar', settings);
+    // console.log('processHorizontalBar', settings);
     var chartData =[],
       values =[];
 
@@ -361,10 +358,10 @@ angular.module('githubscout.services', [])
 
   };
 
+  // Reads and processes a data file for a horizontal  bar chart.
+  // Returns the result as a promise.
   var fetchHorizontalBarData = function(settings){
-    // var deferred = $q.defer();
-
-    console.log('fetchHorizontalBar');
+    // console.log('fetchHorizontalBar');
 
     var deferred = $q.defer();
 
@@ -375,9 +372,9 @@ angular.module('githubscout.services', [])
     return deferred.promise;
   };
 
-
+  // Reformats the rawData to create a stacked area chart.
   var processStackedAreaData = function(settings, rawData){
-    console.log('processStackedAreaData', settings);
+    // console.log('processStackedAreaData', settings);
 
     var chartData =[],
       values =[];
@@ -393,25 +390,20 @@ angular.module('githubscout.services', [])
       .entries(rawData)
       .map(function(d){
         var group = d.key;
-        // console.log('group', group)
         var values = d.values.map(function(dd){
-          // console.log(dd.date, +dd[settings.countType])
           return  [ Date.parse(dd.date), +dd[settings.countType]];
         });
         return {'key':group, 'values':values};
       });
 
-    console.log(results)
-
     deferred.resolve(results);
-
     return deferred.promise;
   };
 
+  // Reads and processes a data file for a stacked area chart.
+  // Returns the result as a promise.
   var fetchStackedAreaData = function(settings){
-    // var deferred = $q.defer();
-
-    console.log('fetchStackedAreaData');
+    // console.log('fetchStackedAreaData');
 
     var deferred = $q.defer();
 
@@ -432,7 +424,6 @@ angular.module('githubscout.services', [])
 
 
 })
-
 
 
 .factory('LanguageData', function() {
