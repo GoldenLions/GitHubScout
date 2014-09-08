@@ -12,8 +12,8 @@
 		  <select ng-model='input.language' ng-options="language for language in input.languageList" placeholder='Enter language'>
 		  	<option value="">Choose a Language</option>
 		  </select>
-		  <input type='submit' value='Search' />
+		  <input ng-hide="loading" type='submit' value='Search' />
 		</form>
-		<p ng-show="loading">Loading...</p>
+		<img src="../styles/loader.gif" ng-show="loading" class="loading" />
 	</div>
 </div>
