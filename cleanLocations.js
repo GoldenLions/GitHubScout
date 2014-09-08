@@ -1,8 +1,6 @@
 var express = require('express');
 var bodyParser = require('body-parser');
 var handler = require('./server/handlerCleanLocations.js');
-var Promise = require('bluebird');
-
 var app = express();
 var port = port = process.env.PORT || 8000;
 
@@ -24,7 +22,6 @@ app.get('/api/locations', function(req, res){
   handler.setCityReverse();
 
 });
-
 
 var server = app.listen(port, function() {
   return console.log("Listening on port " + server.address().port);
