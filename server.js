@@ -3,6 +3,15 @@ var bodyParser = require('body-parser');
 var handler = require('./server/handler.js');
 var updater = require('./server/autoUpdates.js');
 
+<<<<<<< HEAD
+=======
+//Takes two argument strings: MySQL query, and filename
+setInterval(function(){
+	console.log('running...')
+	updater.masterUpdate();
+},72000000);
+
+>>>>>>> added setInterval to update language files every 20 hrs
 
 var app = express();
 var port = port = process.env.PORT || 8000;
