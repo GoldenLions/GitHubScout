@@ -1,3 +1,8 @@
+// In order to show Github user by location data on the homepage, 
+// the date from Github Archives needs to be manually normalized. 
+// The code currenlty normalizes the data, but it doesn't run automatically.
+// You have to manually run cleanLocations.js
+
 var bodyParser = require('body-parser');
 var Promise = require('bluebird');
 var _ = require('lodash');

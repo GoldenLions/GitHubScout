@@ -1,3 +1,8 @@
+// In order to show Github user by location data on the homepage, 
+// the date from Github Archives needs to be manually normalized. 
+// The code currenlty normalizes the data, but it doesn't run automatically.
+// You have to manually run cleanLocations.js
+
 var express = require('express');
 var bodyParser = require('body-parser');
 var handler = require('./server/handlerCleanLocations.js');
@@ -13,12 +18,11 @@ app.use(bodyParser.urlencoded({
 app.get('/api/locations', function(req, res){
   res.send('GET api/locations');
 
-  // handler.splitLocations();
-  // handler.setStateOnly();
-  // handler.setCountryOnly();
-  // handler.setCityOnly();
-    // handler.setCity();
-
+  handler.splitLocations();
+  handler.setStateOnly();
+  handler.setCountryOnly();
+  handler.setCityOnly();
+  handler.setCity();
   handler.setCityReverse();
 
 });
