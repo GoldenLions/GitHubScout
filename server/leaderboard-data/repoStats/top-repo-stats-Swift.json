@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/fullstackio/FlappySwift",
+    "size": 584,
+    "language": "Swift",
+    "commits": "24",
+    "stars": "6,311",
+    "forks": "1,831",
+    "contributors": "5"
+  },
+  {
+    "url": "https://github.com/Alamofire/Alamofire",
+    "size": 972,
+    "language": "Swift",
+    "commits": "21",
+    "stars": "3,551",
+    "forks": "221",
+    "contributors": "3"
+  },
+  {
+    "url": "https://github.com/austinzheng/swift-2048",
+    "size": 528,
+    "language": "Swift",
+    "commits": "32",
+    "stars": "1,384",
+    "forks": "342",
+    "contributors": "6"
+  },
+  {
+    "url": "https://github.com/ochococo/Design-Patterns-In-Swift",
+    "size": 553,
+    "language": "Swift",
+    "commits": "31",
+    "stars": "1,366",
+    "forks": "68",
+    "contributors": "3"
+  },
+  {
+    "url": "https://github.com/lingoer/SwiftyJSON",
+    "size": 856,
+    "language": "Swift",
+    "commits": "51",
+    "stars": "1,343",
+    "forks": "96",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/maxpow4h/swiftz",
+    "size": 3287,
+    "language": "Swift",
+    "commits": "319",
+    "stars": "1,203",
+    "forks": "85",
+    "contributors": "25"
+  },
+  {
+    "url": "https://github.com/lexrus/LTMorphingLabel",
+    "size": 731,
+    "language": "Swift",
+    "commits": "47",
+    "stars": "1,191",
+    "forks": "89",
+    "contributors": "3"
+  },
+  {
+    "url": "https://github.com/ankurp/Dollar.swift",
+    "size": 4253,
+    "language": "Swift",
+    "commits": "268",
+    "stars": "1,189",
+    "forks": "66",
+    "contributors": "13"
+  },
+  {
+    "url": "https://github.com/Quick/Quick",
+    "size": 3086,
+    "language": "Swift",
+    "commits": "309",
+    "stars": "1,025",
+    "forks": "70",
+    "contributors": "24"
+  },
+  {
+    "url": "https://github.com/robb/hamburger-button",
+    "size": 207,
+    "language": "Swift",
+    "commits": "12",
+    "stars": "923",
+    "forks": "65",
+    "contributors": "4"
+  },
+  {
+    "url": "https://github.com/mattdonnelly/Swifter",
+    "size": 1630,
+    "language": "Swift",
+    "commits": "105",
+    "stars": "856",
+    "forks": "85",
+    "contributors": "13"
+  },
+  {
+    "url": "https://github.com/mattt/Surge",
+    "size": 185,
+    "language": "Swift",
+    "commits": "13",
+    "stars": "819",
+    "forks": "19",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/acani/Chats",
+    "size": 2047,
+    "language": "Swift",
+    "commits": "138",
+    "stars": "809",
+    "forks": "167",
+    "contributors": "4"
+  },
+  {
+    "url": "https://github.com/robb/Cartography",
+    "size": 587,
+    "language": "Swift",
+    "commits": "88",
+    "stars": "791",
+    "forks": "19",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/ShinobiControls/iOS8-day-by-day",
+    "size": 52559,
+    "language": "Swift",
+    "commits": "423",
+    "stars": "766",
+    "forks": "68",
+    "contributors": "4"
+  },
+  {
+    "url": "https://github.com/vikmeup/SCLAlertView-Swift",
+    "size": 729,
+    "language": "Swift",
+    "commits": "92",
+    "stars": "698",
+    "forks": "58",
+    "contributors": "7"
+  },
+  {
+    "url": "https://github.com/zoonooz/ZFRippleButton",
+    "size": 552,
+    "language": "Swift",
+    "commits": "15",
+    "stars": "655",
+    "forks": "31",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/pNre/ExSwift",
+    "size": 4142,
+    "language": "Swift",
+    "commits": "130",
+    "stars": "637",
+    "forks": "46",
+    "contributors": "8"
+  },
+  {
+    "url": "https://github.com/JakeLin/SwiftWeather",
+    "size": 6131,
+    "language": "Swift",
+    "commits": "28",
+    "stars": "636",
+    "forks": "186",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/Dimillian/SwiftHN",
+    "size": 10453,
+    "language": "Swift",
+    "commits": "119",
+    "stars": "527",
+    "forks": "56",
+    "contributors": "3"
+  }
+]

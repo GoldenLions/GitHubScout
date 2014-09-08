@@ -146,8 +146,8 @@ var scraper = {
   // languages to search for, this will take at least 10 minutes.
   updateUserUrlsJSON: function(callback) { 
     // Sets the query parameters for the GitHub search API.
-    // Takes the first 10 pages of users with a minimum of minFollowers followers,
-    // minRepos repos, and sorts by followers in descending order.
+    // Takes the first 100 users with a minimum of minFollowers followers
+    // and sorts by followers in descending order.
     // This does not guarantee that we will find the users with the most contributions, or 
     // number of stars, but because we can only ask GitHub to sort by followers, join date,
     // and number of repos, this list is probably the best starting point available. 
@@ -209,12 +209,12 @@ var scraper = {
   },
   // Update top-repo-stats.json to reflect the current stats of the top repos per language.
   updateRepoStatsJSON: function(callback) {
-    var repoArrays = _.map(languages.slice(0,140), function(language) {
+    var repoArrays = _.map(languages, function(language) {
       return JSON.parse(fs.readFileSync('./leaderboard-data/repoUrls/top-repo-urls-'+encodeURIComponent(language)+'.json'));
     });
     var saveStats = function(results) {
       if (results[0]) {
-        fs.writeFile('./leaderboard-data/repoStats/top-rep-stats-'+encodeURIComponent(results[0].language)+'.json',
+        fs.writeFile('./leaderboard-data/repoStats/top-repo-stats-'+encodeURIComponent(results[0].language)+'.json',
           JSON.stringify(results,null,2));
       }
     };
@@ -229,7 +229,7 @@ var scraper = {
 // scraper.updateUserUrlsJSON();
 // scraper.updateProfileStatsJSON();
 // scraper.updateRepoUrlsJSON();
-// scraper.updateRepoStatsJSON();
+scraper.updateRepoStatsJSON();
 
 
 module.exports = scraper;

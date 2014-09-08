@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/kennyledet/Algorithm-Implementations",
+    "size": 6239,
+    "language": "Lua",
+    "commits": "1,278",
+    "stars": "1,061",
+    "forks": "191",
+    "contributors": "62"
+  },
+  {
+    "url": "https://github.com/SnabbCo/snabbswitch",
+    "size": 8275,
+    "language": "Lua",
+    "commits": "811",
+    "stars": "828",
+    "forks": "80",
+    "contributors": "20"
+  },
+  {
+    "url": "https://github.com/leafo/moonscript",
+    "size": 4629,
+    "language": "Lua",
+    "commits": "536",
+    "stars": "801",
+    "forks": "60",
+    "contributors": "11"
+  },
+  {
+    "url": "https://github.com/axkibe/lsyncd",
+    "size": 8679,
+    "language": "Lua",
+    "commits": "665",
+    "stars": "715",
+    "forks": "88",
+    "contributors": "17"
+  },
+  {
+    "url": "https://github.com/koreader/koreader",
+    "size": 27104,
+    "language": "Lua",
+    "commits": "3,335",
+    "stars": "657",
+    "forks": "127",
+    "contributors": "26"
+  },
+  {
+    "url": "https://github.com/hawkthorne/hawkthorne-journey",
+    "size": 288408,
+    "language": "Lua",
+    "commits": "4,839",
+    "stars": "587",
+    "forks": "335",
+    "contributors": "57"
+  },
+  {
+    "url": "https://github.com/mason-larobina/luakit",
+    "size": 7301,
+    "language": "Lua",
+    "commits": "1,801",
+    "stars": "548",
+    "forks": "122",
+    "contributors": "33"
+  },
+  {
+    "url": "https://github.com/pkulchenko/ZeroBraneStudio",
+    "size": 91980,
+    "language": "Lua",
+    "commits": "1,934",
+    "stars": "464",
+    "forks": "122",
+    "contributors": "18"
+  },
+  {
+    "url": "https://github.com/kikito/middleclass",
+    "size": 1502,
+    "language": "Lua",
+    "commits": "156",
+    "stars": "452",
+    "forks": "55",
+    "contributors": "8"
+  },
+  {
+    "url": "https://github.com/rtsisyk/luafun",
+    "size": 653,
+    "language": "Lua",
+    "commits": "26",
+    "stars": "425",
+    "forks": "16",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/copycat-killer/awesome-copycats",
+    "size": 20774,
+    "language": "Lua",
+    "commits": "305",
+    "stars": "415",
+    "forks": "102",
+    "contributors": "6"
+  },
+  {
+    "url": "https://github.com/koreader/kindlepdfviewer",
+    "size": 8185,
+    "language": "Lua",
+    "commits": "1,908",
+    "stars": "372",
+    "forks": "79",
+    "contributors": "12"
+  },
+  {
+    "url": "https://github.com/CorsixTH/CorsixTH",
+    "size": 35675,
+    "language": "Lua",
+    "commits": "1,828",
+    "stars": "337",
+    "forks": "75",
+    "contributors": "29"
+  },
+  {
+    "url": "https://github.com/exebetche/vlsub",
+    "size": 2337,
+    "language": "Lua",
+    "commits": "182",
+    "stars": "312",
+    "forks": "122",
+    "contributors": "19"
+  },
+  {
+    "url": "https://github.com/ignacio/LuaNode",
+    "size": 5899,
+    "language": "Lua",
+    "commits": "392",
+    "stars": "292",
+    "forks": "27",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/tylerneylon/pacpac",
+    "size": 1861,
+    "language": "Lua",
+    "commits": "111",
+    "stars": "284",
+    "forks": "30",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/stevedonovan/Penlight",
+    "size": 2207,
+    "language": "Lua",
+    "commits": "399",
+    "stars": "283",
+    "forks": "55",
+    "contributors": "21"
+  },
+  {
+    "url": "https://github.com/basecamp/intermission",
+    "size": 326,
+    "language": "Lua",
+    "commits": "17",
+    "stars": "279",
+    "forks": "8",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/SpiderLabs/owasp-modsecurity-crs",
+    "size": 12476,
+    "language": "Lua",
+    "commits": "125",
+    "stars": "279",
+    "forks": "93",
+    "contributors": "15"
+  },
+  {
+    "url": "https://github.com/Olivine-Labs/busted",
+    "size": 3420,
+    "language": "Lua",
+    "commits": "522",
+    "stars": "275",
+    "forks": "58",
+    "contributors": "23"
+  }
+]

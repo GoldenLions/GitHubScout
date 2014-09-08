@@ -14,6 +14,27 @@
       </form>
     </div>
   </header>
+
+  <table>
+  <tr>
+  <td>Username</td><td>Full Name</td><td>Popular Repos Stars</td>
+  <td>Contributions</td><td>Followers</td><td>Location</td>
+  </tr>
+  <tr ng-repeat ="user in data.leaderboard.users[data.currentLanguages[0]]">
+  <td><a href="{{user.url}}">{{user.username}}</a></td><td>{{user.full_name}}</td><td>{{user.popular_repos_stars}}</td>
+  <td>{{user.contributions}}</td><td>{{user.followers}}</td><td>{{user.location}}</td>
+  </tr>
+  </table>
+
+  <table>
+  <tr>
+  <td>Url</td><td>Commits</td><td>Stars</td><td>Forks</td><td>Contributors</td>
+  </tr>
+  <tr ng-repeat ="repo in data.leaderboard.repos[data.currentLanguages[0]]">
+  <td><a href="{{repo.url}}">{{cleanUrl(repo.url)}}</a></td><td>{{repo.commits}}</td><td>{{repo.stars}}</td><td>{{repo.forks}}</td>
+  <td>{{repo.contributors}}</td>
+  </tr>
+  </table>
   <div class="row one-whole clear-after">
     <div class="one-half float-left">
       <h2>Repo Activity over Time</h2>

@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/twbs/bootstrap",
+    "size": 157454,
+    "language": "CSS",
+    "commits": "9,940",
+    "stars": "71,612",
+    "forks": "26,763",
+    "contributors": "579"
+  },
+  {
+    "url": "https://github.com/bartaz/impress.js",
+    "size": 5939,
+    "language": "JavaScript",
+    "commits": "227",
+    "stars": "21,457",
+    "forks": "4,464",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/robbyrussell/oh-my-zsh",
+    "size": 29345,
+    "language": "Shell",
+    "commits": "2,774",
+    "stars": "18,397",
+    "forks": "6,191",
+    "contributors": "674"
+  },
+  {
+    "url": "https://github.com/meteor/meteor",
+    "size": 120388,
+    "language": "JavaScript",
+    "commits": "9,982",
+    "stars": "18,337",
+    "forks": "2,013",
+    "contributors": "129"
+  },
+  {
+    "url": "https://github.com/zurb/foundation",
+    "size": 140095,
+    "language": "CSS",
+    "commits": "7,625",
+    "stars": "17,886",
+    "forks": "3,910",
+    "contributors": "559"
+  },
+  {
+    "url": "https://github.com/hakimel/reveal.js",
+    "size": 41416,
+    "language": "JavaScript",
+    "commits": "1,140",
+    "stars": "16,950",
+    "forks": "4,957",
+    "contributors": "105"
+  },
+  {
+    "url": "https://github.com/strongloop/express",
+    "size": 27102,
+    "language": "JavaScript",
+    "commits": "4,799",
+    "stars": "15,504",
+    "forks": "3,160",
+    "contributors": "156"
+  },
+  {
+    "url": "https://github.com/AFNetworking/AFNetworking",
+    "size": 19470,
+    "language": "Objective-C",
+    "commits": "2,098",
+    "stars": "13,540",
+    "forks": "3,791",
+    "contributors": "215"
+  },
+  {
+    "url": "https://github.com/Automattic/socket.io",
+    "size": 24181,
+    "language": "JavaScript",
+    "commits": "1,309",
+    "stars": "13,154",
+    "forks": "2,424",
+    "contributors": "71"
+  },
+  {
+    "url": "https://github.com/laravel/laravel",
+    "size": 26720,
+    "language": "PHP",
+    "commits": "3,942",
+    "stars": "11,733",
+    "forks": "3,798",
+    "contributors": "224"
+  },
+  {
+    "url": "https://github.com/emberjs/ember.js",
+    "size": 68224,
+    "language": "JavaScript",
+    "commits": "7,250",
+    "stars": "11,219",
+    "forks": "2,421",
+    "contributors": "402"
+  },
+  {
+    "url": "https://github.com/django/django",
+    "size": 242655,
+    "language": "Python",
+    "commits": "18,669",
+    "stars": "11,100",
+    "forks": "4,318",
+    "contributors": "655"
+  },
+  {
+    "url": "https://github.com/tastejs/todomvc",
+    "size": 79827,
+    "language": "JavaScript",
+    "commits": "1,902",
+    "stars": "10,062",
+    "forks": "5,001",
+    "contributors": "191"
+  },
+  {
+    "url": "https://github.com/jquery/jquery-mobile",
+    "size": 189242,
+    "language": "JavaScript",
+    "commits": "12,398",
+    "stars": "9,242",
+    "forks": "2,425",
+    "contributors": "225"
+  },
+  {
+    "url": "https://github.com/driftyco/ionic",
+    "size": 53780,
+    "language": "JavaScript",
+    "commits": "3,110",
+    "stars": "9,067",
+    "forks": "1,145",
+    "contributors": "108"
+  },
+  {
+    "url": "https://github.com/facebook/react",
+    "size": 72480,
+    "language": "JavaScript",
+    "commits": "2,818",
+    "stars": "8,895",
+    "forks": "1,199",
+    "contributors": "201"
+  },
+  {
+    "url": "https://github.com/symfony/symfony",
+    "size": 172725,
+    "language": "PHP",
+    "commits": "18,156",
+    "stars": "8,871",
+    "forks": "3,419",
+    "contributors": "987"
+  },
+  {
+    "url": "https://github.com/imathis/octopress",
+    "size": 126687,
+    "language": "Ruby",
+    "commits": "821",
+    "stars": "8,262",
+    "forks": "3,049",
+    "contributors": "104"
+  },
+  {
+    "url": "https://github.com/EllisLab/CodeIgniter",
+    "size": 79610,
+    "language": "PHP",
+    "commits": "7,491",
+    "stars": "8,101",
+    "forks": "4,172",
+    "contributors": "299"
+  },
+  {
+    "url": "https://github.com/designmodo/Flat-UI",
+    "size": 32385,
+    "language": "CSS",
+    "commits": "161",
+    "stars": "8,104",
+    "forks": "1,523",
+    "contributors": "14"
+  }
+]

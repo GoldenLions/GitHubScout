@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/codelucas/newspaper",
+    "size": 13995,
+    "language": "Python",
+    "commits": "246",
+    "stars": "1,606",
+    "forks": "159",
+    "contributors": "16"
+  },
+  {
+    "url": "https://github.com/johnmyleswhite/ML_for_Hackers",
+    "size": 121125,
+    "language": "R",
+    "commits": "88",
+    "stars": "1,421",
+    "forks": "779",
+    "contributors": "7"
+  },
+  {
+    "url": "https://github.com/nikolaypavlov/MLPNeuralNet",
+    "size": 928,
+    "language": "Objective-C",
+    "commits": "75",
+    "stars": "570",
+    "forks": "73",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/EddyBorja/MLPSpotlight",
+    "size": 1850,
+    "language": "Objective-C",
+    "commits": "26",
+    "stars": "429",
+    "forks": "45",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/EddyBorja/MLPAutoCompleteTextField",
+    "size": 3673,
+    "language": "Objective-C",
+    "commits": "100",
+    "stars": "380",
+    "forks": "66",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/ogrisel/parallel_ml_tutorial",
+    "size": 3445,
+    "language": "Python",
+    "commits": "160",
+    "stars": "373",
+    "forks": "98",
+    "contributors": "4"
+  },
+  {
+    "url": "https://github.com/yahoo/samoa",
+    "size": 7824,
+    "language": "Java",
+    "commits": "261",
+    "stars": "310",
+    "forks": "44",
+    "contributors": "4"
+  },
+  {
+    "url": "https://github.com/pmerienne/trident-ml",
+    "size": 13901,
+    "language": "Java",
+    "commits": "125",
+    "stars": "250",
+    "forks": "47",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/johnmyleswhite/MLNotes",
+    "size": 437,
+    "language": "R",
+    "commits": "9",
+    "stars": "205",
+    "forks": "38",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/EddyBorja/MLPAccessoryBadge",
+    "size": 1738,
+    "language": "Objective-C",
+    "commits": "26",
+    "stars": "199",
+    "forks": "28",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/EddyBorja/UIColor-MLPFlatColors",
+    "size": 1664,
+    "language": "Objective-C",
+    "commits": "17",
+    "stars": "198",
+    "forks": "24",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/hmason/ml_class",
+    "size": 2931,
+    "language": "DOT",
+    "commits": "20",
+    "stars": "195",
+    "forks": "90",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/cloudera/ml",
+    "size": 2739,
+    "language": "Java",
+    "commits": "131",
+    "stars": "191",
+    "forks": "60",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/pikatchu/LinearML",
+    "size": 8603,
+    "language": "OCaml",
+    "commits": "234",
+    "stars": "181",
+    "forks": "9",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/MaxHasADHD/MLAlertView",
+    "size": 312,
+    "language": "Objective-C",
+    "commits": "19",
+    "stars": "179",
+    "forks": "16",
+    "contributors": "4"
+  },
+  {
+    "url": "https://github.com/igrigorik/decisiontree",
+    "size": 234,
+    "language": "Ruby",
+    "commits": "37",
+    "stars": "158",
+    "forks": "23",
+    "contributors": "9"
+  },
+  {
+    "url": "https://github.com/FStarLang/FStar",
+    "size": 5824,
+    "language": "F#",
+    "commits": "232",
+    "stars": "158",
+    "forks": "9",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/huichen/mlf",
+    "size": 5578,
+    "language": "Go",
+    "commits": "3",
+    "stars": "147",
+    "forks": "47",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/amfe/ml",
+    "size": 5171,
+    "language": "JavaScript",
+    "commits": "9",
+    "stars": "146",
+    "forks": "26",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/mRs-/MLScreenshot",
+    "size": 176,
+    "language": "Objective-C",
+    "commits": "4",
+    "stars": "141",
+    "forks": "9",
+    "contributors": ""
+  }
+]

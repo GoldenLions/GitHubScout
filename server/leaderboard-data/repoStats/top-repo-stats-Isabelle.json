@@ -1,0 +1,119 @@
+[
+  {
+    "url": "https://github.com/seL4/l4v",
+    "size": 13021,
+    "language": "Isabelle",
+    "commits": "49",
+    "stars": "77",
+    "forks": "10",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/seL4/isabelle",
+    "size": 1050672,
+    "language": "Isabelle",
+    "commits": "58,043",
+    "stars": "6",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/3of8/sturm",
+    "size": 2992,
+    "language": "Isabelle",
+    "commits": "35",
+    "stars": "4",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/formare/auctions",
+    "size": 5823,
+    "language": "Isabelle",
+    "commits": "1,049",
+    "stars": "3",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/javra/isabelle_algebra",
+    "size": 736,
+    "language": "Isabelle",
+    "commits": "111",
+    "stars": "3",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/prathamesh-t/Tangle-Isabelle",
+    "size": 1257,
+    "language": "Isabelle",
+    "commits": "189",
+    "stars": "2",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/avigad/isabelle",
+    "size": 1871,
+    "language": "Isabelle",
+    "commits": "175",
+    "stars": "1",
+    "forks": "3",
+    "contributors": "3"
+  },
+  {
+    "url": "https://github.com/Alasdair/FM2014",
+    "size": 1210,
+    "language": "Isabelle",
+    "commits": "130",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/noschinl/isabelle-patsubst",
+    "size": 257,
+    "language": "Isabelle",
+    "commits": "88",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/NICTA/l4v",
+    "size": 6878,
+    "language": "Isabelle",
+    "commits": "48",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/diekmann/topoS",
+    "size": 9665,
+    "language": "Isabelle",
+    "commits": "258",
+    "stars": "1",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/01mf02/thesis",
+    "size": 2872,
+    "language": "Isabelle",
+    "commits": "468",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/spechub/Hets-lib",
+    "size": 7212,
+    "language": "Isabelle",
+    "commits": "1,828",
+    "stars": "0",
+    "forks": "0",
+    "contributors": ""
+  }
+]

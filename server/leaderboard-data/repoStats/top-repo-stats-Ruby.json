@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/rails/rails",
+    "size": 379011,
+    "language": "Ruby",
+    "commits": "46,942",
+    "stars": "23,138",
+    "forks": "8,738",
+    "contributors": "2,410"
+  },
+  {
+    "url": "https://github.com/Homebrew/homebrew",
+    "size": 1197731,
+    "language": "Ruby",
+    "commits": "35,888",
+    "stars": "19,194",
+    "forks": "9,409",
+    "contributors": "4,151"
+  },
+  {
+    "url": "https://github.com/jekyll/jekyll",
+    "size": 85990,
+    "language": "Ruby",
+    "commits": "4,593",
+    "stars": "16,621",
+    "forks": "3,389",
+    "contributors": "374"
+  },
+  {
+    "url": "https://github.com/gitlabhq/gitlabhq",
+    "size": 145971,
+    "language": "Ruby",
+    "commits": "11,413",
+    "stars": "13,853",
+    "forks": "3,601",
+    "contributors": "537"
+  },
+  {
+    "url": "https://github.com/discourse/discourse",
+    "size": 147360,
+    "language": "Ruby",
+    "commits": "10,744",
+    "stars": "11,784",
+    "forks": "3,107",
+    "contributors": "376"
+  },
+  {
+    "url": "https://github.com/plataformatec/devise",
+    "size": 37137,
+    "language": "Ruby",
+    "commits": "2,693",
+    "stars": "11,280",
+    "forks": "2,338",
+    "contributors": "336"
+  },
+  {
+    "url": "https://github.com/diaspora/diaspora",
+    "size": 314780,
+    "language": "Ruby",
+    "commits": "14,837",
+    "stars": "9,397",
+    "forks": "2,375",
+    "contributors": "281"
+  },
+  {
+    "url": "https://github.com/imathis/octopress",
+    "size": 126687,
+    "language": "Ruby",
+    "commits": "821",
+    "stars": "8,262",
+    "forks": "3,049",
+    "contributors": "104"
+  },
+  {
+    "url": "https://github.com/cantino/huginn",
+    "size": 14265,
+    "language": "Ruby",
+    "commits": "1,090",
+    "stars": "7,863",
+    "forks": "714",
+    "contributors": "53"
+  },
+  {
+    "url": "https://github.com/mitchellh/vagrant",
+    "size": 47707,
+    "language": "Ruby",
+    "commits": "6,472",
+    "stars": "7,497",
+    "forks": "1,676",
+    "contributors": "431"
+  },
+  {
+    "url": "https://github.com/bbatsov/ruby-style-guide",
+    "size": 3921,
+    "language": "Ruby",
+    "commits": "521",
+    "stars": "6,444",
+    "forks": "1,619",
+    "contributors": "99"
+  },
+  {
+    "url": "https://github.com/thoughtbot/paperclip",
+    "size": 14592,
+    "language": "Ruby",
+    "commits": "1,529",
+    "stars": "6,283",
+    "forks": "1,395",
+    "contributors": "257"
+  },
+  {
+    "url": "https://github.com/resque/resque",
+    "size": 12239,
+    "language": "Ruby",
+    "commits": "1,914",
+    "stars": "6,038",
+    "forks": "1,132",
+    "contributors": "230"
+  },
+  {
+    "url": "https://github.com/capistrano/capistrano",
+    "size": 14722,
+    "language": "Ruby",
+    "commits": "488",
+    "stars": "6,015",
+    "forks": "1,024",
+    "contributors": "77"
+  },
+  {
+    "url": "https://github.com/ruby/ruby",
+    "size": 257776,
+    "language": "Ruby",
+    "commits": "36,658",
+    "stars": "5,917",
+    "forks": "1,736",
+    "contributors": "36"
+  },
+  {
+    "url": "https://github.com/ryanb/cancan",
+    "size": 8361,
+    "language": "Ruby",
+    "commits": "419",
+    "stars": "5,610",
+    "forks": "782",
+    "contributors": "61"
+  },
+  {
+    "url": "https://github.com/spree/spree",
+    "size": 128657,
+    "language": "Ruby",
+    "commits": "13,942",
+    "stars": "5,438",
+    "forks": "2,530",
+    "contributors": "518"
+  },
+  {
+    "url": "https://github.com/jnicklas/capybara",
+    "size": 13580,
+    "language": "Ruby",
+    "commits": "1,977",
+    "stars": "5,323",
+    "forks": "829",
+    "contributors": "175"
+  },
+  {
+    "url": "https://github.com/activeadmin/activeadmin",
+    "size": 24636,
+    "language": "Ruby",
+    "commits": "3,358",
+    "stars": "5,261",
+    "forks": "1,864",
+    "contributors": "357"
+  },
+  {
+    "url": "https://github.com/carrierwaveuploader/carrierwave",
+    "size": 12134,
+    "language": "Ruby",
+    "commits": "1,669",
+    "stars": "5,170",
+    "forks": "824",
+    "contributors": "212"
+  }
+]

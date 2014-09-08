@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/arclanguage/anarki",
+    "size": 4746,
+    "language": "Arc",
+    "commits": "743",
+    "stars": "627",
+    "forks": "101",
+    "contributors": "27"
+  },
+  {
+    "url": "https://github.com/wting/hackernews",
+    "size": 170,
+    "language": "Arc",
+    "commits": "3",
+    "stars": "164",
+    "forks": "29",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/bixo/bixo",
+    "size": 409201,
+    "language": "Arc",
+    "commits": "1,102",
+    "stars": "122",
+    "forks": "36",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/conanite/rainbow",
+    "size": 1253,
+    "language": "Arc",
+    "commits": "114",
+    "stars": "41",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/Treeki/Reggie",
+    "size": 12327,
+    "language": "Arc",
+    "commits": "63",
+    "stars": "31",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/ChrisVeigl/BrainBay",
+    "size": 56879,
+    "language": "Arc",
+    "commits": "37",
+    "stars": "27",
+    "forks": "9",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/sacado/arc2c",
+    "size": 184,
+    "language": "Arc",
+    "commits": "98",
+    "stars": "25",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/awwx/ar",
+    "size": 1451,
+    "language": "Arc",
+    "commits": "502",
+    "stars": "18",
+    "forks": "8",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/arclanguage/rainbow-js",
+    "size": 1049,
+    "language": "Arc",
+    "commits": "44",
+    "stars": "15",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/evanrmurphy/SweetScript",
+    "size": 311,
+    "language": "Arc",
+    "commits": "106",
+    "stars": "14",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/akkartik/arc",
+    "size": 601,
+    "language": "Arc",
+    "commits": "162",
+    "stars": "10",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/hasenj/sehm",
+    "size": 120,
+    "language": "Arc",
+    "commits": "42",
+    "stars": "8",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/Treeki/NewerSMBW",
+    "size": 59083,
+    "language": "Arc",
+    "commits": "6",
+    "stars": "8",
+    "forks": "8",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/epi/xedisk",
+    "size": 680,
+    "language": "Arc",
+    "commits": "107",
+    "stars": "7",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/hchbaw/swank-arc",
+    "size": 76,
+    "language": "Arc",
+    "commits": "1",
+    "stars": "6",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/ukwa/webarchive-test-suite",
+    "size": 2484,
+    "language": "Arc",
+    "commits": "9",
+    "stars": "6",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/mgiken/arc-mg",
+    "size": 361,
+    "language": "Arc",
+    "commits": "128",
+    "stars": "6",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/esden/elco",
+    "size": 140,
+    "language": "Arc",
+    "commits": "4",
+    "stars": "6",
+    "forks": "1",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/lsauer/Data-Hub",
+    "size": 32720,
+    "language": "Arc",
+    "commits": "29",
+    "stars": "6",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/shader/metagame",
+    "size": 203,
+    "language": "Arc",
+    "commits": "45",
+    "stars": "5",
+    "forks": "1",
+    "contributors": ""
+  }
+]

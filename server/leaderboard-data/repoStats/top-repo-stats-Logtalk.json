@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://github.com/LogtalkDotOrg/logtalk3",
+    "size": 32789,
+    "language": "Logtalk",
+    "commits": "2,136",
+    "stars": "33",
+    "forks": "2",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/LogtalkDotOrg/logtalk2",
+    "size": 15325,
+    "language": "Logtalk",
+    "commits": "6,458",
+    "stars": "14",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/Joelbyte/verdi-neruda",
+    "size": 247,
+    "language": "Logtalk",
+    "commits": "94",
+    "stars": "5",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/cth/banpipe",
+    "size": 1300,
+    "language": "Logtalk",
+    "commits": "69",
+    "stars": "4",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/java-prolog-connectivity/mapquery",
+    "size": 2245,
+    "language": "Logtalk",
+    "commits": "42",
+    "stars": "4",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/igler/ESProNa",
+    "size": 928,
+    "language": "Logtalk",
+    "commits": "5",
+    "stars": "4",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/Joelbyte/weak-bases",
+    "size": 206,
+    "language": "Logtalk",
+    "commits": "13",
+    "stars": "3",
+    "forks": "2",
+    "contributors": ""
+  }
+]

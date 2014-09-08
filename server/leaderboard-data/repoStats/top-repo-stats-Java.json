@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/nathanmarz/storm",
+    "size": 27015,
+    "language": "Java",
+    "commits": "1,764",
+    "stars": "8,345",
+    "forks": "1,656",
+    "contributors": "47"
+  },
+  {
+    "url": "https://github.com/elasticsearch/elasticsearch",
+    "size": 259176,
+    "language": "Java",
+    "commits": "9,442",
+    "stars": "8,234",
+    "forks": "2,408",
+    "contributors": "281"
+  },
+  {
+    "url": "https://github.com/jfeinstein10/SlidingMenu",
+    "size": 28459,
+    "language": "Java",
+    "commits": "336",
+    "stars": "6,185",
+    "forks": "3,622",
+    "contributors": "21"
+  },
+  {
+    "url": "https://github.com/JakeWharton/ActionBarSherlock",
+    "size": 16243,
+    "language": "Java",
+    "commits": "1,479",
+    "stars": "6,169",
+    "forks": "3,507",
+    "contributors": "56"
+  },
+  {
+    "url": "https://github.com/nostra13/Android-Universal-Image-Loader",
+    "size": 23808,
+    "language": "Java",
+    "commits": "905",
+    "stars": "5,728",
+    "forks": "2,738",
+    "contributors": "27"
+  },
+  {
+    "url": "https://github.com/github/android",
+    "size": 13110,
+    "language": "Java",
+    "commits": "2,374",
+    "stars": "4,654",
+    "forks": "2,216",
+    "contributors": "57"
+  },
+  {
+    "url": "https://github.com/libgdx/libgdx",
+    "size": 933921,
+    "language": "Java",
+    "commits": "9,915",
+    "stars": "4,522",
+    "forks": "3,232",
+    "contributors": "238"
+  },
+  {
+    "url": "https://github.com/loopj/android-async-http",
+    "size": 6822,
+    "language": "Java",
+    "commits": "690",
+    "stars": "4,299",
+    "forks": "2,149",
+    "contributors": "60"
+  },
+  {
+    "url": "https://github.com/JakeWharton/Android-ViewPagerIndicator",
+    "size": 5790,
+    "language": "Java",
+    "commits": "241",
+    "stars": "4,152",
+    "forks": "2,353",
+    "contributors": "15"
+  },
+  {
+    "url": "https://github.com/google/iosched",
+    "size": 19325,
+    "language": "Java",
+    "commits": "62",
+    "stars": "4,133",
+    "forks": "1,247",
+    "contributors": "13"
+  },
+  {
+    "url": "https://github.com/spring-projects/spring-framework",
+    "size": 244861,
+    "language": "Java",
+    "commits": "9,190",
+    "stars": "4,059",
+    "forks": "3,251",
+    "contributors": "93"
+  },
+  {
+    "url": "https://github.com/chrisbanes/Android-PullToRefresh",
+    "size": 3441,
+    "language": "Java",
+    "commits": "477",
+    "stars": "3,685",
+    "forks": "2,254",
+    "contributors": "21"
+  },
+  {
+    "url": "https://github.com/excilys/androidannotations",
+    "size": 43796,
+    "language": "Java",
+    "commits": "1,714",
+    "stars": "3,526",
+    "forks": "949",
+    "contributors": "38"
+  },
+  {
+    "url": "https://github.com/netty/netty",
+    "size": 114210,
+    "language": "Java",
+    "commits": "6,190",
+    "stars": "3,493",
+    "forks": "1,620",
+    "contributors": "126"
+  },
+  {
+    "url": "https://github.com/square/picasso",
+    "size": 12075,
+    "language": "Java",
+    "commits": "683",
+    "stars": "3,463",
+    "forks": "1,012",
+    "contributors": "40"
+  },
+  {
+    "url": "https://github.com/clojure/clojure",
+    "size": 16647,
+    "language": "Java",
+    "commits": "2,633",
+    "stars": "3,456",
+    "forks": "649",
+    "contributors": "97"
+  },
+  {
+    "url": "https://github.com/Bearded-Hen/Android-Bootstrap",
+    "size": 10838,
+    "language": "Java",
+    "commits": "93",
+    "stars": "3,255",
+    "forks": "623",
+    "contributors": "9"
+  },
+  {
+    "url": "https://github.com/ReactiveX/RxJava",
+    "size": 613646,
+    "language": "Java",
+    "commits": "3,396",
+    "stars": "3,110",
+    "forks": "486",
+    "contributors": "89"
+  },
+  {
+    "url": "https://github.com/eclipse/vert.x",
+    "size": 378791,
+    "language": "Java",
+    "commits": "658",
+    "stars": "3,095",
+    "forks": "615",
+    "contributors": "29"
+  },
+  {
+    "url": "https://github.com/AndroidBootstrap/android-bootstrap",
+    "size": 2609,
+    "language": "Java",
+    "commits": "178",
+    "stars": "3,051",
+    "forks": "933",
+    "contributors": "14"
+  }
+]

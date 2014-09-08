@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/torvalds/linux",
+    "size": 1807116,
+    "language": "C",
+    "commits": "469,094",
+    "stars": "15,469",
+    "forks": "6,202",
+    "contributors": "4,117"
+  },
+  {
+    "url": "https://github.com/antirez/redis",
+    "size": 51613,
+    "language": "C",
+    "commits": "4,579",
+    "stars": "10,272",
+    "forks": "3,064",
+    "contributors": "131"
+  },
+  {
+    "url": "https://github.com/kripken/emscripten",
+    "size": 207290,
+    "language": "C",
+    "commits": "11,242",
+    "stars": "7,051",
+    "forks": "777",
+    "contributors": "145"
+  },
+  {
+    "url": "https://github.com/git/git",
+    "size": 252813,
+    "language": "C",
+    "commits": "37,447",
+    "stars": "6,642",
+    "forks": "4,002",
+    "contributors": "816"
+  },
+  {
+    "url": "https://github.com/irungentoo/toxcore",
+    "size": 47782,
+    "language": "C",
+    "commits": "2,706",
+    "stars": "5,794",
+    "forks": "690",
+    "contributors": "131"
+  },
+  {
+    "url": "https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System",
+    "size": 5918,
+    "language": "C",
+    "commits": "191",
+    "stars": "5,474",
+    "forks": "612",
+    "contributors": "28"
+  },
+  {
+    "url": "https://github.com/php/php-src",
+    "size": 1217756,
+    "language": "C",
+    "commits": "84,600",
+    "stars": "4,667",
+    "forks": "1,608",
+    "contributors": "192"
+  },
+  {
+    "url": "https://github.com/libgit2/libgit2",
+    "size": 91528,
+    "language": "C",
+    "commits": "7,122",
+    "stars": "4,619",
+    "forks": "1,022",
+    "contributors": "185"
+  },
+  {
+    "url": "https://github.com/julycoding/The-Art-Of-Programming-By-July",
+    "size": 44814,
+    "language": "C",
+    "commits": "3,381",
+    "stars": "4,509",
+    "forks": "2,139",
+    "contributors": "96"
+  },
+  {
+    "url": "https://github.com/mjolnir-io/mjolnir",
+    "size": 20950,
+    "language": "C",
+    "commits": "1,449",
+    "stars": "4,255",
+    "forks": "120",
+    "contributors": "22"
+  },
+  {
+    "url": "https://github.com/b4winckler/macvim",
+    "size": 63655,
+    "language": "C",
+    "commits": "7,373",
+    "stars": "4,230",
+    "forks": "359",
+    "contributors": "30"
+  },
+  {
+    "url": "https://github.com/ggreer/the_silver_searcher",
+    "size": 6383,
+    "language": "C",
+    "commits": "1,303",
+    "stars": "4,112",
+    "forks": "280",
+    "contributors": "82"
+  },
+  {
+    "url": "https://github.com/phalcon/cphalcon",
+    "size": 84085,
+    "language": "C",
+    "commits": "4,368",
+    "stars": "4,059",
+    "forks": "593",
+    "contributors": "58"
+  },
+  {
+    "url": "https://github.com/wg/wrk",
+    "size": 1969,
+    "language": "C",
+    "commits": "42",
+    "stars": "4,009",
+    "forks": "226",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "size": 117272,
+    "language": "C",
+    "commits": "17,080",
+    "stars": "4,015",
+    "forks": "2,150",
+    "contributors": "293"
+  },
+  {
+    "url": "https://github.com/liuliu/ccv",
+    "size": 1028770,
+    "language": "C",
+    "commits": "753",
+    "stars": "3,828",
+    "forks": "642",
+    "contributors": "3"
+  },
+  {
+    "url": "https://github.com/drone/drone",
+    "size": 18384,
+    "language": "C",
+    "commits": "493",
+    "stars": "3,607",
+    "forks": "307",
+    "contributors": "64"
+  },
+  {
+    "url": "https://github.com/arduino/Arduino",
+    "size": 2818028,
+    "language": "C",
+    "commits": "2,277",
+    "stars": "3,193",
+    "forks": "2,251",
+    "contributors": "59"
+  },
+  {
+    "url": "https://github.com/stedolan/jq",
+    "size": 14597,
+    "language": "C",
+    "commits": "661",
+    "stars": "3,182",
+    "forks": "183",
+    "contributors": "39"
+  },
+  {
+    "url": "https://github.com/joyent/libuv",
+    "size": 28433,
+    "language": "C",
+    "commits": "2,939",
+    "stars": "3,137",
+    "forks": "687",
+    "contributors": "138"
+  }
+]

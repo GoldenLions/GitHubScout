@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/Fuco1/litable",
+    "size": 340,
+    "language": "Emacs Lisp",
+    "commits": "65",
+    "stars": "160",
+    "forks": "18",
+    "contributors": "8"
+  },
+  {
+    "url": "https://github.com/hober/html5-el",
+    "size": 236,
+    "language": "Emacs Lisp",
+    "commits": "18",
+    "stars": "130",
+    "forks": "14",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/stanaka/dash-at-point",
+    "size": 250,
+    "language": "Emacs Lisp",
+    "commits": "45",
+    "stars": "107",
+    "forks": "15",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/kiwanami/emacs-edbi",
+    "size": 265,
+    "language": "Emacs Lisp",
+    "commits": "67",
+    "stars": "100",
+    "forks": "12",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/kiwanami/emacs-deferred",
+    "size": 765,
+    "language": "Emacs Lisp",
+    "commits": "125",
+    "stars": "86",
+    "forks": "16",
+    "contributors": "8"
+  },
+  {
+    "url": "https://github.com/tkf/emacs-request",
+    "size": 829,
+    "language": "Emacs Lisp",
+    "commits": "356",
+    "stars": "73",
+    "forks": "10",
+    "contributors": "3"
+  },
+  {
+    "url": "https://github.com/quelpa/quelpa",
+    "size": 2419,
+    "language": "Emacs Lisp",
+    "commits": "152",
+    "stars": "69",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/larsbrinkhoff/emacs-cl",
+    "size": 374,
+    "language": "Emacs Lisp",
+    "commits": "6",
+    "stars": "56",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/ShingoFukuyama/ov.el",
+    "size": 606,
+    "language": "Emacs Lisp",
+    "commits": "71",
+    "stars": "53",
+    "forks": "4",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/kiwanami/emacs-epc",
+    "size": 530,
+    "language": "Emacs Lisp",
+    "commits": "71",
+    "stars": "51",
+    "forks": "9",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/yinwang0/ydiff",
+    "size": 1198,
+    "language": "Emacs Lisp",
+    "commits": "96",
+    "stars": "47",
+    "forks": "28",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/abo-abo/lispy",
+    "size": 10525,
+    "language": "Emacs Lisp",
+    "commits": "520",
+    "stars": "46",
+    "forks": "3",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/purcell/elisp-slime-nav",
+    "size": 215,
+    "language": "Emacs Lisp",
+    "commits": "35",
+    "stars": "42",
+    "forks": "8",
+    "contributors": "8"
+  },
+  {
+    "url": "https://github.com/redraiment/wechat.el",
+    "size": 356,
+    "language": "Emacs Lisp",
+    "commits": "23",
+    "stars": "35",
+    "forks": "17",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/m2ym/mongo-el",
+    "size": 163,
+    "language": "Emacs Lisp",
+    "commits": "26",
+    "stars": "29",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/eschulte/emacs-web-server",
+    "size": 911,
+    "language": "Emacs Lisp",
+    "commits": "130",
+    "stars": "29",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/nicferrier/elmarmalade",
+    "size": 1899,
+    "language": "Emacs Lisp",
+    "commits": "367",
+    "stars": "28",
+    "forks": "10",
+    "contributors": "8"
+  },
+  {
+    "url": "https://github.com/chrisbarrett/elisp-namespaces",
+    "size": 460,
+    "language": "Emacs Lisp",
+    "commits": "187",
+    "stars": "27",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/redraiment/edbc",
+    "size": 316,
+    "language": "Emacs Lisp",
+    "commits": "7",
+    "stars": "24",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/jwiegley/emacs-chess",
+    "size": 8306,
+    "language": "Emacs Lisp",
+    "commits": "831",
+    "stars": "23",
+    "forks": "7",
+    "contributors": ""
+  }
+]

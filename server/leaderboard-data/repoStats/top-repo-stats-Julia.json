@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/JuliaLang/julia",
+    "size": 165048,
+    "language": "Julia",
+    "commits": "20,087",
+    "stars": "4,289",
+    "forks": "873",
+    "contributors": "275"
+  },
+  {
+    "url": "https://github.com/JuliaLang/IJulia.jl",
+    "size": 2257,
+    "language": "Julia",
+    "commits": "313",
+    "stars": "442",
+    "forks": "52",
+    "contributors": "23"
+  },
+  {
+    "url": "https://github.com/dcjones/Gadfly.jl",
+    "size": 7077,
+    "language": "Julia",
+    "commits": "588",
+    "stars": "387",
+    "forks": "74",
+    "contributors": "35"
+  },
+  {
+    "url": "https://github.com/JuliaStats/DataFrames.jl",
+    "size": 15185,
+    "language": "Julia",
+    "commits": "1,155",
+    "stars": "148",
+    "forks": "77",
+    "contributors": "52"
+  },
+  {
+    "url": "https://github.com/stevengj/PyCall.jl",
+    "size": 1307,
+    "language": "Julia",
+    "commits": "245",
+    "stars": "122",
+    "forks": "24",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/JuliaOpt/JuMP.jl",
+    "size": 9677,
+    "language": "Julia",
+    "commits": "818",
+    "stars": "90",
+    "forks": "18",
+    "contributors": "7"
+  },
+  {
+    "url": "https://github.com/hackerschool/webstack.jl",
+    "size": 654,
+    "language": "Julia",
+    "commits": "136",
+    "stars": "88",
+    "forks": "4",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/JuliaLang/julia-tutorial",
+    "size": 1748,
+    "language": "Julia",
+    "commits": "36",
+    "stars": "82",
+    "forks": "19",
+    "contributors": "5"
+  },
+  {
+    "url": "https://github.com/forio/GeneticAlgorithms.jl",
+    "size": 327,
+    "language": "Julia",
+    "commits": "59",
+    "stars": "73",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/JuliaOpt/Optim.jl",
+    "size": 1554,
+    "language": "Julia",
+    "commits": "211",
+    "stars": "73",
+    "forks": "31",
+    "contributors": "16"
+  },
+  {
+    "url": "https://github.com/JuliaWeb/Morsel.jl",
+    "size": 410,
+    "language": "Julia",
+    "commits": "61",
+    "stars": "71",
+    "forks": "11",
+    "contributors": "14"
+  },
+  {
+    "url": "https://github.com/nolta/Winston.jl",
+    "size": 2248,
+    "language": "Julia",
+    "commits": "327",
+    "stars": "58",
+    "forks": "29",
+    "contributors": "18"
+  },
+  {
+    "url": "https://github.com/JuliaStats/GLM.jl",
+    "size": 1459,
+    "language": "Julia",
+    "commits": "203",
+    "stars": "58",
+    "forks": "22",
+    "contributors": "11"
+  },
+  {
+    "url": "https://github.com/JuliaStats/Distributions.jl",
+    "size": 4932,
+    "language": "Julia",
+    "commits": "642",
+    "stars": "58",
+    "forks": "50",
+    "contributors": "37"
+  },
+  {
+    "url": "https://github.com/adambom/dictionary",
+    "size": 41046,
+    "language": "Julia",
+    "commits": "12",
+    "stars": "54",
+    "forks": "17",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/JuliaLang/Graphs.jl",
+    "size": 1795,
+    "language": "Julia",
+    "commits": "233",
+    "stars": "48",
+    "forks": "33",
+    "contributors": "25"
+  },
+  {
+    "url": "https://github.com/JuliaLang/METADATA.jl",
+    "size": 25554,
+    "language": "Julia",
+    "commits": "5,024",
+    "stars": "48",
+    "forks": "187",
+    "contributors": "160"
+  },
+  {
+    "url": "https://github.com/JuliaGPU/OpenCL.jl",
+    "size": 8403,
+    "language": "Julia",
+    "commits": "429",
+    "stars": "45",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/JuliaStats/MCMC.jl",
+    "size": 1517,
+    "language": "Julia",
+    "commits": "243",
+    "stars": "44",
+    "forks": "11",
+    "contributors": "10"
+  },
+  {
+    "url": "https://github.com/johnmyleswhite/JuliaVsR",
+    "size": 2312,
+    "language": "R",
+    "commits": "21",
+    "stars": "41",
+    "forks": "8",
+    "contributors": "2"
+  }
+]

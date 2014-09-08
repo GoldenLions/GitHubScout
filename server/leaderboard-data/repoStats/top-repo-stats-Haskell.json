@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/jgm/pandoc",
+    "size": 38364,
+    "language": "Haskell",
+    "commits": "5,482",
+    "stars": "2,726",
+    "forks": "361",
+    "contributors": "70"
+  },
+  {
+    "url": "https://github.com/elm-lang/Elm",
+    "size": 13491,
+    "language": "Haskell",
+    "commits": "2,913",
+    "stars": "1,288",
+    "forks": "164",
+    "contributors": "53"
+  },
+  {
+    "url": "https://github.com/facebook/Haxl",
+    "size": 1277,
+    "language": "Haskell",
+    "commits": "28",
+    "stars": "1,250",
+    "forks": "89",
+    "contributors": "12"
+  },
+  {
+    "url": "https://github.com/koalaman/shellcheck",
+    "size": 5856,
+    "language": "Haskell",
+    "commits": "477",
+    "stars": "996",
+    "forks": "56",
+    "contributors": "12"
+  },
+  {
+    "url": "https://github.com/yesodweb/yesod",
+    "size": 22755,
+    "language": "Haskell",
+    "commits": "3,360",
+    "stars": "926",
+    "forks": "172",
+    "contributors": "111"
+  },
+  {
+    "url": "https://github.com/faylang/fay",
+    "size": 8502,
+    "language": "Haskell",
+    "commits": "948",
+    "stars": "896",
+    "forks": "72",
+    "contributors": "32"
+  },
+  {
+    "url": "https://github.com/jgm/gitit",
+    "size": 4021,
+    "language": "Haskell",
+    "commits": "1,248",
+    "stars": "777",
+    "forks": "104",
+    "contributors": "33"
+  },
+  {
+    "url": "https://github.com/joeyh/git-annex",
+    "size": 84413,
+    "language": "Haskell",
+    "commits": "21,158",
+    "stars": "760",
+    "forks": "63",
+    "contributors": "34"
+  },
+  {
+    "url": "https://github.com/jaspervdj/hakyll",
+    "size": 20149,
+    "language": "Haskell",
+    "commits": "1,387",
+    "stars": "755",
+    "forks": "143",
+    "contributors": "68"
+  },
+  {
+    "url": "https://github.com/purescript/purescript",
+    "size": 11447,
+    "language": "Haskell",
+    "commits": "1,380",
+    "stars": "671",
+    "forks": "59",
+    "contributors": "32"
+  },
+  {
+    "url": "https://github.com/ghc/ghc",
+    "size": 155424,
+    "language": "Haskell",
+    "commits": "41,722",
+    "stars": "661",
+    "forks": "178",
+    "contributors": "194"
+  },
+  {
+    "url": "https://github.com/valderman/haste-compiler",
+    "size": 4095,
+    "language": "Haskell",
+    "commits": "1,051",
+    "stars": "640",
+    "forks": "60",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/ghcjs/ghcjs",
+    "size": 7466,
+    "language": "Haskell",
+    "commits": "851",
+    "stars": "623",
+    "forks": "46",
+    "contributors": "19"
+  },
+  {
+    "url": "https://github.com/yi-editor/yi",
+    "size": 35582,
+    "language": "Haskell",
+    "commits": "5,117",
+    "stars": "591",
+    "forks": "112",
+    "contributors": "72"
+  },
+  {
+    "url": "https://github.com/gibiansky/IHaskell",
+    "size": 6817,
+    "language": "Haskell",
+    "commits": "548",
+    "stars": "572",
+    "forks": "51",
+    "contributors": "19"
+  },
+  {
+    "url": "https://github.com/awgn/cgrep",
+    "size": 1786,
+    "language": "Haskell",
+    "commits": "447",
+    "stars": "530",
+    "forks": "20",
+    "contributors": "4"
+  },
+  {
+    "url": "https://github.com/scotty-web/scotty",
+    "size": 1925,
+    "language": "Haskell",
+    "commits": "264",
+    "stars": "523",
+    "forks": "68",
+    "contributors": "27"
+  },
+  {
+    "url": "https://github.com/xmonad/osxmonad",
+    "size": 205,
+    "language": "Haskell",
+    "commits": "32",
+    "stars": "501",
+    "forks": "27",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/ekmett/lens",
+    "size": 40676,
+    "language": "Haskell",
+    "commits": "3,230",
+    "stars": "498",
+    "forks": "88",
+    "contributors": "65"
+  },
+  {
+    "url": "https://github.com/bos/stanford-cs240h",
+    "size": 643,
+    "language": "Haskell",
+    "commits": "169",
+    "stars": "490",
+    "forks": "44",
+    "contributors": "1"
+  }
+]

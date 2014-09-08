@@ -1,0 +1,164 @@
+[
+  {
+    "url": "https://github.com/manastech/crystal",
+    "size": 31601,
+    "language": "Crystal",
+    "commits": "3,657",
+    "stars": "686",
+    "forks": "38",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/yegortimoschenko/mind",
+    "size": 132,
+    "language": "Crystal",
+    "commits": "6",
+    "stars": "7",
+    "forks": "2",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/kostya/http_parser.cr",
+    "size": 408,
+    "language": "Crystal",
+    "commits": "67",
+    "stars": "4",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/jtomschroeder/ProjectEulerCrystal",
+    "size": 248,
+    "language": "Crystal",
+    "commits": "36",
+    "stars": "4",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/jtomschroeder/crystalline",
+    "size": 232,
+    "language": "Crystal",
+    "commits": "18",
+    "stars": "3",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/manastech/frank",
+    "size": 175,
+    "language": "Crystal",
+    "commits": "8",
+    "stars": "3",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/ggiraldez/crystal-gl",
+    "size": 300,
+    "language": "Crystal",
+    "commits": "18",
+    "stars": "3",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/manastech/conan",
+    "size": 120,
+    "language": "Crystal",
+    "commits": "8",
+    "stars": "3",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/earth75/CoreWarReloaded",
+    "size": 1192,
+    "language": "Crystal",
+    "commits": "22",
+    "stars": "2",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/farleyknight/crystal-mysql",
+    "size": 156,
+    "language": "Crystal",
+    "commits": "9",
+    "stars": "2",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/farleyknight/crystal-c-api-generator",
+    "size": 884,
+    "language": "Crystal",
+    "commits": "62",
+    "stars": "2",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/farleyknight/crystal-algorithms",
+    "size": 136,
+    "language": "Crystal",
+    "commits": "2",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/manastech/crystal-mysql",
+    "size": 140,
+    "language": "Crystal",
+    "commits": "7",
+    "stars": "1",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/farleyknight/crystal-sdl",
+    "size": 674,
+    "language": "Crystal",
+    "commits": "32",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/bfontaine/crtest",
+    "size": 0,
+    "language": "Crystal",
+    "commits": "4",
+    "stars": "1",
+    "forks": "0",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/lesliev/crittertrader",
+    "size": 224,
+    "language": "Crystal",
+    "commits": "15",
+    "stars": "0",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/lesliev/crittertrader-server",
+    "size": 208,
+    "language": "Crystal",
+    "commits": "12",
+    "stars": "0",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/manastech/pinkman",
+    "size": 132,
+    "language": "Crystal",
+    "commits": "5",
+    "stars": "0",
+    "forks": "0",
+    "contributors": ""
+  }
+]

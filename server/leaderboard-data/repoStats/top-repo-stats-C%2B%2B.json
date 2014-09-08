@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/textmate/textmate",
+    "size": 77421,
+    "language": "C++",
+    "commits": "2,880",
+    "stars": "9,867",
+    "forks": "1,559",
+    "contributors": "60"
+  },
+  {
+    "url": "https://github.com/nolimits4web/Framework7",
+    "size": 7490,
+    "language": "JavaScript",
+    "commits": "807",
+    "stars": "2,921",
+    "forks": "471",
+    "contributors": "16"
+  },
+  {
+    "url": "https://github.com/romaonthego/RESideMenu",
+    "size": 10752,
+    "language": "Objective-C",
+    "commits": "359",
+    "stars": "2,797",
+    "forks": "487",
+    "contributors": "25"
+  },
+  {
+    "url": "https://github.com/CEWendel/SWTableViewCell",
+    "size": 3392,
+    "language": "Objective-C",
+    "commits": "281",
+    "stars": "2,796",
+    "forks": "472",
+    "contributors": "38"
+  },
+  {
+    "url": "https://github.com/shu223/iOS7-Sampler",
+    "size": 1548,
+    "language": "Objective-C",
+    "commits": "43",
+    "stars": "2,421",
+    "forks": "458",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/nicklockwood/FXBlurView",
+    "size": 3107,
+    "language": "Objective-C",
+    "commits": "56",
+    "stars": "2,108",
+    "forks": "236",
+    "contributors": "8"
+  },
+  {
+    "url": "https://github.com/youknowone/UI7Kit",
+    "size": 23823,
+    "language": "Objective-C",
+    "commits": "392",
+    "stars": "1,758",
+    "forks": "243",
+    "contributors": "17"
+  },
+  {
+    "url": "https://github.com/romaonthego/REFrostedViewController",
+    "size": 5181,
+    "language": "Objective-C",
+    "commits": "139",
+    "stars": "1,591",
+    "forks": "251",
+    "contributors": "11"
+  },
+  {
+    "url": "https://github.com/joho/7XX-rfc",
+    "size": 383,
+    "language": null,
+    "commits": "116",
+    "stars": "1,514",
+    "forks": "150",
+    "contributors": "34"
+  },
+  {
+    "url": "https://github.com/pkyeck/socket.IO-objc",
+    "size": 1565,
+    "language": "Objective-C",
+    "commits": "156",
+    "stars": "1,350",
+    "forks": "339",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/panicinc/PunchClock",
+    "size": 1023,
+    "language": "Objective-C",
+    "commits": "39",
+    "stars": "1,275",
+    "forks": "119",
+    "contributors": "7"
+  },
+  {
+    "url": "https://github.com/node-app/Interpreter",
+    "size": 4448,
+    "language": "Objective-C",
+    "commits": "296",
+    "stars": "1,236",
+    "forks": "88",
+    "contributors": "5"
+  },
+  {
+    "url": "https://github.com/Schepp/box-sizing-polyfill",
+    "size": 175,
+    "language": null,
+    "commits": "19",
+    "stars": "1,018",
+    "forks": "212",
+    "contributors": "4"
+  },
+  {
+    "url": "https://github.com/jamztang/CSStickyHeaderFlowLayout",
+    "size": 1517,
+    "language": "Objective-C",
+    "commits": "50",
+    "stars": "1,001",
+    "forks": "75",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/abpetkov/switchery",
+    "size": 3486,
+    "language": "JavaScript",
+    "commits": "154",
+    "stars": "990",
+    "forks": "158",
+    "contributors": "10"
+  },
+  {
+    "url": "https://github.com/fphilipe/PHFComposeBarView",
+    "size": 751,
+    "language": "Objective-C",
+    "commits": "92",
+    "stars": "961",
+    "forks": "80",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/shu223/AnimatedTransitionGallery",
+    "size": 1261,
+    "language": "Objective-C",
+    "commits": "13",
+    "stars": "929",
+    "forks": "82",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/alexdrone/ios-realtimeblur",
+    "size": 617,
+    "language": "Objective-C",
+    "commits": "45",
+    "stars": "864",
+    "forks": "127",
+    "contributors": "11"
+  },
+  {
+    "url": "https://github.com/ShinobiControls/iOS7-day-by-day",
+    "size": 19131,
+    "language": "Objective-C",
+    "commits": "210",
+    "stars": "830",
+    "forks": "221",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/piotrbernad/FlatUI",
+    "size": 3003,
+    "language": "Objective-C",
+    "commits": "25",
+    "stars": "792",
+    "forks": "123",
+    "contributors": "6"
+  }
+]
