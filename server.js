@@ -4,7 +4,9 @@ var handler = require('./server/handler.js');
 var updater = require('./server/autoUpdates.js');
 
 //Takes two argument strings: MySQL query, and filename
-updater.makeFile('SELECT * FROM [githubscout.distinct_users_pushing_by_month_and_language] LIMIT 3500;','usersPushingByMonthAndLanguage2.json');
+updater.makeFile('SELECT repository_language, LEFT(created_at, 7) as month, COUNT(*) as activity FROM [githubarchive:github.timeline] GROUP BY repository_language, month ORDER BY month DESC;','repo_activity_by_month.json');
+
+
 
 var app = express();
 var port = port = process.env.PORT || 8000;
