@@ -19,7 +19,7 @@
     <div class="one-half float-left">
       <h2>Repo Activity over Time</h2>
       <nvd3-line-chart
-              data="commits"
+              data="data.commits"
               id="commits"
               width="600"
               height="400"
@@ -39,7 +39,7 @@
     <div class="one-half second-half float-left">
       <h2>Repos Created over Time</h2>
       <nvd3-line-chart
-              data="creates"
+              data="data.creates"
               id="creates"
               width="600"
               height="400"
@@ -60,7 +60,7 @@
     <div class="one-half float-left">
       <h2>Repos Made Public over Time</h2>
       <nvd3-line-chart
-              data="public_repos"
+              data="data.public_repos"
               id="public_repos"
               width="600"
               height="400"
@@ -79,7 +79,7 @@
     <div class="one-half second-half float-left">
       <h2>Pushes over Time</h2>
       <nvd3-line-chart
-              data="pushes"
+              data="data.pushes"
               id="pushes"
               width="600"
               height="400"
@@ -114,7 +114,7 @@
     <h2>Repo Leaderboard for {{ data.currentLanguages[0] }}</h2>
     <table>
       <tr>
-        <td>Url</td>
+        <td>Repo</td>
         <td>Commits</td>
         <td>Stars</td>
         <td>Forks</td>
