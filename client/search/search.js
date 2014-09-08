@@ -29,7 +29,7 @@ angular.module('githubscout.search', [])
       })
       .then(function(result) {
         LanguageData.leaderboard.users[$scope.input.language] = result.data.sort(function(a,b) {
-          return b.popular_repos_stars > a.popular_repos_stars ? 1 : -1;
+          return parseInt(b.popular_repos_stars) > parseInt(a.popular_repos_stars) ? 1 : -1;
         }).slice(0,20);
       });
 
