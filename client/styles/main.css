@@ -93,6 +93,9 @@ button, input {
 .three-fourths {
   width: 75%; }
 
+.home h1 {
+  margin-bottom: 10px; }
+
 .search button, .search input[type=submit] {
   background-color: #E5E5E5;
   padding: 7px 10px;
@@ -199,6 +202,9 @@ header {
   header h3 {
     margin-top: 8px;
     margin-right: 7px; }
+
+.center {
+  text-align: center; }
 
 nav {
   width: 100%;
