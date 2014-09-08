@@ -39,8 +39,8 @@ angular.module('githubscout.language', ['nvd3ChartDirectives',
 
       settings = {
         languages: LanguageData.currentLanguages,
-        countType: 'commits',
-        url: './CSVs/repo_activity_by_month.csv'
+        countType: 'activity',
+        url: './data/language_activity_by_month.csv'
       };
 
       ChartsUtil.fetchLanguageData(settings)
@@ -55,7 +55,7 @@ angular.module('githubscout.language', ['nvd3ChartDirectives',
       settings = {
         languages: LanguageData.currentLanguages,
         countType: 'creates',
-        url: './CSVs/repo_creates_by_month.csv'
+        url: './data/repo_creates_by_month.csv'
       };
 
       ChartsUtil.fetchLanguageData(settings)
@@ -69,7 +69,7 @@ angular.module('githubscout.language', ['nvd3ChartDirectives',
       settings = {
         languages: LanguageData.currentLanguages,
         countType: 'public_repos',
-        url: './CSVs/repos_made_public_by_month.csv'
+        url: './data/repos_made_public_by_month.csv'
       };
 
       ChartsUtil.fetchLanguageData(settings)
@@ -83,7 +83,7 @@ angular.module('githubscout.language', ['nvd3ChartDirectives',
       settings = {
         languages: LanguageData.currentLanguages,
         countType: 'pushes',
-        url: './CSVs/pushes_by_month.csv'
+        url: './data/pushes_by_month.csv'
       };
 
       ChartsUtil.fetchLanguageData(settings)
