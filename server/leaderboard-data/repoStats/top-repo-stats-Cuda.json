@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/antonmks/Alenka",
+    "size": 44622,
+    "language": "Cuda",
+    "commits": "342",
+    "stars": "576",
+    "forks": "46",
+    "contributors": "4"
+  },
+  {
+    "url": "https://github.com/NVlabs/moderngpu",
+    "size": 5728,
+    "language": "Cuda",
+    "commits": "25",
+    "stars": "380",
+    "forks": "74",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/TorontoDeepLearning/convnet",
+    "size": 16120,
+    "language": "Cuda",
+    "commits": "83",
+    "stars": "222",
+    "forks": "94",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/udacity/cs344",
+    "size": 64439,
+    "language": "Cuda",
+    "commits": "123",
+    "stars": "196",
+    "forks": "303",
+    "contributors": "12"
+  },
+  {
+    "url": "https://github.com/deeplearningais/CUV",
+    "size": 5734,
+    "language": "Cuda",
+    "commits": "1,427",
+    "stars": "111",
+    "forks": "27",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/soumith/convnet-benchmarks",
+    "size": 1183,
+    "language": "Cuda",
+    "commits": "206",
+    "stars": "96",
+    "forks": "30",
+    "contributors": "6"
+  },
+  {
+    "url": "https://github.com/dnouri/cuda-convnet",
+    "size": 1319,
+    "language": "Cuda",
+    "commits": "221",
+    "stars": "95",
+    "forks": "73",
+    "contributors": "3"
+  },
+  {
+    "url": "https://github.com/ArchaeaSoftware/cudahandbook",
+    "size": 1426,
+    "language": "Cuda",
+    "commits": "383",
+    "stars": "50",
+    "forks": "26",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/NVlabs/nvbio",
+    "size": 62648,
+    "language": "Cuda",
+    "commits": "861",
+    "stars": "39",
+    "forks": "12",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/soumith/cuda-convnet2.torch",
+    "size": 5614,
+    "language": "Cuda",
+    "commits": "115",
+    "stars": "15",
+    "forks": "4",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/gunrock/gunrock",
+    "size": 7573,
+    "language": "Cuda",
+    "commits": "273",
+    "stars": "13",
+    "forks": "4",
+    "contributors": "4"
+  },
+  {
+    "url": "https://github.com/GooFit/GooFit",
+    "size": 4539,
+    "language": "Cuda",
+    "commits": "152",
+    "stars": "13",
+    "forks": "7",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/torch/cutorch",
+    "size": 1226,
+    "language": "Cuda",
+    "commits": "165",
+    "stars": "13",
+    "forks": "14",
+    "contributors": "12"
+  },
+  {
+    "url": "https://github.com/jwetzl/CudaLBFGS",
+    "size": 975,
+    "language": "Cuda",
+    "commits": "12",
+    "stars": "11",
+    "forks": "7",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/torch/cunn",
+    "size": 903,
+    "language": "Cuda",
+    "commits": "122",
+    "stars": "10",
+    "forks": "17",
+    "contributors": "11"
+  },
+  {
+    "url": "https://github.com/fspiga/QE-GPU",
+    "size": 85015,
+    "language": "Cuda",
+    "commits": "315",
+    "stars": "8",
+    "forks": "8",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/ebattenberg/nmf-cuda",
+    "size": 8072,
+    "language": "Cuda",
+    "commits": "5",
+    "stars": "6",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/cheesinglee/cuda-PHDSLAM",
+    "size": 3709,
+    "language": "Cuda",
+    "commits": "59",
+    "stars": "6",
+    "forks": "6",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/ankan-ban/perft_gpu",
+    "size": 10508,
+    "language": "Cuda",
+    "commits": "51",
+    "stars": "5",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/ysoftdevs/th",
+    "size": 1406,
+    "language": "Cuda",
+    "commits": "7",
+    "stars": "4",
+    "forks": "2",
+    "contributors": "1"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/SignalR/SignalR",
+    "size": 126228,
+    "language": "C#",
+    "commits": "4,345",
+    "stars": "4,447",
+    "forks": "1,250",
+    "contributors": "57"
+  },
+  {
+    "url": "https://github.com/hbons/SparkleShare",
+    "size": 47116,
+    "language": "C#",
+    "commits": "3,950",
+    "stars": "3,192",
+    "forks": "424",
+    "contributors": "119"
+  },
+  {
+    "url": "https://github.com/ServiceStack/ServiceStack",
+    "size": 233329,
+    "language": "C#",
+    "commits": "5,080",
+    "stars": "2,488",
+    "forks": "951",
+    "contributors": "195"
+  },
+  {
+    "url": "https://github.com/mono/mono",
+    "size": 1274345,
+    "language": "C#",
+    "commits": "97,929",
+    "stars": "2,444",
+    "forks": "1,287",
+    "contributors": "346"
+  },
+  {
+    "url": "https://github.com/NancyFx/Nancy",
+    "size": 50563,
+    "language": "C#",
+    "commits": "3,902",
+    "stars": "2,365",
+    "forks": "622",
+    "contributors": "184"
+  },
+  {
+    "url": "https://github.com/mono/MonoGame",
+    "size": 317725,
+    "language": "C#",
+    "commits": "7,989",
+    "stars": "2,261",
+    "forks": "1,290",
+    "contributors": "162"
+  },
+  {
+    "url": "https://github.com/AutoMapper/AutoMapper",
+    "size": 57122,
+    "language": "C#",
+    "commits": "636",
+    "stars": "2,121",
+    "forks": "586",
+    "contributors": "53"
+  },
+  {
+    "url": "https://github.com/restsharp/RestSharp",
+    "size": 39966,
+    "language": "C#",
+    "commits": "896",
+    "stars": "2,042",
+    "forks": "727",
+    "contributors": "108"
+  },
+  {
+    "url": "https://github.com/Redth/PushSharp",
+    "size": 9923,
+    "language": "C#",
+    "commits": "369",
+    "stars": "1,984",
+    "forks": "800",
+    "contributors": "17"
+  },
+  {
+    "url": "https://github.com/opserver/Opserver",
+    "size": 26598,
+    "language": "C#",
+    "commits": "92",
+    "stars": "1,560",
+    "forks": "256",
+    "contributors": "9"
+  },
+  {
+    "url": "https://github.com/StackExchange/dapper-dot-net",
+    "size": 30230,
+    "language": "C#",
+    "commits": "684",
+    "stars": "1,494",
+    "forks": "534",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/OpenRA/OpenRA",
+    "size": 166361,
+    "language": "C#",
+    "commits": "14,075",
+    "stars": "1,309",
+    "forks": "435",
+    "contributors": "103"
+  },
+  {
+    "url": "https://github.com/robconery/massive",
+    "size": 755,
+    "language": "C#",
+    "commits": "128",
+    "stars": "1,284",
+    "forks": "273",
+    "contributors": "27"
+  },
+  {
+    "url": "https://github.com/jaredpar/VsVim",
+    "size": 41326,
+    "language": "C#",
+    "commits": "2,935",
+    "stars": "1,236",
+    "forks": "155",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/ravendb/ravendb",
+    "size": 330110,
+    "language": "C#",
+    "commits": "17,773",
+    "stars": "1,201",
+    "forks": "520",
+    "contributors": "159"
+  },
+  {
+    "url": "https://github.com/JamesNK/Newtonsoft.Json",
+    "size": 27882,
+    "language": "C#",
+    "commits": "784",
+    "stars": "1,144",
+    "forks": "513",
+    "contributors": "18"
+  },
+  {
+    "url": "https://github.com/mono/monodevelop",
+    "size": 505498,
+    "language": "C#",
+    "commits": "32,062",
+    "stars": "1,124",
+    "forks": "489",
+    "contributors": "153"
+  },
+  {
+    "url": "https://github.com/reactiveui/ReactiveUI",
+    "size": 88402,
+    "language": "C#",
+    "commits": "2,936",
+    "stars": "1,114",
+    "forks": "253",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/SamSaffron/MiniProfiler",
+    "size": 26096,
+    "language": "C#",
+    "commits": "839",
+    "stars": "1,108",
+    "forks": "269",
+    "contributors": "77"
+  },
+  {
+    "url": "https://github.com/jagregory/fluent-nhibernate",
+    "size": 52394,
+    "language": "C#",
+    "commits": "1,425",
+    "stars": "1,099",
+    "forks": "543",
+    "contributors": "74"
+  }
+]

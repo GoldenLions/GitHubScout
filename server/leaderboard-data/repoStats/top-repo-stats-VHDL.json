@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/progranism/Open-Source-FPGA-Bitcoin-Miner",
+    "size": 9382,
+    "language": "VHDL",
+    "commits": "114",
+    "stars": "363",
+    "forks": "199",
+    "contributors": "7"
+  },
+  {
+    "url": "https://github.com/asicguy/gplgpu",
+    "size": 71428,
+    "language": "VHDL",
+    "commits": "10",
+    "stars": "183",
+    "forks": "21",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/inforichland/yafc",
+    "size": 586,
+    "language": "VHDL",
+    "commits": "41",
+    "stars": "54",
+    "forks": "3",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/alvieboy/ZPUino-HDL",
+    "size": 37209,
+    "language": "VHDL",
+    "commits": "884",
+    "stars": "32",
+    "forks": "25",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/GadgetFactory/Arduino-Soft-Core",
+    "size": 24699,
+    "language": "VHDL",
+    "commits": "35",
+    "stars": "28",
+    "forks": "14",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/martinjthompson/libv",
+    "size": 128,
+    "language": "VHDL",
+    "commits": "24",
+    "stars": "28",
+    "forks": "10",
+    "contributors": "5"
+  },
+  {
+    "url": "https://github.com/yangsu/sublime-vhdl",
+    "size": 258,
+    "language": "VHDL",
+    "commits": "18",
+    "stars": "25",
+    "forks": "17",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/timvideos/HDMI2USB",
+    "size": 70735,
+    "language": "VHDL",
+    "commits": "70",
+    "stars": "24",
+    "forks": "14",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/stiggy87/ZynqBTC",
+    "size": 2793,
+    "language": "VHDL",
+    "commits": "15",
+    "stars": "22",
+    "forks": "7",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/xesscorp/XuLA2",
+    "size": 12483,
+    "language": "VHDL",
+    "commits": "57",
+    "stars": "21",
+    "forks": "11",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/jpiat/hard-cv",
+    "size": 459,
+    "language": "VHDL",
+    "commits": "40",
+    "stars": "19",
+    "forks": "4",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/xesscorp/FpgasNowWhat",
+    "size": 75686,
+    "language": "VHDL",
+    "commits": "31",
+    "stars": "16",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/jeuneS2/lemberg",
+    "size": 49997,
+    "language": "VHDL",
+    "commits": "296",
+    "stars": "15",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/GadgetFactory/Papilio-Arcade",
+    "size": 11799,
+    "language": "VHDL",
+    "commits": "37",
+    "stars": "15",
+    "forks": "14",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/zdavkeos/whirlyfly",
+    "size": 774,
+    "language": "VHDL",
+    "commits": "15",
+    "stars": "14",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/xesscorp/XuLA",
+    "size": 21343,
+    "language": "VHDL",
+    "commits": "131",
+    "stars": "13",
+    "forks": "4",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/pmumby/hashvoodoo-fpga-bitcoin-miner",
+    "size": 150502,
+    "language": "VHDL",
+    "commits": "54",
+    "stars": "12",
+    "forks": "6",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/andygikling/BBot",
+    "size": 121626,
+    "language": "VHDL",
+    "commits": "45",
+    "stars": "12",
+    "forks": "4",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/chenxiao07/vhdl-nes",
+    "size": 2907,
+    "language": "VHDL",
+    "commits": "1",
+    "stars": "11",
+    "forks": "6",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/blockmon/blockmon",
+    "size": 9742,
+    "language": "VHDL",
+    "commits": "16",
+    "stars": "11",
+    "forks": "7",
+    "contributors": "1"
+  }
+]

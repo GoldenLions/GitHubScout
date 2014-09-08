@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/mattiasgeniar/varnish-3.0-configuration-templates",
+    "size": 303,
+    "language": "VCL",
+    "commits": "112",
+    "stars": "244",
+    "forks": "58",
+    "contributors": "6"
+  },
+  {
+    "url": "https://github.com/nicolargo/varnish-nginx-wordpress",
+    "size": 236,
+    "language": "VCL",
+    "commits": "26",
+    "stars": "133",
+    "forks": "43",
+    "contributors": "3"
+  },
+  {
+    "url": "https://github.com/mattiasgeniar/varnish-4.0-configuration-templates",
+    "size": 177,
+    "language": "VCL",
+    "commits": "6",
+    "stars": "24",
+    "forks": "11",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/willemk/varnish-mobiletranslate",
+    "size": 318,
+    "language": "VCL",
+    "commits": "28",
+    "stars": "18",
+    "forks": "5",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/M4nu/ansible",
+    "size": 918,
+    "language": "VCL",
+    "commits": "96",
+    "stars": "12",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/mmcgrath-openshift/openshift-cartridge-varnish",
+    "size": 787,
+    "language": "VCL",
+    "commits": "39",
+    "stars": "10",
+    "forks": "9",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/CajuCLC/ansible-magento-lamp-single",
+    "size": 355,
+    "language": "VCL",
+    "commits": "30",
+    "stars": "9",
+    "forks": "7",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/zenoamaro/ansible-varnish",
+    "size": 184,
+    "language": "VCL",
+    "commits": "6",
+    "stars": "7",
+    "forks": "2",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/enricocavalli/geocdn",
+    "size": 284,
+    "language": "VCL",
+    "commits": "34",
+    "stars": "5",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/kdb/ding-deploy",
+    "size": 694,
+    "language": "VCL",
+    "commits": "362",
+    "stars": "4",
+    "forks": "32",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/lostin8/ubuntu-nginx-happiness",
+    "size": 519,
+    "language": "VCL",
+    "commits": "63",
+    "stars": "3",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/hummingbird-me/ansible-deploy",
+    "size": 298,
+    "language": "VCL",
+    "commits": "38",
+    "stars": "3",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/moegirlwiki/varnish",
+    "size": 391,
+    "language": "VCL",
+    "commits": "10",
+    "stars": "2",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/CajuCLC/ansible-rax-magento-lamp-single",
+    "size": 336,
+    "language": "VCL",
+    "commits": "28",
+    "stars": "2",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/aahan/server-config-wordpress",
+    "size": 724,
+    "language": "VCL",
+    "commits": "12",
+    "stars": "2",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/phawk/ansible-server-setup",
+    "size": 0,
+    "language": "VCL",
+    "commits": "1",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/ukgaz/VarnishWordpress",
+    "size": 156,
+    "language": "VCL",
+    "commits": "5",
+    "stars": "0",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/andrewoke/Docker-D7-Apache",
+    "size": 112,
+    "language": "VCL",
+    "commits": "1",
+    "stars": "0",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/CubicMushroom/cm-fb",
+    "size": 212,
+    "language": "VCL",
+    "commits": "23",
+    "stars": "0",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/sklav/varnish4-drupal-vcl",
+    "size": 140,
+    "language": "VCL",
+    "commits": "3",
+    "stars": "0",
+    "forks": "0",
+    "contributors": ""
+  }
+]

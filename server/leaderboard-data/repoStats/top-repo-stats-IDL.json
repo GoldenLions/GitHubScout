@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/getlantern/lantern",
+    "size": 462274,
+    "language": "IDL",
+    "commits": "6,965",
+    "stars": "772",
+    "forks": "155",
+    "contributors": "14"
+  },
+  {
+    "url": "https://github.com/spark/core",
+    "size": 44098,
+    "language": "IDL",
+    "commits": "186",
+    "stars": "240",
+    "forks": "51",
+    "contributors": "6"
+  },
+  {
+    "url": "https://github.com/KiCad/kicad-library",
+    "size": 84583,
+    "language": "IDL",
+    "commits": "504",
+    "stars": "43",
+    "forks": "54",
+    "contributors": "17"
+  },
+  {
+    "url": "https://github.com/guanix/boards",
+    "size": 1936,
+    "language": "Prolog",
+    "commits": "131",
+    "stars": "26",
+    "forks": "27",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/bishboria/ErgoDox",
+    "size": 4982,
+    "language": "IDL",
+    "commits": "3",
+    "stars": "26",
+    "forks": "14",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/spark/shields",
+    "size": 12504,
+    "language": "IDL",
+    "commits": "84",
+    "stars": "23",
+    "forks": "16",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/nanofury/NanoFury",
+    "size": 12806,
+    "language": "IDL",
+    "commits": "31",
+    "stars": "20",
+    "forks": "13",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/mossmann/cc11xx",
+    "size": 828,
+    "language": "IDL",
+    "commits": "54",
+    "stars": "15",
+    "forks": "3",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/pcbsd/pbi",
+    "size": 76635,
+    "language": "IDL",
+    "commits": "6,051",
+    "stars": "14",
+    "forks": "7",
+    "contributors": "7"
+  },
+  {
+    "url": "https://github.com/myriadrf/Novena-RF-module",
+    "size": 3836,
+    "language": "IDL",
+    "commits": "2",
+    "stars": "14",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/piranha32/FlyingBone",
+    "size": 3210,
+    "language": "IDL",
+    "commits": "12",
+    "stars": "13",
+    "forks": "13",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/Galvant/usb_wrapper-pcb",
+    "size": 306,
+    "language": "IDL",
+    "commits": "23",
+    "stars": "13",
+    "forks": "3",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/BathroomEpiphanies/KiCAD-Keyboard-Tutorial",
+    "size": 192,
+    "language": "IDL",
+    "commits": "6",
+    "stars": "11",
+    "forks": "1",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/krschultz/android-proguard-snippets",
+    "size": 300,
+    "language": "IDL",
+    "commits": "32",
+    "stars": "11",
+    "forks": "2",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/bitcraze/crazyflie-electronics",
+    "size": 15120,
+    "language": "IDL",
+    "commits": "2",
+    "stars": "10",
+    "forks": "15",
+    "contributors": "0"
+  },
+  {
+    "url": "https://github.com/tmk/HHKB_controller",
+    "size": 2943,
+    "language": "IDL",
+    "commits": "33",
+    "stars": "10",
+    "forks": "3",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/bbenchoff/BackplaneComputer",
+    "size": 14060,
+    "language": "IDL",
+    "commits": "21",
+    "stars": "10",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/mossmann/retroreflectors",
+    "size": 298,
+    "language": "IDL",
+    "commits": "19",
+    "stars": "10",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/wlandsman/IDLAstro",
+    "size": 2836,
+    "language": "IDL",
+    "commits": "10",
+    "stars": "9",
+    "forks": "5",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/losh11/aura-asic",
+    "size": 5349,
+    "language": "IDL",
+    "commits": "8",
+    "stars": "9",
+    "forks": "4",
+    "contributors": ""
+  }
+]

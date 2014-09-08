@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/neovim/neovim",
+    "size": 56836,
+    "language": "VimL",
+    "commits": "1,564",
+    "stars": "9,541",
+    "forks": "623",
+    "contributors": "96"
+  },
+  {
+    "url": "https://github.com/mathiasbynens/dotfiles",
+    "size": 25105,
+    "language": "VimL",
+    "commits": "579",
+    "stars": "9,342",
+    "forks": "3,605",
+    "contributors": "78"
+  },
+  {
+    "url": "https://github.com/gmarik/Vundle.vim",
+    "size": 5233,
+    "language": "VimL",
+    "commits": "564",
+    "stars": "6,174",
+    "forks": "633",
+    "contributors": "41"
+  },
+  {
+    "url": "https://github.com/altercation/solarized",
+    "size": 36641,
+    "language": "VimL",
+    "commits": "373",
+    "stars": "5,977",
+    "forks": "1,551",
+    "contributors": "29"
+  },
+  {
+    "url": "https://github.com/carlhuda/janus",
+    "size": 2455,
+    "language": "VimL",
+    "commits": "866",
+    "stars": "5,587",
+    "forks": "723",
+    "contributors": "109"
+  },
+  {
+    "url": "https://github.com/tpope/vim-pathogen",
+    "size": 705,
+    "language": "VimL",
+    "commits": "136",
+    "stars": "5,172",
+    "forks": "595",
+    "contributors": "13"
+  },
+  {
+    "url": "https://github.com/tpope/vim-fugitive",
+    "size": 3578,
+    "language": "VimL",
+    "commits": "473",
+    "stars": "4,610",
+    "forks": "259",
+    "contributors": "29"
+  },
+  {
+    "url": "https://github.com/bling/vim-airline",
+    "size": 5855,
+    "language": "VimL",
+    "commits": "907",
+    "stars": "3,789",
+    "forks": "233",
+    "contributors": "69"
+  },
+  {
+    "url": "https://github.com/scrooloose/syntastic",
+    "size": 16642,
+    "language": "VimL",
+    "commits": "1,913",
+    "stars": "3,770",
+    "forks": "524",
+    "contributors": "222"
+  },
+  {
+    "url": "https://github.com/scrooloose/nerdtree",
+    "size": 2678,
+    "language": "VimL",
+    "commits": "701",
+    "stars": "3,714",
+    "forks": "428",
+    "contributors": "43"
+  },
+  {
+    "url": "https://github.com/spf13/spf13-vim",
+    "size": 7614,
+    "language": "VimL",
+    "commits": "816",
+    "stars": "3,702",
+    "forks": "1,184",
+    "contributors": "105"
+  },
+  {
+    "url": "https://github.com/kien/ctrlp.vim",
+    "size": 1172,
+    "language": "VimL",
+    "commits": "448",
+    "stars": "3,540",
+    "forks": "205",
+    "contributors": "13"
+  },
+  {
+    "url": "https://github.com/terryma/vim-multiple-cursors",
+    "size": 1273,
+    "language": "VimL",
+    "commits": "47",
+    "stars": "2,649",
+    "forks": "97",
+    "contributors": "5"
+  },
+  {
+    "url": "https://github.com/tpope/vim-rails",
+    "size": 4626,
+    "language": "VimL",
+    "commits": "1,218",
+    "stars": "2,611",
+    "forks": "233",
+    "contributors": "50"
+  },
+  {
+    "url": "https://github.com/altercation/vim-colors-solarized",
+    "size": 294,
+    "language": "VimL",
+    "commits": "80",
+    "stars": "2,533",
+    "forks": "753",
+    "contributors": "3"
+  },
+  {
+    "url": "https://github.com/thinkpixellab/flatland",
+    "size": 1984,
+    "language": "VimL",
+    "commits": "86",
+    "stars": "2,471",
+    "forks": "162",
+    "contributors": "29"
+  },
+  {
+    "url": "https://github.com/airblade/vim-gitgutter",
+    "size": 1715,
+    "language": "VimL",
+    "commits": "217",
+    "stars": "2,458",
+    "forks": "82",
+    "contributors": "23"
+  },
+  {
+    "url": "https://github.com/Lokaltog/vim-powerline",
+    "size": 2177,
+    "language": "VimL",
+    "commits": "259",
+    "stars": "2,427",
+    "forks": "331",
+    "contributors": "24"
+  },
+  {
+    "url": "https://github.com/tpope/vim-surround",
+    "size": 545,
+    "language": "VimL",
+    "commits": "89",
+    "stars": "2,211",
+    "forks": "130",
+    "contributors": "7"
+  },
+  {
+    "url": "https://github.com/amix/vimrc",
+    "size": 7247,
+    "language": "VimL",
+    "commits": "105",
+    "stars": "2,150",
+    "forks": "771",
+    "contributors": "5"
+  }
+]

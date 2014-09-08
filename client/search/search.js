@@ -1,6 +1,6 @@
 angular.module('githubscout.search', [])
 
-.controller('SearchController', ['$scope', '$state', '$stateParams', 'UserSearch',  'UserData', 'ChartsUtil', 'LanguageData', function ($scope, $state, $stateParams, UserSearch, UserData, ChartsUtil, LanguageData) {
+.controller('SearchController', ['$scope', '$state', '$stateParams', 'UserSearch',  'UserData', 'ChartsUtil', 'LanguageData', '$http', function ($scope, $state, $stateParams, UserSearch, UserData, ChartsUtil, LanguageData, $http) {
   $scope.loading = false;
   $scope.input = {};
   $scope.input.languageList = LanguageData.allLanguages
@@ -20,6 +20,31 @@ angular.module('githubscout.search', [])
   $scope.searchLanguage = function() {
     LanguageData.currentLanguages = [];
     LanguageData.currentLanguages.push($scope.input.language);
+
+    if (!LanguageData.leaderboard.repos[$scope.input.language] || !LanguageData.leaderboard.users[$scope.input.language]) {    
+      $http({
+        method: 'POST',
+        url: '/leaderboard/users',
+        data: {language: $scope.input.language}
+      })
+      .then(function(result) {
+        LanguageData.leaderboard.users[$scope.input.language] = result.data.sort(function(a,b) {
+          return b.popular_repos_stars > a.popular_repos_stars ? 1 : -1;
+        }).slice(0,20);
+      });
+
+      $http({
+        method: 'POST',
+        url: '/leaderboard/repos',
+        data: {language: $scope.input.language}
+      })
+      .then(function(result) {
+        LanguageData.leaderboard.repos[$scope.input.language] = result.data.sort(function(a,b) {
+          return parseInt(b.stars.replace(/,/g,'')) > parseInt(a.stars.replace(/,/g,'')) ? 1 : -1;
+      }).slice(0,20);
+      });
+    };
+
 
     var settings = {};
 
@@ -70,7 +95,7 @@ angular.module('githubscout.search', [])
       });
     });
 
-  };
+}
 
 }])
 

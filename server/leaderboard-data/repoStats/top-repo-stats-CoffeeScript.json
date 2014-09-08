@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/harvesthq/chosen",
+    "size": 12626,
+    "language": "CoffeeScript",
+    "commits": "995",
+    "stars": "16,173",
+    "forks": "3,053",
+    "contributors": "77"
+  },
+  {
+    "url": "https://github.com/jashkenas/coffeescript",
+    "size": 35702,
+    "language": "CoffeeScript",
+    "commits": "3,794",
+    "stars": "9,847",
+    "forks": "1,259",
+    "contributors": "160"
+  },
+  {
+    "url": "https://github.com/atom/atom",
+    "size": 341221,
+    "language": "CoffeeScript",
+    "commits": "17,908",
+    "stars": "8,331",
+    "forks": "1,151",
+    "contributors": "122"
+  },
+  {
+    "url": "https://github.com/github/hubot",
+    "size": 9641,
+    "language": "CoffeeScript",
+    "commits": "1,242",
+    "stars": "6,535",
+    "forks": "1,422",
+    "contributors": "170"
+  },
+  {
+    "url": "https://github.com/morrisjs/morris.js",
+    "size": 3984,
+    "language": "CoffeeScript",
+    "commits": "379",
+    "stars": "4,603",
+    "forks": "632",
+    "contributors": "34"
+  },
+  {
+    "url": "https://github.com/quilljs/quill",
+    "size": 12854,
+    "language": "CoffeeScript",
+    "commits": "2,260",
+    "stars": "4,180",
+    "forks": "154",
+    "contributors": "7"
+  },
+  {
+    "url": "https://github.com/karma-runner/karma",
+    "size": 17077,
+    "language": "CoffeeScript",
+    "commits": "1,399",
+    "stars": "4,010",
+    "forks": "673",
+    "contributors": "121"
+  },
+  {
+    "url": "https://github.com/brunch/brunch",
+    "size": 11091,
+    "language": "CoffeeScript",
+    "commits": "1,815",
+    "stars": "3,634",
+    "forks": "261",
+    "contributors": "65"
+  },
+  {
+    "url": "https://github.com/codecombat/codecombat",
+    "size": 69653,
+    "language": "CoffeeScript",
+    "commits": "4,717",
+    "stars": "3,492",
+    "forks": "1,134",
+    "contributors": "187"
+  },
+  {
+    "url": "https://github.com/fastly/epoch",
+    "size": 5173,
+    "language": "CoffeeScript",
+    "commits": "381",
+    "stars": "3,412",
+    "forks": "128",
+    "contributors": "6"
+  },
+  {
+    "url": "https://github.com/ichord/At.js",
+    "size": 4990,
+    "language": "CoffeeScript",
+    "commits": "402",
+    "stars": "2,940",
+    "forks": "309",
+    "contributors": "25"
+  },
+  {
+    "url": "https://github.com/baconjs/bacon.js",
+    "size": 11010,
+    "language": "CoffeeScript",
+    "commits": "1,577",
+    "stars": "2,943",
+    "forks": "193",
+    "contributors": "52"
+  },
+  {
+    "url": "https://github.com/basecamp/pow",
+    "size": 4433,
+    "language": "CoffeeScript",
+    "commits": "518",
+    "stars": "2,783",
+    "forks": "189",
+    "contributors": "22"
+  },
+  {
+    "url": "https://github.com/chaplinjs/chaplin",
+    "size": 8518,
+    "language": "CoffeeScript",
+    "commits": "1,554",
+    "stars": "2,748",
+    "forks": "243",
+    "contributors": "71"
+  },
+  {
+    "url": "https://github.com/rails/turbolinks",
+    "size": 2306,
+    "language": "CoffeeScript",
+    "commits": "423",
+    "stars": "2,680",
+    "forks": "300",
+    "contributors": "53"
+  },
+  {
+    "url": "https://github.com/github/hubot-scripts",
+    "size": 11782,
+    "language": "CoffeeScript",
+    "commits": "3,129",
+    "stars": "2,496",
+    "forks": "1,629",
+    "contributors": "639"
+  },
+  {
+    "url": "https://github.com/assaf/zombie",
+    "size": 7350,
+    "language": "CoffeeScript",
+    "commits": "1,258",
+    "stars": "2,437",
+    "forks": "327",
+    "contributors": "86"
+  },
+  {
+    "url": "https://github.com/Morhaus/dispatch-proxy",
+    "size": 251,
+    "language": "CoffeeScript",
+    "commits": "38",
+    "stars": "2,436",
+    "forks": "108",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/docpad/docpad",
+    "size": 14227,
+    "language": "CoffeeScript",
+    "commits": "1,093",
+    "stars": "2,321",
+    "forks": "197",
+    "contributors": "32"
+  },
+  {
+    "url": "https://github.com/philc/vimium",
+    "size": 8264,
+    "language": "CoffeeScript",
+    "commits": "1,452",
+    "stars": "2,275",
+    "forks": "385",
+    "contributors": "79"
+  }
+]

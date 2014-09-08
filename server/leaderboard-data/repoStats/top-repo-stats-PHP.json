@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/laravel/laravel",
+    "size": 26720,
+    "language": "PHP",
+    "commits": "3,942",
+    "stars": "11,733",
+    "forks": "3,798",
+    "contributors": "224"
+  },
+  {
+    "url": "https://github.com/symfony/symfony",
+    "size": 172725,
+    "language": "PHP",
+    "commits": "18,156",
+    "stars": "8,871",
+    "forks": "3,419",
+    "contributors": "987"
+  },
+  {
+    "url": "https://github.com/EllisLab/CodeIgniter",
+    "size": 79610,
+    "language": "PHP",
+    "commits": "7,491",
+    "stars": "8,101",
+    "forks": "4,172",
+    "contributors": "299"
+  },
+  {
+    "url": "https://github.com/jrburke/requirejs",
+    "size": 21999,
+    "language": "PHP",
+    "commits": "1,248",
+    "stars": "6,240",
+    "forks": "1,067",
+    "contributors": "75"
+  },
+  {
+    "url": "https://github.com/cakephp/cakephp",
+    "size": 155455,
+    "language": "PHP",
+    "commits": "17,175",
+    "stars": "5,106",
+    "forks": "2,210",
+    "contributors": "280"
+  },
+  {
+    "url": "https://github.com/zendframework/zf2",
+    "size": 215020,
+    "language": "PHP",
+    "commits": "23,561",
+    "stars": "4,842",
+    "forks": "2,897",
+    "contributors": "602"
+  },
+  {
+    "url": "https://github.com/php-fig/fig-standards",
+    "size": 5454,
+    "language": "PHP",
+    "commits": "835",
+    "stars": "4,756",
+    "forks": "1,102",
+    "contributors": "73"
+  },
+  {
+    "url": "https://github.com/roots/roots",
+    "size": 67457,
+    "language": "PHP",
+    "commits": "1,204",
+    "stars": "4,672",
+    "forks": "1,645",
+    "contributors": "115"
+  },
+  {
+    "url": "https://github.com/domnikl/DesignPatternsPHP",
+    "size": 4788,
+    "language": "PHP",
+    "commits": "402",
+    "stars": "4,580",
+    "forks": "907",
+    "contributors": "52"
+  },
+  {
+    "url": "https://github.com/composer/composer",
+    "size": 24778,
+    "language": "PHP",
+    "commits": "4,399",
+    "stars": "4,394",
+    "forks": "1,165",
+    "contributors": "334"
+  },
+  {
+    "url": "https://github.com/WordPress/WordPress",
+    "size": 189458,
+    "language": "PHP",
+    "commits": "27,141",
+    "stars": "4,382",
+    "forks": "2,071",
+    "contributors": "15"
+  },
+  {
+    "url": "https://github.com/phacility/phabricator",
+    "size": 83800,
+    "language": "PHP",
+    "commits": "8,246",
+    "stars": "4,308",
+    "forks": "663",
+    "contributors": "161"
+  },
+  {
+    "url": "https://github.com/fzaninotto/Faker",
+    "size": 8231,
+    "language": "PHP",
+    "commits": "911",
+    "stars": "4,181",
+    "forks": "567",
+    "contributors": "136"
+  },
+  {
+    "url": "https://github.com/yiisoft/yii",
+    "size": 53096,
+    "language": "PHP",
+    "commits": "6,264",
+    "stars": "4,012",
+    "forks": "1,713",
+    "contributors": "214"
+  },
+  {
+    "url": "https://github.com/codeguy/Slim",
+    "size": 13149,
+    "language": "PHP",
+    "commits": "1,350",
+    "stars": "3,954",
+    "forks": "680",
+    "contributors": "73"
+  },
+  {
+    "url": "https://github.com/zurb/ink",
+    "size": 6716,
+    "language": "PHP",
+    "commits": "148",
+    "stars": "3,942",
+    "forks": "303",
+    "contributors": "13"
+  },
+  {
+    "url": "https://github.com/sebastianbergmann/phpunit",
+    "size": 39331,
+    "language": "PHP",
+    "commits": "5,422",
+    "stars": "3,896",
+    "forks": "874",
+    "contributors": "148"
+  },
+  {
+    "url": "https://github.com/guzzle/guzzle",
+    "size": 19550,
+    "language": "PHP",
+    "commits": "2,234",
+    "stars": "3,887",
+    "forks": "580",
+    "contributors": "148"
+  },
+  {
+    "url": "https://github.com/Automattic/_s",
+    "size": 13674,
+    "language": "PHP",
+    "commits": "649",
+    "stars": "3,870",
+    "forks": "1,364",
+    "contributors": "79"
+  },
+  {
+    "url": "https://github.com/al3x/sovereign",
+    "size": 3863,
+    "language": "PHP",
+    "commits": "449",
+    "stars": "3,678",
+    "forks": "296",
+    "contributors": "46"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site",
+    "size": 16071,
+    "language": "JavaScript",
+    "commits": "4,064",
+    "stars": "1,552",
+    "forks": "614",
+    "contributors": "200"
+  },
+  {
+    "url": "https://github.com/kohana/kohana",
+    "size": 3201,
+    "language": "PHP",
+    "commits": "1,227",
+    "stars": "1,401",
+    "forks": "355",
+    "contributors": "20"
+  },
+  {
+    "url": "https://github.com/markjaquith/WordPress-Skeleton",
+    "size": 985,
+    "language": "PHP",
+    "commits": "42",
+    "stars": "1,099",
+    "forks": "439",
+    "contributors": "10"
+  },
+  {
+    "url": "https://github.com/bborn/communityengine",
+    "size": 16566,
+    "language": "Ruby",
+    "commits": "1,591",
+    "stars": "1,061",
+    "forks": "304",
+    "contributors": "42"
+  },
+  {
+    "url": "https://github.com/ThisIsDallas/Simple-Grid",
+    "size": 650,
+    "language": "CSS",
+    "commits": "29",
+    "stars": "1,046",
+    "forks": "181",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/nathanborror/django-basic-apps",
+    "size": 625,
+    "language": "Python",
+    "commits": "238",
+    "stars": "980",
+    "forks": "230",
+    "contributors": "12"
+  },
+  {
+    "url": "https://github.com/cowboy/jquery-hashchange",
+    "size": 533,
+    "language": "JavaScript",
+    "commits": "17",
+    "stars": "954",
+    "forks": "232",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/zedshaw/lpthw-study-projects",
+    "size": 80,
+    "language": null,
+    "commits": "9",
+    "stars": "768",
+    "forks": "81",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/manuelbieh/Geolib",
+    "size": 1244,
+    "language": "JavaScript",
+    "commits": "163",
+    "stars": "702",
+    "forks": "76",
+    "contributors": "14"
+  },
+  {
+    "url": "https://github.com/FasterXML/jackson-core",
+    "size": 8962,
+    "language": "Java",
+    "commits": "541",
+    "stars": "510",
+    "forks": "158",
+    "contributors": "18"
+  },
+  {
+    "url": "https://github.com/jcobb/basic-jquery-slider",
+    "size": 743,
+    "language": "JavaScript",
+    "commits": "24",
+    "stars": "481",
+    "forks": "301",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/mattdesl/lwjgl-basics",
+    "size": 18293,
+    "language": "Java",
+    "commits": "73",
+    "stars": "445",
+    "forks": "58",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/schwa/MarkupLabel",
+    "size": 621,
+    "language": "Objective-C",
+    "commits": "26",
+    "stars": "359",
+    "forks": "15",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/defunkt/textmate.el",
+    "size": 249,
+    "language": "Emacs Lisp",
+    "commits": "94",
+    "stars": "348",
+    "forks": "59",
+    "contributors": "11"
+  },
+  {
+    "url": "https://github.com/playgameservices/android-basic-samples",
+    "size": 3487,
+    "language": "Java",
+    "commits": "117",
+    "stars": "339",
+    "forks": "420",
+    "contributors": "13"
+  },
+  {
+    "url": "https://github.com/owensd/json-swift",
+    "size": 804,
+    "language": "Swift",
+    "commits": "64",
+    "stars": "339",
+    "forks": "23",
+    "contributors": "5"
+  },
+  {
+    "url": "https://github.com/dirkaholic/vagrant-php-dev-box",
+    "size": 266,
+    "language": "Puppet",
+    "commits": "51",
+    "stars": "325",
+    "forks": "117",
+    "contributors": "3"
+  },
+  {
+    "url": "https://github.com/gscalzo/FlappySwift",
+    "size": 711,
+    "language": "Swift",
+    "commits": "24",
+    "stars": "315",
+    "forks": "43",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/jipiboily/monologue",
+    "size": 3981,
+    "language": "Ruby",
+    "commits": "574",
+    "stars": "303",
+    "forks": "99",
+    "contributors": "27"
+  },
+  {
+    "url": "https://github.com/zack-bitcoin/basiccoin",
+    "size": 1627,
+    "language": "Python",
+    "commits": "162",
+    "stars": "300",
+    "forks": "53",
+    "contributors": ""
+  }
+]

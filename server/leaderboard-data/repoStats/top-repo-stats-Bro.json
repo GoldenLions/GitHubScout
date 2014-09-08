@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/LiamRandall/bro-scripts",
+    "size": 6074,
+    "language": "Bro",
+    "commits": "33",
+    "stars": "38",
+    "forks": "6",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/sethhall/bro-apt1",
+    "size": 181,
+    "language": "Bro",
+    "commits": "6",
+    "stars": "20",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/LiamRandall/BroMalware-Exercise",
+    "size": 9642,
+    "language": "Bro",
+    "commits": "17",
+    "stars": "19",
+    "forks": "5",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/sethhall/bro-scripts",
+    "size": 697,
+    "language": "Bro",
+    "commits": "171",
+    "stars": "16",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/sheharbano/BotFlex",
+    "size": 1905,
+    "language": "Bro",
+    "commits": "34",
+    "stars": "10",
+    "forks": "4",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/mavam/brospects",
+    "size": 118,
+    "language": "Bro",
+    "commits": "16",
+    "stars": "10",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/sooshie/bro-scripts",
+    "size": 192,
+    "language": "Bro",
+    "commits": "12",
+    "stars": "8",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/sethhall/bro-securityonion",
+    "size": 192,
+    "language": "Bro",
+    "commits": "16",
+    "stars": "7",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/sethhall/bro-junk-drawer",
+    "size": 390,
+    "language": "Bro",
+    "commits": "37",
+    "stars": "6",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/LiamRandall/BroTraining-2013-12",
+    "size": 156,
+    "language": "Bro",
+    "commits": "11",
+    "stars": "6",
+    "forks": "0",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/punkrokk/bro-lessons",
+    "size": 11432,
+    "language": "Bro",
+    "commits": "35",
+    "stars": "6",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/grigorescu/bro-scripts",
+    "size": 420,
+    "language": "Bro",
+    "commits": "39",
+    "stars": "5",
+    "forks": "0",
+    "contributors": "4"
+  },
+  {
+    "url": "https://github.com/LiamRandall/BsidesDC-Training",
+    "size": 24816,
+    "language": "Bro",
+    "commits": "9",
+    "stars": "5",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/srunnels/bro-scripts",
+    "size": 128,
+    "language": "Bro",
+    "commits": "18",
+    "stars": "5",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/mavam/malbroro",
+    "size": 117,
+    "language": "Bro",
+    "commits": "11",
+    "stars": "5",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/sheharbano/Correlation-Framework",
+    "size": 160,
+    "language": "Bro",
+    "commits": "3",
+    "stars": "5",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/mephux/bro.vim",
+    "size": 115,
+    "language": "Bro",
+    "commits": "5",
+    "stars": "5",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/JustinAzoff/bro_presentation",
+    "size": 100,
+    "language": "Bro",
+    "commits": "10",
+    "stars": "4",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/LiamRandall/novaha-bro-training",
+    "size": 2682,
+    "language": "Bro",
+    "commits": "4",
+    "stars": "4",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/kevinwilcox/bro-sccrew",
+    "size": 104,
+    "language": "Bro",
+    "commits": "1",
+    "stars": "4",
+    "forks": "0",
+    "contributors": ""
+  }
+]

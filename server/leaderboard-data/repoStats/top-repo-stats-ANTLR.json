@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/antlr/grammars-v4",
+    "size": 10007,
+    "language": "ANTLR",
+    "commits": "413",
+    "stars": "310",
+    "forks": "141",
+    "contributors": "20"
+  },
+  {
+    "url": "https://github.com/Hackerpilot/DGrammar",
+    "size": 332,
+    "language": "ANTLR",
+    "commits": "52",
+    "stars": "14",
+    "forks": "6",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/fenollp/kju",
+    "size": 16390,
+    "language": "ANTLR",
+    "commits": "381",
+    "stars": "9",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/bkiers/rrd-antlr4",
+    "size": 14019,
+    "language": "ANTLR",
+    "commits": "15",
+    "stars": "5",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/oli-lang/oli-java",
+    "size": 340,
+    "language": "ANTLR",
+    "commits": "10",
+    "stars": "4",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/iuliux/SublimeText2-Antlr-syntax",
+    "size": 223,
+    "language": "ANTLR",
+    "commits": "31",
+    "stars": "4",
+    "forks": "4",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/nightscape/papa-carlos-aunt",
+    "size": 180,
+    "language": "ANTLR",
+    "commits": "8",
+    "stars": "3",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/mobileink/lab.antlr",
+    "size": 580,
+    "language": "ANTLR",
+    "commits": "99",
+    "stars": "2",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/aanastasiou/adl_ebnf",
+    "size": 344,
+    "language": "ANTLR",
+    "commits": "19",
+    "stars": "2",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/exquery/xpath3-parser",
+    "size": 192,
+    "language": "ANTLR",
+    "commits": "9",
+    "stars": "2",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/rgolangh/osinfo-antlr",
+    "size": 166,
+    "language": "ANTLR",
+    "commits": "7",
+    "stars": "2",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/brettwooldridge/jet",
+    "size": 204,
+    "language": "ANTLR",
+    "commits": "10",
+    "stars": "2",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/homayoonfarrahi/Compiler-Project",
+    "size": 144,
+    "language": "ANTLR",
+    "commits": "5",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/potigol/potigol-grammar",
+    "size": 224,
+    "language": "ANTLR",
+    "commits": "7",
+    "stars": "1",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/bkiers/sqlite-parser",
+    "size": 3536,
+    "language": "ANTLR",
+    "commits": "11",
+    "stars": "1",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/shiver-me-timbers/smt-antlr4-java-parser",
+    "size": 212,
+    "language": "ANTLR",
+    "commits": "10",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/Diolor/PJ",
+    "size": 652,
+    "language": "ANTLR",
+    "commits": "7",
+    "stars": "1",
+    "forks": "0",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/grahambrooks/jast",
+    "size": 1296,
+    "language": "ANTLR",
+    "commits": "9",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/bymarkone/dojos",
+    "size": 118,
+    "language": "ANTLR",
+    "commits": "4",
+    "stars": "1",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/adobni/bard",
+    "size": 168,
+    "language": "ANTLR",
+    "commits": "36",
+    "stars": "1",
+    "forks": "0",
+    "contributors": ""
+  }
+]

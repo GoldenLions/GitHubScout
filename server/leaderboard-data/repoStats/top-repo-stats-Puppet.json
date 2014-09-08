@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/chad-thompson/vagrantpress",
+    "size": 1158,
+    "language": "Puppet",
+    "commits": "82",
+    "stars": "417",
+    "forks": "135",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/patrickdlee/vagrant-examples",
+    "size": 357,
+    "language": "Shell",
+    "commits": "38",
+    "stars": "353",
+    "forks": "116",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/zfcampus/zf-apigility-skeleton",
+    "size": 2362,
+    "language": "Puppet",
+    "commits": "190",
+    "stars": "348",
+    "forks": "93",
+    "contributors": "18"
+  },
+  {
+    "url": "https://github.com/dirkaholic/vagrant-php-dev-box",
+    "size": 266,
+    "language": "Puppet",
+    "commits": "51",
+    "stars": "325",
+    "forks": "117",
+    "contributors": "3"
+  },
+  {
+    "url": "https://github.com/jordansissel/puppet-examples",
+    "size": 213,
+    "language": "Puppet",
+    "commits": "50",
+    "stars": "287",
+    "forks": "37",
+    "contributors": "2"
+  },
+  {
+    "url": "https://github.com/blt04/puppet-rvm",
+    "size": 374,
+    "language": "Puppet",
+    "commits": "132",
+    "stars": "273",
+    "forks": "236",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/Aboalarm/devbox",
+    "size": 2618,
+    "language": "Puppet",
+    "commits": "104",
+    "stars": "180",
+    "forks": "48",
+    "contributors": "5"
+  },
+  {
+    "url": "https://github.com/elasticdog/puppet-sandbox",
+    "size": 346,
+    "language": "Puppet",
+    "commits": "28",
+    "stars": "156",
+    "forks": "60",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/irmantas/symfony2-vagrant",
+    "size": 214,
+    "language": "Puppet",
+    "commits": "26",
+    "stars": "149",
+    "forks": "66",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/TryGhost/Ghost-Vagrant",
+    "size": 13435,
+    "language": "Puppet",
+    "commits": "55",
+    "stars": "138",
+    "forks": "48",
+    "contributors": "12"
+  },
+  {
+    "url": "https://github.com/example42/puppi",
+    "size": 1229,
+    "language": "Puppet",
+    "commits": "343",
+    "stars": "133",
+    "forks": "82",
+    "contributors": "26"
+  },
+  {
+    "url": "https://github.com/alup/puppet-rbenv",
+    "size": 549,
+    "language": "Puppet",
+    "commits": "223",
+    "stars": "130",
+    "forks": "95",
+    "contributors": "20"
+  },
+  {
+    "url": "https://github.com/hilverd/vagrant-ubuntu-oracle-xe",
+    "size": 319,
+    "language": "Puppet",
+    "commits": "61",
+    "stars": "129",
+    "forks": "56",
+    "contributors": "6"
+  },
+  {
+    "url": "https://github.com/stackforge/puppet-openstack",
+    "size": 4591,
+    "language": "Puppet",
+    "commits": "653",
+    "stars": "123",
+    "forks": "109",
+    "contributors": "51"
+  },
+  {
+    "url": "https://github.com/amaia/rails-starter-box",
+    "size": 148,
+    "language": "Puppet",
+    "commits": "8",
+    "stars": "119",
+    "forks": "51",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/MarcelloDuarte/hexagonal-symfony",
+    "size": 524,
+    "language": "Puppet",
+    "commits": "12",
+    "stars": "110",
+    "forks": "19",
+    "contributors": "5"
+  },
+  {
+    "url": "https://github.com/stankevich/puppet-python",
+    "size": 1473,
+    "language": "Puppet",
+    "commits": "321",
+    "stars": "109",
+    "forks": "122",
+    "contributors": "44"
+  },
+  {
+    "url": "https://github.com/AnthonyNystrom/python-dev-bootstrap",
+    "size": 15301,
+    "language": "Puppet",
+    "commits": "25",
+    "stars": "106",
+    "forks": "30",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/garethr/pentesting-playground",
+    "size": 202,
+    "language": "Puppet",
+    "commits": "22",
+    "stars": "101",
+    "forks": "13",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/camptocamp/puppet-tomcat",
+    "size": 1799,
+    "language": "Puppet",
+    "commits": "362",
+    "stars": "93",
+    "forks": "97",
+    "contributors": "21"
+  }
+]
