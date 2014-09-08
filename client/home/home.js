@@ -1,6 +1,6 @@
 angular.module('githubscout.home', ['nvd3ChartDirectives', 'leaflet-directive'])
 
-.controller('HomeController', [ '$scope', 'ChartsUtil',  '$http', function($scope, ChartsUtil, $http){
+.controller('HomeController', [ '$scope', 'ChartsUtil', 'Map','$http', function($scope, ChartsUtil, Map, $http){
 
   // Top countries chart
  settings = {
@@ -13,7 +13,6 @@ angular.module('githubscout.home', ['nvd3ChartDirectives', 'leaflet-directive'])
 
     ChartsUtil.fetchHorizontalBarData(settings)
     .then(function(chartData){
-      console.log('chhhhh', chartData)
       $scope.allCountries  = chartData;
   });
 
@@ -53,4 +52,35 @@ angular.module('githubscout.home', ['nvd3ChartDirectives', 'leaflet-directive'])
       };
   };
 
+  $scope.homeMap = function(){
+        console.log('help')
+
+    return Map.showMap();
+  }()
+
+
 }])
+
+.directive('languageMap', function($window) {
+  return {
+    restrict: 'EA',
+    template: '<div id="mapper" width="600" height="600"></div>',
+
+    link: function(scope, elem, attrs) {
+      // create a map in the "map" div, set the view to a given place and zoom
+      var map = L.map('mapper').setView([51.505, -0.09], 13);
+
+      // add an OpenStreetMap tile layer
+      L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+          attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+      }).addTo(map);
+
+      // add a marker in the given location, attach some popup content to it and open the popup
+      L.marker([51.5, -0.09]).addTo(map)
+          .bindPopup('A pretty CSS3 popup. <br> Easily customizable.')
+          .openPopup();
+    }
+  }
+
+})
+
