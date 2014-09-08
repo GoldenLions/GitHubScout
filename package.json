@@ -24,17 +24,23 @@
   "dependencies": {
     "async": "^0.9.0",
     "batch": "^0.5.1",
+    "bluebird": "^2.3.2",
     "body-parser": "^1.6.6",
+    "bookshelf": "^0.7.7",
     "bower": "^1.3.9",
     "chai": "^1.9.1",
     "cheerio": "^0.17.0",
     "express": "^4.8.6",
     "express-partials": "^0.3.0",
     "github": "^0.2.2",
+    "knex": "^0.6.22",
     "lodash": "^2.4.1",
     "mocha": "^1.21.4",
+    "mysql": "^2.4.3",
     "nodemon": "^1.2.1",
-    "superagent": "^0.18.2"
+    "superagent": "^0.18.2",
+    "knex": "^0.6.22",
+    "mysql": "^2.4.3"
   },
   "devDependencies": {
     "angular": "^1.2.21",

@@ -27,7 +27,9 @@
     "nvd3": "https://github.com/novus/nvd3.git#~1.1.15-beta",
     "d3": "~3.4.11",
     "ngFx": "~1.0.4",
-    "angularjs-nvd3-directives": "~0.0.7"
+    "angularjs-nvd3-directives": "~0.0.7",
+    "q": "~2.0.2",
+    "angular-leaflet-directive": "~0.7.8"
   },
   "resolutions": {
     "d3": "~3.4.11"
