@@ -348,7 +348,7 @@ angular.module('githubscout.services', [])
     var deferred = $q.defer();
 
     rawData.forEach(function(d){
-      values.push([d.repository_language, +d.commits])
+      values.push([d[settings.y], +d[settings.x]])
     });
 
     chartData =[{

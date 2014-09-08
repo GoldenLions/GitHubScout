@@ -76,6 +76,24 @@ angular.module('githubscout.home', ['nvd3ChartDirectives', 'leaflet-directive'])
         });
 
   //=======================================
+  // Top countrie chart
+
+ settings = {
+    countType: 'events',
+    url: './CSVs/map_country.csv',
+    key: 'All Countries',
+    x: 'events',
+    y: 'country'
+
+  };
+
+    ChartsUtil.fetchHorizontalBarData(settings)
+    .then(function(chartData){
+      console.log('chhhhh', chartData)
+      $scope.allCountries  = chartData;
+  });
+
+  //=======================================
 
   // Top languages chart
 
@@ -86,7 +104,7 @@ angular.module('githubscout.home', ['nvd3ChartDirectives', 'leaflet-directive'])
 
   ChartsUtil.fetchStackedAreaData(settings)
     .then(function(chartData){
-      console.log('chartData', chartData);
+      console.log('Top languages', chartData);
       $scope.topLanguages  = chartData;
   });
 
@@ -95,11 +113,15 @@ angular.module('githubscout.home', ['nvd3ChartDirectives', 'leaflet-directive'])
   settings = {
     countType: 'commits',
     url: './CSVs/language_all_time1.csv',
-    key: 'All Languages'
+    key: 'All Languages',
+    x: 'commits',
+    y: 'repository_language'
   };
 
   ChartsUtil.fetchHorizontalBarData(settings)
     .then(function(chartData){
+    console.log('all Languages', chartData)
+
       $scope.allLanguages  = chartData;
   });
 
