@@ -4,7 +4,7 @@
     "size": 104924,
     "language": "TypeScript",
     "commits": "6,707",
-    "stars": "5,805",
+    "stars": "5,806",
     "forks": "4,180",
     "contributors": "241"
   },
@@ -42,7 +42,7 @@
     "commits": "2,355",
     "stars": "630",
     "forks": "60",
-    "contributors": ""
+    "contributors": "14"
   },
   {
     "url": "https://github.com/torvalds/subsurface",
@@ -93,7 +93,7 @@
     "url": "https://github.com/Emdek/otter",
     "size": 14084,
     "language": "TypeScript",
-    "commits": "1,087",
+    "commits": "1,089",
     "stars": "383",
     "forks": "81",
     "contributors": "26"
@@ -105,7 +105,7 @@
     "commits": "6,603",
     "stars": "377",
     "forks": "274",
-    "contributors": ""
+    "contributors": "46"
   },
   {
     "url": "https://github.com/egret-labs/egret-core",
@@ -129,7 +129,7 @@
     "url": "https://github.com/MythTV/mythtv",
     "size": 358120,
     "language": "TypeScript",
-    "commits": "31,775",
+    "commits": "31,777",
     "stars": "344",
     "forks": "169",
     "contributors": "128"

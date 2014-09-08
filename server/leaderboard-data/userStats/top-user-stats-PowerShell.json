@@ -6,7 +6,7 @@
     "username": "mattifestation",
     "location": "",
     "join_date": "May 26, 2012",
-    "popular_repos_stars": "386",
+    "popular_repos_stars": "387",
     "primary_languages": [
       "C",
       "PowerShell",
@@ -44,7 +44,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 773,
+    "contributions": 768,
     "followers": "34"
   },
   {
@@ -71,7 +71,7 @@
     "username": "alanrenouf",
     "location": "",
     "join_date": "Apr 12, 2013",
-    "popular_repos_stars": "118",
+    "popular_repos_stars": "119",
     "primary_languages": [
       "PowerShell"
     ],
@@ -92,7 +92,7 @@
       "Ruby"
     ],
     "contributions": 203,
-    "followers": "28"
+    "followers": "29"
   },
   {
     "url": "https://github.com/lzybkr",
@@ -101,7 +101,7 @@
     "username": "lzybkr",
     "location": "",
     "join_date": "Aug 13, 2012",
-    "popular_repos_stars": "219",
+    "popular_repos_stars": "224",
     "primary_languages": [
       "PowerShell",
       "C",
@@ -210,7 +210,7 @@
       "PHP",
       "JavaScript"
     ],
-    "contributions": 62,
+    "contributions": 57,
     "followers": "16"
   },
   {
@@ -272,7 +272,7 @@
     "primary_languages": [
       "JavaScript",
       "CSS",
-      "Ruby"
+      "Shell"
     ],
     "contributions": 550,
     "followers": "13"
@@ -301,8 +301,8 @@
     "join_date": "May 6, 2011",
     "popular_repos_stars": "3",
     "primary_languages": [
-      "CSS",
       "JavaScript",
+      "CSS",
       "PowerShell"
     ],
     "contributions": 51,
@@ -753,7 +753,7 @@
     "username": "vermorel",
     "location": "Paris, France",
     "join_date": "Jul 22, 2011",
-    "popular_repos_stars": "6501",
+    "popular_repos_stars": "6507",
     "primary_languages": [],
     "contributions": 3,
     "followers": "6"
@@ -797,7 +797,7 @@
     "primary_languages": [
       "PowerShell"
     ],
-    "contributions": 244,
+    "contributions": 245,
     "followers": "6"
   },
   {
@@ -876,7 +876,7 @@
       "CSS",
       "Ruby"
     ],
-    "contributions": 874,
+    "contributions": 876,
     "followers": "6"
   }
 ]

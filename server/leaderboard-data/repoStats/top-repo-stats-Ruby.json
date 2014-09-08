@@ -4,7 +4,7 @@
     "size": 379011,
     "language": "Ruby",
     "commits": "46,942",
-    "stars": "23,138",
+    "stars": "23,139",
     "forks": "8,738",
     "contributors": "2,410"
   },
@@ -30,7 +30,7 @@
     "url": "https://github.com/gitlabhq/gitlabhq",
     "size": 145971,
     "language": "Ruby",
-    "commits": "11,413",
+    "commits": "11,415",
     "stars": "13,853",
     "forks": "3,601",
     "contributors": "537"
@@ -39,9 +39,9 @@
     "url": "https://github.com/discourse/discourse",
     "size": 147360,
     "language": "Ruby",
-    "commits": "10,744",
+    "commits": "10,747",
     "stars": "11,784",
-    "forks": "3,107",
+    "forks": "3,108",
     "contributors": "376"
   },
   {
@@ -50,7 +50,7 @@
     "language": "Ruby",
     "commits": "2,693",
     "stars": "11,280",
-    "forks": "2,338",
+    "forks": "2,339",
     "contributors": "336"
   },
   {
@@ -68,7 +68,7 @@
     "language": "Ruby",
     "commits": "821",
     "stars": "8,262",
-    "forks": "3,049",
+    "forks": "3,050",
     "contributors": "104"
   },
   {
@@ -76,7 +76,7 @@
     "size": 14265,
     "language": "Ruby",
     "commits": "1,090",
-    "stars": "7,863",
+    "stars": "7,864",
     "forks": "714",
     "contributors": "53"
   },
@@ -86,7 +86,7 @@
     "language": "Ruby",
     "commits": "6,472",
     "stars": "7,497",
-    "forks": "1,676",
+    "forks": "1,677",
     "contributors": "431"
   },
   {
@@ -104,7 +104,7 @@
     "language": "Ruby",
     "commits": "1,529",
     "stars": "6,283",
-    "forks": "1,395",
+    "forks": "1,396",
     "contributors": "257"
   },
   {
@@ -129,7 +129,7 @@
     "url": "https://github.com/ruby/ruby",
     "size": 257776,
     "language": "Ruby",
-    "commits": "36,658",
+    "commits": "36,660",
     "stars": "5,917",
     "forks": "1,736",
     "contributors": "36"

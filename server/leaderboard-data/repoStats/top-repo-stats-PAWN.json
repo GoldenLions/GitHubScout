@@ -4,9 +4,9 @@
     "size": 4570,
     "language": "PAWN",
     "commits": "133",
-    "stars": "30",
+    "stars": "31",
     "forks": "16",
-    "contributors": ""
+    "contributors": "7"
   },
   {
     "url": "https://github.com/Southclaw/ScavengeSurvive",
@@ -24,7 +24,7 @@
     "commits": "126",
     "stars": "16",
     "forks": "5",
-    "contributors": ""
+    "contributors": "2"
   },
   {
     "url": "https://github.com/ziggi/Open-GTO",
@@ -33,7 +33,7 @@
     "commits": "728",
     "stars": "11",
     "forks": "6",
-    "contributors": "2"
+    "contributors": ""
   },
   {
     "url": "https://github.com/MacMailler/GWRP-0.3",
@@ -78,7 +78,7 @@
     "commits": "18",
     "stars": "5",
     "forks": "1",
-    "contributors": ""
+    "contributors": "1"
   },
   {
     "url": "https://github.com/ImperiumSAMP/MalosAiresRolePlay",
@@ -123,7 +123,7 @@
     "commits": "19",
     "stars": "2",
     "forks": "2",
-    "contributors": ""
+    "contributors": "1"
   },
   {
     "url": "https://github.com/iFarbod/GameTextFix",
@@ -177,6 +177,6 @@
     "commits": "914",
     "stars": "1",
     "forks": "0",
-    "contributors": "2"
+    "contributors": ""
   }
 ]

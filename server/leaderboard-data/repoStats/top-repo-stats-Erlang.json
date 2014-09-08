@@ -42,7 +42,7 @@
     "commits": "1,307",
     "stars": "1,113",
     "forks": "223",
-    "contributors": "55"
+    "contributors": ""
   },
   {
     "url": "https://github.com/basho/rebar",
@@ -69,7 +69,7 @@
     "commits": "3,596",
     "stars": "962",
     "forks": "175",
-    "contributors": ""
+    "contributors": "32"
   },
   {
     "url": "https://github.com/nitrogen/nitrogen",
@@ -114,7 +114,7 @@
     "commits": "12,701",
     "stars": "545",
     "forks": "142",
-    "contributors": ""
+    "contributors": "21"
   },
   {
     "url": "https://github.com/ostinelli/misultin",
@@ -123,7 +123,7 @@
     "commits": "330",
     "stars": "543",
     "forks": "98",
-    "contributors": ""
+    "contributors": "7"
   },
   {
     "url": "https://github.com/rvirding/lfe",
@@ -132,7 +132,7 @@
     "commits": "404",
     "stars": "497",
     "forks": "33",
-    "contributors": "18"
+    "contributors": ""
   },
   {
     "url": "https://github.com/basho/lager",
@@ -159,7 +159,7 @@
     "commits": "1,515",
     "stars": "445",
     "forks": "152",
-    "contributors": ""
+    "contributors": "48"
   },
   {
     "url": "https://github.com/couchbaselabs/iOS-Couchbase",
@@ -177,6 +177,6 @@
     "commits": "347",
     "stars": "408",
     "forks": "61",
-    "contributors": "16"
+    "contributors": ""
   }
 ]

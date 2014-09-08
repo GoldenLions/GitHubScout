@@ -28,7 +28,7 @@
       "XQuery",
       "JavaScript"
     ],
-    "contributions": 171,
+    "contributions": 182,
     "followers": "37"
   },
   {
@@ -108,7 +108,7 @@
       "XSLT",
       "Shell"
     ],
-    "contributions": 922,
+    "contributions": 920,
     "followers": "22"
   },
   {
@@ -124,7 +124,7 @@
       "JavaScript",
       "Racket"
     ],
-    "contributions": 66,
+    "contributions": 65,
     "followers": "19"
   },
   {
@@ -156,7 +156,7 @@
       "XQuery",
       "CSS"
     ],
-    "contributions": 132,
+    "contributions": 133,
     "followers": "16"
   },
   {
@@ -194,18 +194,14 @@
   {
     "url": "https://github.com/isubiker",
     "language": "XQuery",
-    "full_name": "Ryan Grimm",
-    "username": "isubiker",
-    "location": "San Mateo, CA",
-    "join_date": "Mar 12, 2010",
-    "popular_repos_stars": "13",
-    "primary_languages": [
-      "XQuery",
-      "JavaScript",
-      "Python"
-    ],
-    "contributions": 1,
-    "followers": "14"
+    "full_name": "",
+    "username": "",
+    "location": "",
+    "join_date": "",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": null,
+    "followers": ""
   },
   {
     "url": "https://github.com/evanlenz",
@@ -252,7 +248,7 @@
       "PHP",
       "CSS"
     ],
-    "contributions": 367,
+    "contributions": 361,
     "followers": "11"
   },
   {
@@ -300,7 +296,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 414,
+    "contributions": 413,
     "followers": "8"
   },
   {

@@ -6,7 +6,7 @@
     "commits": "753",
     "stars": "69",
     "forks": "11",
-    "contributors": ""
+    "contributors": "5"
   },
   {
     "url": "https://github.com/Lucretia/tamp",
@@ -24,7 +24,7 @@
     "commits": "154",
     "stars": "22",
     "forks": "8",
-    "contributors": ""
+    "contributors": "3"
   },
   {
     "url": "https://github.com/karakalo/old-lumen",
@@ -42,7 +42,7 @@
     "commits": "12",
     "stars": "16",
     "forks": "6",
-    "contributors": ""
+    "contributors": "1"
   },
   {
     "url": "https://github.com/flyx/OpenGLAda",
@@ -51,7 +51,7 @@
     "commits": "115",
     "stars": "15",
     "forks": "3",
-    "contributors": ""
+    "contributors": "3"
   },
   {
     "url": "https://github.com/Lucretia/bare_bones",
@@ -129,7 +129,7 @@
     "url": "https://github.com/yoogx/AADLib",
     "size": 1482,
     "language": "Ada",
-    "commits": "226",
+    "commits": "228",
     "stars": "9",
     "forks": "2",
     "contributors": ""
@@ -141,7 +141,7 @@
     "commits": "854",
     "stars": "9",
     "forks": "4",
-    "contributors": "1"
+    "contributors": ""
   },
   {
     "url": "https://github.com/samueltardieu/aforth",

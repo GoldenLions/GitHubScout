@@ -6,7 +6,7 @@
     "commits": "9,254",
     "stars": "588",
     "forks": "137",
-    "contributors": "60"
+    "contributors": ""
   },
   {
     "url": "https://github.com/HaxeFlixel/flixel",
@@ -24,7 +24,7 @@
     "commits": "494",
     "stars": "533",
     "forks": "93",
-    "contributors": "26"
+    "contributors": ""
   },
   {
     "url": "https://github.com/aduros/flambe",
@@ -94,7 +94,7 @@
     "size": 23858,
     "language": "Haxe",
     "commits": "294",
-    "stars": "204",
+    "stars": "205",
     "forks": "26",
     "contributors": "11"
   },
@@ -112,9 +112,9 @@
     "size": 334002,
     "language": "Haxe",
     "commits": "2,945",
-    "stars": "139",
+    "stars": "140",
     "forks": "29",
-    "contributors": ""
+    "contributors": "10"
   },
   {
     "url": "https://github.com/HaxeFlixel/flixel-demos",

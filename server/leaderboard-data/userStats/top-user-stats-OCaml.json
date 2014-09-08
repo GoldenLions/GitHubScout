@@ -6,14 +6,14 @@
     "username": "avsm",
     "location": "Cambridge, UK",
     "join_date": "Feb 9, 2009",
-    "popular_repos_stars": "153",
+    "popular_repos_stars": "154",
     "primary_languages": [
       "OCaml",
       "Shell",
       "C"
     ],
     "contributions": 18,
-    "followers": "288"
+    "followers": "289"
   },
   {
     "url": "https://github.com/mzp",
@@ -29,7 +29,7 @@
       "OCaml"
     ],
     "contributions": 607,
-    "followers": "150"
+    "followers": "151"
   },
   {
     "url": "https://github.com/yminsky",
@@ -118,7 +118,7 @@
     "username": "diml",
     "location": "London",
     "join_date": "Dec 8, 2011",
-    "popular_repos_stars": "170",
+    "popular_repos_stars": "171",
     "primary_languages": [
       "Shell",
       "OCaml",
@@ -150,13 +150,13 @@
     "username": "andrejbauer",
     "location": "Slovenia",
     "join_date": "Mar 2, 2011",
-    "popular_repos_stars": "142",
+    "popular_repos_stars": "143",
     "primary_languages": [
       "Python",
       "OCaml",
       "Shell"
     ],
-    "contributions": 553,
+    "contributions": 554,
     "followers": "85"
   },
   {
@@ -214,13 +214,13 @@
     "username": "iskandr",
     "location": "New York",
     "join_date": "Jan 21, 2009",
-    "popular_repos_stars": "303",
+    "popular_repos_stars": "302",
     "primary_languages": [
       "Python",
       "C",
       "C"
     ],
-    "contributions": 984,
+    "contributions": 987,
     "followers": "56"
   },
   {
@@ -236,7 +236,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 808,
+    "contributions": 803,
     "followers": "54"
   },
   {
@@ -268,7 +268,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 874,
+    "contributions": 875,
     "followers": "51"
   },
   {
@@ -284,7 +284,7 @@
       "Shell",
       "TeX"
     ],
-    "contributions": 694,
+    "contributions": 692,
     "followers": "50"
   },
   {
@@ -332,7 +332,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 452,
+    "contributions": 454,
     "followers": "45"
   },
   {
@@ -397,7 +397,7 @@
       "Julia"
     ],
     "contributions": 298,
-    "followers": "43"
+    "followers": "44"
   },
   {
     "url": "https://github.com/raphael-proust",
@@ -428,7 +428,7 @@
       "CSS",
       "Shell"
     ],
-    "contributions": 106,
+    "contributions": 104,
     "followers": "40"
   },
   {
@@ -508,7 +508,7 @@
       "Shell",
       "CSS"
     ],
-    "contributions": 624,
+    "contributions": 625,
     "followers": "35"
   },
   {
@@ -524,7 +524,7 @@
       "OCaml",
       "Shell"
     ],
-    "contributions": 876,
+    "contributions": 888,
     "followers": "34"
   },
   {
@@ -636,7 +636,7 @@
       "CSS",
       "JavaScript"
     ],
-    "contributions": 285,
+    "contributions": 288,
     "followers": "28"
   },
   {
@@ -694,13 +694,13 @@
     "username": "yallop",
     "location": "",
     "join_date": "May 14, 2012",
-    "popular_repos_stars": "157",
+    "popular_repos_stars": "158",
     "primary_languages": [
       "OCaml",
       "Shell",
       "C"
     ],
-    "contributions": 862,
+    "contributions": 864,
     "followers": "27"
   },
   {
@@ -716,8 +716,8 @@
       "Shell",
       "CSS"
     ],
-    "contributions": 767,
-    "followers": "27"
+    "contributions": 783,
+    "followers": "28"
   },
   {
     "url": "https://github.com/ygrek",
@@ -732,7 +732,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 269,
+    "contributions": 266,
     "followers": "27"
   },
   {
@@ -764,8 +764,8 @@
       "Shell",
       "C"
     ],
-    "contributions": 969,
-    "followers": "25"
+    "contributions": 982,
+    "followers": "26"
   },
   {
     "url": "https://github.com/VictorNicollet",
@@ -834,13 +834,13 @@
     "username": "yoriyuki",
     "location": "",
     "join_date": "Apr 27, 2011",
-    "popular_repos_stars": "43",
+    "popular_repos_stars": "44",
     "primary_languages": [
       "OCaml",
       "CSS",
       "Ruby"
     ],
-    "contributions": 87,
+    "contributions": 83,
     "followers": "23"
   },
   {
@@ -856,7 +856,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 743,
+    "contributions": 747,
     "followers": "23"
   },
   {
@@ -947,7 +947,7 @@
       "OCaml",
       "Shell"
     ],
-    "contributions": 306,
+    "contributions": 307,
     "followers": "21"
   },
   {
@@ -963,7 +963,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 680,
+    "contributions": 692,
     "followers": "21"
   },
   {
@@ -1027,7 +1027,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 442,
+    "contributions": 443,
     "followers": "20"
   },
   {
@@ -1059,7 +1059,7 @@
       "Shell",
       "OCaml"
     ],
-    "contributions": 265,
+    "contributions": 266,
     "followers": "19"
   },
   {
@@ -1113,7 +1113,7 @@
     "username": "astrada",
     "location": "",
     "join_date": "Nov 12, 2011",
-    "popular_repos_stars": "388",
+    "popular_repos_stars": "392",
     "primary_languages": [
       "OCaml",
       "Shell",
@@ -1135,7 +1135,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 268,
+    "contributions": 267,
     "followers": "18"
   },
   {
@@ -1151,7 +1151,7 @@
       "C",
       "Python"
     ],
-    "contributions": 668,
+    "contributions": 666,
     "followers": "18"
   },
   {
@@ -1211,7 +1211,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 760,
+    "contributions": 756,
     "followers": "17"
   },
   {
@@ -1243,7 +1243,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 157,
+    "contributions": 158,
     "followers": "17"
   },
   {
@@ -1339,7 +1339,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 209,
+    "contributions": 212,
     "followers": "16"
   },
   {

@@ -28,7 +28,7 @@
       "Puppet",
       "Shell"
     ],
-    "contributions": 167,
+    "contributions": 168,
     "followers": "168"
   },
   {
@@ -44,7 +44,7 @@
       "Ruby",
       "Shell"
     ],
-    "contributions": 275,
+    "contributions": 278,
     "followers": "128"
   },
   {
@@ -108,8 +108,8 @@
       "Puppet",
       "Shell"
     ],
-    "contributions": 805,
-    "followers": "53"
+    "contributions": 804,
+    "followers": "54"
   },
   {
     "url": "https://github.com/DavidS",
@@ -172,7 +172,7 @@
       "Puppet",
       "Shell"
     ],
-    "contributions": 614,
+    "contributions": 611,
     "followers": "40"
   },
   {
@@ -198,13 +198,13 @@
     "username": "purpleidea",
     "location": "",
     "join_date": "Oct 4, 2009",
-    "popular_repos_stars": "108",
+    "popular_repos_stars": "112",
     "primary_languages": [
       "Puppet",
       "Ruby",
       "Python"
     ],
-    "contributions": 342,
+    "contributions": 337,
     "followers": "37"
   },
   {
@@ -220,7 +220,7 @@
       "Shell",
       "Ruby"
     ],
-    "contributions": 160,
+    "contributions": 158,
     "followers": "36"
   },
   {
@@ -236,7 +236,7 @@
       "Ruby",
       "Shell"
     ],
-    "contributions": 513,
+    "contributions": 520,
     "followers": "34"
   },
   {
@@ -284,7 +284,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 265,
+    "contributions": 266,
     "followers": "28"
   },
   {
@@ -312,7 +312,7 @@
       "Ruby",
       "Python"
     ],
-    "contributions": 901,
+    "contributions": 899,
     "followers": "27"
   },
   {
@@ -328,7 +328,7 @@
       "Ruby",
       "Shell"
     ],
-    "contributions": 210,
+    "contributions": 205,
     "followers": "25"
   },
   {
@@ -374,13 +374,13 @@
     "username": "razorsedge",
     "location": "Arizona, U.S.A.",
     "join_date": "May 14, 2011",
-    "popular_repos_stars": "105",
+    "popular_repos_stars": "106",
     "primary_languages": [
       "Puppet",
       "Ruby",
       "Shell"
     ],
-    "contributions": 118,
+    "contributions": 117,
     "followers": "21"
   },
   {
@@ -492,7 +492,7 @@
       "Shell",
       "Python"
     ],
-    "contributions": 499,
+    "contributions": 529,
     "followers": "19"
   },
   {
@@ -540,7 +540,7 @@
       "Ruby",
       "Shell"
     ],
-    "contributions": 522,
+    "contributions": 535,
     "followers": "18"
   },
   {
@@ -588,7 +588,7 @@
       "Ruby",
       "Shell"
     ],
-    "contributions": 570,
+    "contributions": 573,
     "followers": "18"
   },
   {
@@ -667,7 +667,7 @@
       "PHP",
       "Ruby"
     ],
-    "contributions": 320,
+    "contributions": 330,
     "followers": "17"
   },
   {
@@ -767,7 +767,7 @@
       "Ruby",
       "Shell"
     ],
-    "contributions": 167,
+    "contributions": 174,
     "followers": "16"
   },
   {
@@ -987,7 +987,7 @@
       "Python",
       "Ruby"
     ],
-    "contributions": 498,
+    "contributions": 494,
     "followers": "14"
   },
   {
@@ -1079,7 +1079,7 @@
       "Ruby",
       "Shell"
     ],
-    "contributions": 143,
+    "contributions": 147,
     "followers": "13"
   },
   {
@@ -1143,7 +1143,7 @@
       "Ruby",
       "Shell"
     ],
-    "contributions": 900,
+    "contributions": 901,
     "followers": "12"
   },
   {
@@ -1201,7 +1201,7 @@
     "username": "stankevich",
     "location": "",
     "join_date": "Apr 10, 2012",
-    "popular_repos_stars": "117",
+    "popular_repos_stars": "118",
     "primary_languages": [
       "Ruby",
       "Puppet",
@@ -1343,7 +1343,7 @@
       "Shell",
       "D"
     ],
-    "contributions": 125,
+    "contributions": 128,
     "followers": "11"
   },
   {
@@ -1531,7 +1531,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 179,
+    "contributions": 165,
     "followers": "10"
   }
 ]

@@ -38,7 +38,7 @@
     "username": "darkcoinproject",
     "location": "",
     "join_date": "Mar 1, 2014",
-    "popular_repos_stars": "104",
+    "popular_repos_stars": "105",
     "primary_languages": [
       "Shell",
       "Python",
@@ -54,7 +54,7 @@
     "username": "reddcoin",
     "location": "",
     "join_date": "Jan 6, 2014",
-    "popular_repos_stars": "172",
+    "popular_repos_stars": "173",
     "primary_languages": [],
     "contributions": 1,
     "followers": "23"
@@ -334,7 +334,7 @@
       "Ruby",
       "Python"
     ],
-    "contributions": 83,
+    "contributions": 84,
     "followers": "8"
   },
   {
@@ -379,7 +379,7 @@
     "popular_repos_stars": "26",
     "primary_languages": [
       "C",
-      "Shell",
+      "C",
       "Python"
     ],
     "contributions": 20,
@@ -442,7 +442,7 @@
       "TeX",
       "Shell"
     ],
-    "contributions": 182,
+    "contributions": 158,
     "followers": "7"
   },
   {
@@ -474,7 +474,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 138,
+    "contributions": 144,
     "followers": "7"
   },
   {
@@ -490,7 +490,7 @@
       "CSS",
       "TypeScript"
     ],
-    "contributions": 110,
+    "contributions": 108,
     "followers": "7"
   },
   {
@@ -570,7 +570,7 @@
       "CSS",
       "TypeScript"
     ],
-    "contributions": 148,
+    "contributions": 145,
     "followers": "6"
   },
   {
@@ -636,7 +636,7 @@
     "username": "Naav",
     "location": "",
     "join_date": "Aug 31, 2009",
-    "popular_repos_stars": "20354",
+    "popular_repos_stars": "20386",
     "primary_languages": [],
     "contributions": 86,
     "followers": "6"
@@ -706,7 +706,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 350,
+    "contributions": 345,
     "followers": "6"
   }
 ]

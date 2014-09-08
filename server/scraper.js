@@ -31,10 +31,12 @@ var utils = {
   // Uses batchGet to process an array of arrays of objects.
   // Passes the first progressback to batchGet, passes the second to async.eachLimit.
   // Processes up to 2 batches at a time.
+  // Decorates results with .language to assist fs.readFile in the processBatchResult progressback.
   multiBatchGet: function(batchArray,processResponse,processBatchResult,callback) {
     var progress= 0;
     async.eachLimit(batchArray,2,function(batch,done) {
       utils.batchGet(batch, processResponse, function(error,results) {
+        results.language = batch.language;
         processBatchResult(results);
         console.log('Batch:',++progress+'/'+batchArray.length,'finished.')
         done(error);
@@ -165,6 +167,7 @@ var scraper = {
     });
     // Gets the 100 top users per language, writes them to a .json.
     utils.throttledBatchGet(userSearchObjs, utils.parseUserItems, function(error,results) {
+      if (error) console.log( new Error(error) );
       console.log('updateUserUrlsJSON finished.');
       if (callback) callback();
     }, 3000);
@@ -173,16 +176,17 @@ var scraper = {
   // found previously.
   updateProfileStatsJSON: function(callback) {
     var profileArrays = _.map(languages,function(language) {
-      return JSON.parse(fs.readFileSync('./leaderboard-data/userUrls/top-user-urls-'+encodeURIComponent(language)+'.json'));
+      var array = JSON.parse(fs.readFileSync('./leaderboard-data/userUrls/top-user-urls-'+encodeURIComponent(language)+'.json'));
+      array.language = language;
+      return array;
     });
     var saveStats = function(results) {
-      if (results[0]) {
-        fs.writeFile('./leaderboard-data/userStats/top-user-stats-'+encodeURIComponent(results[0].language)+'.json',
-          JSON.stringify(results,null,2));
-      }
+      fs.writeFile('./leaderboard-data/userStats/top-user-stats-'+encodeURIComponent(results.language)+'.json',
+        JSON.stringify(results,null,2));
     };
     // Scrapes statistics from the profile URLs, writes the stats to a .json.
     utils.multiBatchGet(profileArrays, utils.scrapeProfileStats, saveStats, function(error) {
+      if (error) console.log( new Error(error) );
       console.log('updateProfileStatsJSON finished.');
       if (callback) callback();
     });
@@ -203,6 +207,7 @@ var scraper = {
       };
     });
     utils.throttledBatchGet(repoSearchObjs, utils.parseRepoItems, function(error,results) {
+      if (error) console.log( new Error(error) );
       console.log('updateRepoUrlsJSON finished.');
       if (callback) callback();
     }, 3000);
@@ -210,13 +215,13 @@ var scraper = {
   // Update top-repo-stats.json to reflect the current stats of the top repos per language.
   updateRepoStatsJSON: function(callback) {
     var repoArrays = _.map(languages, function(language) {
-      return JSON.parse(fs.readFileSync('./leaderboard-data/repoUrls/top-repo-urls-'+encodeURIComponent(language)+'.json'));
+      var array = JSON.parse(fs.readFileSync('./leaderboard-data/repoUrls/top-repo-urls-'+encodeURIComponent(language)+'.json'));
+      array.language = language;
+      return array;
     });
     var saveStats = function(results) {
-      if (results[0]) {
-        fs.writeFile('./leaderboard-data/repoStats/top-repo-stats-'+encodeURIComponent(results[0].language)+'.json',
-          JSON.stringify(results,null,2));
-      }
+      fs.writeFile('./leaderboard-data/repoStats/top-repo-stats-'+encodeURIComponent(results.language)+'.json',
+        JSON.stringify(results,null,2));
     };
     utils.multiBatchGet(repoArrays, utils.scrapeRepoStats, saveStats, function(error) {
       if (error) console.log( new Error(error) );
@@ -229,7 +234,7 @@ var scraper = {
 // scraper.updateUserUrlsJSON();
 // scraper.updateProfileStatsJSON();
 // scraper.updateRepoUrlsJSON();
-scraper.updateRepoStatsJSON();
+// scraper.updateRepoStatsJSON();
 
 
 module.exports = scraper;

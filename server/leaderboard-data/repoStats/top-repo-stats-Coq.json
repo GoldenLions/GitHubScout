@@ -42,7 +42,7 @@
     "commits": "220",
     "stars": "38",
     "forks": "9",
-    "contributors": "10"
+    "contributors": ""
   },
   {
     "url": "https://github.com/tcarstens/verlang",
@@ -96,7 +96,7 @@
     "commits": "306",
     "stars": "15",
     "forks": "1",
-    "contributors": "4"
+    "contributors": ""
   },
   {
     "url": "https://github.com/finrod/System-T",
@@ -141,7 +141,7 @@
     "commits": "200",
     "stars": "12",
     "forks": "2",
-    "contributors": ""
+    "contributors": "1"
   },
   {
     "url": "https://github.com/ekmett/comonad-transformers",

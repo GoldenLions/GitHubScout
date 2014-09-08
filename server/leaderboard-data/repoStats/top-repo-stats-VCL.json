@@ -6,7 +6,7 @@
     "commits": "112",
     "stars": "244",
     "forks": "58",
-    "contributors": "6"
+    "contributors": ""
   },
   {
     "url": "https://github.com/nicolargo/varnish-nginx-wordpress",
@@ -15,7 +15,7 @@
     "commits": "26",
     "stars": "133",
     "forks": "43",
-    "contributors": "3"
+    "contributors": ""
   },
   {
     "url": "https://github.com/mattiasgeniar/varnish-4.0-configuration-templates",
@@ -60,7 +60,7 @@
     "commits": "30",
     "stars": "9",
     "forks": "7",
-    "contributors": ""
+    "contributors": "1"
   },
   {
     "url": "https://github.com/zenoamaro/ansible-varnish",

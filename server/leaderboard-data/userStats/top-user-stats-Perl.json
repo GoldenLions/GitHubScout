@@ -22,13 +22,13 @@
     "username": "miyagawa",
     "location": "San Francisco, CA",
     "join_date": "Mar 20, 2008",
-    "popular_repos_stars": "1145",
+    "popular_repos_stars": "1146",
     "primary_languages": [
       "Perl",
       "Ruby",
       "JavaScript"
     ],
-    "contributions": 382,
+    "contributions": 381,
     "followers": "1.5k"
   },
   {
@@ -44,7 +44,7 @@
       "Perl",
       "JavaScript"
     ],
-    "contributions": 496,
+    "contributions": 508,
     "followers": "834"
   },
   {
@@ -54,14 +54,14 @@
     "username": "audreyt",
     "location": "Taipei, Taiwan",
     "join_date": "Aug 14, 2008",
-    "popular_repos_stars": "1714",
+    "popular_repos_stars": "1715",
     "primary_languages": [
       "Perl",
       "JavaScript",
       "Shell"
     ],
     "contributions": 2,
-    "followers": "792"
+    "followers": "799"
   },
   {
     "url": "https://github.com/c9s",
@@ -70,7 +70,7 @@
     "username": "c9s",
     "location": "",
     "join_date": "Feb 1, 2009",
-    "popular_repos_stars": "1758",
+    "popular_repos_stars": "1759",
     "primary_languages": [
       "PHP",
       "Perl",
@@ -102,7 +102,7 @@
     "username": "dankogai",
     "location": "",
     "join_date": "Mar 30, 2009",
-    "popular_repos_stars": "640",
+    "popular_repos_stars": "641",
     "primary_languages": [
       "Perl",
       "JavaScript",
@@ -125,7 +125,7 @@
       "Groovy"
     ],
     "contributions": 1,
-    "followers": "404"
+    "followers": "405"
   },
   {
     "url": "https://github.com/yusukebe",
@@ -140,7 +140,7 @@
       "JavaScript",
       "CSS"
     ],
-    "contributions": 359,
+    "contributions": 352,
     "followers": "401"
   },
   {
@@ -150,7 +150,7 @@
     "username": "typester",
     "location": "Kamakura, Japan",
     "join_date": "Mar 19, 2008",
-    "popular_repos_stars": "334",
+    "popular_repos_stars": "336",
     "primary_languages": [
       "Perl",
       "C",
@@ -205,7 +205,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 83,
+    "contributions": 78,
     "followers": "341"
   },
   {
@@ -231,14 +231,14 @@
     "username": "clkao",
     "location": "Taipei, Taiwan",
     "join_date": "Apr 2, 2009",
-    "popular_repos_stars": "154",
+    "popular_repos_stars": "153",
     "primary_languages": [
       "JavaScript",
       "Perl",
       "CSS"
     ],
     "contributions": 2,
-    "followers": "318"
+    "followers": "320"
   },
   {
     "url": "https://github.com/yappo",
@@ -263,13 +263,13 @@
     "username": "kazuho",
     "location": "Tokyo",
     "join_date": "Dec 19, 2008",
-    "popular_repos_stars": "459",
+    "popular_repos_stars": "462",
     "primary_languages": [
       "Perl",
       "C",
       "C"
     ],
-    "contributions": 966,
+    "contributions": 973,
     "followers": "313"
   },
   {
@@ -279,14 +279,14 @@
     "username": "brendangregg",
     "location": "",
     "join_date": "Oct 4, 2011",
-    "popular_repos_stars": "1388",
+    "popular_repos_stars": "1421",
     "primary_languages": [
       "Shell",
       "Perl",
       "D"
     ],
     "contributions": 223,
-    "followers": "306"
+    "followers": "310"
   },
   {
     "url": "https://github.com/schwern",
@@ -301,7 +301,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 499,
+    "contributions": 503,
     "followers": "300"
   },
   {
@@ -349,7 +349,7 @@
       "JavaScript",
       "Ruby"
     ],
-    "contributions": 577,
+    "contributions": 573,
     "followers": "292"
   },
   {
@@ -414,7 +414,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 631,
+    "contributions": 628,
     "followers": "264"
   },
   {
@@ -478,7 +478,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 259,
+    "contributions": 254,
     "followers": "228"
   },
   {
@@ -536,13 +536,13 @@
     "username": "motemen",
     "location": "Kyoto, Japan",
     "join_date": "Apr 25, 2008",
-    "popular_repos_stars": "1104",
+    "popular_repos_stars": "1105",
     "primary_languages": [
       "Perl",
       "JavaScript",
       "Ruby"
     ],
-    "contributions": 971,
+    "contributions": 960,
     "followers": "221"
   },
   {
@@ -589,7 +589,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 944,
+    "contributions": 943,
     "followers": "207"
   },
   {
@@ -615,7 +615,7 @@
     "username": "marcusramberg",
     "location": "Oslo, Norway",
     "join_date": "Apr 6, 2008",
-    "popular_repos_stars": "73",
+    "popular_repos_stars": "74",
     "primary_languages": [
       "Perl",
       "JavaScript",
@@ -632,7 +632,7 @@
     "username": "windytan",
     "location": "Finland",
     "join_date": "May 30, 2011",
-    "popular_repos_stars": "123",
+    "popular_repos_stars": "124",
     "primary_languages": [
       "Perl",
       "C",
@@ -743,13 +743,13 @@
     "username": "fletcher",
     "location": "Charleston, SC",
     "join_date": "Jun 20, 2009",
-    "popular_repos_stars": "1490",
+    "popular_repos_stars": "1493",
     "primary_languages": [
       "Perl",
       "Shell",
       "C"
     ],
-    "contributions": 389,
+    "contributions": 386,
     "followers": "171"
   },
   {
@@ -813,7 +813,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 466,
+    "contributions": 464,
     "followers": "165"
   },
   {
@@ -829,7 +829,7 @@
       "JavaScript",
       "CSS"
     ],
-    "contributions": 548,
+    "contributions": 551,
     "followers": "162"
   },
   {
@@ -926,7 +926,7 @@
       "JavaScript",
       "Ruby"
     ],
-    "contributions": 433,
+    "contributions": 424,
     "followers": "152"
   },
   {
@@ -942,7 +942,7 @@
       "C",
       "C"
     ],
-    "contributions": 906,
+    "contributions": 903,
     "followers": "149"
   },
   {
@@ -952,7 +952,7 @@
     "username": "xuxiaodong",
     "location": "Beijing",
     "join_date": "Jun 28, 2008",
-    "popular_repos_stars": "243",
+    "popular_repos_stars": "244",
     "primary_languages": [
       "Perl",
       "Shell",
@@ -984,7 +984,7 @@
     "username": "pjf",
     "location": "Melbourne, Australia",
     "join_date": "May 31, 2008",
-    "popular_repos_stars": "174",
+    "popular_repos_stars": "175",
     "primary_languages": [
       "Perl",
       "Shell",
@@ -1049,13 +1049,13 @@
     "username": "avar",
     "location": "Amsterdam, The Netherlands",
     "join_date": "Jan 9, 2009",
-    "popular_repos_stars": "70",
+    "popular_repos_stars": "71",
     "primary_languages": [
       "Perl",
       "Shell",
       "C"
     ],
-    "contributions": 235,
+    "contributions": 236,
     "followers": "136"
   },
   {
@@ -1232,7 +1232,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 468,
+    "contributions": 469,
     "followers": "122"
   },
   {
@@ -1354,7 +1354,7 @@
     "username": "creaktive",
     "location": "Amsterdam, The Netherlands",
     "join_date": "Mar 28, 2010",
-    "popular_repos_stars": "885",
+    "popular_repos_stars": "886",
     "primary_languages": [
       "Perl",
       "C",
@@ -1451,13 +1451,13 @@
     "username": "oetiker",
     "location": "Olten, Switzerland",
     "join_date": "Oct 6, 2010",
-    "popular_repos_stars": "347",
+    "popular_repos_stars": "348",
     "primary_languages": [
       "Perl",
       "Shell",
       "JavaScript"
     ],
-    "contributions": 909,
+    "contributions": 911,
     "followers": "111"
   },
   {
@@ -1473,7 +1473,7 @@
       "C",
       "JavaScript"
     ],
-    "contributions": 703,
+    "contributions": 689,
     "followers": "110"
   },
   {
@@ -1489,7 +1489,7 @@
       "Scala",
       "JavaScript"
     ],
-    "contributions": 656,
+    "contributions": 657,
     "followers": "109"
   },
   {
@@ -1538,7 +1538,7 @@
       "Perl",
       "JavaScript"
     ],
-    "contributions": 675,
+    "contributions": 665,
     "followers": "108"
   },
   {
@@ -1564,14 +1564,14 @@
     "username": "yuki-kimoto",
     "location": "Japan Tokyo",
     "join_date": "May 6, 2009",
-    "popular_repos_stars": "555",
+    "popular_repos_stars": "556",
     "primary_languages": [
       "Perl",
       "JavaScript",
       "Shell"
     ],
     "contributions": 736,
-    "followers": "107"
+    "followers": "108"
   },
   {
     "url": "https://github.com/autarch",
@@ -1602,7 +1602,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 112,
+    "contributions": 114,
     "followers": "106"
   }
 ]

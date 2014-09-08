@@ -54,7 +54,7 @@
     "username": "plt",
     "location": "",
     "join_date": "Jan 19, 2010",
-    "popular_repos_stars": "733",
+    "popular_repos_stars": "735",
     "primary_languages": [
       "Racket",
       "Scheme",
@@ -109,7 +109,7 @@
       "JavaScript"
     ],
     "contributions": 1,
-    "followers": "94"
+    "followers": "95"
   },
   {
     "url": "https://github.com/dvanhorn",
@@ -124,7 +124,7 @@
       "Scheme",
       "Shell"
     ],
-    "contributions": 332,
+    "contributions": 334,
     "followers": "83"
   },
   {
@@ -205,7 +205,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 736,
+    "contributions": 733,
     "followers": "54"
   },
   {
@@ -237,7 +237,7 @@
       "Shell",
       "Haskell"
     ],
-    "contributions": 270,
+    "contributions": 275,
     "followers": "36"
   },
   {
@@ -310,7 +310,7 @@
     "username": "serghey-rodin",
     "location": "",
     "join_date": "Jun 11, 2011",
-    "popular_repos_stars": "260",
+    "popular_repos_stars": "261",
     "primary_languages": [
       "Shell",
       "PHP",
@@ -332,7 +332,7 @@
       "Shell",
       "Scheme"
     ],
-    "contributions": 476,
+    "contributions": 467,
     "followers": "31"
   },
   {
@@ -376,7 +376,7 @@
       "CSS",
       "Shell"
     ],
-    "contributions": 419,
+    "contributions": 412,
     "followers": "27"
   },
   {
@@ -392,7 +392,7 @@
       "Shell",
       "Scheme"
     ],
-    "contributions": 668,
+    "contributions": 680,
     "followers": "25"
   },
   {
@@ -556,8 +556,8 @@
       "Shell",
       "CSS"
     ],
-    "contributions": 258,
-    "followers": "19"
+    "contributions": 259,
+    "followers": "20"
   },
   {
     "url": "https://github.com/basdirks",
@@ -582,13 +582,13 @@
     "username": "ntoronto",
     "location": "",
     "join_date": "Nov 19, 2010",
-    "popular_repos_stars": "27",
+    "popular_repos_stars": "28",
     "primary_languages": [
       "Racket",
       "Shell",
-      "Haskell"
+      "C"
     ],
-    "contributions": 127,
+    "contributions": 130,
     "followers": "18"
   },
   {
@@ -626,7 +626,7 @@
     "username": "pablofdezalc",
     "location": "Cambridge, UK",
     "join_date": "Dec 23, 2011",
-    "popular_repos_stars": "76",
+    "popular_repos_stars": "77",
     "primary_languages": [
       "C",
       "Shell",
@@ -703,7 +703,7 @@
     "username": "capnmidnight",
     "location": "Alexandria, VA",
     "join_date": "Jun 6, 2010",
-    "popular_repos_stars": "17",
+    "popular_repos_stars": "18",
     "primary_languages": [
       "C",
       "JavaScript",
@@ -757,7 +757,7 @@
       "Python",
       "Java"
     ],
-    "contributions": 789,
+    "contributions": 797,
     "followers": "13"
   },
   {
@@ -773,7 +773,7 @@
       "JavaScript",
       "Scheme"
     ],
-    "contributions": 18,
+    "contributions": 22,
     "followers": "11"
   },
   {
@@ -960,8 +960,8 @@
     "popular_repos_stars": "36",
     "primary_languages": [
       "Racket",
-      "JavaScript",
-      "C"
+      "C",
+      "JavaScript"
     ],
     "contributions": 352,
     "followers": "8"
@@ -1135,7 +1135,7 @@
       "Java",
       "Shell"
     ],
-    "contributions": 316,
+    "contributions": 315,
     "followers": "6"
   },
   {

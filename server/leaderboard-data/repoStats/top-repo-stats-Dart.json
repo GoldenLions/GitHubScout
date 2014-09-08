@@ -24,7 +24,7 @@
     "commits": "929",
     "stars": "454",
     "forks": "49",
-    "contributors": ""
+    "contributors": "6"
   },
   {
     "url": "https://github.com/dart-lang/web-ui",
@@ -33,7 +33,7 @@
     "commits": "775",
     "stars": "313",
     "forks": "82",
-    "contributors": ""
+    "contributors": "20"
   },
   {
     "url": "https://github.com/lvivski/start",
@@ -78,7 +78,7 @@
     "commits": "373",
     "stars": "221",
     "forks": "99",
-    "contributors": ""
+    "contributors": "21"
   },
   {
     "url": "https://github.com/angular/angular.dart.tutorial",
@@ -87,13 +87,13 @@
     "commits": "241",
     "stars": "216",
     "forks": "81",
-    "contributors": ""
+    "contributors": "16"
   },
   {
     "url": "https://github.com/dart-lang/bleeding_edge",
     "size": 776570,
     "language": "Dart",
-    "commits": "37,846",
+    "commits": "37,856",
     "stars": "206",
     "forks": "106",
     "contributors": "37"
@@ -150,7 +150,7 @@
     "commits": "308",
     "stars": "104",
     "forks": "18",
-    "contributors": "11"
+    "contributors": ""
   },
   {
     "url": "https://github.com/dart-lang/dart_by_example",
@@ -168,7 +168,7 @@
     "commits": "14",
     "stars": "101",
     "forks": "12",
-    "contributors": "1"
+    "contributors": ""
   },
   {
     "url": "https://github.com/dart-lang/js-interop",

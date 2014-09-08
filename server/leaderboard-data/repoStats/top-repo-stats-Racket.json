@@ -4,7 +4,7 @@
     "size": 198614,
     "language": "Racket",
     "commits": "33,973",
-    "stars": "716",
+    "stars": "717",
     "forks": "196",
     "contributors": "102"
   },
@@ -15,13 +15,13 @@
     "commits": "2",
     "stars": "242",
     "forks": "143",
-    "contributors": "1"
+    "contributors": ""
   },
   {
     "url": "https://github.com/mbutterick/pollen",
     "size": 7282,
     "language": "Racket",
-    "commits": "492",
+    "commits": "493",
     "stars": "229",
     "forks": "16",
     "contributors": "2"
@@ -60,7 +60,7 @@
     "commits": "32",
     "stars": "84",
     "forks": "44",
-    "contributors": "3"
+    "contributors": ""
   },
   {
     "url": "https://github.com/calvis/cKanren",
@@ -96,7 +96,7 @@
     "commits": "31",
     "stars": "52",
     "forks": "8",
-    "contributors": "3"
+    "contributors": ""
   },
   {
     "url": "https://github.com/tonyg/marketplace",
@@ -141,7 +141,7 @@
     "commits": "819",
     "stars": "38",
     "forks": "16",
-    "contributors": "8"
+    "contributors": ""
   },
   {
     "url": "https://github.com/apperian/iOS-checkIPA",

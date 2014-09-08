@@ -6,7 +6,7 @@
     "username": "JakeWharton",
     "location": "San Francisco, CA",
     "join_date": "Mar 24, 2009",
-    "popular_repos_stars": "15009",
+    "popular_repos_stars": "15017",
     "primary_languages": [
       "Java",
       "Shell",
@@ -22,13 +22,13 @@
     "username": "commonsguy",
     "location": "",
     "join_date": "Jul 10, 2009",
-    "popular_repos_stars": "4748",
+    "popular_repos_stars": "4751",
     "primary_languages": [
       "Java",
       "Groovy",
       "Perl"
     ],
-    "contributions": 621,
+    "contributions": 616,
     "followers": "2.7k"
   },
   {
@@ -38,7 +38,7 @@
     "username": "koush",
     "location": "Seattle, WA",
     "join_date": "Apr 14, 2009",
-    "popular_repos_stars": "5514",
+    "popular_repos_stars": "5523",
     "primary_languages": [
       "Shell",
       "Java",
@@ -54,7 +54,7 @@
     "username": "chrisbanes",
     "location": "London, UK",
     "join_date": "Mar 21, 2010",
-    "popular_repos_stars": "9612",
+    "popular_repos_stars": "9618",
     "primary_languages": [
       "Java",
       "Groovy",
@@ -70,7 +70,7 @@
     "username": "romannurik",
     "location": "New York, NY",
     "join_date": "Jun 29, 2009",
-    "popular_repos_stars": "3054",
+    "popular_repos_stars": "3059",
     "primary_languages": [
       "Java",
       "Shell",
@@ -102,7 +102,7 @@
     "username": "Trinea",
     "location": "Shanghai, China",
     "join_date": "Nov 3, 2011",
-    "popular_repos_stars": "4495",
+    "popular_repos_stars": "4510",
     "primary_languages": [
       "Java",
       "CSS",
@@ -134,7 +134,7 @@
     "username": "cyrilmottier",
     "location": "France",
     "join_date": "Jun 7, 2009",
-    "popular_repos_stars": "3152",
+    "popular_repos_stars": "3151",
     "primary_languages": [
       "Java",
       "Groovy",
@@ -150,7 +150,7 @@
     "username": "romainguy",
     "location": "",
     "join_date": "Jun 22, 2011",
-    "popular_repos_stars": "1874",
+    "popular_repos_stars": "1876",
     "primary_languages": [
       "Groovy",
       "Java",
@@ -166,14 +166,14 @@
     "username": "pahimar",
     "location": "Ontario, Canada",
     "join_date": "Feb 18, 2012",
-    "popular_repos_stars": "889",
+    "popular_repos_stars": "890",
     "primary_languages": [
       "Java",
       "Groovy",
       "Shell"
     ],
     "contributions": 696,
-    "followers": "995"
+    "followers": "996"
   },
   {
     "url": "https://github.com/jgilfelt",
@@ -182,14 +182,14 @@
     "username": "jgilfelt",
     "location": "Berkshire, United Kingdom",
     "join_date": "Jan 3, 2010",
-    "popular_repos_stars": "4322",
+    "popular_repos_stars": "4325",
     "primary_languages": [
       "Java",
       "Shell",
       "Groovy"
     ],
     "contributions": 308,
-    "followers": "950"
+    "followers": "953"
   },
   {
     "url": "https://github.com/nicolasgramlich",
@@ -198,14 +198,14 @@
     "username": "nicolasgramlich",
     "location": "San Francisco, CA",
     "join_date": "May 25, 2010",
-    "popular_repos_stars": "2862",
+    "popular_repos_stars": "2865",
     "primary_languages": [
       "Java",
       "Shell",
       "C"
     ],
     "contributions": 31,
-    "followers": "896"
+    "followers": "897"
   },
   {
     "url": "https://github.com/shiffman",
@@ -230,14 +230,14 @@
     "username": "jfeinstein10",
     "location": "Ithaca, NY",
     "join_date": "Dec 16, 2011",
-    "popular_repos_stars": "7209",
+    "popular_repos_stars": "7215",
     "primary_languages": [
       "Java",
       "JavaScript",
       "CSS"
     ],
     "contributions": 40,
-    "followers": "894"
+    "followers": "896"
   },
   {
     "url": "https://github.com/KentBeck",
@@ -260,14 +260,14 @@
     "username": "SimonVT",
     "location": "Denmark",
     "join_date": "Jan 5, 2011",
-    "popular_repos_stars": "3178",
+    "popular_repos_stars": "3181",
     "primary_languages": [
       "Java",
       "Groovy",
       "Shell"
     ],
-    "contributions": 379,
-    "followers": "768"
+    "contributions": 378,
+    "followers": "771"
   },
   {
     "url": "https://github.com/oschina",
@@ -292,13 +292,13 @@
     "username": "Dinnerbone",
     "location": "Stockholm, Sweden",
     "join_date": "Jun 29, 2010",
-    "popular_repos_stars": "137",
+    "popular_repos_stars": "138",
     "primary_languages": [
       "Java",
       "Python"
     ],
     "contributions": 31,
-    "followers": "683"
+    "followers": "684"
   },
   {
     "url": "https://github.com/nostra13",
@@ -307,13 +307,13 @@
     "username": "nostra13",
     "location": "Hrodna, Belarus",
     "join_date": "Nov 27, 2011",
-    "popular_repos_stars": "5906",
+    "popular_repos_stars": "5914",
     "primary_languages": [
       "Java",
       "Groovy"
     ],
-    "contributions": 262,
-    "followers": "676"
+    "contributions": 266,
+    "followers": "678"
   },
   {
     "url": "https://github.com/matthewmccullough",
@@ -328,8 +328,8 @@
       "Shell",
       "Groovy"
     ],
-    "contributions": 408,
-    "followers": "671"
+    "contributions": 398,
+    "followers": "670"
   },
   {
     "url": "https://github.com/codefollower",
@@ -344,7 +344,7 @@
       "Java",
       "CSS"
     ],
-    "contributions": 299,
+    "contributions": 296,
     "followers": "633"
   },
   {
@@ -361,7 +361,7 @@
       "Groovy"
     ],
     "contributions": 3,
-    "followers": "619"
+    "followers": "620"
   },
   {
     "url": "https://github.com/karan",
@@ -370,7 +370,7 @@
     "username": "karan",
     "location": "Bay Area (Summer), Seattle",
     "join_date": "Jan 13, 2013",
-    "popular_repos_stars": "6969",
+    "popular_repos_stars": "6977",
     "primary_languages": [
       "Python",
       "JavaScript",
@@ -386,14 +386,14 @@
     "username": "ManuelPeinado",
     "location": "Madrid, Spain",
     "join_date": "Nov 1, 2012",
-    "popular_repos_stars": "3626",
+    "popular_repos_stars": "3628",
     "primary_languages": [
       "Java",
       "Groovy",
       "Shell"
     ],
     "contributions": 103,
-    "followers": "584"
+    "followers": "586"
   },
   {
     "url": "https://github.com/jamesward",
@@ -402,7 +402,7 @@
     "username": "jamesward",
     "location": "",
     "join_date": "Mar 19, 2009",
-    "popular_repos_stars": "680",
+    "popular_repos_stars": "682",
     "primary_languages": [
       "Java",
       "Scala",
@@ -425,7 +425,7 @@
       "JavaScript"
     ],
     "contributions": 121,
-    "followers": "534"
+    "followers": "536"
   },
   {
     "url": "https://github.com/killme2008",
@@ -434,13 +434,13 @@
     "username": "killme2008",
     "location": "SuZhou,KunShan,China",
     "join_date": "Jun 17, 2008",
-    "popular_repos_stars": "810",
+    "popular_repos_stars": "811",
     "primary_languages": [
       "Clojure",
       "Java",
       "JavaScript"
     ],
-    "contributions": 625,
+    "contributions": 626,
     "followers": "533"
   },
   {
@@ -466,7 +466,7 @@
     "username": "Issacw0ng",
     "location": "China",
     "join_date": "Aug 30, 2011",
-    "popular_repos_stars": "1297",
+    "popular_repos_stars": "1298",
     "primary_languages": [
       "Java",
       "Groovy",
@@ -482,14 +482,14 @@
     "username": "gabrielemariotti",
     "location": "",
     "join_date": "Oct 17, 2012",
-    "popular_repos_stars": "3707",
+    "popular_repos_stars": "3715",
     "primary_languages": [
       "Java",
       "Groovy",
       "IDL"
     ],
     "contributions": 547,
-    "followers": "473"
+    "followers": "475"
   },
   {
     "url": "https://github.com/sonyxperiadev",
@@ -498,14 +498,14 @@
     "username": "sonyxperiadev",
     "location": "Sweden",
     "join_date": "Nov 18, 2010",
-    "popular_repos_stars": "703",
+    "popular_repos_stars": "704",
     "primary_languages": [
       "Java",
       "C",
       "Shell"
     ],
     "contributions": 1,
-    "followers": "467"
+    "followers": "466"
   },
   {
     "url": "https://github.com/springside",
@@ -536,8 +536,8 @@
       "Java",
       "Ruby"
     ],
-    "contributions": 593,
-    "followers": "450"
+    "contributions": 592,
+    "followers": "452"
   },
   {
     "url": "https://github.com/johannilsson",
@@ -546,14 +546,14 @@
     "username": "johannilsson",
     "location": "Stockholm, Sweden",
     "join_date": "Jan 3, 2009",
-    "popular_repos_stars": "3432",
+    "popular_repos_stars": "3435",
     "primary_languages": [
       "JavaScript",
       "Java",
       "Python"
     ],
     "contributions": 189,
-    "followers": "433"
+    "followers": "434"
   },
   {
     "url": "https://github.com/brianchandotcom",
@@ -569,7 +569,7 @@
       "CSS"
     ],
     "contributions": 7,
-    "followers": "427"
+    "followers": "428"
   },
   {
     "url": "https://github.com/joshlong",
@@ -584,7 +584,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 364,
+    "contributions": 348,
     "followers": "407"
   },
   {
@@ -610,14 +610,14 @@
     "username": "sk89q",
     "location": "United States",
     "join_date": "Dec 7, 2008",
-    "popular_repos_stars": "1375",
+    "popular_repos_stars": "1374",
     "primary_languages": [
       "Java",
       "Python",
       "JavaScript"
     ],
-    "contributions": 861,
-    "followers": "401"
+    "contributions": 870,
+    "followers": "404"
   },
   {
     "url": "https://github.com/StylingAndroid",
@@ -640,14 +640,14 @@
     "username": "emilsjolander",
     "location": "Umeå, Sweden",
     "join_date": "Mar 11, 2012",
-    "popular_repos_stars": "3176",
+    "popular_repos_stars": "3177",
     "primary_languages": [
       "Java",
       "Go",
       "Groovy"
     ],
-    "contributions": 469,
-    "followers": "399"
+    "contributions": 466,
+    "followers": "400"
   },
   {
     "url": "https://github.com/flavienlaurent",
@@ -656,14 +656,14 @@
     "username": "flavienlaurent",
     "location": "",
     "join_date": "May 14, 2013",
-    "popular_repos_stars": "2382",
+    "popular_repos_stars": "2385",
     "primary_languages": [
       "Java",
       "Groovy",
       "Shell"
     ],
     "contributions": 118,
-    "followers": "398"
+    "followers": "401"
   },
   {
     "url": "https://github.com/rovo89",
@@ -672,7 +672,7 @@
     "username": "rovo89",
     "location": "",
     "join_date": "Mar 25, 2012",
-    "popular_repos_stars": "1091",
+    "popular_repos_stars": "1092",
     "primary_languages": [
       "Java",
       "C",
@@ -720,7 +720,7 @@
     "username": "greenrobot",
     "location": "",
     "join_date": "Apr 12, 2010",
-    "popular_repos_stars": "3630",
+    "popular_repos_stars": "3636",
     "primary_languages": [
       "Java",
       "Groovy",
@@ -743,7 +743,7 @@
       "Shell"
     ],
     "contributions": 0,
-    "followers": "373"
+    "followers": "372"
   },
   {
     "url": "https://github.com/yusuke",
@@ -752,14 +752,14 @@
     "username": "yusuke",
     "location": "Tokyo, Japan",
     "join_date": "Apr 17, 2009",
-    "popular_repos_stars": "1376",
+    "popular_repos_stars": "1377",
     "primary_languages": [
       "Java",
       "JavaScript",
       "Shell"
     ],
     "contributions": 366,
-    "followers": "363"
+    "followers": "364"
   },
   {
     "url": "https://github.com/endymuhardin",
@@ -774,8 +774,8 @@
       "JavaScript",
       "CSS"
     ],
-    "contributions": 886,
-    "followers": "361"
+    "contributions": 911,
+    "followers": "362"
   },
   {
     "url": "https://github.com/swankjesse",
@@ -791,7 +791,7 @@
       "Groovy"
     ],
     "contributions": 1,
-    "followers": "361"
+    "followers": "363"
   },
   {
     "url": "https://github.com/cpw",
@@ -806,7 +806,7 @@
       "Groovy",
       "Shell"
     ],
-    "contributions": 498,
+    "contributions": 500,
     "followers": "361"
   },
   {
@@ -854,7 +854,7 @@
       "Java",
       "C"
     ],
-    "contributions": 98,
+    "contributions": 95,
     "followers": "327"
   },
   {
@@ -864,7 +864,7 @@
     "username": "qii",
     "location": "China",
     "join_date": "Jun 22, 2011",
-    "popular_repos_stars": "1185",
+    "popular_repos_stars": "1188",
     "primary_languages": [
       "Java",
       "Scala",
@@ -881,7 +881,7 @@
     "username": "tdunning",
     "location": "",
     "join_date": "Apr 22, 2010",
-    "popular_repos_stars": "605",
+    "popular_repos_stars": "606",
     "primary_languages": [
       "Java",
       "Shell",
@@ -897,7 +897,7 @@
     "username": "mttkay",
     "location": "Berlin, Germany",
     "join_date": "Jul 8, 2009",
-    "popular_repos_stars": "2578",
+    "popular_repos_stars": "2579",
     "primary_languages": [
       "Java",
       "Ruby",
@@ -913,7 +913,7 @@
     "username": "olivergierke",
     "location": "Dresden, Germany",
     "join_date": "Sep 18, 2009",
-    "popular_repos_stars": "294",
+    "popular_repos_stars": "295",
     "primary_languages": [
       "Java",
       "Groovy",
@@ -929,13 +929,13 @@
     "username": "rstoyanchev",
     "location": "New York, NY",
     "join_date": "Sep 16, 2010",
-    "popular_repos_stars": "396",
+    "popular_repos_stars": "397",
     "primary_languages": [
       "Java",
       "JavaScript",
       "Shell"
     ],
-    "contributions": 689,
+    "contributions": 688,
     "followers": "293"
   },
   {
@@ -945,14 +945,14 @@
     "username": "mariotaku",
     "location": "Zhengzhou, Henan, China",
     "join_date": "Jun 4, 2011",
-    "popular_repos_stars": "825",
+    "popular_repos_stars": "826",
     "primary_languages": [
       "Java",
       "Groovy",
       "Shell"
     ],
-    "contributions": 310,
-    "followers": "293"
+    "contributions": 304,
+    "followers": "294"
   },
   {
     "url": "https://github.com/trustin",
@@ -1009,7 +1009,7 @@
     "username": "code4craft",
     "location": "Shanghai, China",
     "join_date": "Jan 18, 2012",
-    "popular_repos_stars": "937",
+    "popular_repos_stars": "938",
     "primary_languages": [
       "Java",
       "JavaScript",
@@ -1029,10 +1029,10 @@
     "primary_languages": [
       "Java",
       "Shell",
-      "JavaScript"
+      "C"
     ],
     "contributions": 20,
-    "followers": "283"
+    "followers": "285"
   },
   {
     "url": "https://github.com/AnderWeb",
@@ -1055,7 +1055,7 @@
     "username": "yangfuhai",
     "location": "",
     "join_date": "Mar 15, 2012",
-    "popular_repos_stars": "1351",
+    "popular_repos_stars": "1353",
     "primary_languages": [
       "Java"
     ],
@@ -1117,14 +1117,14 @@
     "username": "lucasr",
     "location": "London, UK",
     "join_date": "Apr 14, 2011",
-    "popular_repos_stars": "1774",
+    "popular_repos_stars": "1842",
     "primary_languages": [
       "Java",
       "Shell",
       "JavaScript"
     ],
-    "contributions": 302,
-    "followers": "276"
+    "contributions": 311,
+    "followers": "281"
   },
   {
     "url": "https://github.com/youxiachai",
@@ -1139,8 +1139,8 @@
       "Java",
       "Groovy"
     ],
-    "contributions": 272,
-    "followers": "275"
+    "contributions": 269,
+    "followers": "277"
   },
   {
     "url": "https://github.com/sephiroth74",
@@ -1149,14 +1149,14 @@
     "username": "sephiroth74",
     "location": "New York, NY",
     "join_date": "Jun 1, 2011",
-    "popular_repos_stars": "1417",
+    "popular_repos_stars": "1419",
     "primary_languages": [
       "Java",
       "Groovy",
       "IDL"
     ],
-    "contributions": 207,
-    "followers": "274"
+    "contributions": 208,
+    "followers": "275"
   },
   {
     "url": "https://github.com/nhaarman",
@@ -1165,14 +1165,14 @@
     "username": "nhaarman",
     "location": "Netherlands",
     "join_date": "Dec 11, 2012",
-    "popular_repos_stars": "2739",
+    "popular_repos_stars": "2740",
     "primary_languages": [
       "Java",
       "Groovy",
       "Shell"
     ],
     "contributions": 1,
-    "followers": "271"
+    "followers": "272"
   },
   {
     "url": "https://github.com/jberkel",
@@ -1181,14 +1181,14 @@
     "username": "jberkel",
     "location": "Berlin",
     "join_date": "Jul 29, 2008",
-    "popular_repos_stars": "1548",
+    "popular_repos_stars": "1549",
     "primary_languages": [
       "Java",
       "Ruby",
       "JavaScript"
     ],
     "contributions": 276,
-    "followers": "270"
+    "followers": "271"
   },
   {
     "url": "https://github.com/astuetz",
@@ -1197,14 +1197,14 @@
     "username": "astuetz",
     "location": "Linz, Austria",
     "join_date": "Aug 22, 2009",
-    "popular_repos_stars": "2404",
+    "popular_repos_stars": "2405",
     "primary_languages": [
       "Java",
       "Groovy",
       "Shell"
     ],
     "contributions": 10,
-    "followers": "266"
+    "followers": "267"
   },
   {
     "url": "https://github.com/graemerocher",
@@ -1235,7 +1235,7 @@
       "Java",
       "Go"
     ],
-    "contributions": 388,
+    "contributions": 391,
     "followers": "254"
   },
   {
@@ -1252,7 +1252,7 @@
       "CSS"
     ],
     "contributions": 656,
-    "followers": "254"
+    "followers": "255"
   },
   {
     "url": "https://github.com/rtyley",
@@ -1261,7 +1261,7 @@
     "username": "rtyley",
     "location": "London, United Kingdom",
     "join_date": "Feb 5, 2009",
-    "popular_repos_stars": "1504",
+    "popular_repos_stars": "1505",
     "primary_languages": [
       "Java",
       "Scala",
@@ -1315,7 +1315,7 @@
       "Ruby",
       "Puppet"
     ],
-    "contributions": 155,
+    "contributions": 154,
     "followers": "235"
   },
   {
@@ -1341,7 +1341,7 @@
     "username": "tomwhite",
     "location": "",
     "join_date": "May 15, 2009",
-    "popular_repos_stars": "761",
+    "popular_repos_stars": "763",
     "primary_languages": [
       "Java",
       "Shell",
@@ -1363,8 +1363,8 @@
       "Shell",
       "CSS"
     ],
-    "contributions": 950,
-    "followers": "230"
+    "contributions": 951,
+    "followers": "231"
   },
   {
     "url": "https://github.com/arun-gupta",
@@ -1405,13 +1405,13 @@
     "username": "spullara",
     "location": "Los Altos, CA",
     "join_date": "Nov 8, 2008",
-    "popular_repos_stars": "1051",
+    "popular_repos_stars": "1052",
     "primary_languages": [
       "Java",
       "JavaScript",
       "Shell"
     ],
-    "contributions": 73,
+    "contributions": 68,
     "followers": "227"
   },
   {
@@ -1437,7 +1437,7 @@
     "username": "aporter",
     "location": "",
     "join_date": "Oct 10, 2011",
-    "popular_repos_stars": "1822",
+    "popular_repos_stars": "1826",
     "primary_languages": [
       "Java"
     ],
@@ -1457,8 +1457,8 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 233,
-    "followers": "217"
+    "contributions": 231,
+    "followers": "218"
   },
   {
     "url": "https://github.com/mezzoblue",
@@ -1489,7 +1489,7 @@
       "JavaScript",
       "CSS"
     ],
-    "contributions": 385,
+    "contributions": 383,
     "followers": "215"
   },
   {
@@ -1536,7 +1536,7 @@
       "JavaScript"
     ],
     "contributions": 2,
-    "followers": "210"
+    "followers": "211"
   },
   {
     "url": "https://github.com/ducrohet",
@@ -1552,7 +1552,7 @@
       "Groovy"
     ],
     "contributions": 0,
-    "followers": "209"
+    "followers": "210"
   },
   {
     "url": "https://github.com/iChun",
@@ -1577,13 +1577,13 @@
     "username": "dmytrodanylyk",
     "location": "Ukraine, Lviv",
     "join_date": "Nov 19, 2012",
-    "popular_repos_stars": "2577",
+    "popular_repos_stars": "2578",
     "primary_languages": [
       "Java",
       "Groovy",
       "CSS"
     ],
     "contributions": 430,
-    "followers": "207"
+    "followers": "208"
   }
 ]

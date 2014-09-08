@@ -6,7 +6,7 @@
     "username": "mojombo",
     "location": "San Francisco",
     "join_date": "Oct 19, 2007",
-    "popular_repos_stars": "7410",
+    "popular_repos_stars": "7413",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -22,7 +22,7 @@
     "username": "defunkt",
     "location": "San Francisco",
     "join_date": "Oct 19, 2007",
-    "popular_repos_stars": "16516",
+    "popular_repos_stars": "16525",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -38,7 +38,7 @@
     "username": "schacon",
     "location": "San Francisco, CA",
     "join_date": "Jan 27, 2008",
-    "popular_repos_stars": "5470",
+    "popular_repos_stars": "5469",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -70,7 +70,7 @@
     "username": "mattt",
     "location": "Portland, OR",
     "join_date": "Apr 16, 2008",
-    "popular_repos_stars": "9279",
+    "popular_repos_stars": "9284",
     "primary_languages": [
       "Ruby",
       "Objective",
@@ -87,13 +87,13 @@
     "username": "jashkenas",
     "location": "NYC",
     "join_date": "Apr 3, 2008",
-    "popular_repos_stars": "44669",
+    "popular_repos_stars": "44678",
     "primary_languages": [
       "JavaScript",
       "Ruby",
       "CoffeeScript"
     ],
-    "contributions": 651,
+    "contributions": 637,
     "followers": "6.0k"
   },
   {
@@ -103,7 +103,7 @@
     "username": "ryanb",
     "location": "Southern Oregon",
     "join_date": "Feb 7, 2008",
-    "popular_repos_stars": "13402",
+    "popular_repos_stars": "13403",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -119,7 +119,7 @@
     "username": "dhh",
     "location": "Chicago, USA",
     "join_date": "Mar 10, 2008",
-    "popular_repos_stars": "880",
+    "popular_repos_stars": "879",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -135,13 +135,13 @@
     "username": "wycats",
     "location": "San Francisco",
     "join_date": "Jan 11, 2008",
-    "popular_repos_stars": "9349",
+    "popular_repos_stars": "9354",
     "primary_languages": [
       "Ruby",
       "JavaScript",
       "Shell"
     ],
-    "contributions": 808,
+    "contributions": 796,
     "followers": "5.3k"
   },
   {
@@ -151,7 +151,7 @@
     "username": "holman",
     "location": "San Francisco",
     "join_date": "Mar 10, 2008",
-    "popular_repos_stars": "7245",
+    "popular_repos_stars": "7244",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -167,7 +167,7 @@
     "username": "tenderlove",
     "location": "Seattle",
     "join_date": "Mar 14, 2008",
-    "popular_repos_stars": "1147",
+    "popular_repos_stars": "1154",
     "primary_languages": [
       "Ruby",
       "C",
@@ -183,7 +183,7 @@
     "username": "charliesome",
     "location": "Melbourne, Australia",
     "join_date": "Jan 9, 2010",
-    "popular_repos_stars": "6094",
+    "popular_repos_stars": "6098",
     "primary_languages": [
       "Ruby",
       "C",
@@ -199,13 +199,13 @@
     "username": "igrigorik",
     "location": "Mountain View, CA",
     "join_date": "May 17, 2008",
-    "popular_repos_stars": "5688",
+    "popular_repos_stars": "5691",
     "primary_languages": [
       "Ruby",
       "JavaScript",
       "Go"
     ],
-    "contributions": 577,
+    "contributions": 575,
     "followers": "3.1k"
   },
   {
@@ -215,7 +215,7 @@
     "username": "josevalim",
     "location": "Kraków, Poland",
     "join_date": "May 7, 2008",
-    "popular_repos_stars": "4203",
+    "popular_repos_stars": "4210",
     "primary_languages": [
       "Ruby",
       "Elixir",
@@ -231,7 +231,7 @@
     "username": "maccman",
     "location": "San Francisco",
     "join_date": "Mar 4, 2008",
-    "popular_repos_stars": "5819",
+    "popular_repos_stars": "5818",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -247,13 +247,13 @@
     "username": "muan",
     "location": "Taipei, Taiwan",
     "join_date": "Oct 26, 2011",
-    "popular_repos_stars": "1605",
+    "popular_repos_stars": "1607",
     "primary_languages": [
       "CSS",
       "JavaScript",
       "Ruby"
     ],
-    "contributions": 698,
+    "contributions": 697,
     "followers": "2.6k"
   },
   {
@@ -263,7 +263,7 @@
     "username": "sstephenson",
     "location": "Chicago",
     "join_date": "Mar 8, 2008",
-    "popular_repos_stars": "14309",
+    "popular_repos_stars": "14311",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -279,7 +279,7 @@
     "username": "technoweenie",
     "location": "Rapid City, SD",
     "join_date": "Jan 13, 2008",
-    "popular_repos_stars": "4015",
+    "popular_repos_stars": "4017",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -295,7 +295,7 @@
     "username": "mitchellh",
     "location": "San Francisco, CA",
     "join_date": "Feb 27, 2008",
-    "popular_repos_stars": "12617",
+    "popular_repos_stars": "12630",
     "primary_languages": [
       "Ruby",
       "Go",
@@ -311,7 +311,7 @@
     "username": "steveklabnik",
     "location": "Brooklyn",
     "join_date": "Oct 6, 2008",
-    "popular_repos_stars": "1300",
+    "popular_repos_stars": "1302",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -327,7 +327,7 @@
     "username": "rtomayko",
     "location": "San Francisco",
     "join_date": "Feb 18, 2008",
-    "popular_repos_stars": "3595",
+    "popular_repos_stars": "3594",
     "primary_languages": [
       "Ruby",
       "C",
@@ -407,13 +407,13 @@
     "username": "mislav",
     "location": "Europe",
     "join_date": "Feb 25, 2008",
-    "popular_repos_stars": "6558",
+    "popular_repos_stars": "6559",
     "primary_languages": [
       "Ruby",
       "JavaScript",
       "Shell"
     ],
-    "contributions": 747,
+    "contributions": 763,
     "followers": "1.4k"
   },
   {
@@ -439,7 +439,7 @@
     "username": "josh",
     "location": "Chicago, IL",
     "join_date": "Feb 3, 2008",
-    "popular_repos_stars": "2085",
+    "popular_repos_stars": "2088",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -455,13 +455,13 @@
     "username": "jimweirich",
     "location": "Cincinnati",
     "join_date": "Mar 27, 2008",
-    "popular_repos_stars": "2198",
+    "popular_repos_stars": "2199",
     "primary_languages": [
       "Ruby",
       "JavaScript",
       "CoffeeScript"
     ],
-    "contributions": 215,
+    "contributions": 213,
     "followers": "1.3k"
   },
   {
@@ -471,7 +471,7 @@
     "username": "rstacruz",
     "location": "Manila, Philippines",
     "join_date": "Apr 16, 2009",
-    "popular_repos_stars": "16390",
+    "popular_repos_stars": "16397",
     "primary_languages": [
       "JavaScript",
       "Ruby",
@@ -503,7 +503,7 @@
     "username": "tmm1",
     "location": "San Francisco, CA",
     "join_date": "Mar 7, 2008",
-    "popular_repos_stars": "3111",
+    "popular_repos_stars": "3110",
     "primary_languages": [
       "Ruby",
       "C",
@@ -519,13 +519,13 @@
     "username": "gabrielecirulli",
     "location": "Italy",
     "join_date": "Jun 30, 2011",
-    "popular_repos_stars": "6466",
+    "popular_repos_stars": "6471",
     "primary_languages": [
       "Ruby",
       "JavaScript",
       "CSS"
     ],
-    "contributions": 539,
+    "contributions": 532,
     "followers": "1.2k"
   },
   {
@@ -535,7 +535,7 @@
     "username": "rkh",
     "location": "Berlin",
     "join_date": "Oct 22, 2008",
-    "popular_repos_stars": "1582",
+    "popular_repos_stars": "1581",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -551,7 +551,7 @@
     "username": "jnunemaker",
     "location": "South Bend, IN, USA",
     "join_date": "Feb 13, 2008",
-    "popular_repos_stars": "4221",
+    "popular_repos_stars": "4224",
     "primary_languages": [
       "Ruby",
       "Shell",
@@ -583,13 +583,13 @@
     "username": "chriseppstein",
     "location": "San Jose, CA",
     "join_date": "Feb 29, 2008",
-    "popular_repos_stars": "1033",
+    "popular_repos_stars": "1032",
     "primary_languages": [
       "Ruby",
       "JavaScript",
       "CSS"
     ],
-    "contributions": 722,
+    "contributions": 726,
     "followers": "981"
   },
   {
@@ -599,14 +599,14 @@
     "username": "aphyr",
     "location": "San Francisco, CA",
     "join_date": "Mar 25, 2008",
-    "popular_repos_stars": "2830",
+    "popular_repos_stars": "2829",
     "primary_languages": [
       "Clojure",
       "Ruby",
       "Java"
     ],
-    "contributions": 985,
-    "followers": "973"
+    "contributions": 982,
+    "followers": "974"
   },
   {
     "url": "https://github.com/radar",
@@ -615,7 +615,7 @@
     "username": "radar",
     "location": "Melbourne, Australia",
     "join_date": "Mar 10, 2008",
-    "popular_repos_stars": "3804",
+    "popular_repos_stars": "3806",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -637,8 +637,8 @@
       "CSS",
       "Ruby"
     ],
-    "contributions": 474,
-    "followers": "951"
+    "contributions": 468,
+    "followers": "952"
   },
   {
     "url": "https://github.com/ikeay",
@@ -663,14 +663,14 @@
     "username": "avdi",
     "location": "Pennsylvania, USA",
     "join_date": "Feb 26, 2008",
-    "popular_repos_stars": "1714",
+    "popular_repos_stars": "1716",
     "primary_languages": [
       "Ruby",
       "JavaScript",
       "Shell"
     ],
     "contributions": 198,
-    "followers": "932"
+    "followers": "933"
   },
   {
     "url": "https://github.com/fnando",
@@ -679,14 +679,14 @@
     "username": "fnando",
     "location": "São Paulo, Brazil",
     "join_date": "Mar 13, 2008",
-    "popular_repos_stars": "2684",
+    "popular_repos_stars": "2688",
     "primary_languages": [
       "Ruby",
       "JavaScript",
       "CSS"
     ],
     "contributions": 683,
-    "followers": "895"
+    "followers": "896"
   },
   {
     "url": "https://github.com/bmizerany",
@@ -695,14 +695,14 @@
     "username": "bmizerany",
     "location": "",
     "join_date": "Jan 23, 2008",
-    "popular_repos_stars": "2068",
+    "popular_repos_stars": "2072",
     "primary_languages": [
       "Ruby",
       "Go",
       "Shell"
     ],
-    "contributions": 256,
-    "followers": "846"
+    "contributions": 257,
+    "followers": "848"
   },
   {
     "url": "https://github.com/whymirror",
@@ -711,7 +711,7 @@
     "username": "whymirror",
     "location": "site:github.com \"fork of why/\"",
     "join_date": "Aug 19, 2009",
-    "popular_repos_stars": "417",
+    "popular_repos_stars": "416",
     "primary_languages": [
       "Ruby",
       "C",
@@ -727,7 +727,7 @@
     "username": "chloerei",
     "location": "china, beijing",
     "join_date": "Jan 28, 2009",
-    "popular_repos_stars": "1884",
+    "popular_repos_stars": "1885",
     "primary_languages": [
       "Ruby",
       "CoffeeScript",
@@ -743,7 +743,7 @@
     "username": "amatsuda",
     "location": "Tokyo, Japan",
     "join_date": "May 25, 2008",
-    "popular_repos_stars": "5253",
+    "popular_repos_stars": "5255",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -775,14 +775,14 @@
     "username": "ttscoff",
     "location": "Winona, MN USA",
     "join_date": "Jan 19, 2009",
-    "popular_repos_stars": "2289",
+    "popular_repos_stars": "2291",
     "primary_languages": [
       "Ruby",
       "Shell",
       "JavaScript"
     ],
-    "contributions": 510,
-    "followers": "791"
+    "contributions": 507,
+    "followers": "792"
   },
   {
     "url": "https://github.com/atmos",
@@ -814,7 +814,7 @@
       "CSS"
     ],
     "contributions": 113,
-    "followers": "770"
+    "followers": "768"
   },
   {
     "url": "https://github.com/pengwynn",
@@ -829,7 +829,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 825,
+    "contributions": 823,
     "followers": "765"
   },
   {
@@ -839,7 +839,7 @@
     "username": "jordansissel",
     "location": "Silicon Valley",
     "join_date": "Sep 27, 2009",
-    "popular_repos_stars": "5120",
+    "popular_repos_stars": "5121",
     "primary_languages": [
       "Ruby",
       "Shell",
@@ -878,7 +878,7 @@
       "JavaScript"
     ],
     "contributions": 102,
-    "followers": "729"
+    "followers": "730"
   },
   {
     "url": "https://github.com/mperham",
@@ -887,7 +887,7 @@
     "username": "mperham",
     "location": "Portland, OR",
     "join_date": "Mar 12, 2008",
-    "popular_repos_stars": "7569",
+    "popular_repos_stars": "7567",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -903,7 +903,7 @@
     "username": "jamis",
     "location": "Caldwell, Idaho, USA",
     "join_date": "Feb 28, 2008",
-    "popular_repos_stars": "1106",
+    "popular_repos_stars": "1105",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -951,7 +951,7 @@
     "username": "jcoglan",
     "location": "",
     "join_date": "May 4, 2008",
-    "popular_repos_stars": "1767",
+    "popular_repos_stars": "1768",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -967,7 +967,7 @@
     "username": "andrew",
     "location": "Bath, UK",
     "join_date": "Feb 27, 2008",
-    "popular_repos_stars": "1618",
+    "popular_repos_stars": "1620",
     "primary_languages": [
       "JavaScript",
       "Ruby",
@@ -983,7 +983,7 @@
     "username": "robbyrussell",
     "location": "Portland, Oregon",
     "join_date": "Feb 13, 2008",
-    "popular_repos_stars": "18688",
+    "popular_repos_stars": "18706",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -1015,14 +1015,14 @@
     "username": "evanphx",
     "location": "Los Angeles, CA",
     "join_date": "Jan 12, 2008",
-    "popular_repos_stars": "489",
+    "popular_repos_stars": "490",
     "primary_languages": [
       "Ruby",
       "C",
       "Shell"
     ],
     "contributions": 436,
-    "followers": "648"
+    "followers": "649"
   },
   {
     "url": "https://github.com/flyerhzm",
@@ -1031,13 +1031,13 @@
     "username": "flyerhzm",
     "location": "Shanghai, China",
     "join_date": "Mar 24, 2009",
-    "popular_repos_stars": "3700",
+    "popular_repos_stars": "3699",
     "primary_languages": [
       "Ruby",
       "JavaScript",
       "CSS"
     ],
-    "contributions": 806,
+    "contributions": 804,
     "followers": "647"
   },
   {
@@ -1047,7 +1047,7 @@
     "username": "imathis",
     "location": "Birmingham, AL",
     "join_date": "Jun 5, 2008",
-    "popular_repos_stars": "9403",
+    "popular_repos_stars": "9404",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -1079,14 +1079,14 @@
     "username": "headius",
     "location": "",
     "join_date": "May 12, 2008",
-    "popular_repos_stars": "1144",
+    "popular_repos_stars": "1145",
     "primary_languages": [
       "Ruby",
       "Java",
       "C"
     ],
     "contributions": 1,
-    "followers": "637"
+    "followers": "638"
   },
   {
     "url": "https://github.com/jeremy",
@@ -1102,7 +1102,7 @@
       "C"
     ],
     "contributions": 329,
-    "followers": "637"
+    "followers": "638"
   },
   {
     "url": "https://github.com/peachananr",
@@ -1111,7 +1111,7 @@
     "username": "peachananr",
     "location": "Everywhere in the world",
     "join_date": "Jul 5, 2011",
-    "popular_repos_stars": "7970",
+    "popular_repos_stars": "7980",
     "primary_languages": [
       "JavaScript",
       "CSS",
@@ -1144,7 +1144,7 @@
     "username": "fredwu",
     "location": "Melbourne, Australia (Shanghai, China)",
     "join_date": "Oct 30, 2008",
-    "popular_repos_stars": "2560",
+    "popular_repos_stars": "2561",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -1176,14 +1176,14 @@
     "username": "bkeepers",
     "location": "Holland, MI, US",
     "join_date": "Feb 9, 2008",
-    "popular_repos_stars": "3639",
+    "popular_repos_stars": "3644",
     "primary_languages": [
       "Ruby",
       "JavaScript",
       "Shell"
     ],
-    "contributions": 845,
-    "followers": "605"
+    "contributions": 830,
+    "followers": "606"
   },
   {
     "url": "https://github.com/phlipper",
@@ -1199,7 +1199,7 @@
       "Shell"
     ],
     "contributions": 827,
-    "followers": "595"
+    "followers": "596"
   },
   {
     "url": "https://github.com/tarcieri",
@@ -1214,8 +1214,8 @@
       "C",
       "JavaScript"
     ],
-    "contributions": 974,
-    "followers": "592"
+    "contributions": 966,
+    "followers": "593"
   },
   {
     "url": "https://github.com/railstutorial",
@@ -1240,14 +1240,14 @@
     "username": "echen",
     "location": "San Francisco",
     "join_date": "Jul 6, 2009",
-    "popular_repos_stars": "639",
+    "popular_repos_stars": "640",
     "primary_languages": [
       "Ruby",
       "R",
       "Scala"
     ],
     "contributions": 34,
-    "followers": "574"
+    "followers": "575"
   },
   {
     "url": "https://github.com/csjaba",
@@ -1263,7 +1263,7 @@
       "CoffeeScript"
     ],
     "contributions": 0,
-    "followers": "571"
+    "followers": "572"
   },
   {
     "url": "https://github.com/dchelimsky",
@@ -1304,14 +1304,14 @@
     "username": "stormzhang",
     "location": "Shanghai China",
     "join_date": "Sep 2, 2012",
-    "popular_repos_stars": "947",
+    "popular_repos_stars": "948",
     "primary_languages": [
       "Java",
       "Groovy",
       "CSS"
     ],
     "contributions": 588,
-    "followers": "560"
+    "followers": "561"
   },
   {
     "url": "https://github.com/jnicklas",
@@ -1343,7 +1343,7 @@
       "CoffeeScript"
     ],
     "contributions": 31,
-    "followers": "546"
+    "followers": "545"
   },
   {
     "url": "https://github.com/qrush",
@@ -1358,8 +1358,8 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 524,
-    "followers": "535"
+    "contributions": 530,
+    "followers": "536"
   },
   {
     "url": "https://github.com/jbarnette",
@@ -1407,7 +1407,7 @@
       "CoffeeScript"
     ],
     "contributions": 16,
-    "followers": "533"
+    "followers": "534"
   },
   {
     "url": "https://github.com/nakajima",
@@ -1471,7 +1471,7 @@
       "Shell"
     ],
     "contributions": 1,
-    "followers": "518"
+    "followers": "519"
   },
   {
     "url": "https://github.com/adamwiggins",
@@ -1496,7 +1496,7 @@
     "username": "ddollar",
     "location": "Atlanta, GA",
     "join_date": "Mar 17, 2008",
-    "popular_repos_stars": "4654",
+    "popular_repos_stars": "4655",
     "primary_languages": [
       "Ruby",
       "Shell",
@@ -1512,7 +1512,7 @@
     "username": "tapajos",
     "location": "",
     "join_date": "Mar 18, 2008",
-    "popular_repos_stars": "573",
+    "popular_repos_stars": "574",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -1545,7 +1545,7 @@
     "username": "mbleigh",
     "location": "Los Angeles, CA",
     "join_date": "Feb 26, 2008",
-    "popular_repos_stars": "4692",
+    "popular_repos_stars": "4693",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -1561,7 +1561,7 @@
     "username": "peterc",
     "location": "Cambridge, UK",
     "join_date": "Feb 1, 2008",
-    "popular_repos_stars": "1325",
+    "popular_repos_stars": "1324",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -1577,7 +1577,7 @@
     "username": "JEG2",
     "location": "Edmond, OK, USA",
     "join_date": "Apr 7, 2008",
-    "popular_repos_stars": "710",
+    "popular_repos_stars": "711",
     "primary_languages": [
       "Ruby",
       "Shell",
@@ -1594,7 +1594,7 @@
     "username": "tobi",
     "location": "Ottawa, Canada",
     "join_date": "Feb 17, 2008",
-    "popular_repos_stars": "3074",
+    "popular_repos_stars": "3073",
     "primary_languages": [
       "Ruby",
       "Go",

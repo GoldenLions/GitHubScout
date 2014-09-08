@@ -24,7 +24,7 @@
     "commits": "6,462",
     "stars": "953",
     "forks": "82",
-    "contributors": ""
+    "contributors": "28"
   },
   {
     "url": "https://github.com/tomprimozic/type-systems",
@@ -42,14 +42,14 @@
     "commits": "3,863",
     "stars": "369",
     "forks": "82",
-    "contributors": ""
+    "contributors": "40"
   },
   {
     "url": "https://github.com/astrada/google-drive-ocamlfuse",
     "size": 2272,
     "language": "OCaml",
     "commits": "239",
-    "stars": "352",
+    "stars": "353",
     "forks": "27",
     "contributors": "2"
   },
@@ -76,7 +76,7 @@
     "size": 138754,
     "language": "OCaml",
     "commits": "9,912",
-    "stars": "245",
+    "stars": "246",
     "forks": "115",
     "contributors": "14"
   },
@@ -87,7 +87,7 @@
     "commits": "2,964",
     "stars": "197",
     "forks": "60",
-    "contributors": ""
+    "contributors": "54"
   },
   {
     "url": "https://github.com/janestreet/core",
@@ -96,7 +96,7 @@
     "commits": "90",
     "stars": "191",
     "forks": "22",
-    "contributors": ""
+    "contributors": "7"
   },
   {
     "url": "https://github.com/pikatchu/LinearML",
@@ -112,7 +112,7 @@
     "size": 35276,
     "language": "OCaml",
     "commits": "6,835",
-    "stars": "170",
+    "stars": "171",
     "forks": "121",
     "contributors": "61"
   },
@@ -150,7 +150,7 @@
     "commits": "669",
     "stars": "132",
     "forks": "23",
-    "contributors": ""
+    "contributors": "6"
   },
   {
     "url": "https://github.com/g2p/git-fs",
@@ -159,14 +159,14 @@
     "commits": "140",
     "stars": "128",
     "forks": "10",
-    "contributors": ""
+    "contributors": "1"
   },
   {
     "url": "https://github.com/diml/utop",
     "size": 1415,
     "language": "OCaml",
-    "commits": "291",
-    "stars": "122",
+    "commits": "292",
+    "stars": "123",
     "forks": "13",
     "contributors": "12"
   },

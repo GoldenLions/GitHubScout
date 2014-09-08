@@ -40,7 +40,7 @@
       "C",
       "FORTRAN"
     ],
-    "contributions": 187,
+    "contributions": 186,
     "followers": "21"
   },
   {
@@ -73,7 +73,7 @@
       "Shell"
     ],
     "contributions": 1,
-    "followers": "16"
+    "followers": "17"
   },
   {
     "url": "https://github.com/chrispbradley",
@@ -85,10 +85,10 @@
     "popular_repos_stars": "13",
     "primary_languages": [
       "C",
-      "C",
-      "FORTRAN"
+      "FORTRAN",
+      "Perl"
     ],
-    "contributions": 58,
+    "contributions": 59,
     "followers": "14"
   },
   {
@@ -292,7 +292,7 @@
       "Shell",
       "Python"
     ],
-    "contributions": 639,
+    "contributions": 638,
     "followers": "8"
   },
   {
@@ -308,7 +308,7 @@
       "CSS",
       "Python"
     ],
-    "contributions": 243,
+    "contributions": 245,
     "followers": "8"
   },
   {
@@ -400,7 +400,7 @@
       "Python",
       "Ruby"
     ],
-    "contributions": 964,
+    "contributions": 961,
     "followers": "7"
   },
   {
@@ -524,7 +524,7 @@
       "Python",
       "C"
     ],
-    "contributions": 39,
+    "contributions": 36,
     "followers": "6"
   },
   {

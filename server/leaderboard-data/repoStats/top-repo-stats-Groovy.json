@@ -51,7 +51,7 @@
     "commits": "319",
     "stars": "357",
     "forks": "92",
-    "contributors": "21"
+    "contributors": ""
   },
   {
     "url": "https://github.com/JakeWharton/gradle-android-test-plugin",
@@ -59,7 +59,7 @@
     "language": "Groovy",
     "commits": "80",
     "stars": "352",
-    "forks": "63",
+    "forks": "62",
     "contributors": "11"
   },
   {
@@ -130,7 +130,7 @@
     "size": 1176,
     "language": "Groovy",
     "commits": "88",
-    "stars": "172",
+    "stars": "173",
     "forks": "51",
     "contributors": "12"
   },
@@ -141,7 +141,7 @@
     "commits": "182",
     "stars": "158",
     "forks": "29",
-    "contributors": "7"
+    "contributors": ""
   },
   {
     "url": "https://github.com/robfletcher/twitter-bootstrap-scaffolding",
@@ -159,7 +159,7 @@
     "commits": "169",
     "stars": "148",
     "forks": "34",
-    "contributors": ""
+    "contributors": "10"
   },
   {
     "url": "https://github.com/grails/grails-doc",

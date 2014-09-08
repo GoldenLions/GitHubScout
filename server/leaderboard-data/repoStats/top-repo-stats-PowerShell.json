@@ -85,7 +85,7 @@
     "size": 1763,
     "language": "PowerShell",
     "commits": "228",
-    "stars": "203",
+    "stars": "204",
     "forks": "99",
     "contributors": "18"
   },
@@ -96,7 +96,7 @@
     "commits": "175",
     "stars": "123",
     "forks": "76",
-    "contributors": "21"
+    "contributors": ""
   },
   {
     "url": "https://github.com/alanrenouf/vCheck-vSphere",
@@ -123,7 +123,7 @@
     "commits": "87",
     "stars": "89",
     "forks": "55",
-    "contributors": "2"
+    "contributors": ""
   },
   {
     "url": "https://github.com/Azure/azure-sdk-tools-samples",

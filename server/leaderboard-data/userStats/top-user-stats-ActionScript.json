@@ -12,7 +12,7 @@
       "Python",
       "CoffeeScript"
     ],
-    "contributions": 62,
+    "contributions": 65,
     "followers": "1.4k"
   },
   {
@@ -22,7 +22,7 @@
     "username": "gskinner",
     "location": "",
     "join_date": "Nov 23, 2009",
-    "popular_repos_stars": "1321",
+    "popular_repos_stars": "1325",
     "primary_languages": [
       "JavaScript",
       "ActionScript",
@@ -38,7 +38,7 @@
     "username": "codegangsta",
     "location": "Sierra Madre CA",
     "join_date": "Jan 7, 2010",
-    "popular_repos_stars": "3976",
+    "popular_repos_stars": "3983",
     "primary_languages": [
       "Go",
       "Shell",
@@ -86,14 +86,14 @@
     "username": "johnlindquist",
     "location": "",
     "join_date": "Nov 22, 2008",
-    "popular_repos_stars": "580",
+    "popular_repos_stars": "581",
     "primary_languages": [
       "JavaScript",
       "ActionScript",
       "Java"
     ],
     "contributions": 20,
-    "followers": "419"
+    "followers": "420"
   },
   {
     "url": "https://github.com/photonstorm",
@@ -102,7 +102,7 @@
     "username": "photonstorm",
     "location": "UK",
     "join_date": "Dec 8, 2009",
-    "popular_repos_stars": "6504",
+    "popular_repos_stars": "6511",
     "primary_languages": [
       "JavaScript",
       "PHP",
@@ -118,7 +118,7 @@
     "username": "joelhooks",
     "location": "Dallas, TX",
     "join_date": "May 20, 2009",
-    "popular_repos_stars": "363",
+    "popular_repos_stars": "364",
     "primary_languages": [
       "ActionScript",
       "JavaScript",
@@ -134,7 +134,7 @@
     "username": "PrimaryFeather",
     "location": "Austria",
     "join_date": "Jan 4, 2011",
-    "popular_repos_stars": "616",
+    "popular_repos_stars": "617",
     "primary_languages": [
       "ActionScript",
       "Objective",
@@ -189,7 +189,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 419,
+    "contributions": 416,
     "followers": "243"
   },
   {
@@ -216,7 +216,7 @@
     "username": "inspirit",
     "location": "Moscow, Russia",
     "join_date": "Mar 15, 2010",
-    "popular_repos_stars": "1153",
+    "popular_repos_stars": "1154",
     "primary_languages": [
       "ActionScript",
       "C",
@@ -254,7 +254,7 @@
       "ActionScript",
       "CSS"
     ],
-    "contributions": 15,
+    "contributions": 14,
     "followers": "162"
   },
   {
@@ -296,7 +296,7 @@
     "username": "hype",
     "location": "New York",
     "join_date": "Oct 14, 2009",
-    "popular_repos_stars": "453",
+    "popular_repos_stars": "454",
     "primary_languages": [
       "Shell",
       "JavaScript",
@@ -391,14 +391,14 @@
     "username": "DaftMonk",
     "location": "",
     "join_date": "Oct 7, 2012",
-    "popular_repos_stars": "2250",
+    "popular_repos_stars": "2257",
     "primary_languages": [
       "JavaScript",
       "CSS",
       "CoffeeScript"
     ],
     "contributions": 253,
-    "followers": "101"
+    "followers": "102"
   },
   {
     "url": "https://github.com/renaun",
@@ -429,7 +429,7 @@
       "JavaScript",
       "Haxe"
     ],
-    "contributions": 249,
+    "contributions": 250,
     "followers": "97"
   },
   {
@@ -469,7 +469,7 @@
     "username": "zrong",
     "location": "WUHAN",
     "join_date": "Jun 8, 2010",
-    "popular_repos_stars": "137",
+    "popular_repos_stars": "138",
     "primary_languages": [
       "ActionScript",
       "Shell",
@@ -573,7 +573,7 @@
       "Groovy"
     ],
     "contributions": 309,
-    "followers": "81"
+    "followers": "82"
   },
   {
     "url": "https://github.com/thibaultimbert",
@@ -717,7 +717,7 @@
       "PHP"
     ],
     "contributions": 143,
-    "followers": "69"
+    "followers": "70"
   },
   {
     "url": "https://github.com/nodename",
@@ -732,7 +732,7 @@
       "ActionScript",
       "JavaScript"
     ],
-    "contributions": 124,
+    "contributions": 127,
     "followers": "69"
   },
   {
@@ -742,14 +742,14 @@
     "username": "lo-th",
     "location": "france",
     "join_date": "Mar 19, 2012",
-    "popular_repos_stars": "835",
+    "popular_repos_stars": "844",
     "primary_languages": [
       "JavaScript",
       "CSS",
       "Shell"
     ],
     "contributions": 1,
-    "followers": "68"
+    "followers": "70"
   },
   {
     "url": "https://github.com/zmLiu",
@@ -806,7 +806,7 @@
     "username": "lannymcnie",
     "location": "Edmonton, Canada",
     "join_date": "Jan 29, 2011",
-    "popular_repos_stars": "7274",
+    "popular_repos_stars": "7276",
     "primary_languages": [],
     "contributions": 211,
     "followers": "64"
@@ -872,7 +872,7 @@
       "CSS"
     ],
     "contributions": 5,
-    "followers": "57"
+    "followers": "58"
   },
   {
     "url": "https://github.com/liaocheng",
@@ -980,7 +980,7 @@
       "Haxe",
       "Python"
     ],
-    "contributions": 716,
+    "contributions": 721,
     "followers": "54"
   },
   {
@@ -1054,7 +1054,7 @@
     "username": "schlangster",
     "location": "",
     "join_date": "Jun 28, 2012",
-    "popular_repos_stars": "467",
+    "popular_repos_stars": "468",
     "primary_languages": [
       "C",
       "C",
@@ -1108,7 +1108,7 @@
       "ActionScript",
       "OCaml"
     ],
-    "contributions": 221,
+    "contributions": 225,
     "followers": "48"
   },
   {
@@ -1151,7 +1151,7 @@
     "username": "Dovyski",
     "location": "Brazil",
     "join_date": "Dec 6, 2010",
-    "popular_repos_stars": "42",
+    "popular_repos_stars": "43",
     "primary_languages": [
       "JavaScript",
       "ActionScript",
@@ -1318,7 +1318,7 @@
       "ActionScript",
       "JavaScript"
     ],
-    "contributions": 317,
+    "contributions": 318,
     "followers": "37"
   },
   {
@@ -1516,18 +1516,14 @@
   {
     "url": "https://github.com/SeanHogan",
     "language": "ActionScript",
-    "full_name": "Sean Hogan",
-    "username": "SeanHogan",
-    "location": "Chicago",
-    "join_date": "Mar 9, 2011",
-    "popular_repos_stars": "12",
-    "primary_languages": [
-      "ActionScript",
-      "C",
-      "Shell"
-    ],
-    "contributions": 3,
-    "followers": "31"
+    "full_name": "",
+    "username": "",
+    "location": "",
+    "join_date": "",
+    "popular_repos_stars": "0",
+    "primary_languages": [],
+    "contributions": null,
+    "followers": ""
   },
   {
     "url": "https://github.com/mikedotalmond",
@@ -1558,7 +1554,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 654,
+    "contributions": 652,
     "followers": "31"
   },
   {
@@ -1574,7 +1570,7 @@
       "ActionScript",
       "CSS"
     ],
-    "contributions": 578,
+    "contributions": 581,
     "followers": "30"
   },
   {

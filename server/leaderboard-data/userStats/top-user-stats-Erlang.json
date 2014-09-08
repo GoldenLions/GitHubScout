@@ -22,14 +22,14 @@
     "username": "benoitc",
     "location": "Creil, France",
     "join_date": "Jun 20, 2008",
-    "popular_repos_stars": "3114",
+    "popular_repos_stars": "3116",
     "primary_languages": [
       "Erlang",
       "Python",
       "JavaScript"
     ],
     "contributions": 1,
-    "followers": "602"
+    "followers": "603"
   },
   {
     "url": "https://github.com/videlalvaro",
@@ -38,7 +38,7 @@
     "username": "videlalvaro",
     "location": "Zurich",
     "join_date": "Oct 24, 2008",
-    "popular_repos_stars": "2463",
+    "popular_repos_stars": "2464",
     "primary_languages": [
       "Erlang",
       "Shell",
@@ -54,7 +54,7 @@
     "username": "RJ",
     "location": "London",
     "join_date": "Oct 18, 2008",
-    "popular_repos_stars": "846",
+    "popular_repos_stars": "845",
     "primary_languages": [
       "Erlang",
       "Shell",
@@ -70,13 +70,13 @@
     "username": "yrashk",
     "location": "Nelson, BC, Canada",
     "join_date": "Feb 19, 2008",
-    "popular_repos_stars": "932",
+    "popular_repos_stars": "935",
     "primary_languages": [
       "Erlang",
       "Elixir",
       "Shell"
     ],
-    "contributions": 574,
+    "contributions": 561,
     "followers": "343"
   },
   {
@@ -86,7 +86,7 @@
     "username": "armon",
     "location": "San Francisco, CA",
     "join_date": "Jan 30, 2011",
-    "popular_repos_stars": "1574",
+    "popular_repos_stars": "1575",
     "primary_languages": [
       "Go",
       "Python",
@@ -150,7 +150,7 @@
     "username": "ferd",
     "location": "Saguenay, Qc, Canada",
     "join_date": "Aug 2, 2009",
-    "popular_repos_stars": "581",
+    "popular_repos_stars": "582",
     "primary_languages": [
       "Erlang",
       "Shell",
@@ -172,7 +172,7 @@
       "C",
       "Python"
     ],
-    "contributions": 889,
+    "contributions": 890,
     "followers": "235"
   },
   {
@@ -188,7 +188,7 @@
       "Shell",
       "Python"
     ],
-    "contributions": 512,
+    "contributions": 513,
     "followers": "219"
   },
   {
@@ -220,7 +220,7 @@
       "CSS",
       "C"
     ],
-    "contributions": 364,
+    "contributions": 362,
     "followers": "218"
   },
   {
@@ -252,7 +252,7 @@
       "Shell",
       "Python"
     ],
-    "contributions": 715,
+    "contributions": 705,
     "followers": "202"
   },
   {
@@ -262,7 +262,7 @@
     "username": "krestenkrab",
     "location": "Århus, Denmark",
     "join_date": "Oct 9, 2009",
-    "popular_repos_stars": "564",
+    "popular_repos_stars": "565",
     "primary_languages": [
       "Erlang",
       "C",
@@ -301,7 +301,7 @@
       "Shell"
     ],
     "contributions": 1,
-    "followers": "166"
+    "followers": "167"
   },
   {
     "url": "https://github.com/timpritlove",
@@ -326,7 +326,7 @@
     "username": "joewilliams",
     "location": "Seattle, WA",
     "join_date": "Jan 5, 2009",
-    "popular_repos_stars": "287",
+    "popular_repos_stars": "288",
     "primary_languages": [
       "Erlang",
       "Ruby",
@@ -412,7 +412,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 24,
+    "contributions": 28,
     "followers": "131"
   },
   {
@@ -428,7 +428,7 @@
       "Shell",
       "Python"
     ],
-    "contributions": 134,
+    "contributions": 133,
     "followers": "131"
   },
   {
@@ -492,7 +492,7 @@
       "Erlang",
       "C"
     ],
-    "contributions": 195,
+    "contributions": 200,
     "followers": "108"
   },
   {
@@ -524,7 +524,7 @@
       "C",
       "Go"
     ],
-    "contributions": 106,
+    "contributions": 105,
     "followers": "101"
   },
   {
@@ -590,7 +590,7 @@
       "Lisp"
     ],
     "contributions": 2,
-    "followers": "94"
+    "followers": "95"
   },
   {
     "url": "https://github.com/kuenishi",
@@ -679,7 +679,7 @@
     "username": "gabrielelana",
     "location": "Milan/Italy",
     "join_date": "Jan 29, 2009",
-    "popular_repos_stars": "199",
+    "popular_repos_stars": "200",
     "primary_languages": [
       "VimL",
       "JavaScript",
@@ -728,14 +728,14 @@
     "username": "0xAX",
     "location": "",
     "join_date": "Nov 1, 2012",
-    "popular_repos_stars": "592",
+    "popular_repos_stars": "594",
     "primary_languages": [
       "Shell",
       "Go",
       "Emacs",
       "Lisp"
     ],
-    "contributions": 839,
+    "contributions": 836,
     "followers": "83"
   },
   {
@@ -799,7 +799,7 @@
       "Ruby",
       "Shell"
     ],
-    "contributions": 373,
+    "contributions": 454,
     "followers": "79"
   },
   {
@@ -912,7 +912,7 @@
       "Python"
     ],
     "contributions": 221,
-    "followers": "72"
+    "followers": "73"
   },
   {
     "url": "https://github.com/ericbmerritt",
@@ -959,7 +959,7 @@
       "Erlang",
       "C"
     ],
-    "contributions": 469,
+    "contributions": 471,
     "followers": "70"
   },
   {
@@ -975,7 +975,7 @@
       "Shell",
       "Python"
     ],
-    "contributions": 379,
+    "contributions": 381,
     "followers": "69"
   },
   {
@@ -1008,7 +1008,7 @@
       "Perl"
     ],
     "contributions": 220,
-    "followers": "68"
+    "followers": "69"
   },
   {
     "url": "https://github.com/okeuday",
@@ -1055,7 +1055,7 @@
       "C",
       "JavaScript"
     ],
-    "contributions": 359,
+    "contributions": 357,
     "followers": "64"
   },
   {
@@ -1081,7 +1081,7 @@
     "username": "gar1t",
     "location": "",
     "join_date": "Jan 18, 2010",
-    "popular_repos_stars": "163",
+    "popular_repos_stars": "164",
     "primary_languages": [
       "Erlang",
       "Shell",
@@ -1135,7 +1135,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 161,
+    "contributions": 156,
     "followers": "60"
   },
   {
@@ -1177,7 +1177,7 @@
     "username": "mattsta",
     "location": "New York, NY",
     "join_date": "Jun 30, 2008",
-    "popular_repos_stars": "125",
+    "popular_repos_stars": "126",
     "primary_languages": [
       "Erlang",
       "Shell",
@@ -1247,7 +1247,7 @@
       "Shell",
       "Python"
     ],
-    "contributions": 221,
+    "contributions": 222,
     "followers": "54"
   },
   {
@@ -1319,7 +1319,7 @@
     "username": "toland",
     "location": "San Antonio, TX",
     "join_date": "Apr 3, 2008",
-    "popular_repos_stars": "1664",
+    "popular_repos_stars": "1665",
     "primary_languages": [
       "Ruby",
       "Erlang",
@@ -1341,7 +1341,7 @@
       "Shell",
       "Java"
     ],
-    "contributions": 152,
+    "contributions": 141,
     "followers": "52"
   },
   {
@@ -1453,8 +1453,8 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 317,
-    "followers": "48"
+    "contributions": 310,
+    "followers": "49"
   },
   {
     "url": "https://github.com/lefant",
@@ -1463,13 +1463,13 @@
     "username": "lefant",
     "location": "Stockholm, Sweden",
     "join_date": "Mar 17, 2009",
-    "popular_repos_stars": "15",
+    "popular_repos_stars": "16",
     "primary_languages": [
       "Shell",
       "CSS",
       "JavaScript"
     ],
-    "contributions": 356,
+    "contributions": 359,
     "followers": "48"
   },
   {
@@ -1485,7 +1485,7 @@
       "Shell",
       "ActionScript"
     ],
-    "contributions": 243,
+    "contributions": 241,
     "followers": "47"
   },
   {
@@ -1549,7 +1549,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 582,
+    "contributions": 579,
     "followers": "45"
   },
   {
@@ -1581,7 +1581,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 460,
+    "contributions": 451,
     "followers": "44"
   },
   {

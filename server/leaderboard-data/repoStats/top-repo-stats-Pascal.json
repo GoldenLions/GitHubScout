@@ -4,7 +4,7 @@
     "size": 3971,
     "language": "Pascal",
     "commits": "482",
-    "stars": "386",
+    "stars": "385",
     "forks": "126",
     "contributors": "2"
   },
@@ -33,7 +33,7 @@
     "commits": "5,843",
     "stars": "100",
     "forks": "70",
-    "contributors": ""
+    "contributors": "12"
   },
   {
     "url": "https://github.com/googleapi/googleapi",
@@ -69,7 +69,7 @@
     "commits": "121",
     "stars": "78",
     "forks": "34",
-    "contributors": ""
+    "contributors": "9"
   },
   {
     "url": "https://github.com/graemeg/lazarus",
@@ -78,7 +78,7 @@
     "commits": "44,249",
     "stars": "76",
     "forks": "14",
-    "contributors": "3"
+    "contributors": ""
   },
   {
     "url": "https://github.com/silvioprog/brookframework",
@@ -96,7 +96,7 @@
     "commits": "290",
     "stars": "74",
     "forks": "42",
-    "contributors": ""
+    "contributors": "14"
   },
   {
     "url": "https://github.com/graemeg/freepascal",
@@ -114,7 +114,7 @@
     "commits": "381",
     "stars": "63",
     "forks": "37",
-    "contributors": "16"
+    "contributors": ""
   },
   {
     "url": "https://github.com/fabriciocolombo/delphi-rest-client-api",

@@ -61,7 +61,7 @@
       "C"
     ],
     "contributions": 2,
-    "followers": "64"
+    "followers": "65"
   },
   {
     "url": "https://github.com/michelf",
@@ -70,7 +70,7 @@
     "username": "michelf",
     "location": "Lévis, Québec, Canada",
     "join_date": "Jun 6, 2010",
-    "popular_repos_stars": "1618",
+    "popular_repos_stars": "1621",
     "primary_languages": [
       "D",
       "C",
@@ -92,7 +92,7 @@
       "Lua",
       "Shell"
     ],
-    "contributions": 221,
+    "contributions": 222,
     "followers": "39"
   },
   {
@@ -186,7 +186,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 650,
+    "contributions": 647,
     "followers": "30"
   },
   {
@@ -218,7 +218,7 @@
       "Shell",
       "Assembly"
     ],
-    "contributions": 49,
+    "contributions": 50,
     "followers": "28"
   },
   {
@@ -298,7 +298,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 454,
+    "contributions": 453,
     "followers": "26"
   },
   {
@@ -330,7 +330,7 @@
       "C",
       "Java"
     ],
-    "contributions": 316,
+    "contributions": 312,
     "followers": "25"
   },
   {
@@ -428,7 +428,7 @@
       "Python",
       "C"
     ],
-    "contributions": 120,
+    "contributions": 118,
     "followers": "22"
   },
   {
@@ -697,7 +697,7 @@
       "C",
       "C"
     ],
-    "contributions": 308,
+    "contributions": 303,
     "followers": "14"
   },
   {
@@ -777,7 +777,7 @@
       "Shell",
       "D"
     ],
-    "contributions": 11,
+    "contributions": 13,
     "followers": "13"
   },
   {
@@ -810,7 +810,7 @@
       "D",
       "Shell"
     ],
-    "contributions": 41,
+    "contributions": 42,
     "followers": "13"
   },
   {
@@ -826,7 +826,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 377,
+    "contributions": 378,
     "followers": "13"
   },
   {
@@ -842,7 +842,7 @@
       "C",
       "C"
     ],
-    "contributions": 256,
+    "contributions": 261,
     "followers": "13"
   },
   {
@@ -858,7 +858,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 275,
+    "contributions": 276,
     "followers": "12"
   },
   {
@@ -890,7 +890,7 @@
       "C",
       "Perl"
     ],
-    "contributions": 78,
+    "contributions": 76,
     "followers": "11"
   },
   {
@@ -906,7 +906,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 213,
+    "contributions": 214,
     "followers": "11"
   },
   {
@@ -986,7 +986,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 98,
+    "contributions": 101,
     "followers": "10"
   },
   {
@@ -1012,7 +1012,7 @@
     "username": "tuxpoldo",
     "location": "Munich, Germany",
     "join_date": "Jun 5, 2012",
-    "popular_repos_stars": "146",
+    "popular_repos_stars": "145",
     "primary_languages": [
       "Python",
       "Shell",
@@ -1076,7 +1076,7 @@
     "username": "Eyyub",
     "location": "Europe, France, Montpellier",
     "join_date": "Jun 23, 2012",
-    "popular_repos_stars": "1",
+    "popular_repos_stars": "2",
     "primary_languages": [
       "OCaml",
       "Python",
@@ -1098,7 +1098,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 705,
+    "contributions": 704,
     "followers": "10"
   },
   {
@@ -1140,7 +1140,7 @@
     "username": "dariomanesku",
     "location": "",
     "join_date": "Oct 19, 2011",
-    "popular_repos_stars": "82",
+    "popular_repos_stars": "83",
     "primary_languages": [
       "Shell",
       "C",
@@ -1194,7 +1194,7 @@
       "D",
       "Perl"
     ],
-    "contributions": 51,
+    "contributions": 50,
     "followers": "9"
   },
   {
@@ -1226,7 +1226,7 @@
       "C",
       "C"
     ],
-    "contributions": 51,
+    "contributions": 48,
     "followers": "8"
   },
   {
@@ -1242,7 +1242,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 390,
+    "contributions": 383,
     "followers": "7"
   },
   {
@@ -1352,7 +1352,7 @@
       "Objective",
       "C"
     ],
-    "contributions": 265,
+    "contributions": 266,
     "followers": "8"
   },
   {
@@ -1410,7 +1410,7 @@
     "username": "mwarning",
     "location": "",
     "join_date": "Jan 3, 2011",
-    "popular_repos_stars": "62",
+    "popular_repos_stars": "63",
     "primary_languages": [
       "C",
       "Python",

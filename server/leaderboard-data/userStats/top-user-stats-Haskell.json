@@ -13,7 +13,7 @@
       "Python"
     ],
     "contributions": 1,
-    "followers": "869"
+    "followers": "870"
   },
   {
     "url": "https://github.com/ekmett",
@@ -22,7 +22,7 @@
     "username": "ekmett",
     "location": "Cambridge, MA",
     "join_date": "Jun 14, 2010",
-    "popular_repos_stars": "808",
+    "popular_repos_stars": "809",
     "primary_languages": [
       "Haskell",
       "Shell",
@@ -45,7 +45,7 @@
       "Scala"
     ],
     "contributions": 1,
-    "followers": "579"
+    "followers": "581"
   },
   {
     "url": "https://github.com/chrisdone",
@@ -71,14 +71,14 @@
     "username": "jgm",
     "location": "Berkeley, CA",
     "join_date": "Mar 13, 2008",
-    "popular_repos_stars": "5445",
+    "popular_repos_stars": "5518",
     "primary_languages": [
       "Haskell",
       "Shell",
       "Perl"
     ],
     "contributions": 2,
-    "followers": "436"
+    "followers": "439"
   },
   {
     "url": "https://github.com/mariusaeriksen",
@@ -87,13 +87,13 @@
     "username": "mariusaeriksen",
     "location": "sf, ca",
     "join_date": "Nov 1, 2008",
-    "popular_repos_stars": "341",
+    "popular_repos_stars": "342",
     "primary_languages": [
       "Haskell",
       "Shell",
       "C"
     ],
-    "contributions": 163,
+    "contributions": 161,
     "followers": "338"
   },
   {
@@ -103,14 +103,14 @@
     "username": "simonmar",
     "location": "Cambridge, UK",
     "join_date": "Feb 9, 2011",
-    "popular_repos_stars": "327",
+    "popular_repos_stars": "329",
     "primary_languages": [
       "Haskell",
       "Shell",
       "C"
     ],
     "contributions": 199,
-    "followers": "334"
+    "followers": "335"
   },
   {
     "url": "https://github.com/snoyberg",
@@ -119,7 +119,7 @@
     "username": "snoyberg",
     "location": "Israel",
     "join_date": "Jan 26, 2009",
-    "popular_repos_stars": "452",
+    "popular_repos_stars": "451",
     "primary_languages": [
       "Haskell",
       "Shell",
@@ -135,7 +135,7 @@
     "username": "evancz",
     "location": "",
     "join_date": "Apr 18, 2012",
-    "popular_repos_stars": "188",
+    "popular_repos_stars": "189",
     "primary_languages": [
       "Elm",
       "JavaScript",
@@ -157,7 +157,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 125,
+    "contributions": 126,
     "followers": "284"
   },
   {
@@ -167,13 +167,13 @@
     "username": "jaspervdj",
     "location": "Lokeren & Ghent, Belgium",
     "join_date": "Jun 15, 2009",
-    "popular_repos_stars": "1179",
+    "popular_repos_stars": "1182",
     "primary_languages": [
       "Haskell",
       "Shell",
       "JavaScript"
     ],
-    "contributions": 583,
+    "contributions": 587,
     "followers": "281"
   },
   {
@@ -190,7 +190,7 @@
       "C"
     ],
     "contributions": 78,
-    "followers": "273"
+    "followers": "274"
   },
   {
     "url": "https://github.com/tibbe",
@@ -206,7 +206,7 @@
       "Emacs",
       "Lisp"
     ],
-    "contributions": 407,
+    "contributions": 405,
     "followers": "239"
   },
   {
@@ -240,7 +240,7 @@
       "Ruby"
     ],
     "contributions": 256,
-    "followers": "225"
+    "followers": "226"
   },
   {
     "url": "https://github.com/ezyang",
@@ -249,13 +249,13 @@
     "username": "ezyang",
     "location": "Stanford, CA",
     "join_date": "Jun 12, 2008",
-    "popular_repos_stars": "798",
+    "popular_repos_stars": "799",
     "primary_languages": [
       "Haskell",
       "Shell",
       "C"
     ],
-    "contributions": 366,
+    "contributions": 361,
     "followers": "203"
   },
   {
@@ -265,7 +265,7 @@
     "username": "colah",
     "location": "Toronto",
     "join_date": "Mar 9, 2009",
-    "popular_repos_stars": "274",
+    "popular_repos_stars": "275",
     "primary_languages": [
       "Haskell",
       "Python",
@@ -298,7 +298,7 @@
     "username": "tanakh",
     "location": "Tokyo",
     "join_date": "Jul 27, 2009",
-    "popular_repos_stars": "178",
+    "popular_repos_stars": "179",
     "primary_languages": [
       "Haskell",
       "C",
@@ -314,7 +314,7 @@
     "username": "joeyh",
     "location": "",
     "join_date": "Jul 8, 2008",
-    "popular_repos_stars": "1821",
+    "popular_repos_stars": "1822",
     "primary_languages": [
       "Shell",
       "Haskell",
@@ -349,10 +349,10 @@
     "popular_repos_stars": "275",
     "primary_languages": [
       "Haskell",
-      "CSS",
-      "JavaScript"
+      "JavaScript",
+      "CSS"
     ],
-    "contributions": 800,
+    "contributions": 792,
     "followers": "165"
   },
   {
@@ -432,7 +432,7 @@
       "Ruby",
       "Shell"
     ],
-    "contributions": 571,
+    "contributions": 543,
     "followers": "128"
   },
   {
@@ -496,7 +496,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 711,
+    "contributions": 709,
     "followers": "116"
   },
   {
@@ -512,7 +512,7 @@
       "Nix",
       "Shell"
     ],
-    "contributions": 82,
+    "contributions": 83,
     "followers": "115"
   },
   {
@@ -593,7 +593,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 856,
+    "contributions": 842,
     "followers": "102"
   },
   {
@@ -619,7 +619,7 @@
     "username": "mchakravarty",
     "location": "Sydney",
     "join_date": "Apr 4, 2011",
-    "popular_repos_stars": "246",
+    "popular_repos_stars": "247",
     "primary_languages": [
       "Haskell",
       "C",
@@ -675,7 +675,7 @@
       "Lisp"
     ],
     "contributions": 457,
-    "followers": "92"
+    "followers": "93"
   },
   {
     "url": "https://github.com/gregorycollins",
@@ -716,14 +716,14 @@
     "username": "singpolyma",
     "location": "Canada",
     "join_date": "Jun 5, 2008",
-    "popular_repos_stars": "123",
+    "popular_repos_stars": "125",
     "primary_languages": [
       "Haskell",
       "Ruby",
       "C"
     ],
-    "contributions": 556,
-    "followers": "89"
+    "contributions": 545,
+    "followers": "90"
   },
   {
     "url": "https://github.com/kfish",
@@ -784,7 +784,7 @@
     "primary_languages": [
       "Rust",
       "C",
-      "Shell"
+      "Haskell"
     ],
     "contributions": 1,
     "followers": "83"
@@ -802,7 +802,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 283,
+    "contributions": 280,
     "followers": "81"
   },
   {
@@ -834,7 +834,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 215,
+    "contributions": 211,
     "followers": "80"
   },
   {
@@ -930,7 +930,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 390,
+    "contributions": 393,
     "followers": "75"
   },
   {
@@ -995,7 +995,7 @@
       "C"
     ],
     "contributions": 268,
-    "followers": "71"
+    "followers": "72"
   },
   {
     "url": "https://github.com/HeinrichApfelmus",
@@ -1011,7 +1011,7 @@
       "Common",
       "Lisp"
     ],
-    "contributions": 275,
+    "contributions": 269,
     "followers": "70"
   },
   {
@@ -1075,7 +1075,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 976,
+    "contributions": 972,
     "followers": "66"
   },
   {
@@ -1124,7 +1124,7 @@
       "Shell",
       "Ruby"
     ],
-    "contributions": 302,
+    "contributions": 307,
     "followers": "63"
   },
   {
@@ -1173,7 +1173,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 182,
+    "contributions": 183,
     "followers": "61"
   },
   {
@@ -1189,7 +1189,7 @@
       "Ruby",
       "Shell"
     ],
-    "contributions": 286,
+    "contributions": 285,
     "followers": "61"
   },
   {
@@ -1199,7 +1199,7 @@
     "username": "eagletmt",
     "location": "Tokyo, Japan",
     "join_date": "Apr 2, 2009",
-    "popular_repos_stars": "480",
+    "popular_repos_stars": "481",
     "primary_languages": [
       "Ruby",
       "VimL",
@@ -1221,7 +1221,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 723,
+    "contributions": 722,
     "followers": "58"
   },
   {
@@ -1295,7 +1295,7 @@
     "username": "ndmitchell",
     "location": "Cambridge, UK",
     "join_date": "Apr 17, 2012",
-    "popular_repos_stars": "548",
+    "popular_repos_stars": "549",
     "primary_languages": [
       "Haskell",
       "Shell",
@@ -1311,14 +1311,14 @@
     "username": "rianhunter",
     "location": "San Francisco",
     "join_date": "Aug 28, 2009",
-    "popular_repos_stars": "16",
+    "popular_repos_stars": "17",
     "primary_languages": [
       "C",
       "C",
       "Python"
     ],
     "contributions": 1,
-    "followers": "53"
+    "followers": "54"
   },
   {
     "url": "https://github.com/dcoutts",
@@ -1477,7 +1477,7 @@
       "JavaScript",
       "Python"
     ],
-    "contributions": 959,
+    "contributions": 965,
     "followers": "50"
   },
   {
@@ -1526,7 +1526,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 546,
+    "contributions": 543,
     "followers": "49"
   },
   {
@@ -1607,7 +1607,7 @@
       "Python",
       "JavaScript"
     ],
-    "contributions": 251,
+    "contributions": 255,
     "followers": "47"
   }
 ]

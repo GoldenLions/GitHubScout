@@ -6,14 +6,14 @@
     "commits": "10,386",
     "stars": "14,910",
     "forks": "2,804",
-    "contributors": "592"
+    "contributors": "595"
   },
   {
     "url": "https://github.com/limetext/lime",
     "size": 7428,
     "language": "Go",
     "commits": "595",
-    "stars": "9,075",
+    "stars": "9,076",
     "forks": "753",
     "contributors": "30"
   },
@@ -40,7 +40,7 @@
     "size": 37276,
     "language": "Go",
     "commits": "1,043",
-    "stars": "4,542",
+    "stars": "4,543",
     "forks": "257",
     "contributors": "19"
   },
@@ -67,7 +67,7 @@
     "size": 20022,
     "language": "Go",
     "commits": "1,500",
-    "stars": "4,026",
+    "stars": "4,027",
     "forks": "243",
     "contributors": "54"
   },
@@ -78,14 +78,14 @@
     "commits": "980",
     "stars": "4,018",
     "forks": "595",
-    "contributors": ""
+    "contributors": "80"
   },
   {
     "url": "https://github.com/GoogleCloudPlatform/kubernetes",
     "size": 27892,
     "language": "Go",
-    "commits": "1,929",
-    "stars": "3,444",
+    "commits": "1,935",
+    "stars": "3,445",
     "forks": "460",
     "contributors": "91"
   },
@@ -123,7 +123,7 @@
     "commits": "27",
     "stars": "3,015",
     "forks": "264",
-    "contributors": "8"
+    "contributors": ""
   },
   {
     "url": "https://github.com/mitchellh/packer",
@@ -147,7 +147,7 @@
     "url": "https://github.com/influxdb/influxdb",
     "size": 20428,
     "language": "Go",
-    "commits": "2,405",
+    "commits": "2,411",
     "stars": "2,895",
     "forks": "225",
     "contributors": "70"
@@ -159,7 +159,7 @@
     "commits": "45",
     "stars": "2,826",
     "forks": "93",
-    "contributors": ""
+    "contributors": "8"
   },
   {
     "url": "https://github.com/burke/zeus",

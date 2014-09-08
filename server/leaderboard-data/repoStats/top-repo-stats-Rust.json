@@ -48,7 +48,7 @@
     "url": "https://github.com/rust-lang/cargo",
     "size": 22396,
     "language": "Rust",
-    "commits": "765",
+    "commits": "767",
     "stars": "460",
     "forks": "81",
     "contributors": "44"
@@ -141,7 +141,7 @@
     "commits": "432",
     "stars": "173",
     "forks": "15",
-    "contributors": ""
+    "contributors": "9"
   },
   {
     "url": "https://github.com/PistonDevelopers/rust-empty",
@@ -175,7 +175,7 @@
     "size": 5049,
     "language": "Rust",
     "commits": "709",
-    "stars": "134",
+    "stars": "135",
     "forks": "60",
     "contributors": "35"
   }

@@ -3,7 +3,7 @@
     "url": "https://github.com/NixOS/nixpkgs",
     "size": 244089,
     "language": "Nix",
-    "commits": "48,967",
+    "commits": "48,968",
     "stars": "313",
     "forks": "412",
     "contributors": "273"
@@ -24,7 +24,7 @@
     "commits": "110",
     "stars": "51",
     "forks": "5",
-    "contributors": "4"
+    "contributors": ""
   },
   {
     "url": "https://github.com/bluescreen303/bluenix",
