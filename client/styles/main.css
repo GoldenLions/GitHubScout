@@ -166,6 +166,20 @@ button, input {
 .language .second-half {
   border-left: 1px solid #CCC;
   padding-left: 16px; }
+.language table {
+  width: 100%; }
+  .language table a {
+    color: #5698C6; }
+    .language table a:hover {
+      color: #457BA0; }
+  .language table tr:nth-child(even) {
+    background: #E5E5E5; }
+  .language table tr:nth-child(odd) {
+    background: #F6F6F6; }
+  .language table tr td {
+    padding: 8px 0; }
+    .language table tr td:nth-child(1) {
+      padding-left: 10px; }
 
 body {
   font-family: 'Open Sans';
