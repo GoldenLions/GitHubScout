@@ -18,7 +18,6 @@ body {
 	font-family: 'Open Sans';
 	font-weight: 400;
 	background: #FFFFFF;
-	color: #C5C5C5;
 }
 
 .page-wrap {
@@ -29,6 +28,18 @@ body {
 .page-wrap:after {
   content: "";
   display: block;
+}
+
+h1 {
+	font-size: 28px;
+}
+
+h2 {
+	font-size: 20px;
+}
+
+h3 {
+	font-size: 18px;
 }
 
 a {
@@ -50,12 +61,20 @@ nav {
 	a {
 		text-decoration: none;
 	}
+
+	.home {
+		margin-top: 9px;
+	}
+}
+
+svg text {
+	font-family: 'Open Sans'
 }
 
 footer {
 	width: 100%;
-	padding: 20px 0;
-	font-size: 12px;
+	padding: 23px 0;
+	font-size: 13px;
 	background: #DDDDDD;
 	color: #646464;
 
