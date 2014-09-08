@@ -4,7 +4,8 @@ var handler = require('./server/handler.js');
 var updater = require('./server/autoUpdates.js');
 
 //Takes two argument strings: MySQL query, and filename
-updater.makeFile('SELECT repository_language, LEFT(created_at, 7) as month, COUNT(*) as activity FROM [githubarchive:github.timeline] GROUP BY repository_language, month ORDER BY month DESC;','repo_activity_by_month.csv');
+updater.makeFile('SELECT repository_language, LEFT(created_at, 7) as month, COUNT(*) as activity FROM [githubarchive:github.timeline] GROUP BY repository_language, month ORDER BY month DESC;','repo_activity_by_month.json');
+
 
 
 var app = express();
