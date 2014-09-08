@@ -130,11 +130,6 @@ button, input {
     border-color: rgba(82, 168, 236, 0.8);
     box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6); }
 
-.user header {
-  padding: 30px 0; }
-  .user header h3 {
-    margin-top: 8px;
-    margin-right: 7px; }
 .user input[type=text] {
   background: #F1F1F1;
   color: #000;
@@ -157,12 +152,17 @@ button, input {
   .user button:hover, .user input[type=submit]:hover {
     background: #FAFAFA;
     cursor: pointer; }
-.user h2 {
-  text-align: center;
-  margin-bottom: 10px; }
 .user nvd3-pie-chart svg {
   width: 500px;
   margin: 0 auto; }
+
+.language svg {
+  height: 440px;
+  width: 600px;
+  margin-left: -120px; }
+.language .second-half {
+  border-left: 1px solid #CCC;
+  padding-left: 16px; }
 
 body {
   font-family: 'Open Sans';
@@ -182,7 +182,9 @@ h1 {
   font-size: 28px; }
 
 h2 {
-  font-size: 20px; }
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 10px; }
 
 h3 {
   font-size: 18px; }
@@ -191,6 +193,12 @@ a {
   color: #C5C5C5; }
   a:hover {
     color: #FFF; }
+
+header {
+  padding: 30px 0; }
+  header h3 {
+    margin-top: 8px;
+    margin-right: 7px; }
 
 nav {
   width: 100%;
@@ -206,6 +214,17 @@ nav {
 
 svg text {
   font-family: "Open Sans"; }
+
+button, input[type=submit] {
+  background-color: #E5E5E5;
+  padding: 7px 10px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  box-shadow: inset 0 -1px 2px rgba(0, 0, 0, 0.18), inset 0 2px 2px rgba(255, 255, 255, 0.7);
+  border-radius: 5px; }
+  button:hover, input[type=submit]:hover {
+    background: #FAFAFA;
+    cursor: pointer; }
 
 footer {
   width: 100%;
