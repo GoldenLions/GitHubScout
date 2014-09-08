@@ -6,13 +6,13 @@
     "username": "kennethreitz",
     "location": "I ॐ AM",
     "join_date": "Aug 26, 2009",
-    "popular_repos_stars": "24304",
+    "popular_repos_stars": "24305",
     "primary_languages": [
       "Python",
       "Shell",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1042,
     "followers": "5.3k"
   },
   {
@@ -22,13 +22,13 @@
     "username": "mitsuhiko",
     "location": "United Kingdom / Austria",
     "join_date": "Apr 15, 2008",
-    "popular_repos_stars": "16569",
+    "popular_repos_stars": "16571",
     "primary_languages": [
       "Python",
       "JavaScript",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1195,
     "followers": "3.6k"
   },
   {
@@ -70,7 +70,7 @@
     "username": "progrium",
     "location": "Austin, TX",
     "join_date": "Feb 22, 2008",
-    "popular_repos_stars": "11196",
+    "popular_repos_stars": "11197",
     "primary_languages": [
       "Python",
       "Shell",
@@ -108,7 +108,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 2,
+    "contributions": 2762,
     "followers": "1.3k"
   },
   {
@@ -124,7 +124,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1721,
     "followers": "1.1k"
   },
   {
@@ -204,7 +204,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1045,
     "followers": "1.1k"
   },
   {
@@ -220,7 +220,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 4,
+    "contributions": 4421,
     "followers": "1.0k"
   },
   {
@@ -279,13 +279,13 @@
     "username": "samuelclay",
     "location": "San Francisco",
     "join_date": "Jan 4, 2009",
-    "popular_repos_stars": "3449",
+    "popular_repos_stars": "3450",
     "primary_languages": [
       "JavaScript",
       "Python",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1366,
     "followers": "889"
   },
   {
@@ -327,7 +327,7 @@
     "username": "nvie",
     "location": "Netherlands",
     "join_date": "May 12, 2009",
-    "popular_repos_stars": "12951",
+    "popular_repos_stars": "12952",
     "primary_languages": [
       "Python",
       "Shell",
@@ -413,7 +413,7 @@
       "JavaScript",
       "CSS"
     ],
-    "contributions": 1,
+    "contributions": 1209,
     "followers": "608"
   },
   {
@@ -439,7 +439,7 @@
     "username": "toastdriven",
     "location": "Lawrence, KS",
     "join_date": "Mar 6, 2008",
-    "popular_repos_stars": "4985",
+    "popular_repos_stars": "4986",
     "primary_languages": [
       "Python",
       "Shell",
@@ -493,7 +493,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1127,
     "followers": "582"
   },
   {
@@ -509,7 +509,7 @@
       "Shell",
       "CSS"
     ],
-    "contributions": 1,
+    "contributions": 1467,
     "followers": "573"
   },
   {
@@ -541,7 +541,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1966,
     "followers": "547"
   },
   {
@@ -557,7 +557,7 @@
       "CSS",
       "Python"
     ],
-    "contributions": 1,
+    "contributions": 1008,
     "followers": "550"
   },
   {
@@ -670,7 +670,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 2,
+    "contributions": 2046,
     "followers": "477"
   },
   {
@@ -686,7 +686,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1075,
     "followers": "470"
   },
   {
@@ -718,7 +718,7 @@
       "Python",
       "CSS"
     ],
-    "contributions": 2,
+    "contributions": 2202,
     "followers": "465"
   },
   {
@@ -750,7 +750,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 2,
+    "contributions": 2323,
     "followers": "463"
   },
   {
@@ -830,7 +830,7 @@
       "JavaScript",
       "Python"
     ],
-    "contributions": 5,
+    "contributions": 5232,
     "followers": "442"
   },
   {
@@ -846,7 +846,7 @@
       "Dart",
       "Java"
     ],
-    "contributions": 1,
+    "contributions": 1039,
     "followers": "440"
   },
   {
@@ -894,7 +894,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1350,
     "followers": "434"
   },
   {
@@ -910,7 +910,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1183,
     "followers": "407"
   },
   {
@@ -958,7 +958,7 @@
       "Ruby",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1523,
     "followers": "397"
   },
   {
@@ -1032,13 +1032,13 @@
     "username": "miguelgrinberg",
     "location": "Portland, Oregon",
     "join_date": "Nov 3, 2012",
-    "popular_repos_stars": "1054",
+    "popular_repos_stars": "1055",
     "primary_languages": [
       "Python",
       "Shell",
       "CSS"
     ],
-    "contributions": 1,
+    "contributions": 1336,
     "followers": "385"
   },
   {
@@ -1102,7 +1102,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 943,
+    "contributions": 976,
     "followers": "372"
   },
   {
@@ -1118,7 +1118,7 @@
       "JavaScript",
       "CSS"
     ],
-    "contributions": 2,
+    "contributions": 2096,
     "followers": "372"
   },
   {
@@ -1134,7 +1134,7 @@
       "JavaScript",
       "PHP"
     ],
-    "contributions": 1,
+    "contributions": 1674,
     "followers": "365"
   },
   {
@@ -1150,7 +1150,7 @@
       "Go",
       "JavaScript"
     ],
-    "contributions": 2,
+    "contributions": 2503,
     "followers": "364"
   },
   {
@@ -1166,7 +1166,7 @@
       "JavaScript",
       "Go"
     ],
-    "contributions": 1,
+    "contributions": 1863,
     "followers": "361"
   },
   {
@@ -1182,7 +1182,7 @@
       "JavaScript",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1867,
     "followers": "360"
   },
   {
@@ -1214,7 +1214,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1905,
     "followers": "352"
   },
   {
@@ -1230,7 +1230,7 @@
       "Python",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1629,
     "followers": "340"
   },
   {
@@ -1246,7 +1246,7 @@
       "Python",
       "CSS"
     ],
-    "contributions": 1,
+    "contributions": 1160,
     "followers": "339"
   },
   {
@@ -1358,7 +1358,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1240,
     "followers": "325"
   },
   {
@@ -1421,7 +1421,7 @@
       "Shell",
       "VimL"
     ],
-    "contributions": 1,
+    "contributions": 1706,
     "followers": "320"
   },
   {
@@ -1597,7 +1597,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 482,
+    "contributions": 485,
     "followers": "304"
   }
 ]

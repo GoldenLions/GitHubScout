@@ -6,7 +6,7 @@
     "username": "mojombo",
     "location": "San Francisco",
     "join_date": "Oct 19, 2007",
-    "popular_repos_stars": "7413",
+    "popular_repos_stars": "7414",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -22,7 +22,7 @@
     "username": "defunkt",
     "location": "San Francisco",
     "join_date": "Oct 19, 2007",
-    "popular_repos_stars": "16525",
+    "popular_repos_stars": "16528",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -45,7 +45,7 @@
       "C"
     ],
     "contributions": 37,
-    "followers": "9.9k"
+    "followers": "9.8k"
   },
   {
     "url": "https://github.com/pjhyett",
@@ -77,7 +77,7 @@
       "C",
       "C"
     ],
-    "contributions": 2,
+    "contributions": 2512,
     "followers": "6.1k"
   },
   {
@@ -87,7 +87,7 @@
     "username": "jashkenas",
     "location": "NYC",
     "join_date": "Apr 3, 2008",
-    "popular_repos_stars": "44678",
+    "popular_repos_stars": "44677",
     "primary_languages": [
       "JavaScript",
       "Ruby",
@@ -103,7 +103,7 @@
     "username": "ryanb",
     "location": "Southern Oregon",
     "join_date": "Feb 7, 2008",
-    "popular_repos_stars": "13403",
+    "popular_repos_stars": "13402",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -173,7 +173,7 @@
       "C",
       "JavaScript"
     ],
-    "contributions": 2,
+    "contributions": 2407,
     "followers": "3.5k"
   },
   {
@@ -189,7 +189,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1071,
     "followers": "3.3k"
   },
   {
@@ -221,7 +221,7 @@
       "Elixir",
       "JavaScript"
     ],
-    "contributions": 3,
+    "contributions": 3445,
     "followers": "3.0k"
   },
   {
@@ -263,7 +263,7 @@
     "username": "sstephenson",
     "location": "Chicago",
     "join_date": "Mar 8, 2008",
-    "popular_repos_stars": "14311",
+    "popular_repos_stars": "14313",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -295,13 +295,13 @@
     "username": "mitchellh",
     "location": "San Francisco, CA",
     "join_date": "Feb 27, 2008",
-    "popular_repos_stars": "12630",
+    "popular_repos_stars": "12629",
     "primary_languages": [
       "Ruby",
       "Go",
       "Shell"
     ],
-    "contributions": 6,
+    "contributions": 6269,
     "followers": "1.8k"
   },
   {
@@ -317,7 +317,7 @@
       "JavaScript",
       "Rust"
     ],
-    "contributions": 1,
+    "contributions": 1468,
     "followers": "1.8k"
   },
   {
@@ -365,7 +365,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1828,
     "followers": "1.4k"
   },
   {
@@ -381,7 +381,7 @@
       "CSS",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1517,
     "followers": "1.4k"
   },
   {
@@ -413,7 +413,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 763,
+    "contributions": 770,
     "followers": "1.4k"
   },
   {
@@ -423,13 +423,13 @@
     "username": "sferik",
     "location": "Prussia",
     "join_date": "May 14, 2008",
-    "popular_repos_stars": "10142",
+    "popular_repos_stars": "10143",
     "primary_languages": [
       "Ruby",
       "JavaScript",
       "CSS"
     ],
-    "contributions": 3,
+    "contributions": 3418,
     "followers": "1.4k"
   },
   {
@@ -445,7 +445,7 @@
       "JavaScript",
       "CoffeeScript"
     ],
-    "contributions": 1,
+    "contributions": 1889,
     "followers": "1.3k"
   },
   {
@@ -471,13 +471,13 @@
     "username": "rstacruz",
     "location": "Manila, Philippines",
     "join_date": "Apr 16, 2009",
-    "popular_repos_stars": "16397",
+    "popular_repos_stars": "16398",
     "primary_languages": [
       "JavaScript",
       "Ruby",
       "CoffeeScript"
     ],
-    "contributions": 2,
+    "contributions": 2877,
     "followers": "1.3k"
   },
   {
@@ -541,7 +541,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 4,
+    "contributions": 4937,
     "followers": "1.2k"
   },
   {
@@ -551,7 +551,7 @@
     "username": "jnunemaker",
     "location": "South Bend, IN, USA",
     "join_date": "Feb 13, 2008",
-    "popular_repos_stars": "4224",
+    "popular_repos_stars": "4225",
     "primary_languages": [
       "Ruby",
       "Shell",
@@ -606,7 +606,7 @@
       "Java"
     ],
     "contributions": 982,
-    "followers": "974"
+    "followers": "975"
   },
   {
     "url": "https://github.com/radar",
@@ -615,13 +615,13 @@
     "username": "radar",
     "location": "Melbourne, Australia",
     "join_date": "Mar 10, 2008",
-    "popular_repos_stars": "3806",
+    "popular_repos_stars": "3808",
     "primary_languages": [
       "Ruby",
       "JavaScript",
       "CSS"
     ],
-    "contributions": 1,
+    "contributions": 1969,
     "followers": "960"
   },
   {
@@ -749,7 +749,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1246,
     "followers": "823"
   },
   {
@@ -765,7 +765,7 @@
       "Go",
       "Shell"
     ],
-    "contributions": 4,
+    "contributions": 4885,
     "followers": "797"
   },
   {
@@ -797,7 +797,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1127,
     "followers": "784"
   },
   {
@@ -845,7 +845,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1834,
     "followers": "765"
   },
   {
@@ -973,7 +973,7 @@
       "Ruby",
       "CSS"
     ],
-    "contributions": 1,
+    "contributions": 1192,
     "followers": "654"
   },
   {
@@ -1085,7 +1085,7 @@
       "Java",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1521,
     "followers": "638"
   },
   {
@@ -1208,14 +1208,14 @@
     "username": "tarcieri",
     "location": "San Francisco, CA",
     "join_date": "Feb 24, 2008",
-    "popular_repos_stars": "1987",
+    "popular_repos_stars": "1988",
     "primary_languages": [
       "Ruby",
       "C",
       "JavaScript"
     ],
     "contributions": 966,
-    "followers": "593"
+    "followers": "594"
   },
   {
     "url": "https://github.com/railstutorial",
@@ -1438,7 +1438,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 3,
+    "contributions": 3579,
     "followers": "525"
   },
   {
@@ -1470,7 +1470,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1116,
     "followers": "519"
   },
   {
@@ -1487,7 +1487,7 @@
       "C"
     ],
     "contributions": 3,
-    "followers": "512"
+    "followers": "513"
   },
   {
     "url": "https://github.com/ddollar",
@@ -1496,7 +1496,7 @@
     "username": "ddollar",
     "location": "Atlanta, GA",
     "join_date": "Mar 17, 2008",
-    "popular_repos_stars": "4655",
+    "popular_repos_stars": "4656",
     "primary_languages": [
       "Ruby",
       "Shell",
@@ -1512,7 +1512,7 @@
     "username": "tapajos",
     "location": "",
     "join_date": "Mar 18, 2008",
-    "popular_repos_stars": "574",
+    "popular_repos_stars": "573",
     "primary_languages": [
       "Ruby",
       "JavaScript",

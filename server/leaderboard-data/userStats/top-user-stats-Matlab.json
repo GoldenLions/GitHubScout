@@ -316,7 +316,7 @@
       "CSS",
       "Matlab"
     ],
-    "contributions": 1,
+    "contributions": 1446,
     "followers": "22"
   },
   {
@@ -621,8 +621,8 @@
     "popular_repos_stars": "10",
     "primary_languages": [
       "C",
-      "C",
-      "Shell"
+      "Shell",
+      "C"
     ],
     "contributions": 0,
     "followers": "12"
@@ -955,7 +955,7 @@
     "username": "oreillyj",
     "location": "",
     "join_date": "Jan 6, 2011",
-    "popular_repos_stars": "15514",
+    "popular_repos_stars": "15515",
     "primary_languages": [],
     "contributions": 0,
     "followers": "8"

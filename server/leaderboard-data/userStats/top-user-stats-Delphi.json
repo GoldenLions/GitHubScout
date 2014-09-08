@@ -6,14 +6,14 @@
     "username": "torvalds",
     "location": "Portland, OR",
     "join_date": "Sep 3, 2011",
-    "popular_repos_stars": "16082",
+    "popular_repos_stars": "16083",
     "primary_languages": [
       "XSLT",
       "C",
       "Objective",
       "C"
     ],
-    "contributions": 2,
+    "contributions": 2126,
     "followers": "18k"
   },
   {
@@ -23,7 +23,7 @@
     "username": "mojombo",
     "location": "San Francisco",
     "join_date": "Oct 19, 2007",
-    "popular_repos_stars": "7413",
+    "popular_repos_stars": "7414",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -39,7 +39,7 @@
     "username": "defunkt",
     "location": "San Francisco",
     "join_date": "Oct 19, 2007",
-    "popular_repos_stars": "16525",
+    "popular_repos_stars": "16528",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -71,13 +71,13 @@
     "username": "visionmedia",
     "location": "Victoria, BC, Canada",
     "join_date": "Sep 18, 2008",
-    "popular_repos_stars": "21433",
+    "popular_repos_stars": "21436",
     "primary_languages": [
       "JavaScript",
       "Shell",
       "C"
     ],
-    "contributions": 3,
+    "contributions": 3260,
     "followers": "11k"
   },
   {
@@ -94,7 +94,7 @@
       "C"
     ],
     "contributions": 37,
-    "followers": "9.9k"
+    "followers": "9.8k"
   },
   {
     "url": "https://github.com/addyosmani",
@@ -103,13 +103,13 @@
     "username": "addyosmani",
     "location": "London, England",
     "join_date": "Aug 1, 2009",
-    "popular_repos_stars": "15135",
+    "popular_repos_stars": "15137",
     "primary_languages": [
       "JavaScript",
       "CSS",
       "Shell"
     ],
-    "contributions": 4,
+    "contributions": 4223,
     "followers": "9.4k"
   },
   {
@@ -125,7 +125,7 @@
       "Shell",
       "CSS"
     ],
-    "contributions": 1,
+    "contributions": 1084,
     "followers": "8.3k"
   },
   {
@@ -173,7 +173,7 @@
       "Shell",
       "Groovy"
     ],
-    "contributions": 2,
+    "contributions": 2261,
     "followers": "6.3k"
   },
   {
@@ -190,7 +190,7 @@
       "C",
       "C"
     ],
-    "contributions": 2,
+    "contributions": 2512,
     "followers": "6.1k"
   },
   {
@@ -200,7 +200,7 @@
     "username": "jashkenas",
     "location": "NYC",
     "join_date": "Apr 3, 2008",
-    "popular_repos_stars": "44678",
+    "popular_repos_stars": "44677",
     "primary_languages": [
       "JavaScript",
       "Ruby",
@@ -216,7 +216,7 @@
     "username": "mbostock",
     "location": "San Francisco, CA",
     "join_date": "Mar 25, 2010",
-    "popular_repos_stars": "33060",
+    "popular_repos_stars": "33061",
     "primary_languages": [
       "JavaScript",
       "CSS",
@@ -232,7 +232,7 @@
     "username": "ryanb",
     "location": "Southern Oregon",
     "join_date": "Feb 7, 2008",
-    "popular_repos_stars": "13403",
+    "popular_repos_stars": "13402",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -264,12 +264,12 @@
     "username": "mdo",
     "location": "San Francisco, CA",
     "join_date": "Jun 24, 2009",
-    "popular_repos_stars": "8687",
+    "popular_repos_stars": "8688",
     "primary_languages": [
       "CSS",
       "JavaScript"
     ],
-    "contributions": 3,
+    "contributions": 3139,
     "followers": "5.3k"
   },
   {
@@ -279,13 +279,13 @@
     "username": "kennethreitz",
     "location": "I ॐ AM",
     "join_date": "Aug 26, 2009",
-    "popular_repos_stars": "24304",
+    "popular_repos_stars": "24305",
     "primary_languages": [
       "Python",
       "Shell",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1042,
     "followers": "5.3k"
   },
   {
@@ -317,7 +317,7 @@
       "CSS",
       "PHP"
     ],
-    "contributions": 2,
+    "contributions": 2387,
     "followers": "5.3k"
   },
   {
@@ -349,7 +349,7 @@
       "Ruby",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1749,
     "followers": "5.1k"
   },
   {
@@ -359,13 +359,13 @@
     "username": "substack",
     "location": "Oakland, California, USA",
     "join_date": "Jun 4, 2008",
-    "popular_repos_stars": "13924",
+    "popular_repos_stars": "13925",
     "primary_languages": [
       "JavaScript",
       "Shell",
       "CSS"
     ],
-    "contributions": 5,
+    "contributions": 5773,
     "followers": "5.1k"
   },
   {
@@ -381,7 +381,7 @@
       "Python",
       "CSS"
     ],
-    "contributions": 1,
+    "contributions": 1594,
     "followers": "4.9k"
   },
   {
@@ -444,7 +444,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 6,
+    "contributions": 6473,
     "followers": "4.1k"
   },
   {
@@ -454,7 +454,7 @@
     "username": "ry",
     "location": "",
     "join_date": "Jan 29, 2008",
-    "popular_repos_stars": "44874",
+    "popular_repos_stars": "44875",
     "primary_languages": [],
     "contributions": 0,
     "followers": "3.8k"
@@ -472,7 +472,7 @@
       "Scheme",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1212,
     "followers": "3.7k"
   },
   {
@@ -482,13 +482,13 @@
     "username": "mitsuhiko",
     "location": "United Kingdom / Austria",
     "join_date": "Apr 15, 2008",
-    "popular_repos_stars": "16569",
+    "popular_repos_stars": "16571",
     "primary_languages": [
       "Python",
       "JavaScript",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1195,
     "followers": "3.6k"
   },
   {
@@ -514,13 +514,13 @@
     "username": "isaacs",
     "location": "Oakland CA",
     "join_date": "May 4, 2008",
-    "popular_repos_stars": "4004",
+    "popular_repos_stars": "4005",
     "primary_languages": [
       "JavaScript",
       "Shell",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1721,
     "followers": "3.5k"
   },
   {
@@ -536,7 +536,7 @@
       "C",
       "JavaScript"
     ],
-    "contributions": 2,
+    "contributions": 2407,
     "followers": "3.5k"
   },
   {
@@ -552,7 +552,7 @@
       "CSS",
       "Python"
     ],
-    "contributions": 6,
+    "contributions": 6876,
     "followers": "3.4k"
   },
   {
@@ -616,7 +616,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1071,
     "followers": "3.3k"
   },
   {
@@ -664,7 +664,7 @@
       "Elixir",
       "JavaScript"
     ],
-    "contributions": 3,
+    "contributions": 3445,
     "followers": "3.0k"
   },
   {
@@ -674,13 +674,13 @@
     "username": "necolas",
     "location": "San Francisco, CA",
     "join_date": "Apr 8, 2010",
-    "popular_repos_stars": "19013",
+    "popular_repos_stars": "19012",
     "primary_languages": [
       "JavaScript",
       "CSS",
       "PHP"
     ],
-    "contributions": 1,
+    "contributions": 1882,
     "followers": "2.9k"
   },
   {
@@ -706,7 +706,7 @@
     "username": "BYVoid",
     "location": "Zurich, Switzerland",
     "join_date": "Apr 16, 2010",
-    "popular_repos_stars": "1867",
+    "popular_repos_stars": "1868",
     "primary_languages": [
       "JavaScript",
       "C",
@@ -738,7 +738,7 @@
     "username": "cloudhead",
     "location": "Berlin",
     "join_date": "Dec 16, 2008",
-    "popular_repos_stars": "4359",
+    "popular_repos_stars": "4360",
     "primary_languages": [
       "JavaScript",
       "Ruby",
@@ -792,7 +792,7 @@
       "CSS",
       "PHP"
     ],
-    "contributions": 3,
+    "contributions": 3958,
     "followers": "2.6k"
   },
   {
@@ -808,7 +808,7 @@
       "Ruby",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1327,
     "followers": "2.6k"
   },
   {
@@ -818,13 +818,13 @@
     "username": "creationix",
     "location": "Red Lick, TX, USA",
     "join_date": "May 27, 2009",
-    "popular_repos_stars": "10281",
+    "popular_repos_stars": "10282",
     "primary_languages": [
       "JavaScript",
       "CSS",
       "Shell"
     ],
-    "contributions": 2,
+    "contributions": 2927,
     "followers": "2.5k"
   },
   {
@@ -866,13 +866,13 @@
     "username": "nzakas",
     "location": "Mountain View, CA",
     "join_date": "Dec 5, 2008",
-    "popular_repos_stars": "4375",
+    "popular_repos_stars": "4376",
     "primary_languages": [
       "JavaScript",
       "Shell",
       "Java"
     ],
-    "contributions": 1,
+    "contributions": 1045,
     "followers": "2.3k"
   },
   {
@@ -882,13 +882,13 @@
     "username": "koush",
     "location": "Seattle, WA",
     "join_date": "Apr 14, 2009",
-    "popular_repos_stars": "5523",
+    "popular_repos_stars": "5524",
     "primary_languages": [
       "Shell",
       "Java",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1010,
     "followers": "2.2k"
   },
   {
@@ -898,7 +898,7 @@
     "username": "sstephenson",
     "location": "Chicago",
     "join_date": "Mar 8, 2008",
-    "popular_repos_stars": "14311",
+    "popular_repos_stars": "14313",
     "primary_languages": [
       "Ruby",
       "JavaScript",
@@ -916,7 +916,7 @@
     "join_date": "Oct 23, 2008",
     "popular_repos_stars": "56",
     "primary_languages": [],
-    "contributions": 1,
+    "contributions": 1306,
     "followers": "2.2k"
   },
   {
@@ -926,9 +926,9 @@
     "username": "taylorotwell",
     "location": "Arkansas",
     "join_date": "Nov 1, 2010",
-    "popular_repos_stars": "43404",
+    "popular_repos_stars": "43411",
     "primary_languages": [],
-    "contributions": 9,
+    "contributions": 9723,
     "followers": "2.2k"
   },
   {
@@ -944,7 +944,7 @@
       "Perl",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1671,
     "followers": "2.2k"
   },
   {
@@ -960,7 +960,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 2,
+    "contributions": 2188,
     "followers": "2.1k"
   },
   {
@@ -976,7 +976,7 @@
       "PHP",
       "CSS"
     ],
-    "contributions": 1,
+    "contributions": 1270,
     "followers": "2.1k"
   },
   {
@@ -1003,13 +1003,13 @@
     "username": "maxogden",
     "location": "Oakland, CA",
     "join_date": "Dec 10, 2008",
-    "popular_repos_stars": "6640",
+    "popular_repos_stars": "6639",
     "primary_languages": [
       "JavaScript",
       "Ruby",
       "CSS"
     ],
-    "contributions": 2,
+    "contributions": 2705,
     "followers": "2.1k"
   },
   {
@@ -1025,7 +1025,7 @@
       "CSS",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1425,
     "followers": "2.1k"
   },
   {
@@ -1057,7 +1057,7 @@
       "Ruby",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1313,
     "followers": "2.1k"
   },
   {
@@ -1067,7 +1067,7 @@
     "username": "chrisbanes",
     "location": "London, UK",
     "join_date": "Mar 21, 2010",
-    "popular_repos_stars": "9618",
+    "popular_repos_stars": "9619",
     "primary_languages": [
       "Java",
       "Groovy",
@@ -1089,7 +1089,7 @@
       "C",
       "JavaScript"
     ],
-    "contributions": 5,
+    "contributions": 5282,
     "followers": "2.0k"
   },
   {
@@ -1105,7 +1105,7 @@
       "Shell",
       "CSS"
     ],
-    "contributions": 3,
+    "contributions": 3282,
     "followers": "1.9k"
   },
   {
@@ -1115,13 +1115,13 @@
     "username": "zenorocha",
     "location": "Los Angeles, CA",
     "join_date": "Sep 14, 2010",
-    "popular_repos_stars": "6614",
+    "popular_repos_stars": "6615",
     "primary_languages": [
       "JavaScript",
       "CSS",
       "Shell"
     ],
-    "contributions": 3,
+    "contributions": 3545,
     "followers": "1.9k"
   },
   {
@@ -1147,13 +1147,13 @@
     "username": "csswizardry",
     "location": "Leeds, UK",
     "join_date": "Apr 26, 2011",
-    "popular_repos_stars": "9332",
+    "popular_repos_stars": "9331",
     "primary_languages": [
       "CSS",
       "Shell",
       "PHP"
     ],
-    "contributions": 1,
+    "contributions": 1400,
     "followers": "1.9k"
   },
   {
@@ -1217,7 +1217,7 @@
       "Ruby",
       "PHP"
     ],
-    "contributions": 2,
+    "contributions": 2518,
     "followers": "1.8k"
   },
   {
@@ -1227,13 +1227,13 @@
     "username": "mitchellh",
     "location": "San Francisco, CA",
     "join_date": "Feb 27, 2008",
-    "popular_repos_stars": "12630",
+    "popular_repos_stars": "12629",
     "primary_languages": [
       "Ruby",
       "Go",
       "Shell"
     ],
-    "contributions": 6,
+    "contributions": 6269,
     "followers": "1.8k"
   },
   {
@@ -1281,7 +1281,7 @@
       "JavaScript",
       "Rust"
     ],
-    "contributions": 1,
+    "contributions": 1468,
     "followers": "1.8k"
   },
   {
@@ -1313,7 +1313,7 @@
       "CSS",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1121,
     "followers": "1.7k"
   },
   {
@@ -1347,7 +1347,7 @@
       "Ruby",
       "C"
     ],
-    "contributions": 2,
+    "contributions": 2086,
     "followers": "1.7k"
   },
   {
@@ -1411,7 +1411,7 @@
       "Perl",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1328,
     "followers": "1.7k"
   },
   {
@@ -1540,7 +1540,7 @@
       "CSS",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1887,
     "followers": "1.5k"
   },
   {
@@ -1582,7 +1582,7 @@
     "username": "progrium",
     "location": "Austin, TX",
     "join_date": "Feb 22, 2008",
-    "popular_repos_stars": "11196",
+    "popular_repos_stars": "11197",
     "primary_languages": [
       "Python",
       "Shell",

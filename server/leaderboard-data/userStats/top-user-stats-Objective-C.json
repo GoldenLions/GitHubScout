@@ -47,7 +47,7 @@
       "Ruby",
       "C"
     ],
-    "contributions": 2,
+    "contributions": 2086,
     "followers": "1.7k"
   },
   {
@@ -108,7 +108,7 @@
     "username": "onevcat",
     "location": "Kawasaki, Japan",
     "join_date": "Sep 1, 2011",
-    "popular_repos_stars": "3115",
+    "popular_repos_stars": "3116",
     "primary_languages": [
       "Objective",
       "C",
@@ -166,7 +166,7 @@
       "Ruby",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1361,
     "followers": "975"
   },
   {
@@ -285,7 +285,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1807,
     "followers": "768"
   },
   {
@@ -319,7 +319,7 @@
       "Ruby",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1243,
     "followers": "729"
   },
   {
@@ -370,7 +370,7 @@
       "Ruby",
       "Swift"
     ],
-    "contributions": 1,
+    "contributions": 1013,
     "followers": "657"
   },
   {
@@ -523,8 +523,8 @@
       "Ruby",
       "C"
     ],
-    "contributions": 2,
-    "followers": "502"
+    "contributions": 2629,
+    "followers": "503"
   },
   {
     "url": "https://github.com/MartianZ",
@@ -641,7 +641,7 @@
       "C",
       "Go"
     ],
-    "contributions": 332,
+    "contributions": 337,
     "followers": "479"
   },
   {
@@ -702,7 +702,7 @@
     "username": "jamztang",
     "location": "Hong Kong",
     "join_date": "Jun 15, 2011",
-    "popular_repos_stars": "3757",
+    "popular_repos_stars": "3758",
     "primary_languages": [
       "Objective",
       "C",
@@ -846,7 +846,7 @@
       "C",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1239,
     "followers": "355"
   },
   {
@@ -863,7 +863,7 @@
       "Ruby",
       "C"
     ],
-    "contributions": 2,
+    "contributions": 2070,
     "followers": "354"
   },
   {
@@ -1038,7 +1038,7 @@
     "username": "psychs",
     "location": "Santa Clara, CA",
     "join_date": "Mar 15, 2008",
-    "popular_repos_stars": "1146",
+    "popular_repos_stars": "1148",
     "primary_languages": [
       "Objective",
       "C",
@@ -1129,7 +1129,7 @@
       "C",
       "C"
     ],
-    "contributions": 2,
+    "contributions": 2360,
     "followers": "273"
   },
   {
@@ -1231,7 +1231,7 @@
       "Ruby",
       "Shell"
     ],
-    "contributions": 300,
+    "contributions": 305,
     "followers": "261"
   },
   {
@@ -1241,7 +1241,7 @@
     "username": "mpospese",
     "location": "D.C. Metro Area",
     "join_date": "Sep 8, 2011",
-    "popular_repos_stars": "2744",
+    "popular_repos_stars": "2745",
     "primary_languages": [
       "Objective",
       "C",
@@ -1498,8 +1498,8 @@
     "primary_languages": [
       "Objective",
       "C",
-      "Ruby",
-      "JavaScript"
+      "JavaScript",
+      "Ruby"
     ],
     "contributions": 68,
     "followers": "233"

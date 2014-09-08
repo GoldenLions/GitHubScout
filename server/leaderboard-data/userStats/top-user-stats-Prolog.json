@@ -268,7 +268,7 @@
       "Perl",
       "CSS"
     ],
-    "contributions": 4,
+    "contributions": 4110,
     "followers": "11"
   },
   {
@@ -300,7 +300,7 @@
       "CSS",
       "Perl"
     ],
-    "contributions": 513,
+    "contributions": 514,
     "followers": "11"
   },
   {
@@ -500,8 +500,8 @@
     "join_date": "Sep 16, 2012",
     "popular_repos_stars": "0",
     "primary_languages": [
-      "CoffeeScript",
-      "JavaScript",
+      "TeX",
+      "Python",
       "Shell"
     ],
     "contributions": 132,

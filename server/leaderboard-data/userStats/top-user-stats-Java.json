@@ -12,7 +12,7 @@
       "Shell",
       "Groovy"
     ],
-    "contributions": 2,
+    "contributions": 2261,
     "followers": "6.3k"
   },
   {
@@ -38,13 +38,13 @@
     "username": "koush",
     "location": "Seattle, WA",
     "join_date": "Apr 14, 2009",
-    "popular_repos_stars": "5523",
+    "popular_repos_stars": "5524",
     "primary_languages": [
       "Shell",
       "Java",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1010,
     "followers": "2.2k"
   },
   {
@@ -54,7 +54,7 @@
     "username": "chrisbanes",
     "location": "London, UK",
     "join_date": "Mar 21, 2010",
-    "popular_repos_stars": "9618",
+    "popular_repos_stars": "9619",
     "primary_languages": [
       "Java",
       "Groovy",
@@ -124,7 +124,7 @@
       "Java",
       "CoffeeScript"
     ],
-    "contributions": 12,
+    "contributions": 12312,
     "followers": "1.1k"
   },
   {
@@ -182,7 +182,7 @@
     "username": "jgilfelt",
     "location": "Berkshire, United Kingdom",
     "join_date": "Jan 3, 2010",
-    "popular_repos_stars": "4325",
+    "popular_repos_stars": "4327",
     "primary_languages": [
       "Java",
       "Shell",
@@ -220,7 +220,7 @@
       "Java",
       "CSS"
     ],
-    "contributions": 1,
+    "contributions": 1458,
     "followers": "895"
   },
   {
@@ -237,7 +237,7 @@
       "CSS"
     ],
     "contributions": 40,
-    "followers": "896"
+    "followers": "897"
   },
   {
     "url": "https://github.com/KentBeck",
@@ -307,7 +307,7 @@
     "username": "nostra13",
     "location": "Hrodna, Belarus",
     "join_date": "Nov 27, 2011",
-    "popular_repos_stars": "5914",
+    "popular_repos_stars": "5915",
     "primary_languages": [
       "Java",
       "Groovy"
@@ -328,7 +328,7 @@
       "Shell",
       "Groovy"
     ],
-    "contributions": 398,
+    "contributions": 405,
     "followers": "670"
   },
   {
@@ -360,8 +360,8 @@
       "Shell",
       "Groovy"
     ],
-    "contributions": 3,
-    "followers": "620"
+    "contributions": 3443,
+    "followers": "621"
   },
   {
     "url": "https://github.com/karan",
@@ -370,13 +370,13 @@
     "username": "karan",
     "location": "Bay Area (Summer), Seattle",
     "join_date": "Jan 13, 2013",
-    "popular_repos_stars": "6977",
+    "popular_repos_stars": "6976",
     "primary_languages": [
       "Python",
       "JavaScript",
       "CSS"
     ],
-    "contributions": 2,
+    "contributions": 2311,
     "followers": "592"
   },
   {
@@ -408,7 +408,7 @@
       "Scala",
       "JavaScript"
     ],
-    "contributions": 3,
+    "contributions": 3200,
     "followers": "551"
   },
   {
@@ -568,7 +568,7 @@
       "JavaScript",
       "CSS"
     ],
-    "contributions": 7,
+    "contributions": 7896,
     "followers": "428"
   },
   {
@@ -617,7 +617,7 @@
       "JavaScript"
     ],
     "contributions": 870,
-    "followers": "404"
+    "followers": "405"
   },
   {
     "url": "https://github.com/StylingAndroid",
@@ -790,7 +790,7 @@
       "CSS",
       "Groovy"
     ],
-    "contributions": 1,
+    "contributions": 1092,
     "followers": "363"
   },
   {
@@ -881,7 +881,7 @@
     "username": "tdunning",
     "location": "",
     "join_date": "Apr 22, 2010",
-    "popular_repos_stars": "606",
+    "popular_repos_stars": "608",
     "primary_languages": [
       "Java",
       "Shell",
@@ -919,7 +919,7 @@
       "Groovy",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1408,
     "followers": "311"
   },
   {
@@ -1015,7 +1015,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1431,
     "followers": "286"
   },
   {
@@ -1031,7 +1031,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 20,
+    "contributions": 20855,
     "followers": "285"
   },
   {
@@ -1117,7 +1117,7 @@
     "username": "lucasr",
     "location": "London, UK",
     "join_date": "Apr 14, 2011",
-    "popular_repos_stars": "1842",
+    "popular_repos_stars": "1848",
     "primary_languages": [
       "Java",
       "Shell",
@@ -1171,7 +1171,7 @@
       "Groovy",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1164,
     "followers": "272"
   },
   {
@@ -1219,7 +1219,7 @@
       "Java",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1061,
     "followers": "262"
   },
   {
@@ -1267,7 +1267,7 @@
       "Scala",
       "Shell"
     ],
-    "contributions": 556,
+    "contributions": 569,
     "followers": "247"
   },
   {
@@ -1283,7 +1283,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1170,
     "followers": "244"
   },
   {
@@ -1347,7 +1347,7 @@
       "Shell",
       "Python"
     ],
-    "contributions": 1,
+    "contributions": 1022,
     "followers": "234"
   },
   {
@@ -1379,7 +1379,7 @@
       "CSS",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1209,
     "followers": "230"
   },
   {
@@ -1437,7 +1437,7 @@
     "username": "aporter",
     "location": "",
     "join_date": "Oct 10, 2011",
-    "popular_repos_stars": "1826",
+    "popular_repos_stars": "1827",
     "primary_languages": [
       "Java"
     ],
@@ -1467,7 +1467,7 @@
     "username": "mezzoblue",
     "location": "Vancouver",
     "join_date": "Oct 11, 2009",
-    "popular_repos_stars": "1352",
+    "popular_repos_stars": "1353",
     "primary_languages": [
       "JavaScript",
       "CSS",
@@ -1535,7 +1535,7 @@
       "Groovy",
       "JavaScript"
     ],
-    "contributions": 2,
+    "contributions": 2745,
     "followers": "211"
   },
   {
@@ -1567,7 +1567,7 @@
       "Groovy",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1096,
     "followers": "207"
   },
   {

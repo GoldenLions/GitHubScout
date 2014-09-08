@@ -156,7 +156,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1656,
     "followers": "33"
   },
   {
@@ -362,7 +362,7 @@
     "username": "likethemammal",
     "location": "Gainesville, FL",
     "join_date": "Jan 30, 2013",
-    "popular_repos_stars": "47",
+    "popular_repos_stars": "48",
     "primary_languages": [
       "JavaScript",
       "CSS",
@@ -604,11 +604,11 @@
     "join_date": "Sep 15, 2011",
     "popular_repos_stars": "33",
     "primary_languages": [
-      "Haskell",
       "Shell",
+      "Haskell",
       "C"
     ],
-    "contributions": 737,
+    "contributions": 791,
     "followers": "11"
   },
   {
@@ -1011,7 +1011,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 113,
+    "contributions": 114,
     "followers": "7"
   },
   {
@@ -1144,8 +1144,8 @@
     "popular_repos_stars": "7",
     "primary_languages": [
       "Assembly",
-      "Shell",
-      "C"
+      "Processing",
+      "Arduino"
     ],
     "contributions": 108,
     "followers": "6"

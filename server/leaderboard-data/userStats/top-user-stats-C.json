@@ -6,14 +6,14 @@
     "username": "torvalds",
     "location": "Portland, OR",
     "join_date": "Sep 3, 2011",
-    "popular_repos_stars": "16082",
+    "popular_repos_stars": "16083",
     "primary_languages": [
       "XSLT",
       "C",
       "Objective",
       "C"
     ],
-    "contributions": 2,
+    "contributions": 2126,
     "followers": "18k"
   },
   {
@@ -39,7 +39,7 @@
     "username": "BYVoid",
     "location": "Zurich, Switzerland",
     "join_date": "Apr 16, 2010",
-    "popular_repos_stars": "1867",
+    "popular_repos_stars": "1868",
     "primary_languages": [
       "JavaScript",
       "C",
@@ -61,7 +61,7 @@
       "Ruby",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1327,
     "followers": "2.6k"
   },
   {
@@ -73,7 +73,7 @@
     "join_date": "Oct 23, 2008",
     "popular_repos_stars": "56",
     "primary_languages": [],
-    "contributions": 1,
+    "contributions": 1306,
     "followers": "2.2k"
   },
   {
@@ -89,7 +89,7 @@
       "Perl",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1671,
     "followers": "2.2k"
   },
   {
@@ -234,7 +234,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 4,
+    "contributions": 4879,
     "followers": "555"
   },
   {
@@ -331,7 +331,7 @@
       "CSS",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1793,
     "followers": "487"
   },
   {
@@ -376,8 +376,8 @@
     "popular_repos_stars": "378",
     "primary_languages": [
       "C",
-      "C",
-      "Shell"
+      "Shell",
+      "C"
     ],
     "contributions": 0,
     "followers": "436"
@@ -411,7 +411,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1743,
     "followers": "392"
   },
   {
@@ -508,7 +508,7 @@
       "C",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1318,
     "followers": "360"
   },
   {
@@ -550,7 +550,7 @@
     "username": "stefanesser",
     "location": "Cologne, Germany",
     "join_date": "Sep 8, 2011",
-    "popular_repos_stars": "614",
+    "popular_repos_stars": "615",
     "primary_languages": [
       "C",
       "C",
@@ -621,7 +621,7 @@
       "Perl",
       "Assembly"
     ],
-    "contributions": 1,
+    "contributions": 1224,
     "followers": "320"
   },
   {
@@ -634,8 +634,8 @@
     "popular_repos_stars": "164",
     "primary_languages": [
       "C",
-      "Python",
-      "Arduino"
+      "Arduino",
+      "Python"
     ],
     "contributions": 34,
     "followers": "318"
@@ -717,7 +717,7 @@
       "C",
       "C"
     ],
-    "contributions": 2,
+    "contributions": 2619,
     "followers": "306"
   },
   {
@@ -879,7 +879,7 @@
       "Shell",
       "Ruby"
     ],
-    "contributions": 1,
+    "contributions": 1405,
     "followers": "252"
   },
   {
@@ -911,7 +911,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 6,
+    "contributions": 6321,
     "followers": "249"
   },
   {
@@ -954,7 +954,7 @@
     "username": "hackappcom",
     "location": "",
     "join_date": "May 10, 2014",
-    "popular_repos_stars": "977",
+    "popular_repos_stars": "978",
     "primary_languages": [
       "Python"
     ],
@@ -1162,7 +1162,7 @@
       "Python",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1016,
     "followers": "203"
   },
   {
@@ -1421,7 +1421,7 @@
       "Shell"
     ],
     "contributions": 105,
-    "followers": "177"
+    "followers": "178"
   },
   {
     "url": "https://github.com/tpruvot",
@@ -1466,7 +1466,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1617,
     "followers": "173"
   },
   {
@@ -1515,7 +1515,7 @@
       "C",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1728,
     "followers": "168"
   },
   {
@@ -1589,13 +1589,13 @@
     "username": "artagnon",
     "location": "",
     "join_date": "Nov 29, 2008",
-    "popular_repos_stars": "559",
+    "popular_repos_stars": "561",
     "primary_languages": [
       "Shell",
       "Python",
       "C"
     ],
-    "contributions": 1,
+    "contributions": 1010,
     "followers": "162"
   }
 ]

@@ -22,7 +22,7 @@
     "username": "al3x",
     "location": "Cascadia",
     "join_date": "Feb 6, 2008",
-    "popular_repos_stars": "4008",
+    "popular_repos_stars": "4009",
     "primary_languages": [
       "Python",
       "Shell",
@@ -86,14 +86,14 @@
     "username": "paulp",
     "location": "Bend, OR",
     "join_date": "May 2, 2008",
-    "popular_repos_stars": "896",
+    "popular_repos_stars": "897",
     "primary_languages": [
       "Scala",
       "Shell",
       "Java"
     ],
     "contributions": 972,
-    "followers": "424"
+    "followers": "425"
   },
   {
     "url": "https://github.com/dpp",
@@ -140,7 +140,7 @@
       "Scala",
       "Java"
     ],
-    "contributions": 1,
+    "contributions": 1009,
     "followers": "346"
   },
   {
@@ -150,13 +150,13 @@
     "username": "rxin",
     "location": "Berkeley, CA",
     "join_date": "Jul 5, 2010",
-    "popular_repos_stars": "2986",
+    "popular_repos_stars": "2987",
     "primary_languages": [
       "Shell",
       "Scala",
       "Python"
     ],
-    "contributions": 1,
+    "contributions": 1637,
     "followers": "344"
   },
   {
@@ -188,7 +188,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1342,
     "followers": "302"
   },
   {
@@ -204,7 +204,7 @@
       "Scala",
       "Scheme"
     ],
-    "contributions": 1,
+    "contributions": 1493,
     "followers": "277"
   },
   {
@@ -236,7 +236,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1955,
     "followers": "237"
   },
   {
@@ -262,13 +262,13 @@
     "username": "lihaoyi",
     "location": "",
     "join_date": "Jul 23, 2011",
-    "popular_repos_stars": "2183",
+    "popular_repos_stars": "2184",
     "primary_languages": [
       "Scala",
       "CSS",
       "Java"
     ],
-    "contributions": 1,
+    "contributions": 1002,
     "followers": "222"
   },
   {
@@ -310,13 +310,13 @@
     "username": "mgonto",
     "location": "Buenos Aires, Argentina",
     "join_date": "Apr 11, 2011",
-    "popular_repos_stars": "5108",
+    "popular_repos_stars": "5107",
     "primary_languages": [
       "JavaScript",
       "CSS",
       "Ruby"
     ],
-    "contributions": 1,
+    "contributions": 1132,
     "followers": "209"
   },
   {
@@ -348,7 +348,7 @@
       "Shell",
       "Java"
     ],
-    "contributions": 1,
+    "contributions": 1632,
     "followers": "194"
   },
   {
@@ -365,7 +365,7 @@
       "Ruby"
     ],
     "contributions": 104,
-    "followers": "186"
+    "followers": "187"
   },
   {
     "url": "https://github.com/runarorama",
@@ -396,7 +396,7 @@
       "Shell",
       "Java"
     ],
-    "contributions": 1,
+    "contributions": 1674,
     "followers": "178"
   },
   {
@@ -444,7 +444,7 @@
       "JavaScript",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1260,
     "followers": "171"
   },
   {
@@ -486,7 +486,7 @@
     "username": "hseeberger",
     "location": "Germany",
     "join_date": "Dec 21, 2008",
-    "popular_repos_stars": "119",
+    "popular_repos_stars": "120",
     "primary_languages": [
       "Scala",
       "Java",
@@ -508,7 +508,7 @@
       "Java",
       "Python"
     ],
-    "contributions": 1,
+    "contributions": 1220,
     "followers": "157"
   },
   {
@@ -636,7 +636,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 3,
+    "contributions": 3592,
     "followers": "130"
   },
   {
@@ -796,7 +796,7 @@
       "Shell",
       "Java"
     ],
-    "contributions": 2,
+    "contributions": 2227,
     "followers": "119"
   },
   {
@@ -860,7 +860,7 @@
       "Java",
       "Ruby"
     ],
-    "contributions": 1,
+    "contributions": 1909,
     "followers": "107"
   },
   {
@@ -892,7 +892,7 @@
       "Shell",
       "CSS"
     ],
-    "contributions": 1,
+    "contributions": 1501,
     "followers": "107"
   },
   {
@@ -908,7 +908,7 @@
       "Java",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1464,
     "followers": "103"
   },
   {
@@ -940,7 +940,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1127,
     "followers": "95"
   },
   {
@@ -1068,7 +1068,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 2,
+    "contributions": 2942,
     "followers": "82"
   },
   {
@@ -1260,7 +1260,7 @@
       "Java",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1403,
     "followers": "68"
   },
   {
@@ -1484,7 +1484,7 @@
       "Haskell",
       "Java"
     ],
-    "contributions": 1,
+    "contributions": 1041,
     "followers": "60"
   },
   {
@@ -1562,7 +1562,7 @@
     "primary_languages": [
       "Scala",
       "Shell",
-      "Ruby"
+      "Python"
     ],
     "contributions": 340,
     "followers": "57"

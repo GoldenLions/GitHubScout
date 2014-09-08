@@ -89,9 +89,9 @@
     "primary_languages": [
       "PowerShell",
       "Shell",
-      "Ruby"
+      "C"
     ],
-    "contributions": 203,
+    "contributions": 204,
     "followers": "29"
   },
   {
@@ -101,7 +101,7 @@
     "username": "lzybkr",
     "location": "",
     "join_date": "Aug 13, 2012",
-    "popular_repos_stars": "224",
+    "popular_repos_stars": "225",
     "primary_languages": [
       "PowerShell",
       "C",
@@ -301,8 +301,8 @@
     "join_date": "May 6, 2011",
     "popular_repos_stars": "3",
     "primary_languages": [
-      "JavaScript",
       "CSS",
+      "JavaScript",
       "PowerShell"
     ],
     "contributions": 51,
@@ -810,8 +810,8 @@
     "popular_repos_stars": "13",
     "primary_languages": [
       "PowerShell",
-      "CSS",
-      "JavaScript"
+      "JavaScript",
+      "CSS"
     ],
     "contributions": 9,
     "followers": "6"

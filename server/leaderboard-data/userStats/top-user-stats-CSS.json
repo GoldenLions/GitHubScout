@@ -128,7 +128,7 @@
     "join_date": "Sep 26, 2012",
     "popular_repos_stars": "2",
     "primary_languages": [],
-    "contributions": 207,
+    "contributions": 208,
     "followers": "69"
   },
   {
@@ -272,7 +272,7 @@
       "Python"
     ],
     "contributions": 86,
-    "followers": "47"
+    "followers": "46"
   },
   {
     "url": "https://github.com/infosec-au",
@@ -351,7 +351,7 @@
       "JavaScript",
       "CoffeeScript"
     ],
-    "contributions": 1,
+    "contributions": 1415,
     "followers": "44"
   },
   {
@@ -718,13 +718,13 @@
     "username": "stevelacy",
     "location": "",
     "join_date": "Oct 9, 2013",
-    "popular_repos_stars": "243",
+    "popular_repos_stars": "244",
     "primary_languages": [
       "JavaScript",
       "CoffeeScript",
       "CSS"
     ],
-    "contributions": 1,
+    "contributions": 1654,
     "followers": "37"
   },
   {
@@ -1174,7 +1174,7 @@
       "CSS",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1733,
     "followers": "30"
   },
   {
@@ -1270,7 +1270,7 @@
       "Objective",
       "C"
     ],
-    "contributions": 2,
+    "contributions": 2073,
     "followers": "28"
   },
   {
@@ -1354,7 +1354,7 @@
     "username": "oppei",
     "location": "Tokyo",
     "join_date": "Jan 8, 2009",
-    "popular_repos_stars": "39290",
+    "popular_repos_stars": "39294",
     "primary_languages": [],
     "contributions": 0,
     "followers": "27"
@@ -1535,7 +1535,7 @@
       "JavaScript",
       "CoffeeScript"
     ],
-    "contributions": 1,
+    "contributions": 1347,
     "followers": "25"
   }
 ]

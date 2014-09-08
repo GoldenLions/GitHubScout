@@ -12,7 +12,7 @@
       "C",
       "Python"
     ],
-    "contributions": 1,
+    "contributions": 1202,
     "followers": "870"
   },
   {
@@ -28,7 +28,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 3,
+    "contributions": 3067,
     "followers": "679"
   },
   {
@@ -44,7 +44,7 @@
       "Shell",
       "Scala"
     ],
-    "contributions": 1,
+    "contributions": 1176,
     "followers": "581"
   },
   {
@@ -61,7 +61,7 @@
       "Lisp",
       "Shell"
     ],
-    "contributions": 2,
+    "contributions": 2186,
     "followers": "462"
   },
   {
@@ -71,13 +71,13 @@
     "username": "jgm",
     "location": "Berkeley, CA",
     "join_date": "Mar 13, 2008",
-    "popular_repos_stars": "5518",
+    "popular_repos_stars": "5520",
     "primary_languages": [
       "Haskell",
       "Shell",
       "Perl"
     ],
-    "contributions": 2,
+    "contributions": 2650,
     "followers": "439"
   },
   {
@@ -94,7 +94,7 @@
       "C"
     ],
     "contributions": 161,
-    "followers": "338"
+    "followers": "339"
   },
   {
     "url": "https://github.com/simonmar",
@@ -125,7 +125,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 3,
+    "contributions": 3089,
     "followers": "326"
   },
   {
@@ -141,7 +141,7 @@
       "JavaScript",
       "CSS"
     ],
-    "contributions": 2,
+    "contributions": 2985,
     "followers": "317"
   },
   {
@@ -222,8 +222,8 @@
       "C",
       "Shell"
     ],
-    "contributions": 1,
-    "followers": "237"
+    "contributions": 1857,
+    "followers": "238"
   },
   {
     "url": "https://github.com/chriseidhof",
@@ -314,13 +314,13 @@
     "username": "joeyh",
     "location": "",
     "join_date": "Jul 8, 2008",
-    "popular_repos_stars": "1822",
+    "popular_repos_stars": "1823",
     "primary_languages": [
       "Shell",
       "Haskell",
       "Perl"
     ],
-    "contributions": 5,
+    "contributions": 5216,
     "followers": "170"
   },
   {
@@ -336,7 +336,7 @@
       "Perl",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1300,
     "followers": "166"
   },
   {
@@ -368,7 +368,7 @@
       "Shell",
       "Ruby"
     ],
-    "contributions": 1,
+    "contributions": 1401,
     "followers": "158"
   },
   {
@@ -448,7 +448,7 @@
       "C",
       "Perl"
     ],
-    "contributions": 1,
+    "contributions": 1198,
     "followers": "127"
   },
   {
@@ -480,7 +480,7 @@
       "C",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1270,
     "followers": "123"
   },
   {
@@ -528,7 +528,7 @@
       "Shell",
       "CSS"
     ],
-    "contributions": 1,
+    "contributions": 1146,
     "followers": "114"
   },
   {
@@ -577,7 +577,7 @@
       "Shell",
       "Perl"
     ],
-    "contributions": 2,
+    "contributions": 2171,
     "followers": "108"
   },
   {
@@ -706,7 +706,7 @@
       "Perl",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1060,
     "followers": "92"
   },
   {
@@ -784,9 +784,9 @@
     "primary_languages": [
       "Rust",
       "C",
-      "Haskell"
+      "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1010,
     "followers": "83"
   },
   {
@@ -946,7 +946,7 @@
       "Shell",
       "C"
     ],
-    "contributions": 2,
+    "contributions": 2116,
     "followers": "74"
   },
   {
@@ -1059,7 +1059,7 @@
       "Shell",
       "CSS"
     ],
-    "contributions": 1,
+    "contributions": 1308,
     "followers": "66"
   },
   {
@@ -1205,7 +1205,7 @@
       "VimL",
       "Shell"
     ],
-    "contributions": 1,
+    "contributions": 1153,
     "followers": "60"
   },
   {
@@ -1237,7 +1237,7 @@
       "Shell",
       "JavaScript"
     ],
-    "contributions": 1,
+    "contributions": 1257,
     "followers": "57"
   },
   {
@@ -1301,7 +1301,7 @@
       "Shell",
       "TeX"
     ],
-    "contributions": 2,
+    "contributions": 2142,
     "followers": "55"
   },
   {
@@ -1317,7 +1317,7 @@
       "C",
       "Python"
     ],
-    "contributions": 1,
+    "contributions": 1397,
     "followers": "54"
   },
   {
@@ -1413,7 +1413,7 @@
       "Python",
       "Shell"
     ],
-    "contributions": 4,
+    "contributions": 4409,
     "followers": "51"
   },
   {
