@@ -14,11 +14,12 @@ angular.module('githubscout.services', [])
 })
 
 .factory('UserData', function() {
+  // stores UserData.username and UserData.rawDataCommitsByLanguage for User controller
   return {}
 })
- // getdateandCommits will return an array of object with
- //object having the form ['2014-04-01',5],['2014-06-02',8]]
+
 .factory('UserDateandCommits',function(){
+  // getdateandCommits will return an array of objects having the form ['2014-04-01',5],['2014-06-02',8]]
   var getdateandCommits  = function(obj){
     var result = []
     var commit = {};
@@ -50,49 +51,44 @@ angular.module('githubscout.services', [])
     getdateandCommits: getdateandCommits
   }
 })
+
 //this factory will include the dates of second user if
 //the first user didn't have those dates. This is necessary
 //to compare series in the multibar chart
 .factory('UserCompareRescaleBar', function(){
-
-    var getCompareRescaleBar = function(userarray1,userarray2){
-
-         var strip = []
-         result = []
-         for(var i =0; i<userarray1.length;i++){
-           strip.push(userarray1[i][0])
-         }
-
-         for(var j = 0; j<userarray2.length; j++){
-           if(strip.indexOf(userarray2[j][0])===-1){
-              result.push([userarray2[j][0],0])
-           }
-         }
-
-         var concatresult = userarray1.concat(result)
-         var finalresult = concatresult.sort(function(a,b){
-
-          if(parseInt((a[0].split('/')[1]))>parseInt((b[0].split('/')[1]))){
-              return 1;
-           }
-           if(parseInt((a[0].split('/')[1]))<parseInt((b[0].split('/')[1]))){
-              return -1
-
-           }
-             return 0
-         })
-         return finalresult;
-
-
+  var getCompareRescaleBar = function(userarray1,userarray2){
+    var strip = []
+    result = []
+    for(var i =0; i<userarray1.length;i++){
+      strip.push(userarray1[i][0])
     }
-    return {
-      getCompareRescaleBar: getCompareRescaleBar
-    };
+
+    for(var j = 0; j<userarray2.length; j++){
+      if(strip.indexOf(userarray2[j][0])===-1){
+        result.push([userarray2[j][0],0])
+      }
+    }
+
+    var concatresult = userarray1.concat(result)
+    var finalresult = concatresult.sort(function(a,b){
+
+    if(parseInt((a[0].split('/')[1]))>parseInt((b[0].split('/')[1]))){
+      return 1;
+    }
+    if(parseInt((a[0].split('/')[1]))<parseInt((b[0].split('/')[1]))){
+      return -1
+    }
+    return 0
+    })
+    return finalresult;
+  }
+  return {
+    getCompareRescaleBar: getCompareRescaleBar
+  };
 
 })
 
-  // getUserCommitsperLanganguage will return an array of object with
-  //object having the form {language:'JavaScript', count:10}
+// getUserCommitsperLanganguage will return an array of objects having the form {language:'JavaScript', count:10}
 .factory('UserLanguagesandCommits',function(){
     var getUserCommitsperLanganguage = function(obj){
       var result = []
@@ -122,6 +118,7 @@ angular.module('githubscout.services', [])
   }
 
 })
+
 // User info is pulled dynamically from the GitHub API in order to circumvent GitHub's IP limits.
 .factory('getUserCommits', function($http) {
   // Our application credentials. Should use a token instead of hardcoding these in. Oh well.
@@ -132,7 +129,7 @@ angular.module('githubscout.services', [])
 
   // Gets commits by author for the current page of repo. Places the results in storage, and,
   // if there are remaining pages, recurses and increments page, upto 5 pages, i.e. up to
-  // 500 commits for that repo. For some users this will be an underestimate. The GitHub API 
+  // 500 commits for that repo. For some users this will be an underestimate. The GitHub API
   // permits up to 10 pages of results for 1000 commits, but we also have API limits to worry about.
   var iterativeGetRepoCommits = function(repo,author,storage,page) {
     // Copy config so as not to permanently push items.
@@ -140,7 +137,6 @@ angular.module('githubscout.services', [])
     data.push('page='+page);
     data.push('author='+author);
     data.push('per_page=100')
-    //console.log('CURRENT COMMITS',repo.commits_url, page)
 
     // Append data to the query URL.
     return $http({
@@ -154,7 +150,6 @@ angular.module('githubscout.services', [])
           'date':item.commit.committer.date.slice(0,10)
         })
       });
-      //console.log(result.data.length)
       if (result.data.length === 100 && page < 6) {
         return iterativeGetRepoCommits(repo,author,storage,page+1);
       } else {
@@ -163,7 +158,7 @@ angular.module('githubscout.services', [])
     })
   };
 
-  // For an array of repo objects, pops off a repo obj and first pulls the language spread 
+  // For an array of repo objects, pops off a repo obj and first pulls the language spread
   // statistics from .languages_url before retrieving all commits by author for that repo.
   // Recurses until the array is empty.
   var iterativeGetRepoStats = function(remainingRepoData,author,storage) {
@@ -217,7 +212,6 @@ angular.module('githubscout.services', [])
       })
     });
   }
-      //console.log("this is getUserCOmmmits", getUserCommits)
   return getUserCommits;
 })
 // Query the GitHub API for up to 300 of the user's most recent events. This is currently
@@ -230,7 +224,7 @@ angular.module('githubscout.services', [])
 
   // The event object will include a payload object with many different properties. Each event
   // payload will have different properties depending on the event. Use this to parse it down
-  // to only the relevant figures. 
+  // to only the relevant figures.
   var processPayload = function(payload,type) {
     return payload;
   };
@@ -444,8 +438,6 @@ angular.module('githubscout.services', [])
     fetchStackedAreaData: fetchStackedAreaData,
     fetchHorizontalBarData: fetchHorizontalBarData
   };
-
-
 })
 
 
