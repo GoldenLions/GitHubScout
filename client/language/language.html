@@ -119,6 +119,7 @@
         <td>Stars</td>
         <td>Forks</td>
         <td>Contributors</td>
+        <td>Size</td>
       </tr>
       <tr ng-repeat ="repo in data.leaderboard.repos[data.currentLanguages[0]]">
         <td><a href="{{repo.url}}">{{cleanUrl(repo.url)}}</a></td>
@@ -126,6 +127,7 @@
         <td>{{repo.stars}}</td>
         <td>{{repo.forks}}</td>
         <td>{{repo.contributors}}</td>
+        <td>{{cleanSize(repo.size)}}</td>
       </tr>
     </table>
   </div>

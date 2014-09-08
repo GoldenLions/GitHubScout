@@ -12,6 +12,11 @@ angular.module('githubscout.language', ['nvd3ChartDirectives',
       return url.slice(i+4,url.length);
     };
 
+    $scope.cleanSize = function(size) {
+      size = parseInt(size);
+      return Math.floor(size/1000) +'kb'
+    };
+
     // Formats the JavaScript date object for the x axis labels
     $scope.xAxisTickFormat = function(){
         return function(d){
