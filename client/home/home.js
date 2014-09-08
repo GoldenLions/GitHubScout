@@ -25,7 +25,7 @@ angular.module('githubscout.home', ['nvd3ChartDirectives', 'leaflet-directive'])
 
   ChartsUtil.fetchStackedAreaData(settings)
     .then(function(chartData){
-      console.log('Top languages', chartData);
+      // console.log('Top languages', chartData);
       $scope.topLanguages  = chartData;
   });
 
@@ -40,7 +40,7 @@ angular.module('githubscout.home', ['nvd3ChartDirectives', 'leaflet-directive'])
 
   ChartsUtil.fetchHorizontalBarData(settings)
     .then(function(chartData){
-    console.log('all Languages', chartData)
+    // console.log('all Languages', chartData)
 
       $scope.allLanguages  = chartData;
   });
@@ -52,14 +52,11 @@ angular.module('githubscout.home', ['nvd3ChartDirectives', 'leaflet-directive'])
       };
   };
 
-  $scope.homeMap = function(){
-        console.log('help')
-
-    return Map.showMap();
-  }()
 
 
 }])
+
+/*
 
 .directive('languageMap', function($window) {
   return {
@@ -84,3 +81,4 @@ angular.module('githubscout.home', ['nvd3ChartDirectives', 'leaflet-directive'])
 
 })
 
+*/
