@@ -1,6 +1,17 @@
+  <script scr="./assets/countries.json"></script>
 <div>
   <h1>Home View</h1>
 </div>
+
+<h1>Map</h1>
+
+<!-- <leaflet center="center" layers="layers" geojson="geojson" width="640px" height="480px"></leaflet>
+ -->
+
+<leaflet center="center" geojson="geojson" width="640px" height="480px"></leaflet>
+  <div ng-controller="GeoJSONController">
+     <leaflet center="japan" geojson="geojson" width="640px" height="480px"></leaflet>
+  </div>
 
 <h1>Top 10 Languages</h1>
 <nvd3-stacked-area-chart
@@ -31,3 +42,5 @@
         >
     <svg></svg>
 </nvd3-multi-bar-horizontal-chart>
+
+

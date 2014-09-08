@@ -95,6 +95,46 @@ handler.setStateOnly = function(){
 
 
 handler.setCityOnly = function(){
+  // There are multipLe cites that share the same name. (cities.duplicates = 1)
+  // To avoid picking duplicate city names, select all cities  that
+  // 1) only appear in the cities table once 
+  // or 2) have a population over 1/2 million
+  db.knex('cities')
+    .join('countries', 'cities.country_code', 'countries.iso')
+    .leftJoin('states', 'cities.admin', 'states.abbr')
+    .select('cities.name as city', 'cities.asciiname as cityAlt' ,
+      'countries.country', 'countries.iso', 'countries.iso3',
+      'states.state', 'states.abbr')
+    .where('cities.duplicate', 0)
+    .orWhere('cities.population', '>', '500000')
+  
+    // .limit(10)
+
+    //for each city
+    .map(function(place){
+      console.log(place);
+
+      //update the city, state and country field for all Github locations   
+      db.knex('github_locations')
+        // Github location that list the city as their location
+        .where(function(){
+          this.whereNull('part2')
+          .andWhere(function(){
+            this.where('part1', place['city'])
+            .orWhere('part1', place['cityAlt'])
+          })
+        })
+
+        .andWhere('draft', 0)
+        .update({city: place['city'], state: place['state'], country: place['country'], draft: 1})
+        .then(console.log('update city'));
+
+    })
+
+};
+
+
+handler.setCity = function(){
   // select all cities in cities table
   db.knex('cities')
     .join('countries', 'cities.country_code', 'countries.iso')
@@ -110,17 +150,9 @@ handler.setCityOnly = function(){
 
       //update the city, state and country field for all Github locations   
       db.knex('github_locations')
-        // Github location that list the city as their location
-        .where(function(){
-          this.whereNull('part2')
-          .andWhere(function(){
-            this.where('part1', place['city'])
-            .orWhere('part1', place['cityAlt'])
-          })
-        })
 
         // Github location that list the city, state as their location
-        .orWhere(function(){
+        .where(function(){
           this.where(function(){
             this.where('part1', place['city'])
             .orWhere('part1', place['cityAlt'])
@@ -178,7 +210,7 @@ handler.setCityOnly = function(){
 };
 
 
-handler.setCityReverseOnly = function(){
+handler.setCityReverse = function(){
   // select all cities in cities table
   db.knex('cities')
     .join('countries', 'cities.country_code', 'countries.iso')
@@ -237,36 +269,36 @@ handler.setCityReverseOnly = function(){
         .then(console.log('update city'));
 
     })
-
 };
-
-
-
 
 
 // takes locations from Github and splits them into parts
 handler.splitLocations = function(){
-  // select every distinct location that has comma or split, and not an url
+  // select every distinct Github location 
   GithubLocations.query()
     .distinct('location')
-    // .where({draft : 0})
-    .andWhere(function(){
-      this.where('location', 'like', '%,%')
-      .orWhere('location', 'like', '%/%')
-    })
-    .andWhere('location', 'not like', 'http')
+    .where({draft : 0})
 
     // for every location
     .map(function(location){
-      console.log(location)
+      console.log(location);
 
-      // split the location into parts by comma or slash and
-      var parts = location['location'].split(/ ?[,\/] ?/);  
-
-      // store each part in an object. The number of parts for each location 
-      // can vary from 1 to 3.  
+      var parts = [];
       var updateParts = {};
-      if(parts.length === 1){
+      var isUrl = false;
+
+      // split the location into parts by comma or slash if location isn't an url
+      if(location['location'].indexOf('http') === -1) {
+        parts = location['location'].split(/ ?[,\/] ?/);  
+      } else {
+        isUrl = true;
+      }
+
+      // store each part in an object if location is not a url. The number of 
+      // parts for each location  can vary from 1 to 3.  
+      if(!isUrl && parts.length === 0){
+        updateParts = {part1: location, draft: 1};
+      } else if(parts.length === 1 ){
         updateParts = {part1: parts[0], draft: 1};
       } else if (parts.length === 2) {
         updateParts = {part1: parts[0], part2: parts[1], draft: 1};

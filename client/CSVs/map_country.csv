@@ -1,0 +1,230 @@
+"country","events","users"
+"Afghanistan",889,44
+"Aland Islands",75,3
+"Albania",3154,114
+"Algeria",13862,681
+"Andorra",282,27
+"Angola",420,42
+"Anguilla",570,11
+"Antarctica",5470,71
+"Antigua and Barbuda",34,4
+"Argentina",367151,12213
+"Armenia",11543,397
+"Aruba",2,2
+"Australia",1485915,45196
+"Austria",476519,12873
+"Azerbaijan",4769,226
+"Bahamas",115,25
+"Bahrain",3201,199
+"Bangladesh",48391,3127
+"Barbados",843,70
+"Belarus",222909,7806
+"Belgium",459543,13400
+"Belize",382,34
+"Benin",9951,560
+"Bermuda",3785,136
+"Bhutan",539,39
+"Bolivia",12749,663
+"Bosnia and Herzegovina",12601,606
+"Botswana",320,37
+"Bouvet Island",121,1
+"Brazil",1056338,42325
+"British Indian Ocean Territory",164,4
+"British Virgin Islands",26,3
+"Brunei",252,15
+"Bulgaria",204842,6591
+"Burkina Faso",83,23
+"Burundi",172,9
+"Cambodia",13626,556
+"Cameroon",2182,114
+"Canada",2137705,63996
+"Cape Verde",438,59
+"Cayman Islands",187,29
+"Chad",134,9
+"Chile",321582,12358
+"China",2579044,114921
+"Christmas Island",153,2
+"Cocos Islands",26,3
+"Colombia",91799,3644
+"Costa Rica",100189,3048
+"Croatia",117092,3620
+"Cuba",86322,4498
+"Curacao",1477,37
+"Cyprus",12068,633
+"Czech Republic",502115,12175
+"Democratic Republic of the Congo",2155,71
+"Denmark",471590,14357
+"Djibouti",26,3
+"Dominica",205,23
+"Dominican Republic",14438,831
+"East Timor",10,1
+"Ecuador",19274,1048
+"Egypt",57463,3223
+"El Salvador",1481045,41966
+"Equatorial Guinea",245,4
+"Estonia",103772,3041
+"Ethiopia",2245,143
+"Faroe Islands",1032,39
+"Fiji",613,31
+"Finland",507260,13313
+"France",3068284,82747
+"French Guiana",26,7
+"French Polynesia",125,13
+"Gabon",2,1
+"Gambia",57,9
+"Georgia",16789,625
+"Germany",3644792,97939
+"Ghana",19305,913
+"Gibraltar",2015,116
+"Greece",186574,6968
+"Greenland",22,7
+"Grenada",213,32
+"Guadeloupe",1713,113
+"Guam",158,16
+"Guatemala",11906,948
+"Guernsey",430,30
+"Guinea",5,3
+"Guinea-Bissau",53,6
+"Guyana",455,24
+"Haiti",428,60
+"Honduras",12270,509
+"Hong Kong",188249,6009
+"Hungary",224775,7366
+"Iceland",36441,1731
+"India",1337170,71606
+"Indonesia",248797,11771
+"Iran",79665,4294
+"Iraq",990,71
+"Ireland",268254,9884
+"Isle of Man",1076,70
+"Israel",244296,6890
+"Italy",747920,23102
+"Ivory Coast",473,61
+"Jamaica",7441,382
+"Japan",2055325,59791
+"Jersey",1522,81
+"Jordan",7503,463
+"Kazakhstan",25524,1251
+"Kenya",52149,2066
+"Kiribati",514,2
+"Kosovo",677,66
+"Kuwait",3133,223
+"Kyrgyzstan",9444,492
+"Laos",120,25
+"Latvia",84198,3095
+"Lebanon",11958,588
+"Lesotho",134,26
+"Liberia",18,13
+"Libya",1038,54
+"Liechtenstein",1421,43
+"Lithuania",87170,3141
+"Luxembourg",22424,1048
+"Macao",3455,205
+"Macedonia",32662,869
+"Madagascar",2783,205
+"Malawi",6055,54
+"Malaysia",95711,3758
+"Maldives",3371,120
+"Mali",3655,29
+"Malta",9098,500
+"Marshall Islands",116,6
+"Martinique",445,34
+"Mauritania",6,5
+"Mauritius",4890,213
+"Mayotte",195,23
+"Mexico",805728,37621
+"Micronesia",7,1
+"Moldova",21748,920
+"Monaco",821,34
+"Mongolia",5572,358
+"Montenegro",475,56
+"Montserrat",1820,84
+"Morocco",17147,1088
+"Mozambique",493,53
+"Myanmar",7353,494
+"Namibia",1202,57
+"Nepal",25137,1539
+"Netherlands",887522,24461
+"New Caledonia",1020,50
+"New Zealand",503949,13388
+"Nicaragua",18209,846
+"Nigeria",15999,959
+"Niue",227,4
+"Norfolk Island",308,20
+"North Korea",24,8
+"Northern Mariana Islands",27,6
+"Norway",577519,16552
+"Oman",525,62
+"Pakistan",90613,6085
+"Palestinian Territory",1499,67
+"Panama",6329,308
+"Papua New Guinea",4,3
+"Paraguay",56780,2540
+"Peru",95776,3525
+"Philippines",283125,12688
+"Poland",722757,23907
+"Portugal",354236,12696
+"Puerto Rico",29663,813
+"Qatar",2478,226
+"Republic of the Congo",3,2
+"Reunion",1018,54
+"Romania",307107,9497
+"Russia",1587912,54708
+"Rwanda",6289,88
+"Saint Helena",6336,326
+"Saint Kitts and Nevis",703,10
+"Saint Lucia",35,6
+"Saint Vincent and the Grenadines",9,4
+"Samoa",3,2
+"San Marino",518,27
+"Sao Tome and Principe",4,2
+"Saudi Arabia",17661,676
+"Senegal",3807,160
+"Serbia",64677,3025
+"Serbia and Montenegro",50,7
+"Seychelles",7099,122
+"Sierra Leone",17533,654
+"Singapore",257452,10293
+"Sint Maarten",84,7
+"Slovakia",84944,2938
+"Slovenia",96070,2729
+"Solomon Islands",42,2
+"Somalia",96,7
+"South Africa",323209,10940
+"South Korea",157351,6556
+"South Sudan",53,8
+"Spain",1009089,26824
+"Sri Lanka",73770,2112
+"Sudan",166,37
+"Suriname",14350,403
+"Svalbard and Jan Mayen",51,3
+"Swaziland",3014,191
+"Sweden",940712,30444
+"Switzerland",804555,17599
+"Syria",9939,308
+"Taiwan",484411,17026
+"Tajikistan",1665,128
+"Tanzania",3483,209
+"Thailand",117282,5044
+"Togo",9,5
+"Tonga",24,6
+"Trinidad and Tobago",3694,135
+"Tunisia",16015,1210
+"Turkey",288507,13631
+"Turkmenistan",93,20
+"Turks and Caicos Islands",188,7
+"U.S. Virgin Islands",24,4
+"Uganda",10604,484
+"Ukraine",593210,20256
+"United Arab Emirates",15698,788
+"United Kingdom",1875115,65724
+"United States",20656039,613149
+"Uruguay",107635,4618
+"Uzbekistan",6624,401
+"Vanuatu",26,9
+"Vatican",132,5
+"Venezuela",225692,8608
+"Vietnam",100222,4184
+"Yemen",478,33
+"Zambia",1222,83
+"Zimbabwe",935,94

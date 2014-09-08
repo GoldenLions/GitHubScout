@@ -19,7 +19,9 @@ app.get('/api/locations', function(req, res){
   // handler.setStateOnly();
   // handler.setCountryOnly();
   // handler.setCityOnly();
-  // handler.setCityReverseOnly();
+    // handler.setCity();
+
+  handler.setCityReverse();
 
 });
 
