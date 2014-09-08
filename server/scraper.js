@@ -146,8 +146,8 @@ var scraper = {
   // languages to search for, this will take at least 10 minutes.
   updateUserUrlsJSON: function(callback) { 
     // Sets the query parameters for the GitHub search API.
-    // Takes the first 10 pages of users with a minimum of minFollowers followers,
-    // minRepos repos, and sorts by followers in descending order.
+    // Takes the first 100 users with a minimum of minFollowers followers
+    // and sorts by followers in descending order.
     // This does not guarantee that we will find the users with the most contributions, or 
     // number of stars, but because we can only ask GitHub to sort by followers, join date,
     // and number of repos, this list is probably the best starting point available. 
