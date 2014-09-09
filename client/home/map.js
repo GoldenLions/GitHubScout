@@ -1,28 +1,4 @@
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>test map</title>
-  <style>
-  #map {
-    height: 350px;
-    width: 510px;
-  }
-  </style>
-  <link rel="stylesheet" href="../bower_components/leaflet/dist/leaflet.css">
 
-</head>
-<body>
-
-  <h1>Map</h1>
-
-  <p>This page use D3 and Leaflet to display github activity by country. The code is a work in progress. The code needs to be integrated with the Angular frontend.</p>
-
-  <div id="map"></div>
-  <script src="../bower_components/leaflet/dist/leaflet.js "></script>
-  <script type="text/javascript" src="./assets/countries.json"></script>
-  <script type="text/javascript" src="./lib/d3.js"></script>
-
-  <script>
 
   var fetchGithubData = function() {
     var maxCount = 0;
@@ -84,7 +60,6 @@
       };
     }
 
-    // When you hover over a country, the country will be highlighted.
     function highlightFeature(e) {
       var layer = e.target;
 
@@ -108,7 +83,6 @@
       info.update();
     }
 
-    // When you click on country, you zoom in onto the country.
     function zoomToFeature(e) {
       map.fitBounds(e.target.getBounds());
     }
@@ -125,11 +99,12 @@
     var info = L.control();
 
     info.onAdd = function (map) {
-      this._div = L.DomUtil.create('div', 'info'); 
+      this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
       this.update();
       return this._div;
     };
 
+    // method that we will use to update the control based on feature properties passed
     info.update = function (props) {
 
       if(props){
@@ -146,22 +121,21 @@
     info.addTo(map);
 
 
+
+
     // Add GeoJSON layer to the map.
     geojson = L.geoJson(countriesData, {
       style: style,
       onEachFeature: onEachFeature
     }).addTo(map);
 
+    console.log('ddd',countryData)
+    return countryData;
 
   })
 
 }
 
-fetchGithubData();
+var countryData = fetchGithubData();
 
 
-
-
-</script>
-</body>
-</html>

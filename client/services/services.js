@@ -453,3 +453,49 @@ angular.module('githubscout.services', [])
     }
   };
 })
+
+
+.factory('Map', function(){
+  var showMap = function() {
+    console.log('map factory')
+        // Initialize a map with center and zoom level
+    // var map = L.map('map').setView([33.7, -102.4],1);
+    var map = L.map('map').setView([45, 0],1);
+
+    // Tile layer contains the map information from Mapbox
+    L.tileLayer('http://{s}.tiles.mapbox.com/v3/wykhuh.jc1144hm/{z}/{x}/{y}.png',{
+      maxZoom: 18
+    }).addTo(map);
+
+
+
+    // Sets color based on population density
+    function getColor(d){
+      return d > 100000000 ? '#800026' :
+             d > 10000000  ? '#FC4E2A' :
+                        '#FFEDA0';
+    }
+
+    // We use data from a GeoJSON file to draw the boundaries for each country.
+    // Sets the style for GeoJSON layer.
+    function style(feature){
+      return {
+        fillColor: getColor(feature.properties.pop_est),
+        weight: 2,
+        opacity: 1,
+        color: '#777',
+        dashArray: '1',
+        fillOpacity: 0.5
+      };
+    }
+
+    // Add GeoJSON layer to the map.
+  }
+
+  return {
+    showMap: showMap
+  }
+
+
+
+})
