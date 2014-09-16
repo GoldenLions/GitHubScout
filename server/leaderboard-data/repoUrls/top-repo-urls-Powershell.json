@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/chocolatey/chocolatey",
+    "size": 35372,
+    "language": "PowerShell"
+  },
+  {
+    "url": "https://github.com/dahlbyk/posh-git",
+    "size": 6423,
+    "language": "PowerShell"
+  },
+  {
+    "url": "https://github.com/aspnet/Home",
+    "size": 3583,
+    "language": "PowerShell"
+  },
+  {
+    "url": "https://github.com/lukesampson/scoop",
+    "size": 6829,
+    "language": "PowerShell"
+  },
+  {
+    "url": "https://github.com/psake/psake",
+    "size": 5371,
+    "language": "PowerShell"
+  },
+  {
+    "url": "https://github.com/mattifestation/PowerSploit",
+    "size": 6698,
+    "language": "PowerShell"
+  },
+  {
+    "url": "https://github.com/leddt/visualstudio-colors-solarized",
+    "size": 254,
+    "language": "PowerShell"
+  },
+  {
+    "url": "https://github.com/pester/Pester",
+    "size": 12176,
+    "language": "PowerShell"
+  },
+  {
+    "url": "https://github.com/psget/psget",
+    "size": 2997,
+    "language": "PowerShell"
+  },
+  {
+    "url": "https://github.com/joefitzgerald/packer-windows",
+    "size": 1763,
+    "language": "PowerShell"
+  },
+  {
+    "url": "https://github.com/PowerShellOrg/DSC",
+    "size": 2278,
+    "language": "PowerShell"
+  },
+  {
+    "url": "https://github.com/alanrenouf/vCheck-vSphere",
+    "size": 3407,
+    "language": "PowerShell"
+  },
+  {
+    "url": "https://github.com/JeremySkinner/posh-hg",
+    "size": 192,
+    "language": "PowerShell"
+  },
+  {
+    "url": "https://github.com/clymb3r/PowerShell",
+    "size": 71600,
+    "language": "PowerShell"
+  },
+  {
+    "url": "https://github.com/Azure/azure-sdk-tools-samples",
+    "size": 11419,
+    "language": "PowerShell"
+  },
+  {
+    "url": "https://github.com/PowerShellOrg/ebooks",
+    "size": 109506,
+    "language": "PowerShell"
+  },
+  {
+    "url": "https://github.com/darkoperator/Posh-SecMod",
+    "size": 2489,
+    "language": "PowerShell"
+  },
+  {
+    "url": "https://github.com/adamdriscoll/PoshInternals",
+    "size": 831,
+    "language": "PowerShell"
+  },
+  {
+    "url": "https://github.com/psake/psake-contrib",
+    "size": 283,
+    "language": "PowerShell"
+  },
+  {
+    "url": "https://github.com/samratashok/Kautilya",
+    "size": 784,
+    "language": "PowerShell"
+  }
+]

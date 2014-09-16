@@ -3,33 +3,50 @@
   <head>
     <meta charset="utf-8" />
     <title>Github Scout</title>
+    <link rel="stylesheet" type="text/css" href="lib/leaflet/leaflet.css">
+    <link rel="stylesheet" type="text/css" href="lib/nvd3/nv.d3.css">
     <link rel="stylesheet" type="text/css" href="styles/main.css">
   </head>
   <body>
-  	<div>
-  		<a ui-sref="home">Home</a>
-  	</div>
+    <div class="page-wrap">
+    	<nav class="clear-after">
+        <div class="container">
+      		<a ui-sref="home" class="float-left home">Github Scout</a>
 
-    <div ng-controller='SearchController'>
-      <div gs-search></div>
+          <div ng-controller='SearchController' class="float-right one-half">
+            <div gs-search></div>
+          </div>
+        </div>
+      </nav>
+
+      <div class="container">
+        <div ui-view></div>
+      </div>
     </div>
 
-    <div ui-view></div>
 
-
-    <footer>
-    	<p>Built in 2014 at Hack Reactor</p>
-    	<p>Built by <a href="">Charles Wang</a>, <a href="">Mike Lamm</a>, <a href="">Wai-Yin Kwan</a>, <a href="">Kelly Walker</a>, and <a href="">Ben Rowles</a>.</p>
+    <footer class="clear-after">
+      <div class="container">
+      	<p class="float-left">Built in 2014 at <a href="http://www.hackreactor.com/">Hack Reactor</a></p>
+      	<p class="float-right">Built by <a href="">Charles Wang</a>, <a href="">Mike Lamm</a>, <a href="">Wai-Yin Kwan</a>, <a href="">Kelly Walker</a>, and <a href="">Ben Rowles</a>.</p>
+      </div>
     </footer>
 
 
   	<script src="lib/angular/lib/angular.js"></script>
   	<script src="lib/angular-ui-router/release/angular-ui-router.js"></script>
+    <script src ="lib/d3.js"></script>
+    <script src="lib/nvd3/nv.d3.js"></script>
+    <script src="lib/angularjs-nvd3-directives.js"></script>
+    <script src="lib/leaflet/leaflet.js"></script>
+    <script src="lib/angular-leaflet-directive.min.js"></script>
+    <script src ="lib/lodash.js"></script>
     <script src="services/services.js"></script>
     <script src="home/home.js"></script>
     <script src="language/language.js"></script>
     <script src="user/user.js"></script>
     <script src="search/search.js"></script>
+    <script src="lib/ngFx/dist/ngFx.min.js"></script>
   	<script src="client.js"></script>
   </body>
  </html>

@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://github.com/bamboo",
+    "language": "Boo",
+    "full_name": "Rodrigo B. de Oliveira",
+    "username": "bamboo",
+    "location": "Brazil",
+    "join_date": "Feb 4, 2009",
+    "popular_repos_stars": "365",
+    "primary_languages": [
+      "JavaScript",
+      "Shell",
+      "Boo"
+    ],
+    "contributions": 778,
+    "followers": "154"
+  },
+  {
+    "url": "https://github.com/massimiliano-mantione",
+    "language": "Boo",
+    "full_name": "Massimiliano Mantione",
+    "username": "massimiliano-mantione",
+    "location": "Gorgonzola, MI Italy",
+    "join_date": "Oct 4, 2010",
+    "popular_repos_stars": "22",
+    "primary_languages": [
+      "JavaScript",
+      "CSS",
+      "Shell"
+    ],
+    "contributions": 355,
+    "followers": "10"
+  },
+  {
+    "url": "https://github.com/steinbitglis",
+    "language": "Boo",
+    "full_name": "Fredrik Ludvigsen",
+    "username": "steinbitglis",
+    "location": "Bergen",
+    "join_date": "Jan 24, 2012",
+    "popular_repos_stars": "7",
+    "primary_languages": [
+      "Shell",
+      "C",
+      "JavaScript"
+    ],
+    "contributions": 0,
+    "followers": "8"
+  }
+]

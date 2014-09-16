@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/ForceDotComLabs/Milestones-PM",
+    "size": 1839,
+    "language": "Apex"
+  },
+  {
+    "url": "https://github.com/financialforcedev/apex-mdapi",
+    "size": 2563,
+    "language": "Apex"
+  },
+  {
+    "url": "https://github.com/mbotos/SmartFactory-for-Force.com",
+    "size": 260,
+    "language": "Apex"
+  },
+  {
+    "url": "https://github.com/twilio/twilio-salesforce",
+    "size": 691,
+    "language": "Apex"
+  },
+  {
+    "url": "https://github.com/StratoSource/StratoSource",
+    "size": 56965,
+    "language": "Apex"
+  },
+  {
+    "url": "https://github.com/SalesforceFoundation/Batch-Entry-for-Salesforce.com",
+    "size": 763,
+    "language": "Apex"
+  },
+  {
+    "url": "https://github.com/financialforcedev/fflib-apex-common",
+    "size": 1004,
+    "language": "Apex"
+  },
+  {
+    "url": "https://github.com/mbotos/Automated-Testing-for-Force.com",
+    "size": 194,
+    "language": "Apex"
+  },
+  {
+    "url": "https://github.com/afawcett/declarative-lookup-rollup-summaries",
+    "size": 929,
+    "language": "Apex"
+  },
+  {
+    "url": "https://github.com/jesperfj/sfdc-oauth-playground",
+    "size": 143,
+    "language": "Apex"
+  },
+  {
+    "url": "https://github.com/abhinavguptas/Salesforce-Lookup-Rollup-Summaries",
+    "size": 198,
+    "language": "Apex"
+  },
+  {
+    "url": "https://github.com/financialforcedev/df12-apex-enterprise-patterns",
+    "size": 216,
+    "language": "Apex"
+  },
+  {
+    "url": "https://github.com/financialforcedev/df12-deployment-tools",
+    "size": 9794,
+    "language": "Apex"
+  },
+  {
+    "url": "https://github.com/developerforce/Force.com-Toolkit-for-Facebook",
+    "size": 208,
+    "language": "Apex"
+  },
+  {
+    "url": "https://github.com/ForceDotComLabs/FindNearby",
+    "size": 414,
+    "language": "Apex"
+  },
+  {
+    "url": "https://github.com/TehNrd/sObject-Remote",
+    "size": 225,
+    "language": "Apex"
+  },
+  {
+    "url": "https://github.com/metadaddy-sfdc/Visualforce-Multiselect-Picklist",
+    "size": 213,
+    "language": "Apex"
+  },
+  {
+    "url": "https://github.com/kevinohara80/sfdc-trigger-framework",
+    "size": 233,
+    "language": "Apex"
+  },
+  {
+    "url": "https://github.com/richardvanhook/Force.com-Patterns",
+    "size": 2128,
+    "language": "Apex"
+  },
+  {
+    "url": "https://github.com/financialforcedev/ForceDotComSprintWall",
+    "size": 573,
+    "language": "Apex"
+  }
+]

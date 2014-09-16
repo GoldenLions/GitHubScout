@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/elixir-lang/elixir",
+    "size": 54101,
+    "language": "Elixir"
+  },
+  {
+    "url": "https://github.com/dynamo/dynamo",
+    "size": 3410,
+    "language": "Elixir"
+  },
+  {
+    "url": "https://github.com/phoenixframework/phoenix",
+    "size": 7382,
+    "language": "Elixir"
+  },
+  {
+    "url": "https://github.com/elixir-lang/ecto",
+    "size": 6608,
+    "language": "Elixir"
+  },
+  {
+    "url": "https://github.com/elixir-web/weber",
+    "size": 4020,
+    "language": "Elixir"
+  },
+  {
+    "url": "https://github.com/edgurgel/poxa",
+    "size": 1873,
+    "language": "Elixir"
+  },
+  {
+    "url": "https://github.com/seven1m/30-days-of-elixir",
+    "size": 811,
+    "language": "Elixir"
+  },
+  {
+    "url": "https://github.com/myfreeweb/httpotion",
+    "size": 668,
+    "language": "Elixir"
+  },
+  {
+    "url": "https://github.com/elixir-lang/plug",
+    "size": 2735,
+    "language": "Elixir"
+  },
+  {
+    "url": "https://github.com/chrismccord/atlas",
+    "size": 947,
+    "language": "Elixir"
+  },
+  {
+    "url": "https://github.com/josephwilk/amrita",
+    "size": 4004,
+    "language": "Elixir"
+  },
+  {
+    "url": "https://github.com/oreillymedia/etudes-for-elixir",
+    "size": 3625,
+    "language": "Elixir"
+  },
+  {
+    "url": "https://github.com/HashNuke/hound",
+    "size": 1494,
+    "language": "Elixir"
+  },
+  {
+    "url": "https://github.com/sasa1977/exactor",
+    "size": 887,
+    "language": "Elixir"
+  },
+  {
+    "url": "https://github.com/ShaneWilton/dissentr",
+    "size": 170,
+    "language": "Elixir"
+  },
+  {
+    "url": "https://github.com/meh/elixir-socket",
+    "size": 1139,
+    "language": "Elixir"
+  },
+  {
+    "url": "https://github.com/sugar-framework/sugar",
+    "size": 1297,
+    "language": "Elixir"
+  },
+  {
+    "url": "https://github.com/meh/amnesia",
+    "size": 1567,
+    "language": "Elixir"
+  },
+  {
+    "url": "https://github.com/roundscope/tirexs",
+    "size": 1269,
+    "language": "Elixir"
+  },
+  {
+    "url": "https://github.com/talentdeficit/jsex",
+    "size": 962,
+    "language": "Elixir"
+  }
+]

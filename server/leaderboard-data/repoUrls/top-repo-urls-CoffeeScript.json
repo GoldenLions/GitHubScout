@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/harvesthq/chosen",
+    "size": 12626,
+    "language": "CoffeeScript"
+  },
+  {
+    "url": "https://github.com/jashkenas/coffeescript",
+    "size": 35702,
+    "language": "CoffeeScript"
+  },
+  {
+    "url": "https://github.com/atom/atom",
+    "size": 341221,
+    "language": "CoffeeScript"
+  },
+  {
+    "url": "https://github.com/github/hubot",
+    "size": 9641,
+    "language": "CoffeeScript"
+  },
+  {
+    "url": "https://github.com/morrisjs/morris.js",
+    "size": 3984,
+    "language": "CoffeeScript"
+  },
+  {
+    "url": "https://github.com/quilljs/quill",
+    "size": 12854,
+    "language": "CoffeeScript"
+  },
+  {
+    "url": "https://github.com/karma-runner/karma",
+    "size": 17077,
+    "language": "CoffeeScript"
+  },
+  {
+    "url": "https://github.com/brunch/brunch",
+    "size": 11091,
+    "language": "CoffeeScript"
+  },
+  {
+    "url": "https://github.com/codecombat/codecombat",
+    "size": 69653,
+    "language": "CoffeeScript"
+  },
+  {
+    "url": "https://github.com/fastly/epoch",
+    "size": 5173,
+    "language": "CoffeeScript"
+  },
+  {
+    "url": "https://github.com/ichord/At.js",
+    "size": 4990,
+    "language": "CoffeeScript"
+  },
+  {
+    "url": "https://github.com/baconjs/bacon.js",
+    "size": 11010,
+    "language": "CoffeeScript"
+  },
+  {
+    "url": "https://github.com/basecamp/pow",
+    "size": 4433,
+    "language": "CoffeeScript"
+  },
+  {
+    "url": "https://github.com/chaplinjs/chaplin",
+    "size": 8518,
+    "language": "CoffeeScript"
+  },
+  {
+    "url": "https://github.com/rails/turbolinks",
+    "size": 2306,
+    "language": "CoffeeScript"
+  },
+  {
+    "url": "https://github.com/github/hubot-scripts",
+    "size": 11782,
+    "language": "CoffeeScript"
+  },
+  {
+    "url": "https://github.com/assaf/zombie",
+    "size": 7350,
+    "language": "CoffeeScript"
+  },
+  {
+    "url": "https://github.com/Morhaus/dispatch-proxy",
+    "size": 251,
+    "language": "CoffeeScript"
+  },
+  {
+    "url": "https://github.com/docpad/docpad",
+    "size": 14227,
+    "language": "CoffeeScript"
+  },
+  {
+    "url": "https://github.com/philc/vimium",
+    "size": 8264,
+    "language": "CoffeeScript"
+  }
+]

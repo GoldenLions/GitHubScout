@@ -1,0 +1,67 @@
+[
+  {
+    "url": "https://github.com/vranki/ExtPlane",
+    "size": 2699,
+    "language": "XML"
+  },
+  {
+    "url": "https://github.com/intalio/xforms-manager",
+    "size": 449,
+    "language": "XProc"
+  },
+  {
+    "url": "https://github.com/fgeorges/cxan",
+    "size": 3277,
+    "language": "XProc"
+  },
+  {
+    "url": "https://github.com/daisy/xprocspec",
+    "size": 2970,
+    "language": "XProc"
+  },
+  {
+    "url": "https://github.com/sgmlguru/proxist",
+    "size": 2410,
+    "language": "XProc"
+  },
+  {
+    "url": "https://github.com/daisy/pipeline-scripts",
+    "size": 52002,
+    "language": "XProc"
+  },
+  {
+    "url": "https://github.com/daisy/pipeline-modules-common",
+    "size": 8064,
+    "language": "XProc"
+  },
+  {
+    "url": "https://github.com/X-Friese/FlyWithLua",
+    "size": 36771,
+    "language": "XProc"
+  },
+  {
+    "url": "https://github.com/Nikolaus/ZAMG_Antelope",
+    "size": 11992,
+    "language": "XProc"
+  },
+  {
+    "url": "https://github.com/giseislab/AVOSEIS",
+    "size": 5559,
+    "language": "XProc"
+  },
+  {
+    "url": "https://github.com/neumanrq/spielplatz",
+    "size": 184,
+    "language": "XProc"
+  },
+  {
+    "url": "https://github.com/xproc/test-suite",
+    "size": 913,
+    "language": "XProc"
+  },
+  {
+    "url": "https://github.com/taco24/mpd",
+    "size": 588,
+    "language": "XProc"
+  }
+]

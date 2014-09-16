@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/NixOS/nixpkgs",
+    "size": 244089,
+    "language": "Nix"
+  },
+  {
+    "url": "https://github.com/zefhemel/nix-docker",
+    "size": 348,
+    "language": "Nix"
+  },
+  {
+    "url": "https://github.com/jwiegley/hnix",
+    "size": 889,
+    "language": "Nix"
+  },
+  {
+    "url": "https://github.com/bluescreen303/bluenix",
+    "size": 2383,
+    "language": "Nix"
+  },
+  {
+    "url": "https://github.com/Fuuzetsu/nix-project-defaults",
+    "size": 945,
+    "language": "Nix"
+  },
+  {
+    "url": "https://github.com/haskell-infra/auron",
+    "size": 596,
+    "language": "Nix"
+  },
+  {
+    "url": "https://github.com/jwiegley/nix-config",
+    "size": 210,
+    "language": "Nix"
+  },
+  {
+    "url": "https://github.com/headcounter/deployment",
+    "size": 604,
+    "language": "Nix"
+  },
+  {
+    "url": "https://github.com/edwtjo/nixcfgs",
+    "size": 376,
+    "language": "Nix"
+  },
+  {
+    "url": "https://github.com/oxdi/nixos",
+    "size": 154,
+    "language": "Nix"
+  },
+  {
+    "url": "https://github.com/bodil/nixcfg",
+    "size": 140,
+    "language": "Nix"
+  },
+  {
+    "url": "https://github.com/aszlig/vuizvui",
+    "size": 869,
+    "language": "Nix"
+  },
+  {
+    "url": "https://github.com/NixOS/nixos-org-configurations",
+    "size": 1213,
+    "language": "Nix"
+  },
+  {
+    "url": "https://github.com/coreyoconnor/nix_configs",
+    "size": 1419,
+    "language": "Nix"
+  },
+  {
+    "url": "https://github.com/huit/puppet-splunk",
+    "size": 906,
+    "language": "Nix"
+  },
+  {
+    "url": "https://github.com/kiberpipa/nix-rehash",
+    "size": 412,
+    "language": "Nix"
+  },
+  {
+    "url": "https://github.com/svanderburg/disnixos",
+    "size": 551,
+    "language": "Nix"
+  },
+  {
+    "url": "https://github.com/wavewave/hep-nix-overlay",
+    "size": 1279,
+    "language": "Nix"
+  },
+  {
+    "url": "https://github.com/matejc/nixui",
+    "size": 3356,
+    "language": "Nix"
+  },
+  {
+    "url": "https://github.com/aristidb/dotfiles",
+    "size": 1678,
+    "language": "Nix"
+  }
+]

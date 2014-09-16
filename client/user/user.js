@@ -1,71 +1,71 @@
-angular.module('githubscout.user', [])
+var userapp = angular.module('githubscout.user', ['ui.router','nvd3ChartDirectives'])
 
-.controller('UserController', ['$scope','$http', 'UserData', function($scope, $http, UserData) {
-	$scope.user = {}
+userapp.controller('UserController', ['$scope', 'UserData', 'UserSearch', 'UserDateandCommits','UserLanguagesandCommits','UserCompareRescaleBar',function($scope, UserData, UserSearch, UserDateandCommits,UserLanguagesandCommits,UserCompareRescaleBar) {
+  $scope.userdata ={};
+  $scope.username = UserData.username
+  $scope.userdata.data = UserData.rawDataCommitsByLanguage
 
-	// These are temporary, just to make sure we get the data, but we should do something more interesting with it in the future!
-	$scope.user.rawDataCommitCount = UserData.rawDataCommitCount;
-	$scope.user.rawDataCommitsByLanguage = UserData.rawDataCommitsByLanguage
+  var getCompareRescaleBar = function(firstUserData,secondUserData){
+    return UserCompareRescaleBar.getCompareRescaleBar($scope.userDateandCommits, secondUserData)
+  }
+
+  var getdateandCommits = function(data){
+    return UserDateandCommits.getdateandCommits(data)
+  }
+
+  var getUserCommitsperLanganguage = function(data){
+    return UserLanguagesandCommits.getUserCommitsperLanganguage(data)
+  }
+
+  $scope.userDateandCommits = getdateandCommits($scope.userdata.data).reverse()
+
+  // Data for first user bar chart.
+  $scope.commitsbyDateData =[{
+    key : $scope.username,
+    values : $scope.userDateandCommits
+  }];
+
+  // Data for first user pie chart.
+  $scope.commitsperLangugageData = getUserCommitsperLanganguage($scope.userdata.data)
+
+  // Function grabs second user's data from compare user input to compare with first user on same commits over time chart AND to display second pie chart.
+  $scope.addUser = function () {
+
+    // This will add a header for the second pie chart.
+    $scope.items = {title: 'GitHub User '+ $scope.userdata.nextUsername + ' Commits By Langauges'}
+
+    UserSearch.getUserCommitsByLanguage({username: $scope.userdata.nextUsername})
+      .then(function (data) {
+        var secondUserDateandCommits = getdateandCommits(data).reverse()
+        var combinedNewandOldUserDatesData = getCompareRescaleBar($scope.userDateandCommits, secondUserDateandCommits)
+
+        // Data for first AND second user bar chart.
+        $scope.commitsbyDateData =
+          [{
+           key: $scope.username,
+           values: combinedNewandOldUserDatesData
+          },
+          {
+            key: $scope.userdata.nextUsername,
+            values: secondUserDateandCommits
+          }];
+
+        //gets data for second user's commits by language, which is displayed as a pie chart.
+        $scope.commitsperLangugageDataUser2 = getUserCommitsperLanganguage(data)
+
+      })
+  }
+
+  //Function that allows nvd3 and d3 to access x values from the ‘data’.
+  $scope.xFunction = function() {
+    return function(d) {
+      return d.language;
+    };
+  }
+  //Function that allows nvd3 and d3 to access y values from the ‘data’.
+  $scope.yFunction = function() {
+    return function(d) {
+      return d.count;
+    };
+  }
 }]);
-
-
-
-
-
-
-	// d3.json("data.json",function(data){
-	// 	var width = 1000;
-	//     var height =480;
-	//     var canvas = d3.select("body").append("svg")
-	// 	              .attr('width',width)
-	// 	              .attr('height',height)
-	// 	              .append('g')
-	// 	              .attr('transform','translate(150,-30)')
-
-	// 	canvas.append('text')
-	// 	        .attr("x", (width / 2))
-	// 	        .attr("y", 150)
-	// 	        .attr("text-anchor", "middle")
-	// 	        .style("font-size", "30px")
-	// 	        .style("text-decoration", "underline")
-	// 	        .text("Users Commit Data");
-
-
-	//            canvas.selectAll('rect')
-	//               .data(data)
-	//               .enter()
-	//                  .append('rect')
-	//                  .attr('height',function(d){return ((d.population/2.6)*0.365)*0.584/10000 })
-	//                  .attr('width',30)
-	//                  .attr('y',function(d){ return height-((d.population/2.6)*0.365)*0.584/10000 })
-	//                  .attr("x",function(d,i){return i*100 })
-	//                  .attr('fill','blue')
-
-	//             canvas.selectAll('text')
-	//                  .data(data)
-	//                  .enter()
-	//                  .append('text')
-	//                  .text(function(d){return Math.floor(((d.population/2.6)*0.365)*0.584)})
-	//                  .attr('x',function(d,i){
-	//                  	return i * (width/data.length)
-	//                  })
-	//                  .attr('y',function(d){
-	//                  	return height - (((d.population/2.6)*0.365)*0.584/10000)*1.05
-	//                  })
-
-	//         var x = d3.scale.linear()
-	//            .range([0,width/1.084])
-	//            .domain([0,data.length-1]);
-
-	//         var xAxis = d3.svg.axis()
-	//             .scale(x)
-	//             .tickFormat(function(d) { return data[d].county })
-	//             .orient("bottom");
-
-	//          canvas.append('g')
- //                .attr('transform','translate(0,' + height + ')')
-	//             .call(xAxis)
-
-
-	// })
-

@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/jakubroztocil/httpie",
+    "size": 5080,
+    "language": "Python"
+  },
+  {
+    "url": "https://github.com/django/django",
+    "size": 242655,
+    "language": "Python"
+  },
+  {
+    "url": "https://github.com/kennethreitz/requests",
+    "size": 14805,
+    "language": "Python"
+  },
+  {
+    "url": "https://github.com/mitsuhiko/flask",
+    "size": 13925,
+    "language": "Python"
+  },
+  {
+    "url": "https://github.com/tornadoweb/tornado",
+    "size": 18859,
+    "language": "Python"
+  },
+  {
+    "url": "https://github.com/ansible/ansible",
+    "size": 174626,
+    "language": "Python"
+  },
+  {
+    "url": "https://github.com/numbbbbb/the-swift-programming-language-in-chinese",
+    "size": 28934,
+    "language": "Python"
+  },
+  {
+    "url": "https://github.com/vinta/awesome-python",
+    "size": 5686,
+    "language": "Python"
+  },
+  {
+    "url": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+    "size": 73562,
+    "language": "Python"
+  },
+  {
+    "url": "https://github.com/reddit/reddit",
+    "size": 47896,
+    "language": "Python"
+  },
+  {
+    "url": "https://github.com/karan/Projects",
+    "size": 2608,
+    "language": "Python"
+  },
+  {
+    "url": "https://github.com/kennethreitz/python-guide",
+    "size": 3893,
+    "language": "Python"
+  },
+  {
+    "url": "https://github.com/scrapy/scrapy",
+    "size": 29654,
+    "language": "Python"
+  },
+  {
+    "url": "https://github.com/getsentry/sentry",
+    "size": 54531,
+    "language": "Python"
+  },
+  {
+    "url": "https://github.com/Valloric/YouCompleteMe",
+    "size": 41509,
+    "language": "Python"
+  },
+  {
+    "url": "https://github.com/rg3/youtube-dl",
+    "size": 59999,
+    "language": "Python"
+  },
+  {
+    "url": "https://github.com/ipython/ipython",
+    "size": 119187,
+    "language": "Python"
+  },
+  {
+    "url": "https://github.com/pagekite/Mailpile",
+    "size": 36247,
+    "language": "Python"
+  },
+  {
+    "url": "https://github.com/apenwarr/sshuttle",
+    "size": 881,
+    "language": "Python"
+  },
+  {
+    "url": "https://github.com/boto/boto",
+    "size": 40525,
+    "language": "Python"
+  }
+]

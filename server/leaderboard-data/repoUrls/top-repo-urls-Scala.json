@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/PredictionIO/PredictionIO",
+    "size": 14948,
+    "language": "Scala"
+  },
+  {
+    "url": "https://github.com/playframework/playframework",
+    "size": 145346,
+    "language": "Scala"
+  },
+  {
+    "url": "https://github.com/takezoe/gitbucket",
+    "size": 21966,
+    "language": "Scala"
+  },
+  {
+    "url": "https://github.com/akka/akka",
+    "size": 228495,
+    "language": "Scala"
+  },
+  {
+    "url": "https://github.com/scala/scala",
+    "size": 180877,
+    "language": "Scala"
+  },
+  {
+    "url": "https://github.com/twitter/finagle",
+    "size": 25750,
+    "language": "Scala"
+  },
+  {
+    "url": "https://github.com/twitter/kestrel",
+    "size": 117306,
+    "language": "Scala"
+  },
+  {
+    "url": "https://github.com/lhartikk/ArnoldC",
+    "size": 1291,
+    "language": "Scala"
+  },
+  {
+    "url": "https://github.com/twitter/flockdb",
+    "size": 5458,
+    "language": "Scala"
+  },
+  {
+    "url": "https://github.com/wordnik/swagger-core",
+    "size": 20408,
+    "language": "Scala"
+  },
+  {
+    "url": "https://github.com/twitter/zipkin",
+    "size": 10222,
+    "language": "Scala"
+  },
+  {
+    "url": "https://github.com/sbt/sbt",
+    "size": 63417,
+    "language": "Scala"
+  },
+  {
+    "url": "https://github.com/twitter/snowflake",
+    "size": 5265,
+    "language": "Scala"
+  },
+  {
+    "url": "https://github.com/twitter/gizzard",
+    "size": 5284,
+    "language": "Scala"
+  },
+  {
+    "url": "https://github.com/twitter/scalding",
+    "size": 27873,
+    "language": "Scala"
+  },
+  {
+    "url": "https://github.com/MojoJolo/textteaser",
+    "size": 397,
+    "language": "Scala"
+  },
+  {
+    "url": "https://github.com/spray/spray",
+    "size": 34606,
+    "language": "Scala"
+  },
+  {
+    "url": "https://github.com/twitter/scala_school",
+    "size": 92173,
+    "language": "Scala"
+  },
+  {
+    "url": "https://github.com/scalaz/scalaz",
+    "size": 108300,
+    "language": "Scala"
+  },
+  {
+    "url": "https://github.com/mesos/spark",
+    "size": 72924,
+    "language": "Scala"
+  }
+]

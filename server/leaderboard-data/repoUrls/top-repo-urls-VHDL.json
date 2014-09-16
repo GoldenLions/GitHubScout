@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/progranism/Open-Source-FPGA-Bitcoin-Miner",
+    "size": 9382,
+    "language": "VHDL"
+  },
+  {
+    "url": "https://github.com/asicguy/gplgpu",
+    "size": 71428,
+    "language": "VHDL"
+  },
+  {
+    "url": "https://github.com/inforichland/yafc",
+    "size": 586,
+    "language": "VHDL"
+  },
+  {
+    "url": "https://github.com/alvieboy/ZPUino-HDL",
+    "size": 37209,
+    "language": "VHDL"
+  },
+  {
+    "url": "https://github.com/GadgetFactory/Arduino-Soft-Core",
+    "size": 24699,
+    "language": "VHDL"
+  },
+  {
+    "url": "https://github.com/martinjthompson/libv",
+    "size": 128,
+    "language": "VHDL"
+  },
+  {
+    "url": "https://github.com/yangsu/sublime-vhdl",
+    "size": 258,
+    "language": "VHDL"
+  },
+  {
+    "url": "https://github.com/timvideos/HDMI2USB",
+    "size": 70735,
+    "language": "VHDL"
+  },
+  {
+    "url": "https://github.com/stiggy87/ZynqBTC",
+    "size": 2793,
+    "language": "VHDL"
+  },
+  {
+    "url": "https://github.com/xesscorp/XuLA2",
+    "size": 12483,
+    "language": "VHDL"
+  },
+  {
+    "url": "https://github.com/jpiat/hard-cv",
+    "size": 459,
+    "language": "VHDL"
+  },
+  {
+    "url": "https://github.com/xesscorp/FpgasNowWhat",
+    "size": 75686,
+    "language": "VHDL"
+  },
+  {
+    "url": "https://github.com/jeuneS2/lemberg",
+    "size": 49997,
+    "language": "VHDL"
+  },
+  {
+    "url": "https://github.com/GadgetFactory/Papilio-Arcade",
+    "size": 11799,
+    "language": "VHDL"
+  },
+  {
+    "url": "https://github.com/zdavkeos/whirlyfly",
+    "size": 774,
+    "language": "VHDL"
+  },
+  {
+    "url": "https://github.com/xesscorp/XuLA",
+    "size": 21343,
+    "language": "VHDL"
+  },
+  {
+    "url": "https://github.com/pmumby/hashvoodoo-fpga-bitcoin-miner",
+    "size": 150502,
+    "language": "VHDL"
+  },
+  {
+    "url": "https://github.com/andygikling/BBot",
+    "size": 121626,
+    "language": "VHDL"
+  },
+  {
+    "url": "https://github.com/chenxiao07/vhdl-nes",
+    "size": 2907,
+    "language": "VHDL"
+  },
+  {
+    "url": "https://github.com/blockmon/blockmon",
+    "size": 9742,
+    "language": "VHDL"
+  }
+]

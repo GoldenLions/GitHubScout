@@ -1,5 +1,63 @@
-<div ng-controller="UserController">
-  <h1>User View</h1>
-  {{user.rawDataCommitCount}}
-  {{user.rawDataCommitsByLanguage}}
+<div class="user">
+  <header class="one-whole clear-after">
+    <h1 class="float-left">Github Statistics for {{username}}</h1>
+    <div class="float-right">
+      <h3 class="float-left">Compare another User: </h3>
+      <form ng-submit='addUser();' ng-click="newDiv()" class='fx-fade-normal float-right'>
+        <input type ='text' ng-model='userdata.nextUsername' placeholder = 'Enter username'>
+        <input type='submit' value='Search' >
+      </form>
+    </div>
+  </header>
+
+  <div class="row">
+    <h2>GitHub User Commits Over Time</h2>
+    <nvd3-multi-bar-chart
+      data="commitsbyDateData"
+      id="commitsbyDateDataId"
+      height="400"
+      showXAxis="true"
+      showYAxis="true"
+      showLegend="true"
+      rotateLabels="-45">
+      <svg></svg>
+      </nvd3-multi-bar-chart>
+  </div>
+
+  <div class="row">
+    <h2><b>GitHub User {{username}} Commits By Langauges</b></h2>
+
+    <nvd3-pie-chart
+      data="commitsperLangugageData"
+      id="exampleId1"
+      x="xFunction()"
+      y="yFunction()"
+      width="500"
+      height="500"
+      showLabels="true"
+      pieLabelsOutside="true"
+      showValues="true"
+       >
+      <svg></svg>
+    </nvd3-pie-chart>
+  </div>
+
+
+  <div class="row">
+    <h2><b>{{items.title}}</b></h2>
+    <nvd3-pie-chart
+      data="commitsperLangugageDataUser2"
+      id="piechart2"
+      x="xFunction()"
+      y="yFunction()"
+      width="500"
+      height="500"
+      showLabels="true"
+      pieLabelsOutside="true"
+      labelType="key"
+       >
+      <svg ></svg>
+    </nvd3-pie-chart>
+  </div>
+
 </div>

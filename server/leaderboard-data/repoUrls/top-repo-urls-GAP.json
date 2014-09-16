@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/reprappro/Mendel",
+    "size": 193987,
+    "language": "GAP"
+  },
+  {
+    "url": "https://github.com/reprappro/RepRapFirmware",
+    "size": 23231,
+    "language": "GAP"
+  },
+  {
+    "url": "https://github.com/reprappro/Ormerod",
+    "size": 323454,
+    "language": "GAP"
+  },
+  {
+    "url": "https://github.com/MakerGear/M2",
+    "size": 29099,
+    "language": "GAP"
+  },
+  {
+    "url": "https://github.com/gahansen/Albany",
+    "size": 553140,
+    "language": "GAP"
+  },
+  {
+    "url": "https://github.com/neunhoef/io",
+    "size": 1443,
+    "language": "GAP"
+  },
+  {
+    "url": "https://github.com/homalg-project/ToolsForHomalg",
+    "size": 5254,
+    "language": "GAP"
+  },
+  {
+    "url": "https://github.com/homalg-project/RingsForHomalg",
+    "size": 3624,
+    "language": "GAP"
+  },
+  {
+    "url": "https://github.com/homalg-project/MatricesForHomalg",
+    "size": 5425,
+    "language": "GAP"
+  },
+  {
+    "url": "https://github.com/dmcc/bllip-parser",
+    "size": 50160,
+    "language": "GAP"
+  },
+  {
+    "url": "https://github.com/homalg-project/AutoDoc",
+    "size": 1310,
+    "language": "GAP"
+  },
+  {
+    "url": "https://github.com/homalg-project/Modules",
+    "size": 5975,
+    "language": "GAP"
+  },
+  {
+    "url": "https://github.com/homalg-project/GradedModules",
+    "size": 1551,
+    "language": "GAP"
+  },
+  {
+    "url": "https://github.com/homalg-project/GradedRingForHomalg",
+    "size": 548,
+    "language": "GAP"
+  },
+  {
+    "url": "https://github.com/Qwertie-/Godot-games",
+    "size": 504,
+    "language": "GAP"
+  },
+  {
+    "url": "https://github.com/kwikius/quantracker",
+    "size": 13396,
+    "language": "GAP"
+  },
+  {
+    "url": "https://github.com/homalg-project/LocalizeRingForHomalg",
+    "size": 478,
+    "language": "GAP"
+  },
+  {
+    "url": "https://github.com/homalg-project/Sheaves",
+    "size": 782,
+    "language": "GAP"
+  },
+  {
+    "url": "https://github.com/homalg-project/D-Modules",
+    "size": 325,
+    "language": "GAP"
+  },
+  {
+    "url": "https://github.com/mschlund/FPsolve",
+    "size": 25097,
+    "language": "GAP"
+  }
+]

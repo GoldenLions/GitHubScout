@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/docker/docker",
+    "size": 135739,
+    "language": "Go"
+  },
+  {
+    "url": "https://github.com/limetext/lime",
+    "size": 7428,
+    "language": "Go"
+  },
+  {
+    "url": "https://github.com/go-martini/martini",
+    "size": 2890,
+    "language": "Go"
+  },
+  {
+    "url": "https://github.com/google/cayley",
+    "size": 22850,
+    "language": "Go"
+  },
+  {
+    "url": "https://github.com/syncthing/syncthing",
+    "size": 37276,
+    "language": "Go"
+  },
+  {
+    "url": "https://github.com/astaxie/build-web-application-with-golang",
+    "size": 21381,
+    "language": "Go"
+  },
+  {
+    "url": "https://github.com/coreos/etcd",
+    "size": 20975,
+    "language": "Go"
+  },
+  {
+    "url": "https://github.com/gogits/gogs",
+    "size": 20022,
+    "language": "Go"
+  },
+  {
+    "url": "https://github.com/revel/revel",
+    "size": 10817,
+    "language": "Go"
+  },
+  {
+    "url": "https://github.com/GoogleCloudPlatform/kubernetes",
+    "size": 27892,
+    "language": "Go"
+  },
+  {
+    "url": "https://github.com/joewalnes/websocketd",
+    "size": 3961,
+    "language": "Go"
+  },
+  {
+    "url": "https://github.com/bitly/nsq",
+    "size": 10331,
+    "language": "Go"
+  },
+  {
+    "url": "https://github.com/inconshreveable/ngrok",
+    "size": 2091,
+    "language": "Go"
+  },
+  {
+    "url": "https://github.com/golang/groupcache",
+    "size": 416,
+    "language": "Go"
+  },
+  {
+    "url": "https://github.com/mitchellh/packer",
+    "size": 20412,
+    "language": "Go"
+  },
+  {
+    "url": "https://github.com/astaxie/beego",
+    "size": 11850,
+    "language": "Go"
+  },
+  {
+    "url": "https://github.com/influxdb/influxdb",
+    "size": 20428,
+    "language": "Go"
+  },
+  {
+    "url": "https://github.com/dinedal/textql",
+    "size": 908,
+    "language": "Go"
+  },
+  {
+    "url": "https://github.com/burke/zeus",
+    "size": 3317,
+    "language": "Go"
+  },
+  {
+    "url": "https://github.com/hashicorp/serf",
+    "size": 6650,
+    "language": "Go"
+  }
+]

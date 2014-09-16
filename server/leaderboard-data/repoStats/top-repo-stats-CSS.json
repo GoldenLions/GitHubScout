@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/twbs/bootstrap",
+    "size": 157454,
+    "language": "CSS",
+    "commits": "9,940",
+    "stars": "71,615",
+    "forks": "26,766",
+    "contributors": "579"
+  },
+  {
+    "url": "https://github.com/FortAwesome/Font-Awesome",
+    "size": 24650,
+    "language": "CSS",
+    "commits": "646",
+    "stars": "26,491",
+    "forks": "3,732",
+    "contributors": "32"
+  },
+  {
+    "url": "https://github.com/zurb/foundation",
+    "size": 140095,
+    "language": "CSS",
+    "commits": "7,625",
+    "stars": "17,887",
+    "forks": "3,911",
+    "contributors": "559"
+  },
+  {
+    "url": "https://github.com/daneden/animate.css",
+    "size": 1795,
+    "language": "CSS",
+    "commits": "216",
+    "stars": "15,614",
+    "forks": "3,353",
+    "contributors": "30"
+  },
+  {
+    "url": "https://github.com/necolas/normalize.css",
+    "size": 3123,
+    "language": "CSS",
+    "commits": "223",
+    "stars": "13,600",
+    "forks": "2,889",
+    "contributors": "12"
+  },
+  {
+    "url": "https://github.com/octocat/Spoon-Knife",
+    "size": 18839,
+    "language": "CSS",
+    "commits": "3",
+    "stars": "9,782",
+    "forks": "34,304",
+    "contributors": "1"
+  },
+  {
+    "url": "https://github.com/twbs/ratchet",
+    "size": 24768,
+    "language": "CSS",
+    "commits": "1,238",
+    "stars": "9,669",
+    "forks": "974",
+    "contributors": "40"
+  },
+  {
+    "url": "https://github.com/yahoo/pure",
+    "size": 2319,
+    "language": "CSS",
+    "commits": "399",
+    "stars": "9,169",
+    "forks": "1,172",
+    "contributors": "23"
+  },
+  {
+    "url": "https://github.com/h5bp/Effeckt.css",
+    "size": 4512,
+    "language": "CSS",
+    "commits": "408",
+    "stars": "8,864",
+    "forks": "1,284",
+    "contributors": "33"
+  },
+  {
+    "url": "https://github.com/designmodo/Flat-UI",
+    "size": 32385,
+    "language": "CSS",
+    "commits": "161",
+    "stars": "8,104",
+    "forks": "1,523",
+    "contributors": "14"
+  },
+  {
+    "url": "https://github.com/google/web-starter-kit",
+    "size": 14950,
+    "language": "CSS",
+    "commits": "491",
+    "stars": "7,358",
+    "forks": "923",
+    "contributors": "44"
+  },
+  {
+    "url": "https://github.com/twbs/bootstrap-sass",
+    "size": 7806,
+    "language": "CSS",
+    "commits": "789",
+    "stars": "7,322",
+    "forks": "1,516",
+    "contributors": "84"
+  },
+  {
+    "url": "https://github.com/sahat/hackathon-starter",
+    "size": 11621,
+    "language": "CSS",
+    "commits": "1,340",
+    "stars": "7,283",
+    "forks": "932",
+    "contributors": "43"
+  },
+  {
+    "url": "https://github.com/chriskempson/tomorrow-theme",
+    "size": 4674,
+    "language": "CSS",
+    "commits": "399",
+    "stars": "6,899",
+    "forks": "1,498",
+    "contributors": "95"
+  },
+  {
+    "url": "https://github.com/interagent/http-api-design",
+    "size": 785,
+    "language": "CSS",
+    "commits": "46",
+    "stars": "6,831",
+    "forks": "451",
+    "contributors": "16"
+  },
+  {
+    "url": "https://github.com/gabrielecirulli/2048",
+    "size": 14772,
+    "language": "CSS",
+    "commits": "160",
+    "stars": "6,246",
+    "forks": "10,475",
+    "contributors": "21"
+  },
+  {
+    "url": "https://github.com/HubSpot/pace",
+    "size": 3033,
+    "language": "CSS",
+    "commits": "304",
+    "stars": "6,087",
+    "forks": "630",
+    "contributors": "12"
+  },
+  {
+    "url": "https://github.com/Compass/compass",
+    "size": 36209,
+    "language": "CSS",
+    "commits": "3,521",
+    "stars": "5,768",
+    "forks": "1,097",
+    "contributors": "198"
+  },
+  {
+    "url": "https://github.com/afaqurk/linux-dash",
+    "size": 4924,
+    "language": "CSS",
+    "commits": "358",
+    "stars": "5,377",
+    "forks": "534",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/HubSpot/offline",
+    "size": 2807,
+    "language": "CSS",
+    "commits": "235",
+    "stars": "5,365",
+    "forks": "383",
+    "contributors": "10"
+  }
+]

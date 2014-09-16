@@ -1,0 +1,402 @@
+[
+  {
+    "url": "https://github.com/torvalds",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/mojombo",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/defunkt",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/paulirish",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/visionmedia",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/schacon",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/addyosmani",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/jeresig",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/pjhyett",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/douglascrockford",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/JakeWharton",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/mattt",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/jashkenas",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/mbostock",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/ryanb",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/dhh",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/mdo",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/kennethreitz",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/wycats",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/jlord",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/tekkub",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/tpope",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/substack",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/mrdoob",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/LeaVerou",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/hakimel",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/fat",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/fabpot",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/ry",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/yinwang0",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/mitsuhiko",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/holman",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/isaacs",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/tenderlove",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/sindresorhus",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/chriscoyier",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/cloudwu",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/JeffreyWay",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/charliesome",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/lifesinger",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/igrigorik",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/josevalim",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/necolas",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/maccman",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/BYVoid",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/commonsguy",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/cloudhead",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/muan",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/JacksonTian",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/remy",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/antirez",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/creationix",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/desandro",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/vim-scripts",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/nzakas",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/koush",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/sstephenson",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/matz",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/taylorotwell",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/cyanogen",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/agentzh",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/guille",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/soffes",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/maxogden",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/sebastianbergmann",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/technoweenie",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/philsturgeon",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/chrisbanes",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/hadley",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/mathiasbynens",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/zenorocha",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/cowboy",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/csswizardry",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/ibdknox",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/nathanmarz",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/madrobby",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/benbalter",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/mitchellh",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/leah",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/richhickey",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/steveklabnik",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/ginatrapani",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/astaxie",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/erica",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/steipete",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/pkrumins",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/sofish",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/laruence",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/bradfitz",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/zedshaw",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/rtomayko",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/blueimp",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/romannurik",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/felixge",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/garybernhardt",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/nicklockwood",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/btford",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/ccoenraets",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/miyagawa",
+    "language": "Modelica"
+  },
+  {
+    "url": "https://github.com/progrium",
+    "language": "Modelica"
+  }
+]

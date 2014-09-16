@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/ceylon/ceylon-sdk",
+    "size": 10360,
+    "language": "Ceylon"
+  },
+  {
+    "url": "https://github.com/vietj/ceylon-cayla",
+    "size": 608,
+    "language": "Ceylon"
+  },
+  {
+    "url": "https://github.com/renatoathaydes/CeylonFX",
+    "size": 4565,
+    "language": "Ceylon"
+  },
+  {
+    "url": "https://github.com/ceylon/ceylon.build",
+    "size": 1717,
+    "language": "Ceylon"
+  },
+  {
+    "url": "https://github.com/ceylon/ceylon.formatter",
+    "size": 6065,
+    "language": "Ceylon"
+  },
+  {
+    "url": "https://github.com/vietj/ceylon-promises",
+    "size": 362,
+    "language": "Ceylon"
+  },
+  {
+    "url": "https://github.com/ceylon/ceylon-examples",
+    "size": 173,
+    "language": "Ceylon"
+  },
+  {
+    "url": "https://github.com/vietj/ceylon-vertx",
+    "size": 875,
+    "language": "Ceylon"
+  },
+  {
+    "url": "https://github.com/dgwave/lahore",
+    "size": 1068,
+    "language": "Ceylon"
+  },
+  {
+    "url": "https://github.com/ceylon/ceylon.ast",
+    "size": 3525,
+    "language": "Ceylon"
+  },
+  {
+    "url": "https://github.com/luolong/ceylon.time",
+    "size": 553,
+    "language": "Ceylon"
+  },
+  {
+    "url": "https://github.com/drochetti/ceylon-style",
+    "size": 212,
+    "language": "Ceylon"
+  },
+  {
+    "url": "https://github.com/gavinking/ceylon-walkthrough",
+    "size": 392,
+    "language": "Ceylon"
+  },
+  {
+    "url": "https://github.com/davidfestal/cameleon",
+    "size": 152,
+    "language": "Ceylon"
+  },
+  {
+    "url": "https://github.com/drochetti/ceylon-html",
+    "size": 165,
+    "language": "Ceylon"
+  },
+  {
+    "url": "https://github.com/corbinu/ceylon-js-interop",
+    "size": 1204,
+    "language": "Ceylon"
+  },
+  {
+    "url": "https://github.com/dc2f/dstore",
+    "size": 2440,
+    "language": "Ceylon"
+  },
+  {
+    "url": "https://github.com/quintesse/ceylon-tako-sdk",
+    "size": 200,
+    "language": "Ceylon"
+  },
+  {
+    "url": "https://github.com/HenningB/ceylon.ant",
+    "size": 335,
+    "language": "Ceylon"
+  },
+  {
+    "url": "https://github.com/jpragey/matcher4cl",
+    "size": 399,
+    "language": "Ceylon"
+  }
+]

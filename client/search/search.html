@@ -1,8 +1,19 @@
-<form ng-submit='searchUser()'>
-  <input type ='text' ng-model='input.username'>
-  <input type='submit' value='search for a user' >
-</form>
-<form method='POST' action='/'>
-  <input type ='text' value = 'enter language'/>
-  <input type='submit' value='search languages' />
-</form>
+<div class="search clear-after">
+	<div class="float-left">
+		<button class="button-left" ng-class="showUser ? '' : 'selected'" ng-click="showLanguage = false; showUser = false;">User Search</button>
+		<button class="button-right" ng-class="showLanguage ? 'selected' : ''" ng-click="showLanguage = true; showUser = true">Language Search</button>
+	</div>
+	<div class="float-right">
+		<form ng-submit='searchUser()' ng-hide="showUser" class='fx-fade-normal'>
+		  <input type ='text' ng-model='input.username' placeholder = 'Enter username'>
+		  <input type='submit'  value='Search' >
+		</form>
+		<form ng-submit='searchLanguage()' ng-show="showLanguage" class='fx-fade-normal'>
+		  <select ng-model='input.language' ng-options="language for language in input.languageList" placeholder='Enter language'>
+		  	<option value="">Choose a Language</option>
+		  </select>
+		  <input ng-hide="loading" type='submit' value='Search' />
+		</form>
+		<img src="../styles/loader.gif" ng-show="loading" class="loading" />
+	</div>
+</div>

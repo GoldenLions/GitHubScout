@@ -1,4 +1,62 @@
-<div ng-controller="HomeController">
-  <h1>Home View</h1>
+<script scr="./assets/countries.json"></script>
+<div class="home">
+    <header class="center">
+      <h1>"With Github Scout, you'll never see Github the same again."</h1>
+      <h2>- Mike Lam, CEO</h2>
+    </header>
+
+    <div class="row">
+        <h2>Top 10 Languages Across Github</h2>
+        <nvd3-stacked-area-chart
+                data="topLanguages"
+                id="topLanguages"
+                height="400"
+                showXAxis="true"
+                showYAxis="true"
+                tooltips="true"
+                interactive="true"
+                useInteractiveGuideline="true"
+                toolTipContent="toolTipContentFunction()"
+                xAxisTickFormat="xAxisTickFormat()"
+                margin="{left: 120}"
+                showLegend="true"
+                >
+            <svg></svg>
+        </nvd3-stacked-area-chart>
+    </div>
+
+    <div class="row">
+        <h2>All Languages</h2>
+        <nvd3-multi-bar-horizontal-chart
+                data="allLanguages"
+                id="allLanguages"
+                showXAxis="true"
+                showYAxis="true"
+                height="2000"
+                margin="{left: 120}"
+                >
+            <svg></svg>
+        </nvd3-multi-bar-horizontal-chart>
+    </div>
+
+    <div class="row">
+        <h1>Top 20 Countries by Activity</h1>
+        <nvd3-multi-bar-horizontal-chart
+                data="allCountries"
+                id="allCountries"
+                showXAxis="true"
+                showYAxis="true"
+                height="700"
+                margin="{left: 120}"
+                margin="{left: 120}"
+                tooltips="true"
+                >
+            <svg></svg>
+        </nvd3-multi-bar-horizontal-chart>
+    </div>
+
+    <div language-map></div>
+
+
 </div>
 

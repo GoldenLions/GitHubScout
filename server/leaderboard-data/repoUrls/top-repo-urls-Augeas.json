@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/hercules-team/augeas",
+    "size": 11266,
+    "language": "Augeas"
+  },
+  {
+    "url": "https://github.com/saz/puppet-sudo",
+    "size": 961,
+    "language": "Augeas"
+  },
+  {
+    "url": "https://github.com/hercules-team/augeas-do-not-use",
+    "size": 7617,
+    "language": "Augeas"
+  },
+  {
+    "url": "https://github.com/camptocamp/puppet-haproxy_c2c",
+    "size": 146,
+    "language": "Augeas"
+  },
+  {
+    "url": "https://github.com/camptocamp/puppet-cups",
+    "size": 177,
+    "language": "Augeas"
+  },
+  {
+    "url": "https://github.com/mjhas/dovecot",
+    "size": 675,
+    "language": "Augeas"
+  },
+  {
+    "url": "https://github.com/rodjek/puppet-haproxy",
+    "size": 128,
+    "language": "Augeas"
+  },
+  {
+    "url": "https://github.com/raphink/config-augeas-validator",
+    "size": 282,
+    "language": "Augeas"
+  },
+  {
+    "url": "https://github.com/iElectric/augeas_bacula",
+    "size": 144,
+    "language": "Augeas"
+  },
+  {
+    "url": "https://github.com/wanderingbort/augeas-trafficserver",
+    "size": 100,
+    "language": "Augeas"
+  },
+  {
+    "url": "https://github.com/prelegalwonder/qpid_fabric",
+    "size": 104,
+    "language": "Augeas"
+  },
+  {
+    "url": "https://github.com/jjulien/augeas-gitolite",
+    "size": 256,
+    "language": "Augeas"
+  },
+  {
+    "url": "https://github.com/stepanstipl/augeas-ceph",
+    "size": 112,
+    "language": "Augeas"
+  },
+  {
+    "url": "https://github.com/AlexNovitsky/augeas-lenses-netctl",
+    "size": 148,
+    "language": "Augeas"
+  },
+  {
+    "url": "https://github.com/pennycoders/puppet-dovecot",
+    "size": 156,
+    "language": "Augeas"
+  },
+  {
+    "url": "https://github.com/roidelapluie/augeas-poc",
+    "size": 136,
+    "language": "Augeas"
+  },
+  {
+    "url": "https://github.com/damonconway/augeas",
+    "size": 144,
+    "language": "Augeas"
+  },
+  {
+    "url": "https://github.com/sebnow/augeas-cjdns",
+    "size": 104,
+    "language": "Augeas"
+  },
+  {
+    "url": "https://github.com/ScottWales/base-vm",
+    "size": 504,
+    "language": "Augeas"
+  },
+  {
+    "url": "https://github.com/openescalar/puppet-augeas-module",
+    "size": 136,
+    "language": "Augeas"
+  }
+]

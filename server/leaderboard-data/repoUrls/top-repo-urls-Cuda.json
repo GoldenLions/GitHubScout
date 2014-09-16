@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/antonmks/Alenka",
+    "size": 44622,
+    "language": "Cuda"
+  },
+  {
+    "url": "https://github.com/NVlabs/moderngpu",
+    "size": 5728,
+    "language": "Cuda"
+  },
+  {
+    "url": "https://github.com/TorontoDeepLearning/convnet",
+    "size": 16120,
+    "language": "Cuda"
+  },
+  {
+    "url": "https://github.com/udacity/cs344",
+    "size": 64439,
+    "language": "Cuda"
+  },
+  {
+    "url": "https://github.com/deeplearningais/CUV",
+    "size": 5734,
+    "language": "Cuda"
+  },
+  {
+    "url": "https://github.com/soumith/convnet-benchmarks",
+    "size": 1183,
+    "language": "Cuda"
+  },
+  {
+    "url": "https://github.com/dnouri/cuda-convnet",
+    "size": 1319,
+    "language": "Cuda"
+  },
+  {
+    "url": "https://github.com/ArchaeaSoftware/cudahandbook",
+    "size": 1426,
+    "language": "Cuda"
+  },
+  {
+    "url": "https://github.com/NVlabs/nvbio",
+    "size": 62648,
+    "language": "Cuda"
+  },
+  {
+    "url": "https://github.com/soumith/cuda-convnet2.torch",
+    "size": 5614,
+    "language": "Cuda"
+  },
+  {
+    "url": "https://github.com/gunrock/gunrock",
+    "size": 7573,
+    "language": "Cuda"
+  },
+  {
+    "url": "https://github.com/GooFit/GooFit",
+    "size": 4539,
+    "language": "Cuda"
+  },
+  {
+    "url": "https://github.com/torch/cutorch",
+    "size": 1226,
+    "language": "Cuda"
+  },
+  {
+    "url": "https://github.com/jwetzl/CudaLBFGS",
+    "size": 975,
+    "language": "Cuda"
+  },
+  {
+    "url": "https://github.com/torch/cunn",
+    "size": 903,
+    "language": "Cuda"
+  },
+  {
+    "url": "https://github.com/fspiga/QE-GPU",
+    "size": 85015,
+    "language": "Cuda"
+  },
+  {
+    "url": "https://github.com/ebattenberg/nmf-cuda",
+    "size": 8072,
+    "language": "Cuda"
+  },
+  {
+    "url": "https://github.com/cheesinglee/cuda-PHDSLAM",
+    "size": 3709,
+    "language": "Cuda"
+  },
+  {
+    "url": "https://github.com/ankan-ban/perft_gpu",
+    "size": 10508,
+    "language": "Cuda"
+  },
+  {
+    "url": "https://github.com/ysoftdevs/th",
+    "size": 1406,
+    "language": "Cuda"
+  }
+]

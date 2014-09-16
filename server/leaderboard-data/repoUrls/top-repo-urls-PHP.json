@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/laravel/laravel",
+    "size": 26720,
+    "language": "PHP"
+  },
+  {
+    "url": "https://github.com/symfony/symfony",
+    "size": 172725,
+    "language": "PHP"
+  },
+  {
+    "url": "https://github.com/EllisLab/CodeIgniter",
+    "size": 79610,
+    "language": "PHP"
+  },
+  {
+    "url": "https://github.com/jrburke/requirejs",
+    "size": 21999,
+    "language": "PHP"
+  },
+  {
+    "url": "https://github.com/cakephp/cakephp",
+    "size": 155455,
+    "language": "PHP"
+  },
+  {
+    "url": "https://github.com/zendframework/zf2",
+    "size": 215020,
+    "language": "PHP"
+  },
+  {
+    "url": "https://github.com/php-fig/fig-standards",
+    "size": 5454,
+    "language": "PHP"
+  },
+  {
+    "url": "https://github.com/roots/roots",
+    "size": 67457,
+    "language": "PHP"
+  },
+  {
+    "url": "https://github.com/domnikl/DesignPatternsPHP",
+    "size": 4788,
+    "language": "PHP"
+  },
+  {
+    "url": "https://github.com/composer/composer",
+    "size": 24778,
+    "language": "PHP"
+  },
+  {
+    "url": "https://github.com/WordPress/WordPress",
+    "size": 189458,
+    "language": "PHP"
+  },
+  {
+    "url": "https://github.com/phacility/phabricator",
+    "size": 83800,
+    "language": "PHP"
+  },
+  {
+    "url": "https://github.com/fzaninotto/Faker",
+    "size": 8231,
+    "language": "PHP"
+  },
+  {
+    "url": "https://github.com/yiisoft/yii",
+    "size": 53096,
+    "language": "PHP"
+  },
+  {
+    "url": "https://github.com/codeguy/Slim",
+    "size": 13149,
+    "language": "PHP"
+  },
+  {
+    "url": "https://github.com/zurb/ink",
+    "size": 6716,
+    "language": "PHP"
+  },
+  {
+    "url": "https://github.com/sebastianbergmann/phpunit",
+    "size": 39331,
+    "language": "PHP"
+  },
+  {
+    "url": "https://github.com/guzzle/guzzle",
+    "size": 19550,
+    "language": "PHP"
+  },
+  {
+    "url": "https://github.com/Automattic/_s",
+    "size": 13674,
+    "language": "PHP"
+  },
+  {
+    "url": "https://github.com/al3x/sovereign",
+    "size": 3863,
+    "language": "PHP"
+  }
+]

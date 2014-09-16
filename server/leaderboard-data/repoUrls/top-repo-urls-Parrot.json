@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/perl6/nqp",
+    "size": 93821,
+    "language": "Parrot"
+  },
+  {
+    "url": "https://github.com/parrot/cardinal",
+    "size": 1928,
+    "language": "Parrot"
+  },
+  {
+    "url": "https://github.com/perl6/nqp-rx",
+    "size": 8128,
+    "language": "Parrot"
+  },
+  {
+    "url": "https://github.com/fperrad/lua",
+    "size": 2451,
+    "language": "Parrot"
+  },
+  {
+    "url": "https://github.com/NotFound/winxed",
+    "size": 6711,
+    "language": "Parrot"
+  },
+  {
+    "url": "https://github.com/partcl/partcl",
+    "size": 1654,
+    "language": "Parrot"
+  },
+  {
+    "url": "https://github.com/leto/kea",
+    "size": 136,
+    "language": "Parrot"
+  },
+  {
+    "url": "https://github.com/letolabs/parrot-libgit2",
+    "size": 695,
+    "language": "Parrot"
+  },
+  {
+    "url": "https://github.com/fperrad/lua-batteries",
+    "size": 172,
+    "language": "Parrot"
+  },
+  {
+    "url": "https://github.com/brianwisti/parrot-babysteps",
+    "size": 9000,
+    "language": "Parrot"
+  },
+  {
+    "url": "https://github.com/plobsing/ohm-eta-wink-kzd",
+    "size": 354,
+    "language": "Parrot"
+  },
+  {
+    "url": "https://github.com/bubaflub/parrot-gmp",
+    "size": 476,
+    "language": "Parrot"
+  },
+  {
+    "url": "https://github.com/letolabs/app-parrot-create",
+    "size": 759,
+    "language": "Parrot"
+  },
+  {
+    "url": "https://github.com/parrot/parrot-bench",
+    "size": 1287,
+    "language": "Parrot"
+  },
+  {
+    "url": "https://github.com/songzan/string_cpp",
+    "size": 7756,
+    "language": "Parrot"
+  },
+  {
+    "url": "https://github.com/bh0085/projects",
+    "size": 34360,
+    "language": "Parrot"
+  },
+  {
+    "url": "https://github.com/mj41/parrot-lgp",
+    "size": 236,
+    "language": "Parrot"
+  },
+  {
+    "url": "https://github.com/salilab/imp_biological_systems",
+    "size": 152964,
+    "language": "Parrot"
+  },
+  {
+    "url": "https://github.com/fperrad/digest-dynpmcs",
+    "size": 108,
+    "language": "Parrot"
+  },
+  {
+    "url": "https://github.com/sirrobert/Time-Utils",
+    "size": 108,
+    "language": "Parrot"
+  }
+]

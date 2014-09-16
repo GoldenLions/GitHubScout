@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/rakudo/rakudo",
+    "size": 41272,
+    "language": "Perl6"
+  },
+  {
+    "url": "https://github.com/perl6/std",
+    "size": 6461,
+    "language": "Perl6"
+  },
+  {
+    "url": "https://github.com/edumentab/rakudo-and-nqp-internals-course",
+    "size": 4269,
+    "language": "Perl6"
+  },
+  {
+    "url": "https://github.com/cjfields/bioperl6",
+    "size": 841,
+    "language": "Perl6"
+  },
+  {
+    "url": "https://github.com/PerlGameDev/SDL6",
+    "size": 911,
+    "language": "Perl6"
+  },
+  {
+    "url": "https://github.com/supernovus/perl6-http-client",
+    "size": 177,
+    "language": "Perl6"
+  },
+  {
+    "url": "https://github.com/supernovus/exemel",
+    "size": 356,
+    "language": "Perl6"
+  },
+  {
+    "url": "https://github.com/supernovus/perl6-http-easy",
+    "size": 267,
+    "language": "Perl6"
+  },
+  {
+    "url": "https://github.com/niner/Inline-Perl5",
+    "size": 412,
+    "language": "Perl6"
+  },
+  {
+    "url": "https://github.com/supernovus/perl6-web",
+    "size": 268,
+    "language": "Perl6"
+  },
+  {
+    "url": "https://github.com/perlpilot/benchmark",
+    "size": 145,
+    "language": "Perl6"
+  },
+  {
+    "url": "https://github.com/supernovus/perl6-web-app-mvc",
+    "size": 229,
+    "language": "Perl"
+  },
+  {
+    "url": "https://github.com/perl6/gtk-simple",
+    "size": 204,
+    "language": "Perl6"
+  },
+  {
+    "url": "https://github.com/uasi/messagepack-pm6",
+    "size": 152,
+    "language": "Perl6"
+  },
+  {
+    "url": "https://github.com/supernovus/flower",
+    "size": 262,
+    "language": "Perl6"
+  },
+  {
+    "url": "https://github.com/poznan-pm/poznan.pm.org",
+    "size": 294,
+    "language": "Perl6"
+  },
+  {
+    "url": "https://github.com/supernovus/perl6-fastcgi",
+    "size": 192,
+    "language": "Perl6"
+  },
+  {
+    "url": "https://github.com/sergot/openssl",
+    "size": 402,
+    "language": "Perl6"
+  },
+  {
+    "url": "https://github.com/raydiak/pray",
+    "size": 346,
+    "language": "Perl6"
+  },
+  {
+    "url": "https://github.com/supernovus/SCGI",
+    "size": 246,
+    "language": "Perl6"
+  }
+]

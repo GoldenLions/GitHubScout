@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/meteor/meteor",
+    "size": 120388,
+    "language": "JavaScript",
+    "commits": "9,982",
+    "stars": "18,337",
+    "forks": "2,013",
+    "contributors": "129"
+  },
+  {
+    "url": "https://github.com/ivaynberg/select2",
+    "size": 15513,
+    "language": "JavaScript",
+    "commits": "1,337",
+    "stars": "11,808",
+    "forks": "2,188",
+    "contributors": "267"
+  },
+  {
+    "url": "https://github.com/antirez/redis",
+    "size": 51613,
+    "language": "C",
+    "commits": "4,579",
+    "stars": "10,272",
+    "forks": "3,064",
+    "contributors": "131"
+  },
+  {
+    "url": "https://github.com/browserstate/history.js",
+    "size": 7269,
+    "language": "JavaScript",
+    "commits": "275",
+    "stars": "6,813",
+    "forks": "987",
+    "contributors": "24"
+  },
+  {
+    "url": "https://github.com/magicalpanda/MagicalRecord",
+    "size": 17023,
+    "language": "Objective-C",
+    "commits": "738",
+    "stars": "5,371",
+    "forks": "914",
+    "contributors": "57"
+  },
+  {
+    "url": "https://github.com/PredictionIO/PredictionIO",
+    "size": 14948,
+    "language": "Scala",
+    "commits": "968",
+    "stars": "5,248",
+    "forks": "414",
+    "contributors": "8"
+  },
+  {
+    "url": "https://github.com/sferik/rails_admin",
+    "size": 33059,
+    "language": "Ruby",
+    "commits": "3,657",
+    "stars": "4,809",
+    "forks": "1,362",
+    "contributors": "280"
+  },
+  {
+    "url": "https://github.com/fzaninotto/Faker",
+    "size": 8231,
+    "language": "PHP",
+    "commits": "911",
+    "stars": "4,181",
+    "forks": "567",
+    "contributors": "136"
+  },
+  {
+    "url": "https://github.com/thoughtbot/factory_girl",
+    "size": 6009,
+    "language": "Ruby",
+    "commits": "781",
+    "stars": "3,716",
+    "forks": "520",
+    "contributors": "103"
+  },
+  {
+    "url": "https://github.com/stig/json-framework",
+    "size": 8351,
+    "language": "Objective-C",
+    "commits": "1,032",
+    "stars": "3,385",
+    "forks": "727",
+    "contributors": "29"
+  },
+  {
+    "url": "https://github.com/pydata/pandas",
+    "size": 88780,
+    "language": "Python",
+    "commits": "10,386",
+    "stars": "3,341",
+    "forks": "1,101",
+    "contributors": "275"
+  },
+  {
+    "url": "https://github.com/nicklockwood/iCarousel",
+    "size": 6153,
+    "language": "Objective-C",
+    "commits": "226",
+    "stars": "3,311",
+    "forks": "854",
+    "contributors": "11"
+  },
+  {
+    "url": "https://github.com/square/PonyDebugger",
+    "size": 3150,
+    "language": "Objective-C",
+    "commits": "229",
+    "stars": "3,262",
+    "forks": "356",
+    "contributors": "21"
+  },
+  {
+    "url": "https://github.com/maxogden/dat",
+    "size": 7248,
+    "language": "JavaScript",
+    "commits": "729",
+    "stars": "2,863",
+    "forks": "139",
+    "contributors": "32"
+  },
+  {
+    "url": "https://github.com/mattt/TTTAttributedLabel",
+    "size": 3030,
+    "language": "Objective-C",
+    "commits": "480",
+    "stars": "2,826",
+    "forks": "591",
+    "contributors": "72"
+  },
+  {
+    "url": "https://github.com/facebookarchive/scribe",
+    "size": 2265,
+    "language": "C++",
+    "commits": "118",
+    "stars": "2,737",
+    "forks": "534",
+    "contributors": "19"
+  },
+  {
+    "url": "https://github.com/airblade/paper_trail",
+    "size": 5150,
+    "language": "Ruby",
+    "commits": "778",
+    "stars": "2,720",
+    "forks": "368",
+    "contributors": "71"
+  },
+  {
+    "url": "https://github.com/Marak/Faker.js",
+    "size": 2725,
+    "language": "JavaScript",
+    "commits": "300",
+    "stars": "2,626",
+    "forks": "227",
+    "contributors": "25"
+  },
+  {
+    "url": "https://github.com/facebook/presto",
+    "size": 58696,
+    "language": "Java",
+    "commits": "3,420",
+    "stars": "2,550",
+    "forks": "526",
+    "contributors": "35"
+  },
+  {
+    "url": "https://github.com/facebook/immutable-js",
+    "size": 16050,
+    "language": "JavaScript",
+    "commits": "363",
+    "stars": "2,551",
+    "forks": "75",
+    "contributors": "13"
+  }
+]

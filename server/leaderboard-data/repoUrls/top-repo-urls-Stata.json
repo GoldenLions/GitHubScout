@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/catenate/credo",
+    "size": 708,
+    "language": "Stata"
+  },
+  {
+    "url": "https://github.com/cid-harvard/atlas-data",
+    "size": 1785,
+    "language": "Stata"
+  },
+  {
+    "url": "https://github.com/vikjam/mostly-harmless-replication",
+    "size": 770,
+    "language": "Stata"
+  },
+  {
+    "url": "https://github.com/gvegayon/parallel",
+    "size": 1171,
+    "language": "Stata"
+  },
+  {
+    "url": "https://github.com/fghjorth/amlm_ecprss2014",
+    "size": 20100,
+    "language": "Stata"
+  },
+  {
+    "url": "https://github.com/stevemarple/AuroraWatchNet",
+    "size": 30756,
+    "language": "Stata"
+  },
+  {
+    "url": "https://github.com/idnut/SASE14",
+    "size": 130,
+    "language": null
+  },
+  {
+    "url": "https://github.com/damiancclarke/worldstat",
+    "size": 24880,
+    "language": "Stata"
+  },
+  {
+    "url": "https://github.com/raubreywhite/autostat",
+    "size": 22899,
+    "language": "Stata"
+  },
+  {
+    "url": "https://github.com/communitydataroundtable/Analysis-MAR-2014",
+    "size": 1184,
+    "language": "Stata"
+  },
+  {
+    "url": "https://github.com/tonijung/Cameroon",
+    "size": 280,
+    "language": "Stata"
+  },
+  {
+    "url": "https://github.com/damiancclarke/nchs-fetaldata",
+    "size": 152,
+    "language": "Stata"
+  },
+  {
+    "url": "https://github.com/damiancclarke/plausexog",
+    "size": 1132,
+    "language": "Stata"
+  },
+  {
+    "url": "https://github.com/hiesphemia/g2aging",
+    "size": 236,
+    "language": "Stata"
+  },
+  {
+    "url": "https://github.com/jrfiedler/mata_testcase",
+    "size": 152,
+    "language": "Stata"
+  },
+  {
+    "url": "https://github.com/andrewanswer/sibrap",
+    "size": 50408,
+    "language": "Stata"
+  },
+  {
+    "url": "https://github.com/mpdakkak/High-Utilizers",
+    "size": 916,
+    "language": "R"
+  },
+  {
+    "url": "https://github.com/siredmar/bbb_cnc",
+    "size": 33768,
+    "language": "Stata"
+  },
+  {
+    "url": "https://github.com/matthew-white/odkmeta",
+    "size": 772,
+    "language": "Stata"
+  },
+  {
+    "url": "https://github.com/derekwolfson/tex3pt",
+    "size": 256,
+    "language": "Stata"
+  }
+]

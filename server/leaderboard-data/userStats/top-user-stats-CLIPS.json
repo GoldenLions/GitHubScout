@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://github.com/arturpareja",
+    "language": "CLIPS",
+    "full_name": "Arturo Pareja",
+    "username": "arturpareja",
+    "location": "",
+    "join_date": "Oct 23, 2012",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "Perl",
+      "Prolog",
+      "CLIPS"
+    ],
+    "contributions": 123,
+    "followers": "6"
+  },
+  {
+    "url": "https://github.com/NCorbeau",
+    "language": "CLIPS",
+    "full_name": "Maciej Głownia",
+    "username": "NCorbeau",
+    "location": "",
+    "join_date": "Nov 6, 2012",
+    "popular_repos_stars": "0",
+    "primary_languages": [
+      "CLIPS"
+    ],
+    "contributions": 6,
+    "followers": "6"
+  }
+]

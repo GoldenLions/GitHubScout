@@ -4,7 +4,8 @@ angular.module('githubscout', [
 	'githubscout.search',
 	'githubscout.home',
 	'githubscout.services',
-	'ui.router'
+	'ui.router',
+	'ngFx'
 ])
 
 .config(function($stateProvider, $urlRouterProvider) {
@@ -15,12 +16,12 @@ angular.module('githubscout', [
 			controller: 'HomeController'
 		})
 		.state('user', {
-			url: '/user',
+			url: '/user/:username',
 			templateUrl: 'user/user.html',
 			controller: 'UserController'
 		})
 		.state('language', {
-			url: '/language',
+			url: '/language/:language',
 			templateUrl: 'language/language.html',
 			controller: 'LanguageController'
 		});

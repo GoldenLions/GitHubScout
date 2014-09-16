@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/HoTT/HoTT-Agda",
+    "size": 4698,
+    "language": "Agda"
+  },
+  {
+    "url": "https://github.com/copumpkin/categories",
+    "size": 1099,
+    "language": "Agda"
+  },
+  {
+    "url": "https://github.com/agda/agda-stdlib",
+    "size": 15619,
+    "language": "Agda"
+  },
+  {
+    "url": "https://github.com/dlicata335/hott-agda",
+    "size": 2964,
+    "language": "Agda"
+  },
+  {
+    "url": "https://github.com/Saizan/miller",
+    "size": 594,
+    "language": "Agda"
+  },
+  {
+    "url": "https://github.com/spire/spire",
+    "size": 5262,
+    "language": "Agda"
+  },
+  {
+    "url": "https://github.com/pigworker/CS410-13",
+    "size": 1347,
+    "language": "Agda"
+  },
+  {
+    "url": "https://github.com/pigworker/Pivotal",
+    "size": 385,
+    "language": "Agda"
+  },
+  {
+    "url": "https://github.com/favonia/homotopy",
+    "size": 234,
+    "language": "Agda"
+  },
+  {
+    "url": "https://github.com/pcapriotti/agda-base",
+    "size": 2593,
+    "language": "Agda"
+  },
+  {
+    "url": "https://github.com/williamdemeo/TypeFunc",
+    "size": 14684,
+    "language": "Agda"
+  },
+  {
+    "url": "https://github.com/rodrigogribeiro/agda-software-foundations",
+    "size": 510,
+    "language": "Agda"
+  },
+  {
+    "url": "https://github.com/agda/agda-finite-prover",
+    "size": 156,
+    "language": "Agda"
+  },
+  {
+    "url": "https://github.com/ezyang/lr-agda",
+    "size": 152,
+    "language": "Agda"
+  },
+  {
+    "url": "https://github.com/robsimmons/agda-lib",
+    "size": 667,
+    "language": "Agda"
+  },
+  {
+    "url": "https://github.com/sergei-romanenko/staged-mrsc-agda",
+    "size": 423,
+    "language": "Agda"
+  },
+  {
+    "url": "https://github.com/josh-hs-ko/Thesis",
+    "size": 911,
+    "language": "Agda"
+  },
+  {
+    "url": "https://github.com/dima-starosud/Dynamic",
+    "size": 208,
+    "language": "Agda"
+  },
+  {
+    "url": "https://github.com/sfxfactor/UnitsAsTypes",
+    "size": 435,
+    "language": "Agda"
+  },
+  {
+    "url": "https://github.com/crypto-agda/agda-nplib",
+    "size": 1321,
+    "language": "Agda"
+  }
+]

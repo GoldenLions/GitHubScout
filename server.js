@@ -1,6 +1,16 @@
 var express = require('express');
 var bodyParser = require('body-parser');
 var handler = require('./server/handler.js');
+var updater = require('./server/autoUpdates.js');
+
+
+//update files every 20 hrs
+setInterval(function(){
+	console.log('running...')
+	updater.masterUpdate();
+},72000000);
+
+
 
 var app = express();
 var port = port = process.env.PORT || 8000;
@@ -12,30 +22,25 @@ app.use(bodyParser.urlencoded({
 }));
 app.use(express.static(__dirname + '/client'));
 
-// TO DO: routes, API setup
+app.post('/leaderboard/users',function(req,res) {
+  console.log('POST /leaderboard/users');
+  handler.sendTopUserStats(req,res);
+});
+
+app.post('/leaderboard/repos',function(req,res) {
+  console.log('POST /leaderboard/repos');
+  handler.sendTopRepoStats(req,res);
+});
 
 
-// app.get('/',function(req,res) {
-//   console.log('GET /');
+// //currently, this just serves up the contets of language_10_all.csv
+// app.post('/language',function(req,res){
+
+// 	console.log('POST /language');
+// 	handler.sendLanguageData(req,res);
 // });
 
-app.post('/api/user/commitcounts',function(req,res) {
-  console.log('POST /api/user/commitcounts');
-  handler.getUserCommitCountsByDate(req,res);
-  /*responds with: 
-  	res.JSON({
-	  	results: [
-	  		{date: ___, count: ____},
-	  		{date: ___, count: ____},
-	  		{date: ___, count: ____}, etc...
-	  		]
-  	})*/
-});
 
-app.post('/api/user/commitsLanguage',function(req,res) {
-  console.log('POST /api/user/commitsLanguage');
-  handler.getUserCommitsByDateAndLanguage(req,res);
-});
 
 //currently, this just serves up the contets of language_10_all.csv
 app.post('/language',function(req,res){

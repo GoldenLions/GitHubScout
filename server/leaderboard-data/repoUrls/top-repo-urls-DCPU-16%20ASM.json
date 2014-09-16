@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/dherman/asm.js",
+    "size": 5050,
+    "language": "TeX"
+  },
+  {
+    "url": "https://github.com/Flowdalic/asmack",
+    "size": 5102,
+    "language": "Java"
+  },
+  {
+    "url": "https://github.com/nemasu/asmttpd",
+    "size": 419,
+    "language": "Assembly"
+  },
+  {
+    "url": "https://github.com/autresphere/ASMediaFocusManager",
+    "size": 6550,
+    "language": "Objective-C"
+  },
+  {
+    "url": "https://github.com/kylemcdonald/ofxFaceTracker",
+    "size": 1426,
+    "language": "C++"
+  },
+  {
+    "url": "https://github.com/mikehadlow/AsmSpy",
+    "size": 233,
+    "language": "C#"
+  },
+  {
+    "url": "https://github.com/kobalicek/asmjit",
+    "size": 2488,
+    "language": "C++"
+  },
+  {
+    "url": "https://github.com/rtreffer/AsmackService",
+    "size": 1880,
+    "language": "Java"
+  },
+  {
+    "url": "https://github.com/edma2/asmscan",
+    "size": 128,
+    "language": "Assembly"
+  },
+  {
+    "url": "https://github.com/ahefner/asm6502",
+    "size": 124,
+    "language": "Common Lisp"
+  },
+  {
+    "url": "https://github.com/zfdang/asm-android-client-for-newsmth",
+    "size": 133525,
+    "language": "Java"
+  },
+  {
+    "url": "https://github.com/manzke/guice-automatic-injection",
+    "size": 4878,
+    "language": "Java"
+  },
+  {
+    "url": "https://github.com/vibornoff/asmcrypto.js",
+    "size": 2571,
+    "language": "JavaScript"
+  },
+  {
+    "url": "https://github.com/bmc/classutil",
+    "size": 1476,
+    "language": "Scala"
+  },
+  {
+    "url": "https://github.com/ryanaepple/semc_phoenix_defconfig",
+    "size": 56,
+    "language": null
+  },
+  {
+    "url": "https://github.com/jcalvinowens/asmhttpd",
+    "size": 228,
+    "language": "Assembly"
+  },
+  {
+    "url": "https://github.com/xorpd/asm_prog_ex",
+    "size": 240,
+    "language": "Assembly"
+  },
+  {
+    "url": "https://github.com/0xAX/asm",
+    "size": 138,
+    "language": "Assembly"
+  },
+  {
+    "url": "https://github.com/greatyao/asmlibrary",
+    "size": 17537,
+    "language": "C++"
+  },
+  {
+    "url": "https://github.com/ronin-ruby/ronin-asm",
+    "size": 778,
+    "language": "Ruby"
+  }
+]

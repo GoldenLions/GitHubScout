@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/LightTable/LightTable",
+    "size": 31350,
+    "language": "Clojure"
+  },
+  {
+    "url": "https://github.com/technomancy/leiningen",
+    "size": 21230,
+    "language": "Clojure"
+  },
+  {
+    "url": "https://github.com/clojure/clojurescript",
+    "size": 14035,
+    "language": "Clojure"
+  },
+  {
+    "url": "https://github.com/swannodette/om",
+    "size": 10212,
+    "language": "Clojure"
+  },
+  {
+    "url": "https://github.com/weavejester/compojure",
+    "size": 9873,
+    "language": "Clojure"
+  },
+  {
+    "url": "https://github.com/overtone/overtone",
+    "size": 16683,
+    "language": "Clojure"
+  },
+  {
+    "url": "https://github.com/functional-koans/clojure-koans",
+    "size": 964,
+    "language": "Clojure"
+  },
+  {
+    "url": "https://github.com/aphyr/riemann",
+    "size": 10273,
+    "language": "Clojure"
+  },
+  {
+    "url": "https://github.com/incanter/incanter",
+    "size": 48762,
+    "language": "Clojure"
+  },
+  {
+    "url": "https://github.com/ztellman/aleph",
+    "size": 14789,
+    "language": "Clojure"
+  },
+  {
+    "url": "https://github.com/pedestal/pedestal",
+    "size": 5489,
+    "language": "Clojure"
+  },
+  {
+    "url": "https://github.com/nathanmarz/cascalog",
+    "size": 7212,
+    "language": "Clojure"
+  },
+  {
+    "url": "https://github.com/quil/quil",
+    "size": 26055,
+    "language": "Clojure"
+  },
+  {
+    "url": "https://github.com/swannodette/mori",
+    "size": 1826,
+    "language": "Clojure"
+  },
+  {
+    "url": "https://github.com/Prismatic/plumbing",
+    "size": 1842,
+    "language": "Clojure"
+  },
+  {
+    "url": "https://github.com/magomimmo/modern-cljs",
+    "size": 8327,
+    "language": "Clojure"
+  },
+  {
+    "url": "https://github.com/clojure-cookbook/clojure-cookbook",
+    "size": 17312,
+    "language": "Clojure"
+  },
+  {
+    "url": "https://github.com/cgrand/enlive",
+    "size": 3761,
+    "language": "Clojure"
+  },
+  {
+    "url": "https://github.com/weavejester/hiccup",
+    "size": 2026,
+    "language": "Clojure"
+  },
+  {
+    "url": "https://github.com/mmcgrana/ring",
+    "size": 9009,
+    "language": "Clojure"
+  }
+]

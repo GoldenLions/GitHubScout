@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/dylan-lang/opendylan",
+    "size": 94307,
+    "language": "Dylan",
+    "commits": "3,406",
+    "stars": "150",
+    "forks": "38",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/dylan-hackers/network-night-vision",
+    "size": 1624,
+    "language": "Dylan",
+    "commits": "433",
+    "stars": "12",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/dylan-lang/http",
+    "size": 2289,
+    "language": "Dylan",
+    "commits": "261",
+    "stars": "7",
+    "forks": "7",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/dylan-foundry/gir-dylan",
+    "size": 304,
+    "language": "Dylan",
+    "commits": "165",
+    "stars": "6",
+    "forks": "4",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/dylan-lang/wiki",
+    "size": 798,
+    "language": "Dylan",
+    "commits": "175",
+    "stars": "5",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/dylan-foundry/libpq-dylan",
+    "size": 56,
+    "language": "Dylan",
+    "commits": "7",
+    "stars": "5",
+    "forks": "6",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/dylan-foundry/serialization",
+    "size": 183,
+    "language": "Dylan",
+    "commits": "12",
+    "stars": "5",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/AndrewGlynn/orlok",
+    "size": 914,
+    "language": "Dylan",
+    "commits": "36",
+    "stars": "4",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/waywardmonkeys/uv-dylan",
+    "size": 153,
+    "language": "Dylan",
+    "commits": "34",
+    "stars": "4",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/dylan-foundry/nanomsg-dylan",
+    "size": 274,
+    "language": "Dylan",
+    "commits": "55",
+    "stars": "4",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/dylan-lang/melange",
+    "size": 2939,
+    "language": "Dylan",
+    "commits": "872",
+    "stars": "4",
+    "forks": "7",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/dylan-lang/mime",
+    "size": 120,
+    "language": "Dylan",
+    "commits": "9",
+    "stars": "3",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/waywardmonkeys/clang-dylan",
+    "size": 96,
+    "language": "Dylan",
+    "commits": "4",
+    "stars": "3",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/nickik/RRB-Vector-in-Dylan",
+    "size": 96,
+    "language": "Dylan",
+    "commits": "5",
+    "stars": "3",
+    "forks": "1",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/dylan-foundry/leveldb-dylan",
+    "size": 179,
+    "language": "Dylan",
+    "commits": "39",
+    "stars": "3",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/dylan-lang/strings",
+    "size": 265,
+    "language": "Dylan",
+    "commits": "38",
+    "stars": "3",
+    "forks": "4",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/dylan-lang/json",
+    "size": 151,
+    "language": "Dylan",
+    "commits": "13",
+    "stars": "3",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/dylan-foundry/tracing",
+    "size": 319,
+    "language": "Dylan",
+    "commits": "64",
+    "stars": "3",
+    "forks": "3",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/dylan-lang/binary-data",
+    "size": 753,
+    "language": "Dylan",
+    "commits": "244",
+    "stars": "3",
+    "forks": "2",
+    "contributors": ""
+  },
+  {
+    "url": "https://github.com/dylan-foundry/python-dylan",
+    "size": 151,
+    "language": "Dylan",
+    "commits": "16",
+    "stars": "2",
+    "forks": "2",
+    "contributors": ""
+  }
+]

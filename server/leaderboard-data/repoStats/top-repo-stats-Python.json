@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://github.com/jakubroztocil/httpie",
+    "size": 5080,
+    "language": "Python",
+    "commits": "576",
+    "stars": "11,677",
+    "forks": "646",
+    "contributors": "29"
+  },
+  {
+    "url": "https://github.com/django/django",
+    "size": 242655,
+    "language": "Python",
+    "commits": "18,671",
+    "stars": "11,100",
+    "forks": "4,318",
+    "contributors": "655"
+  },
+  {
+    "url": "https://github.com/kennethreitz/requests",
+    "size": 14805,
+    "language": "Python",
+    "commits": "3,616",
+    "stars": "10,945",
+    "forks": "1,742",
+    "contributors": "307"
+  },
+  {
+    "url": "https://github.com/mitsuhiko/flask",
+    "size": 13925,
+    "language": "Python",
+    "commits": "1,952",
+    "stars": "10,762",
+    "forks": "2,866",
+    "contributors": "223"
+  },
+  {
+    "url": "https://github.com/tornadoweb/tornado",
+    "size": 18859,
+    "language": "Python",
+    "commits": "2,394",
+    "stars": "7,711",
+    "forks": "2,129",
+    "contributors": "151"
+  },
+  {
+    "url": "https://github.com/ansible/ansible",
+    "size": 174626,
+    "language": "Python",
+    "commits": "12,050",
+    "stars": "7,476",
+    "forks": "2,312",
+    "contributors": "870"
+  },
+  {
+    "url": "https://github.com/numbbbbb/the-swift-programming-language-in-chinese",
+    "size": 28934,
+    "language": "Python",
+    "commits": "1,077",
+    "stars": "7,017",
+    "forks": "2,085",
+    "contributors": "64"
+  },
+  {
+    "url": "https://github.com/vinta/awesome-python",
+    "size": 5686,
+    "language": "Python",
+    "commits": "536",
+    "stars": "6,372",
+    "forks": "746",
+    "contributors": "120"
+  },
+  {
+    "url": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+    "size": 73562,
+    "language": "Python",
+    "commits": "776",
+    "stars": "6,287",
+    "forks": "1,258",
+    "contributors": "78"
+  },
+  {
+    "url": "https://github.com/reddit/reddit",
+    "size": 47896,
+    "language": "Python",
+    "commits": "4,867",
+    "stars": "6,198",
+    "forks": "1,376",
+    "contributors": "108"
+  },
+  {
+    "url": "https://github.com/karan/Projects",
+    "size": 2608,
+    "language": "Python",
+    "commits": "164",
+    "stars": "5,910",
+    "forks": "3,362",
+    "contributors": "11"
+  },
+  {
+    "url": "https://github.com/kennethreitz/python-guide",
+    "size": 3893,
+    "language": "Python",
+    "commits": "1,193",
+    "stars": "5,734",
+    "forks": "1,808",
+    "contributors": "180"
+  },
+  {
+    "url": "https://github.com/scrapy/scrapy",
+    "size": 29654,
+    "language": "Python",
+    "commits": "4,353",
+    "stars": "5,711",
+    "forks": "1,582",
+    "contributors": "116"
+  },
+  {
+    "url": "https://github.com/getsentry/sentry",
+    "size": 54531,
+    "language": "Python",
+    "commits": "6,270",
+    "stars": "5,668",
+    "forks": "677",
+    "contributors": "183"
+  },
+  {
+    "url": "https://github.com/Valloric/YouCompleteMe",
+    "size": 41509,
+    "language": "Python",
+    "commits": "1,328",
+    "stars": "5,514",
+    "forks": "584",
+    "contributors": "76"
+  },
+  {
+    "url": "https://github.com/rg3/youtube-dl",
+    "size": 59999,
+    "language": "Python",
+    "commits": "5,428",
+    "stars": "5,333",
+    "forks": "1,129",
+    "contributors": "186"
+  },
+  {
+    "url": "https://github.com/ipython/ipython",
+    "size": 119187,
+    "language": "Python",
+    "commits": "17,172",
+    "stars": "4,946",
+    "forks": "1,396",
+    "contributors": "316"
+  },
+  {
+    "url": "https://github.com/pagekite/Mailpile",
+    "size": 36247,
+    "language": "Python",
+    "commits": "3,576",
+    "stars": "4,748",
+    "forks": "487",
+    "contributors": "70"
+  },
+  {
+    "url": "https://github.com/apenwarr/sshuttle",
+    "size": 881,
+    "language": "Python",
+    "commits": "198",
+    "stars": "4,565",
+    "forks": "291",
+    "contributors": "14"
+  },
+  {
+    "url": "https://github.com/boto/boto",
+    "size": 40525,
+    "language": "Python",
+    "commits": "6,431",
+    "stars": "4,084",
+    "forks": "1,409",
+    "contributors": "422"
+  }
+]
