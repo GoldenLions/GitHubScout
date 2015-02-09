@@ -28,6 +28,22 @@ handler.sendTopRepoStats = function(req,res){
   });
 };
 
+
+//currently this just serves up the contents of language_10_all.csv whenever
+//a POST request to '/language' is made
+handler.sendLanguageData = function(req,res){
+  fs.readFile('./client/CSVs/language_10_all.csv',function(err,data){
+    if(err) throw err;   
+    res.set({
+      'Content-Type': 'application/CSV'
+    });
+    res.send(data);
+  })
+}
+
+// github.events.getFromUser({user:'browles'},function(err,result) {
+//   console.log(result);
+
 // //currently this just serves up the contents of language_10_all.csv whenever
 // //a POST request to '/language' is made
 // handler.sendLanguageData = function(req,res){
@@ -39,5 +55,6 @@ handler.sendTopRepoStats = function(req,res){
 //     res.send(data);
 //   });
 // };
+
 
 module.exports = handler;
